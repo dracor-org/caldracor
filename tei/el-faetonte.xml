@@ -62,7 +62,7 @@
                <person xml:id="eridano" sex="MALE">
                   <persName>ERIDANO</persName>
                </person>
-               <person xml:id="apolo" sex="UNASSIGNED">
+               <person xml:id="apolo" sex="UNKNOWN">
                   <persName>APOLO</persName>
                </person>
                <person xml:id="climene" sex="MALE">
@@ -80,16 +80,16 @@
                <person xml:id="embozado" sex="MALE">
                   <persName>Unos embozados</persName>
                </person>
-               <person xml:id="coro-1" sex="UNASSIGNED">
+               <person xml:id="coro-1" sex="UNKNOWN">
                   <persName>CORO 1.º</persName>
                </person>
-               <person xml:id="coro-2" sex="UNASSIGNED">
+               <person xml:id="coro-2" sex="UNKNOWN">
                   <persName>CORO 2.º</persName>
                </person>
-               <person xml:id="coro-3" sex="UNASSIGNED">
+               <person xml:id="coro-3" sex="UNKNOWN">
                   <persName>CORO 3.º</persName>
                </person>
-               <person xml:id="música" sex="UNASSIGNED">
+               <person xml:id="música" sex="UNKNOWN">
                   <persName>Música</persName>
                </person>
                <person xml:id="soldados-y-acompañamiento" sex="MALE">
