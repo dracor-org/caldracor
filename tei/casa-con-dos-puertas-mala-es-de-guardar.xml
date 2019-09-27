@@ -15,6 +15,7 @@
                <time when="09:23:36"/>
             </date>
             <idno type="quadramaX">Casa con dos puertas mala es de guardar</idno>
+           <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q16490369</idno>
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">

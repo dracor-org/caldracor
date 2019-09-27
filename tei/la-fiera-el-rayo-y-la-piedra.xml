@@ -14,6 +14,7 @@
                <time when="15:46:57"/>
             </date>
             <idno type="quadramaX">La fiera, el rayo y la piedra</idno>
+           <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q5966696</idno>
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">

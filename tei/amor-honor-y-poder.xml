@@ -15,6 +15,7 @@
                <time when="17:45:16"/>
             </date>
             <idno type="quadramaX">Amor, honor y poder</idno>
+           <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q5672955</idno>
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">

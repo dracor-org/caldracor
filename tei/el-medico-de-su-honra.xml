@@ -15,6 +15,7 @@
                <time when="23:18:03"/>
             </date>
             <idno type="quadramaX">El médico de su honra</idno>
+           <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q5352475</idno>
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">

@@ -15,6 +15,7 @@
                <time when="22:25:37"/>
             </date>
             <idno type="quadramaX">La devoción de la Cruz</idno>
+           <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q10861205</idno>
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
