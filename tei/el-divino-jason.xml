@@ -15,6 +15,7 @@
           <time when="09:12:10"/>
         </date>
         <idno type="quadramaX">El divino Jasón</idno>
+        <idno type="dracor" xml:base="https://dracor.org/id/">cal000011</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

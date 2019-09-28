@@ -15,6 +15,7 @@
           <time when="13:16:34"/>
         </date>
         <idno type="quadramaX">El cordero de Isaías</idno>
+        <idno type="dracor" xml:base="https://dracor.org/id/">cal000008</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

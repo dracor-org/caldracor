@@ -15,6 +15,7 @@
           <time when="21:56:08"/>
         </date>
         <idno type="quadramaX">El jardín de Falerina</idno>
+        <idno type="dracor" xml:base="https://dracor.org/id/">cal000017</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

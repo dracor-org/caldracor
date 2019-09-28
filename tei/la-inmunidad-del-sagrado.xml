@@ -15,6 +15,7 @@
           <time when="11:59:04"/>
         </date>
         <idno type="quadramaX">La inmunidad del Sagrado</idno>
+        <idno type="dracor" xml:base="https://dracor.org/id/">cal000031</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

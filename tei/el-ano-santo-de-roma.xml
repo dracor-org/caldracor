@@ -15,6 +15,7 @@
           <time when="08:43:01"/>
         </date>
         <idno type="quadramaX">El año sancto de Roma</idno>
+        <idno type="dracor" xml:base="https://dracor.org/id/">cal000007</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

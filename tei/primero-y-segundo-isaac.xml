@@ -15,6 +15,7 @@
           <time when="09:20:01"/>
         </date>
         <idno type="quadramaX">Primero y segundo Isaac</idno>
+        <idno type="dracor" xml:base="https://dracor.org/id/">cal000050</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

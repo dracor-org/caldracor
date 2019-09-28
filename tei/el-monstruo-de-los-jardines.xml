@@ -15,6 +15,7 @@
           <time when="16:38:24"/>
         </date>
         <idno type="quadramaX">El monstruo de los jardines</idno>
+        <idno type="dracor" xml:base="https://dracor.org/id/">cal000019</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

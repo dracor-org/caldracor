@@ -15,6 +15,7 @@
           <time when="07:59:47"/>
         </date>
         <idno type="quadramaX">Loa para el auto sacramental intitulado El gran teatro del mundo</idno>
+        <idno type="dracor" xml:base="https://dracor.org/id/">cal000045</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

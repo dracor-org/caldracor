@@ -15,6 +15,7 @@
           <time when="08:00:48"/>
         </date>
         <idno type="quadramaX">Triunfar muriendo</idno>
+        <idno type="dracor" xml:base="https://dracor.org/id/">cal000054</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

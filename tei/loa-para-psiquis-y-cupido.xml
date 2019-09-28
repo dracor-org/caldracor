@@ -15,6 +15,7 @@
           <time when="08:00:33"/>
         </date>
         <idno type="quadramaX">Loa para el auto sacramental intitulado «Psiquis y Cupido»</idno>
+        <idno type="dracor" xml:base="https://dracor.org/id/">cal000047</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

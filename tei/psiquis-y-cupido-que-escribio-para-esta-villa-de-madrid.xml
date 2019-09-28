@@ -15,6 +15,7 @@
           <time when="16:09:35"/>
         </date>
         <idno type="quadramaX">Psiquis y Cupido, que escribió para esta villa de Madrid</idno>
+        <idno type="dracor" xml:base="https://dracor.org/id/">cal000051</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

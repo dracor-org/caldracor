@@ -15,6 +15,7 @@
           <time when="21:57:46"/>
         </date>
         <idno type="quadramaX">El Santo Rey Don Fernando</idno>
+        <idno type="dracor" xml:base="https://dracor.org/id/">cal000021</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

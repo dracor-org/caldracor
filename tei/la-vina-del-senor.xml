@@ -15,6 +15,7 @@
           <time when="16:59:19"/>
         </date>
         <idno type="quadramaX">La viña del Señor</idno>
+        <idno type="dracor" xml:base="https://dracor.org/id/">cal000038</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

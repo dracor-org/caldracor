@@ -15,6 +15,7 @@
           <time when="08:17:10"/>
         </date>
         <idno type="quadramaX">Loa en metáfora de la piadosa Hermandad del Refugio discurriendo por calles y templos de Madrid</idno>
+        <idno type="dracor" xml:base="https://dracor.org/id/">cal000044</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

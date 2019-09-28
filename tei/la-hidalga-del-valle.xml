@@ -15,6 +15,7 @@
           <time when="09:15:59"/>
         </date>
         <idno type="quadramaX">La hidalga del valle</idno>
+        <idno type="dracor" xml:base="https://dracor.org/id/">cal000029</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

@@ -14,6 +14,7 @@
           <time when="16:58:37"/>
         </date>
         <idno type="quadramaX">Afectos de odio y amor</idno>
+        <idno type="dracor" xml:base="https://dracor.org/id/">cal000003</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

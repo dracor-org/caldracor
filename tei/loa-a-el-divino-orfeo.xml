@@ -15,6 +15,7 @@
           <time when="10:30:37"/>
         </date>
         <idno type="quadramaX">Loa a El divino Orfeo</idno>
+        <idno type="dracor" xml:base="https://dracor.org/id/">cal000042</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

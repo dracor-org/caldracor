@@ -15,6 +15,7 @@
           <time when="07:57:02"/>
         </date>
         <idno type="quadramaX">La segunda esposa</idno>
+        <idno type="dracor" xml:base="https://dracor.org/id/">cal000036</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

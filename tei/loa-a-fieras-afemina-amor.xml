@@ -14,6 +14,7 @@
           <time when="14:14:50"/>
         </date>
         <idno type="quadramaX">Loa a Fieras afemina amor</idno>
+        <idno type="dracor" xml:base="https://dracor.org/id/">cal000043</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

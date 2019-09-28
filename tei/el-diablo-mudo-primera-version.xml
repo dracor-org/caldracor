@@ -15,6 +15,7 @@
           <time when="21:38:23"/>
         </date>
         <idno type="quadramaX">El diablo mudo</idno>
+        <idno type="dracor" xml:base="https://dracor.org/id/">cal000009</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

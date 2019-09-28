@@ -15,6 +15,7 @@
           <time when="20:19:45"/>
         </date>
         <idno type="quadramaX">El nuevo hospicio de pobres</idno>
+        <idno type="dracor" xml:base="https://dracor.org/id/">cal000020</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

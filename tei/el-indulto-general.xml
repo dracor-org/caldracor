@@ -15,6 +15,7 @@
           <time when="13:28:02"/>
         </date>
         <idno type="quadramaX">El indulto general</idno>
+        <idno type="dracor" xml:base="https://dracor.org/id/">cal000016</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

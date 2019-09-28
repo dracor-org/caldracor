@@ -16,6 +16,7 @@
         </date>
         <idno type="quadramaX">El gran teatro del mundo</idno>
         <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q1171310</idno>
+        <idno type="dracor" xml:base="https://dracor.org/id/">cal000015</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

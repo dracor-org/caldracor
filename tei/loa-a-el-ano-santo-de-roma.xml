@@ -16,6 +16,7 @@
           <time when="19:03:20"/>
         </date>
         <idno type="quadramaX">Loa a El año santo de Roma</idno>
+        <idno type="dracor" xml:base="https://dracor.org/id/">cal000041</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

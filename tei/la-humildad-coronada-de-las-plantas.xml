@@ -15,6 +15,7 @@
           <time when="13:22:09"/>
         </date>
         <idno type="quadramaX">La humildad coronada de las plantas</idno>
+        <idno type="dracor" xml:base="https://dracor.org/id/">cal000030</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

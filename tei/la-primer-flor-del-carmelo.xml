@@ -15,6 +15,7 @@
           <time when="13:07:05"/>
         </date>
         <idno type="quadramaX">La primer flor del Carmelo</idno>
+        <idno type="dracor" xml:base="https://dracor.org/id/">cal000034</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
