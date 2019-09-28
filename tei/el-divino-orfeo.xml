@@ -15,6 +15,7 @@
           <time when="09:49:55"/>
         </date>
         <idno type="quadramaX">El divino Orfeo</idno>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q68902927</idno>
         <idno type="dracor" xml:base="https://dracor.org/id/">cal000012</idno>
       </publicationStmt>
       <sourceDesc>
