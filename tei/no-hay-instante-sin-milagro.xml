@@ -15,6 +15,7 @@
           <time when="09:58:05"/>
         </date>
         <idno type="quadramaX">No hay instante sin milagro</idno>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q68905409</idno>
         <idno type="dracor" xml:base="https://dracor.org/id/">cal000049</idno>
       </publicationStmt>
       <sourceDesc>
