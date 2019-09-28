@@ -19,8 +19,7 @@
       <sourceDesc>
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
-          <idno type="URL"
-            >http://www.cervantesvirtual.com/obra-visor/el-diablo-mudo-primera-version--0/html/</idno>
+          <idno type="URL">http://www.cervantesvirtual.com/obra-visor/el-diablo-mudo-primera-version--0/html/</idno>
           <bibl type="originalSource">
             <title>Texto crítico preparado por C. C. García Valdés procedente de la edición Calderón
               de la Barca, Pedro, El diablo mudo, ed. C. C. García Valdés, Pamplona–Kassel,
@@ -188,15 +187,19 @@
             <l>tú por ti no podrás satisfacer.</l>
             <l>Y para que mejor</l>
             <l n="60">en tu pena se explique mi rencor,</l>
-            <l><emph>pues tiempo ni lugar se sabe, ya</emph>
+            <l>
+              <emph>pues tiempo ni lugar se sabe, ya</emph>
             </l>
-            <l><emph>que en las alegorías no se da,</emph>
+            <l>
+              <emph>que en las alegorías no se da,</emph>
             </l>
             <l><emph>has de ver</emph> cómo empieza desde aquí</l>
             <l><emph>la representación que te ofrecí</emph>.</l>
-            <l n="65"><emph>La gran Naturaleza Humana que</emph>
+            <l n="65">
+              <emph>La gran Naturaleza Humana que</emph>
             </l>
-            <l><emph>de ti infestada se lamenta en fe</emph>
+            <l>
+              <emph>de ti infestada se lamenta en fe</emph>
             </l>
             <l>de que a tan grande fin,</l>
             <l>la autoridad <emph>le</emph> valga de Agustín,</l>
@@ -216,11 +219,14 @@
             <l>llevado, te viste envuelta</l>
             <l>de oscuras tinieblas, hasta</l>
             <l n="80">que la <emph>Suma</emph> Omnipotencia,</l>
-            <l><emph>por ostentarse Criadora</emph>
+            <l>
+              <emph>por ostentarse Criadora</emph>
             </l>
-            <l><emph>y comunicarse Inmensa</emph>
+            <l>
+              <emph>y comunicarse Inmensa</emph>
             </l>
-            <l><emph>sin necesitar de ti,</emph>
+            <l>
+              <emph>sin necesitar de ti,</emph>
             </l>
             <l><emph>pues se gozaba en [sí]</emph><emph> mesma</emph>,</l>
             <l n="85">dividió al primero día</l>
@@ -237,7 +243,8 @@
             <l>le está tirando la rienda,</l>
             <l>dejando su agregación</l>
             <l>la tez aterida y yerta</l>
-            <l><emph>del orbe, hasta que al tercero,</emph>
+            <l>
+              <emph>del orbe, hasta que al tercero,</emph>
             </l>
             <l n="100">los esmaltes de la yerba</l>
             <l>la vieron de árboles, plantas,</l>
@@ -252,7 +259,8 @@
             <l n="110">luces para las estrellas.</l>
             <l>Tú, que, al quinto, poblar viste</l>
             <l>aire y mar de tan diversas</l>
-            <l><emph>especies como en [sus] dos</emph>
+            <l>
+              <emph>especies como en [sus] dos</emph>
             </l>
             <l><emph>mansiones nadan y vuelan</emph>;</l>
             <l n="115">bien, como al sexto, habitar</l>
@@ -280,9 +288,11 @@
             <l>vio que eran buenas, y solo</l>
             <l>la del hombre no vio que era</l>
             <l>buena, porque <emph>la</emph> dejó</l>
-            <l n="140"><emph>adbitrio con que él hiciera,</emph>
+            <l n="140">
+              <emph>adbitrio con que él hiciera,</emph>
             </l>
-            <l><emph>artífice de sí mismo,</emph>
+            <l>
+              <emph>artífice de sí mismo,</emph>
             </l>
             <l><emph>su fábrica mal[a] o buena</emph>.</l>
             <l>Y siendo así que dejando</l>
@@ -387,7 +397,8 @@
             <l>va de historia a alegoría,</l>
             <l>y sin que este ni aquel sea,</l>
             <l>a cualquier hombre en pecado,</l>
-            <l><emph>por la miserable herencia</emph>
+            <l>
+              <emph>por la miserable herencia</emph>
             </l>
             <l n="205"><emph>que empezamos desde Adán</emph>,</l>
             <l><emph>éste agora</emph> representa;</l>
@@ -400,9 +411,11 @@
             <l part="F">Sí haré.</l>
             <l n="210">Ven, Hombre, donde te esperan,</l>
             <l><emph>en vez de esa bruta piel</emph>,</l>
-            <l><emph>con joyas, plumas y telas,</emph>
+            <l>
+              <emph>con joyas, plumas y telas,</emph>
             </l>
-            <l><emph>las amorosas delicias,</emph>
+            <l>
+              <emph>las amorosas delicias,</emph>
             </l>
             <l>las golosas opulencias</l>
             <l n="215">de vinos y de manjares,</l>
@@ -477,18 +490,24 @@
           </sp>
           <sp who="#apetito">
             <speaker>APETITO</speaker>
-            <l><emph>¿Qué súbita pataleta,</emph>
+            <l>
+              <emph>¿Qué súbita pataleta,</emph>
             </l>
-            <l><emph>dama del uso</emph><emph> te ha dado?</emph>
+            <l>
+              <emph>dama del uso</emph>
+              <emph> te ha dado?</emph>
             </l>
-            <l n="255"><emph>¿De qué gimes? ¿De qué tiemblas?</emph>
+            <l n="255">
+              <emph>¿De qué gimes? ¿De qué tiemblas?</emph>
             </l>
-            <l part="I"><emph>¿No vienes?</emph>
+            <l part="I">
+              <emph>¿No vienes?</emph>
             </l>
           </sp>
           <sp who="#hombre">
             <speaker>HOMBRE</speaker>
-            <l part="F"><emph>Sí vamos, pero</emph>
+            <l part="F">
+              <emph>Sí vamos, pero</emph>
             </l>
             <l><emph>¡oh, quién primero</emph> pudiera</l>
             <l>arrancándole a pedazos</l>
@@ -502,9 +521,11 @@
             <l><emph>Hombre, en tan mísero estado</emph>,</l>
             <l>no desconfíes y espera</l>
             <l>en Dios, porque más le enoja</l>
-            <l n="265"><emph>quien de su piedad inmensa</emph>
+            <l n="265">
+              <emph>quien de su piedad inmensa</emph>
             </l>
-            <l><emph>desconfía que el que más</emph>
+            <l>
+              <emph>desconfía que el que más</emph>
             </l>
             <l part="I">le ofende.</l>
           </sp>
@@ -554,22 +575,29 @@
           </sp>
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
-            <l part="M"><emph>¿Cómo?</emph>
+            <l part="M">
+              <emph>¿Cómo?</emph>
             </l>
           </sp>
           <sp who="#naturaleza-humana">
             <speaker>NATURALEZA HUMANA</speaker>
-            <l part="F"><emph>Espera,</emph>
+            <l part="F">
+              <emph>Espera,</emph>
             </l>
-            <l><emph>Humano Conocimiento,</emph>
+            <l>
+              <emph>Humano Conocimiento,</emph>
             </l>
-            <l><emph>de la caduca pereza</emph>
+            <l>
+              <emph>de la caduca pereza</emph>
             </l>
-            <l><emph>con que al Hombre el desengaño</emph>
+            <l>
+              <emph>con que al Hombre el desengaño</emph>
             </l>
-            <l n="285"><emph>o llega tarde o no llega.</emph>
+            <l n="285">
+              <emph>o llega tarde o no llega.</emph>
             </l>
-            <l><emph>Venzan la dificultad</emph>
+            <l>
+              <emph>Venzan la dificultad</emph>
             </l>
             <l part="I"><emph>tus canas</emph>.</l>
           </sp>
@@ -596,17 +624,23 @@
             <l>Para despertar motivos,</l>
             <l n="295">por más que [impedidos] duerman</l>
             <l>desengaños de su ser,</l>
-            <l><emph>pues quien más los vicios templa</emph>
+            <l>
+              <emph>pues quien más los vicios templa</emph>
             </l>
-            <l><emph>la memoria es de la muerte,</emph>
+            <l>
+              <emph>la memoria es de la muerte,</emph>
             </l>
-            <l><emph>en ese cristal le acuerda;</emph>
+            <l>
+              <emph>en ese cristal le acuerda;</emph>
             </l>
-            <l n="300"><emph>llega, pues, a que se mire</emph>
+            <l n="300">
+              <emph>llega, pues, a que se mire</emph>
             </l>
-            <l><emph>en él, y que es polvo vea,</emph>
+            <l>
+              <emph>en él, y que es polvo vea,</emph>
             </l>
-            <l><emph>viento, humo, sombra y nada.</emph>
+            <l>
+              <emph>viento, humo, sombra y nada.</emph>
             </l>
           </sp>
           <sp who="#apetito">
@@ -632,7 +666,8 @@
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
             <l part="F">No hará,</l>
-            <l><emph>que porque nunca le tengas</emph>
+            <l>
+              <emph>que porque nunca le tengas</emph>
             </l>
             <l><emph>te</emph> cegaré yo los ojos.</l>
           </sp>
@@ -676,9 +711,11 @@
             <speaker>NATURALEZA HUMANA</speaker>
             <l n="330" part="F">Pues tú sola,</l>
             <l>a Hombre que el Demonio ciega</l>
-            <l><emph>puedes socorrer, inspira</emph>
+            <l>
+              <emph>puedes socorrer, inspira</emph>
             </l>
-            <l><emph>en el que ciego a ver llegas</emph>
+            <l>
+              <emph>en el que ciego a ver llegas</emph>
             </l>
             <l>alientos tuyos, que en altas</l>
             <l n="335">voces al cielo enternezcan.</l>
@@ -738,7 +775,8 @@
           <stage>Sale la FE.</stage>
           <sp who="#fe">
             <speaker>FE</speaker>
-            <l part="F"><emph>¿Qué deseas?</emph>
+            <l part="F">
+              <emph>¿Qué deseas?</emph>
             </l>
           </sp>
           <sp who="#naturaleza-humana">
@@ -769,17 +807,20 @@
           </sp>
           <sp who="#penitencia">
             <speaker>PENITENCIA</speaker>
-            <l part="I"><emph>¡Qué lástima!</emph>
+            <l part="I">
+              <emph>¡Qué lástima!</emph>
             </l>
           </sp>
           <sp who="#conocimiento">
             <speaker>CONOCIMIENTO</speaker>
-            <l part="F"><emph>¡Qué tristeza!</emph>
+            <l part="F">
+              <emph>¡Qué tristeza!</emph>
             </l>
           </sp>
           <sp who="#fe">
             <speaker>FE</speaker>
-            <l part="I"><emph>¡Qué compasión!</emph>
+            <l part="I">
+              <emph>¡Qué compasión!</emph>
             </l>
           </sp>
           <sp who="#naturaleza-humana">
@@ -802,7 +843,8 @@
             <l>tanto la imagen de Dios,</l>
             <l>a solo un pecado queda</l>
             <l>que es ídolo del Demonio;</l>
-            <l><emph>y para hacer obra buena</emph>
+            <l>
+              <emph>y para hacer obra buena</emph>
             </l>
             <l n="385">ni ve, ni escucha, ni habla,</l>
             <l>mira cuán en vano esperas</l>
@@ -958,9 +1000,11 @@
           </sp>
           <sp who="#música">
             <speaker>MÚSICA</speaker>
-            <l><emph>Y la voz que en disiertos clama [tenga]</emph>
+            <l>
+              <emph>Y la voz que en disiertos clama [tenga]</emph>
             </l>
-            <l><emph>aparejada para Dios la senda.</emph>
+            <l>
+              <emph>aparejada para Dios la senda.</emph>
             </l>
           </sp>
           <sp who="#naturaleza-humana">
@@ -972,9 +1016,11 @@
           </sp>
           <sp who="#música">
             <speaker>MÚSICA</speaker>
-            <l><emph>Y la fecundidad de todos sea,</emph>
+            <l>
+              <emph>Y la fecundidad de todos sea,</emph>
             </l>
-            <l n="470"><emph>alba que para todos amanezca.</emph>
+            <l n="470">
+              <emph>alba que para todos amanezca.</emph>
             </l>
           </sp>
           <sp who="#naturaleza-humana">
@@ -990,7 +1036,8 @@
           </sp>
           <sp who="#música">
             <speaker>MÚSICA</speaker>
-            <l><emph>Y produciendo al Salvador la Tierra,</emph>
+            <l>
+              <emph>Y produciendo al Salvador la Tierra,</emph>
             </l>
             <l n="480"><emph>danos tu Hijo, la salud decienda</emph>.</l>
           </sp>
@@ -1045,7 +1092,8 @@
             <l>ya que como [toda] es </l>
             <l n="510">Divinidad, aún su tierna</l>
             <l>voz, siempre <emph>grave</emph> y sonora,</l>
-            <l><emph>en dulces cansiones [suena]</emph>
+            <l>
+              <emph>en dulces cansiones [suena]</emph>
             </l>
           </sp>
           <sp who="#naturaleza-humana">
@@ -1086,7 +1134,8 @@
             <l>¿Qué puedo pedirte yo,</l>
             <l n="540">Divina Naturaleza,</l>
             <l>que increadamente fuiste,</l>
-            <l><emph>antes y después eterna,</emph>
+            <l>
+              <emph>antes y después eterna,</emph>
             </l>
             <l>al verme (¡ay de mí!) tocada</l>
             <l>de un contagio, que no sea</l>
@@ -1139,13 +1188,15 @@
             <l n="580">cumpliendo una y otra letra,</l>
             <l>la que le pide piadosa</l>
             <l>que se levante y no duerma,</l>
-            <l><emph>y la que por él responde</emph>
+            <l>
+              <emph>y la que por él responde</emph>
             </l>
             <l>que aunque <emph>lo</emph> humano parezca</l>
             <l n="585">que está el sentido dormido</l>
             <l>está el corazón en vela,</l>
             <l>yace allí, como mostrando</l>
-            <l><emph>que al [tiempo] que el cielo ostenta</emph>
+            <l>
+              <emph>que al [tiempo] que el cielo ostenta</emph>
             </l>
             <l>la Divinidad en ti,</l>
             <l n="590">en él pretende la tierra</l>
@@ -1162,10 +1213,12 @@
             <l>Pues si eso ves, ¿qué aguardas</l>
             <l>para acercarte a mí,</l>
             <l>viendo al cielo y la tierra</l>
-            <l n="600"><emph>ufanos competir</emph>
+            <l n="600">
+              <emph>ufanos competir</emph>
             </l>
             <l>por llegar a medir</l>
-            <l><emph>estremos de un confín a otro confín?</emph>
+            <l>
+              <emph>estremos de un confín a otro confín?</emph>
             </l>
           </sp>
           <sp who="#naturaleza-humana">
@@ -1189,15 +1242,19 @@
             <l>a la vista de la Fe,</l>
             <l>pues nadie podrá sin ella,</l>
             <l n="615">cómo un Peregrino Amor,</l>
-            <l><emph>a quien ha de dar la tierra</emph>
+            <l>
+              <emph>a quien ha de dar la tierra</emph>
             </l>
-            <l><emph>el tosco buriel</emph><emph> que vista,</emph>
+            <l>
+              <emph>el tosco buriel</emph>
+              <emph> que vista,</emph>
             </l>
             <l>de la superior esfera</l>
             <l>y de la esfera inferior</l>
             <l n="620">los dos estremos concuerda.</l>
             <l><emph>Deciende</emph>, Divinidad,</l>
-            <l><emph>[en] mí mism[o] a la gran selva</emph>
+            <l>
+              <emph>[en] mí mism[o] a la gran selva</emph>
             </l>
             <l>de ese de lágrimas valle.</l>
           </sp>
@@ -1205,12 +1262,15 @@
             trono y él por la escala de los ángeles.</stage>
           <sp who="#naturaleza-divina">
             <speaker>NATURALEZA DIVINA</speaker>
-            <l><emph>Si tú deciendes es fuerza</emph>
+            <l>
+              <emph>Si tú deciendes es fuerza</emph>
             </l>
             <l n="625">que yo <emph>decienda</emph>, pues</l>
-            <l><emph>ni yo podré sin ti,</emph>
+            <l>
+              <emph>ni yo podré sin ti,</emph>
             </l>
-            <l><emph>ni tú sin mí podrás,</emph>
+            <l>
+              <emph>ni tú sin mí podrás,</emph>
             </l>
             <l><emph>que somos un vivir</emph>,</l>
             <l>un amar, un sentir,</l>
@@ -1275,7 +1335,8 @@
             <speaker>NATURALEZA DIVINA</speaker>
             <stage>Canta.</stage>
             <l part="F">Sí;</l>
-            <l><emph>pero al mérito quiero</emph>
+            <l>
+              <emph>pero al mérito quiero</emph>
             </l>
             <l>el mérito añadir.</l>
           </sp>
@@ -1304,7 +1365,8 @@
             <l>que este lazo feliz</l>
             <l n="660">ni aun la muerte podrá</l>
             <l><emph>cortar ni desunir</emph>.</l>
-            <l part="I"><emph>Que no se ha de decir...</emph>
+            <l part="I">
+              <emph>Que no se ha de decir...</emph>
             </l>
           </sp>
           <sp who="#naturaleza-humana">
@@ -1313,7 +1375,8 @@
           </sp>
           <sp who="#naturaleza-divina">
             <speaker>NATURALEZA DIVINA</speaker>
-            <l><emph>Que dejé lo que admití.</emph>
+            <l>
+              <emph>Que dejé lo que admití.</emph>
             </l>
           </sp>
           <sp who="#naturaleza-humana">
@@ -1324,21 +1387,27 @@
             <speaker>PEREGRINO</speaker>
             <l><emph>Si</emph> en ti lo inmenso se abrevia,</l>
             <l><emph>si</emph> en ti lo humilde se ensalza;</l>
-            <l><emph>haciendo que en mí comprehenda</emph>
+            <l>
+              <emph>haciendo que en mí comprehenda</emph>
             </l>
-            <l n="670"><emph>lo incomp[r]ensible sin que</emph>
+            <l n="670">
+              <emph>lo incomp[r]ensible sin que</emph>
             </l>
-            <l><emph>la gloria deje paterna</emph>
+            <l>
+              <emph>la gloria deje paterna</emph>
             </l>
-            <l><emph>en servil traje; el que fue</emph>
+            <l>
+              <emph>en servil traje; el que fue</emph>
             </l>
             <l>sin tiempo, con tiempo sea;</l>
             <l>el impasible, pasible;</l>
             <l n="675">mortal, el inmortal; vean</l>
             <l>el cielo y la tierra que</l>
-            <l><emph>hoy en mí y por mí se estrechan,</emph>
+            <l>
+              <emph>hoy en mí y por mí se estrechan,</emph>
             </l>
-            <l><emph>en dulce lazo, Divina</emph>
+            <l>
+              <emph>en dulce lazo, Divina</emph>
             </l>
             <l>y Humana Naturaleza.</l>
             <l n="680">Y pues en ti el que era soy,</l>
@@ -1346,22 +1415,29 @@
             <l>en ti lo Divino goce</l>
             <l>y en ti lo Humano padezca,</l>
             <l><emph>tanto que</emph> en el primer paso</l>
-            <l n="685"><emph>la destemplanza me hiera</emph>
+            <l n="685">
+              <emph>la destemplanza me hiera</emph>
             </l>
             <l>de la nieve y de la escarcha;</l>
             <l>y para que me convenga</l>
             <l>el nombre de Peregrino,</l>
-            <l><emph>en el segundo tracienda</emph>
+            <l>
+              <emph>en el segundo tracienda</emph>
             </l>
-            <l n="690"><emph>a estraña región en cuya</emph>
+            <l n="690">
+              <emph>a estraña región en cuya</emph>
             </l>
-            <l><emph>fuga, en frase de lid sea,</emph>
+            <l>
+              <emph>fuga, en frase de lid sea,</emph>
             </l>
-            <l><emph>degollada infantería</emph>
+            <l>
+              <emph>degollada infantería</emph>
             </l>
-            <l><emph>primicias de mi inociencia;</emph>
+            <l>
+              <emph>primicias de mi inociencia;</emph>
             </l>
-            <l><emph>vuelva a la patria, mas no</emph>
+            <l>
+              <emph>vuelva a la patria, mas no</emph>
             </l>
             <l n="695">a gozar delicias vuelva,</l>
             <l>sino fatigas, y tantas</l>
@@ -1375,7 +1451,8 @@
             <l>Y todos diciendo sea</l>
             <l>en la [hi]postática unión</l>
             <l><emph>de las dos</emph> Naturalezas.</l>
-            <l><emph>Pues tierra y cielo la paz</emph>
+            <l>
+              <emph>Pues tierra y cielo la paz</emph>
             </l>
             <l n="705"><emph>del Hombre, Ho[m]bre y Dios celebran</emph>.</l>
           </sp>
@@ -1641,7 +1718,8 @@
           <sp who="#judaísmo">
             <speaker>JUDAÍSMO</speaker>
             <l>Fuerza obedecerte es,</l>
-            <l><emph>puesto que sujeto hoy</emph>
+            <l>
+              <emph>puesto que sujeto hoy</emph>
             </l>
             <l><emph>al román imperio estoy</emph>,</l>
             <l>siendo yugo su laurel</l>
@@ -1713,12 +1791,14 @@
             <l>¿Tanto había, (sólo en ir</l>
             <l>a nuestra desierta gruta</l>
             <l>por una silvestre fruta</l>
-            <l><emph> que [te alivie]), de tardar </emph>
+            <l>
+              <emph> que [te alivie]), de tardar </emph>
             </l>
             <l n="880">que no pudiste esperar</l>
             <l>sobre la esmeralda bruta</l>
             <l>del risco en que te dejé,</l>
-            <l><emph>y con novedad de mí</emph>
+            <l>
+              <emph>y con novedad de mí</emph>
             </l>
             <l part="I">te despeñas?</l>
           </sp>
@@ -1794,9 +1874,11 @@
           </sp>
           <sp who="#apetito">
             <speaker>APETITO</speaker>
-            <l><emph>Un hombre es tan destruido</emph>
+            <l>
+              <emph>Un hombre es tan destruido</emph>
             </l>
-            <l n="910"><emph>que allá en no sé qué sentido</emph>
+            <l n="910">
+              <emph>que allá en no sé qué sentido</emph>
             </l>
             <l><emph>es</emph> todo el Género Humano.</l>
           </sp>
@@ -1846,17 +1928,23 @@
             <l>Hombre, que en el mundo entró</l>
             <l>sin que yo supiese dél;</l>
             <l>Hombre, que el yugo crüel</l>
-            <l n="935"><emph>de la culpa sacudió</emph>
+            <l n="935">
+              <emph>de la culpa sacudió</emph>
             </l>
-            <l><emph>antes de dársela yo.</emph>
+            <l>
+              <emph>antes de dársela yo.</emph>
             </l>
-            <l><emph>¿Qué punto, qué istante fue</emph>
+            <l>
+              <emph>¿Qué punto, qué istante fue</emph>
             </l>
-            <l><emph>el de su Encarnación que</emph>
+            <l>
+              <emph>el de su Encarnación que</emph>
             </l>
-            <l><emph>pasó sin que yo le viera?</emph>
+            <l>
+              <emph>pasó sin que yo le viera?</emph>
             </l>
-            <l n="940"><emph>Pero de aquesta manera</emph>
+            <l n="940">
+              <emph>Pero de aquesta manera</emph>
             </l>
             <l>el miedo aseguraré</l>
             <l>de misterios que presumo</l>
@@ -1895,7 +1983,8 @@
           <sp who="#peregrino">
             <speaker>PEREGRINO</speaker>
             <stage>Dentro.</stage>
-            <l><emph>No temas, pues que padezco</emph>
+            <l>
+              <emph>No temas, pues que padezco</emph>
             </l>
             <l n="955"><emph>yo por dar al Hombre vida</emph>.</l>
           </sp>
@@ -1939,7 +2028,8 @@
             <l>Lo que a Dios David pedía,</l>
             <l n="970">cuando «líbrame -decía-,</l>
             <l><emph>de los riesgos que no sé</emph>».</l>
-            <l><emph>Dios, Dios anda por aquí;</emph>
+            <l>
+              <emph>Dios, Dios anda por aquí;</emph>
             </l>
             <l>ve tras él y no le vea</l>
             <l>nadie hasta saber quién sea</l>
@@ -1953,82 +2043,109 @@
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
             <l>¿Viste acaso un Peregrino</l>
-            <l><emph>que ha cuarenta días que vino</emph>
+            <l>
+              <emph>que ha cuarenta días que vino</emph>
             </l>
-            <l><emph>a este desierto (¡oh impías</emph>
+            <l>
+              <emph>a este desierto (¡oh impías</emph>
             </l>
-            <l n="980"><emph>ansias) y ha cuarenta días</emph>
+            <l n="980">
+              <emph>ansias) y ha cuarenta días</emph>
             </l>
-            <l part="I"><emph>que ayuna en él?</emph>
+            <l part="I">
+              <emph>que ayuna en él?</emph>
             </l>
           </sp>
           <sp who="#apetito">
             <speaker>APETITO</speaker>
-            <l part="F"><emph>Desatino</emph>
+            <l part="F">
+              <emph>Desatino</emph>
             </l>
-            <l><emph>me ha parecido cruel</emph>
+            <l>
+              <emph>me ha parecido cruel</emph>
             </l>
-            <l><emph>pregunta tan importuna,</emph>
+            <l>
+              <emph>pregunta tan importuna,</emph>
             </l>
-            <l><emph>¿cómo quieres, si él ayuna,</emph>
+            <l>
+              <emph>¿cómo quieres, si él ayuna,</emph>
             </l>
-            <l n="985"><emph>sepa el Apetito dél?</emph>
+            <l n="985">
+              <emph>sepa el Apetito dél?</emph>
             </l>
           </sp>
           <stage>Vase.</stage>
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
-            <l><emph>Sin duda, ¡ay de mí!, es aquel</emph>
+            <l>
+              <emph>Sin duda, ¡ay de mí!, es aquel</emph>
             </l>
-            <l><emph>en quien la Naturaleza</emph>
+            <l>
+              <emph>en quien la Naturaleza</emph>
             </l>
-            <l><emph>Humana con la flaqueza</emph>
+            <l>
+              <emph>Humana con la flaqueza</emph>
             </l>
-            <l><emph>desmaya, o el ser no asombre</emph>
+            <l>
+              <emph>desmaya, o el ser no asombre</emph>
             </l>
-            <l n="990"><emph>aquel auxilio del Hombre,</emph>
+            <l n="990">
+              <emph>aquel auxilio del Hombre,</emph>
             </l>
-            <l><emph>mérito de esta aspereza.</emph>
+            <l>
+              <emph>mérito de esta aspereza.</emph>
             </l>
           </sp>
           <stage>Sale el PEREGRINO y la NATURALEZA DIVINA trayendo entre los dos como desmayada la
             NATURALEZA HUMANA.</stage>
           <sp who="#naturaleza-divina">
             <speaker>NATURALEZA DIVINA</speaker>
-            <l><emph>Gran Naturaleza Humana,</emph>
+            <l>
+              <emph>Gran Naturaleza Humana,</emph>
             </l>
-            <l part="I"><emph>aliéntate.</emph>
+            <l part="I">
+              <emph>aliéntate.</emph>
             </l>
           </sp>
           <sp who="#naturaleza-humana">
             <speaker>NATURALEZA HUMANA</speaker>
-            <l part="F"><emph>¿Cómo puedo,</emph>
+            <l part="F">
+              <emph>¿Cómo puedo,</emph>
             </l>
-            <l><emph>si aunque me asistas, Divina,</emph>
+            <l>
+              <emph>si aunque me asistas, Divina,</emph>
             </l>
-            <l n="995"><emph>yo como Humana padezco,</emph>
+            <l n="995">
+              <emph>yo como Humana padezco,</emph>
             </l>
-            <l><emph>quando sujeta a inclemencias</emph>
+            <l>
+              <emph>quando sujeta a inclemencias</emph>
             </l>
-            <l><emph>del sol, el agua y el viento,</emph>
+            <l>
+              <emph>del sol, el agua y el viento,</emph>
             </l>
             <l><emph>si pan de suspiros como</emph>,</l>
-            <l><emph>agua de lágrimas bebo?</emph>
+            <l>
+              <emph>agua de lágrimas bebo?</emph>
             </l>
           </sp>
           <sp who="#peregrino">
             <speaker>PEREGRINO</speaker>
-            <l n="1000"><emph>De tus angustias mi Padre</emph>
+            <l n="1000">
+              <emph>De tus angustias mi Padre</emph>
             </l>
             <l><emph>se dolerá, cobra aliento</emph>.</l>
           </sp>
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
-            <l><emph>Llegaré [a] hablarle. ¿Qué dudo?</emph>
+            <l>
+              <emph>Llegaré [a] hablarle. ¿Qué dudo?</emph>
             </l>
-            <l><emph>¿Qué me acobardo? ¿Qué temo?</emph>
+            <l>
+              <emph>¿Qué me acobardo? ¿Qué temo?</emph>
             </l>
-            <l part="I"><emph>¡Ah, del monte!</emph>
+            <l part="I">
+              <emph>¡Ah, del monte!</emph>
             </l>
           </sp>
           <sp who="#naturaleza-humana">
@@ -2037,31 +2154,37 @@
           </sp>
           <sp who="#naturaleza-divina">
             <speaker>NATURALEZA DIVINA</speaker>
-            <l n="1005"><emph>A ti te pareçe eso,</emph>
+            <l n="1005">
+              <emph>A ti te pareçe eso,</emph>
             </l>
             <l part="I"><emph>mas no es Hombre</emph>.</l>
           </sp>
           <sp who="#naturaleza-humana">
             <speaker>NATURALEZA HUMANA</speaker>
-            <l part="F"><emph>¿Te retiras?</emph>
+            <l part="F">
+              <emph>¿Te retiras?</emph>
             </l>
           </sp>
           <sp who="#naturaleza-divina">
             <speaker>NATURALEZA DIVINA</speaker>
-            <l><emph>Ni me retiro ni puedo</emph>
+            <l>
+              <emph>Ni me retiro ni puedo</emph>
             </l>
             <l part="I"><emph>retirarme yo</emph>.</l>
           </sp>
           <sp who="#naturaleza-humana">
             <speaker>NATURALEZA HUMANA</speaker>
-            <l part="F"><emph>¿Qué haces?</emph>
+            <l part="F">
+              <emph>¿Qué haces?</emph>
             </l>
           </sp>
           <sp who="#naturaleza-divina">
             <speaker>NATURALEZA DIVINA</speaker>
-            <l><emph>De ese que llega pretendo</emph>
+            <l>
+              <emph>De ese que llega pretendo</emph>
             </l>
-            <l n="1010"><emph>en ti ocultarme, que importa</emph>
+            <l n="1010">
+              <emph>en ti ocultarme, que importa</emph>
             </l>
             <l><emph>no me conozca tan presto</emph>.</l>
           </sp>
@@ -2071,222 +2194,294 @@
           </sp>
           <sp who="#naturaleza-divina">
             <speaker>NATURALEZA DIVINA</speaker>
-            <l><emph>Ya el conocerme no temo,</emph>
+            <l>
+              <emph>Ya el conocerme no temo,</emph>
             </l>
-            <l><emph>si, humano modo explicado</emph>
+            <l>
+              <emph>si, humano modo explicado</emph>
             </l>
-            <l n="1015"><emph>como se puede el concepto,</emph>
+            <l n="1015">
+              <emph>como se puede el concepto,</emph>
             </l>
-            <l><emph>cubre a la Divinidad</emph>
+            <l>
+              <emph>cubre a la Divinidad</emph>
             </l>
             <l><emph>de la Humanidad el velo</emph>.</l>
           </sp>
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
-            <l part="I"><emph>¡Ah del monte!</emph>
+            <l part="I">
+              <emph>¡Ah del monte!</emph>
             </l>
           </sp>
           <sp who="#peregrino">
             <speaker>PEREGRINO</speaker>
-            <l part="F"><emph>¿Quién me llama?</emph>
+            <l part="F">
+              <emph>¿Quién me llama?</emph>
             </l>
           </sp>
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
-            <l><emph>Quien estos riscos corriendo</emph>
+            <l>
+              <emph>Quien estos riscos corriendo</emph>
             </l>
-            <l n="1020"><emph>de ti ha sabido, y que como</emph>
+            <l n="1020">
+              <emph>de ti ha sabido, y que como</emph>
             </l>
-            <l><emph>apestado estas haciendo</emph>
+            <l>
+              <emph>apestado estas haciendo</emph>
             </l>
-            <l><emph>cuarentena en esta dura</emph>
+            <l>
+              <emph>cuarentena en esta dura</emph>
             </l>
             <l><emph>austeridad del disierto</emph>.</l>
           </sp>
           <sp who="#peregrino">
             <speaker>PEREGRINO</speaker>
-            <l><emph>Leproso [como] Ysaías</emph>
+            <l>
+              <emph>Leproso [como] Ysaías</emph>
             </l>
-            <l n="1025"><emph>me reputa y no lo niego;</emph>
+            <l n="1025">
+              <emph>me reputa y no lo niego;</emph>
             </l>
-            <l><emph>que aunque es ajeno el contajio</emph>
+            <l>
+              <emph>que aunque es ajeno el contajio</emph>
             </l>
             <l><emph>yo como propio le tengo</emph>.</l>
           </sp>
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
-            <l><emph>Y de ti compadecido,</emph>
+            <l>
+              <emph>Y de ti compadecido,</emph>
             </l>
-            <l><emph>a los míseros lamentos</emph>
+            <l>
+              <emph>a los míseros lamentos</emph>
             </l>
-            <l n="1030"><emph>que oyó, viene aconsejarte:</emph>
+            <l n="1030">
+              <emph>que oyó, viene aconsejarte:</emph>
             </l>
-            <l><emph>no seas contigo mesmo</emph>
+            <l>
+              <emph>no seas contigo mesmo</emph>
             </l>
-            <l><emph>tan cruel, que tantos días</emph>
+            <l>
+              <emph>tan cruel, que tantos días</emph>
             </l>
-            <l><emph>te martirices sujeto</emph>
+            <l>
+              <emph>te martirices sujeto</emph>
             </l>
-            <l><emph>al hambre y sed, y que ya</emph>
+            <l>
+              <emph>al hambre y sed, y que ya</emph>
             </l>
-            <l n="1035"><emph>que quieras mostrarte en eso,</emph>
+            <l n="1035">
+              <emph>que quieras mostrarte en eso,</emph>
             </l>
-            <l><emph>tan sobrenaturalmente</emph>
+            <l>
+              <emph>tan sobrenaturalmente</emph>
             </l>
-            <l><emph>en estos montes viviendo,</emph>
+            <l>
+              <emph>en estos montes viviendo,</emph>
             </l>
-            <l><emph>el prometido Mesías</emph>
+            <l>
+              <emph>el prometido Mesías</emph>
             </l>
             <l><emph>ser, piedras tiene este centro</emph>,</l>
-            <l n="1040"><emph>tesoros guarda aquel monte,</emph>
+            <l n="1040">
+              <emph>tesoros guarda aquel monte,</emph>
             </l>
-            <l><emph>pináculo hay en el templo</emph>
+            <l>
+              <emph>pináculo hay en el templo</emph>
             </l>
-            <l part="I"><emph>en que podrás...</emph>
+            <l part="I">
+              <emph>en que podrás...</emph>
             </l>
           </sp>
           <sp who="#peregrino">
             <speaker>PEREGRINO</speaker>
-            <l part="F"><emph>Basta, basta;</emph>
+            <l part="F">
+              <emph>Basta, basta;</emph>
             </l>
-            <l><emph>no prosigas, monstruo fiero,</emph>
+            <l>
+              <emph>no prosigas, monstruo fiero,</emph>
             </l>
-            <l><emph>que no es menester decirlo</emph>
+            <l>
+              <emph>que no es menester decirlo</emph>
             </l>
-            <l n="1045"><emph>para llegar a entenderlo,</emph>
+            <l n="1045">
+              <emph>para llegar a entenderlo,</emph>
             </l>
-            <l><emph>y para que huyendo vayas</emph>
+            <l>
+              <emph>y para que huyendo vayas</emph>
             </l>
-            <l><emph>de mi vista donde el fuego</emph>
+            <l>
+              <emph>de mi vista donde el fuego</emph>
             </l>
-            <l><emph>que te abrasa y no consume,</emph>
+            <l>
+              <emph>que te abrasa y no consume,</emph>
             </l>
             <l><emph>incendios añada [a] incendios</emph>.</l>
           </sp>
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
-            <l n="1050"><emph>Vencido vuelvo, mas no</emph>
+            <l n="1050">
+              <emph>Vencido vuelvo, mas no</emph>
             </l>
             <l><emph>me he de acobardar por eso</emph>,</l>
-            <l><emph>pues al Hombre poseído</emph>
+            <l>
+              <emph>pues al Hombre poseído</emph>
             </l>
-            <l><emph>[y] incapaz de ausilios tengo,</emph>
+            <l>
+              <emph>[y] incapaz de ausilios tengo,</emph>
             </l>
-            <l><emph>y en él no veo más señas</emph>
+            <l>
+              <emph>y en él no veo más señas</emph>
             </l>
-            <l n="1055"><emph>que de humano, pues no veo</emph>
+            <l n="1055">
+              <emph>que de humano, pues no veo</emph>
             </l>
             <l><emph>objeto que no sea humano</emph>.</l>
           </sp>
           <stage>Vase.</stage>
           <sp who="#naturaleza-divina">
             <speaker>NATURALEZA DIVINA</speaker>
-            <l><emph>Gracias al humano velo</emph>
+            <l>
+              <emph>Gracias al humano velo</emph>
             </l>
             <l><emph>que ha escondido lo divino</emph>...</l>
           </sp>
           <stage>Dentro MÚSICA.</stage>
           <sp who="#música">
             <speaker>MÚSICA</speaker>
-            <l><emph>Vitoria, vitoria por Peregrino,</emph>
+            <l>
+              <emph>Vitoria, vitoria por Peregrino,</emph>
             </l>
-            <l n="1060"><emph>que mostruos destruye y espíritus postra,</emph>
+            <l n="1060">
+              <emph>que mostruos destruye y espíritus postra,</emph>
             </l>
             <l><emph>y el cielo y la tierra le canten la gala</emph>,</l>
-            <l><emph>pues es en eterno su misericordia.</emph>
+            <l>
+              <emph>pues es en eterno su misericordia.</emph>
             </l>
-            <l><emph>Vitoria, vitoria,</emph>
+            <l>
+              <emph>Vitoria, vitoria,</emph>
             </l>
             <l><emph>pues es en eterno su misericordia</emph>.</l>
           </sp>
           <sp who="#penitencia">
             <speaker>PENITENCIA</speaker>
-            <l n="1065"><emph>Ya que el cielo ha confortado</emph>
+            <l n="1065">
+              <emph>Ya que el cielo ha confortado</emph>
             </l>
             <l><emph>tus ansias con sus consuelos</emph>,</l>
-            <l><emph>yo que soy la Penitencia</emph>
+            <l>
+              <emph>yo que soy la Penitencia</emph>
             </l>
-            <l><emph>que en estos montes has hecho,</emph>
+            <l>
+              <emph>que en estos montes has hecho,</emph>
             </l>
-            <l><emph>rústicas frutas te sirvo</emph>
+            <l>
+              <emph>rústicas frutas te sirvo</emph>
             </l>
-            <l n="1070"><emph>en vez de aquel maná bello,</emph>
+            <l n="1070">
+              <emph>en vez de aquel maná bello,</emph>
             </l>
             <l><emph>que reparó sed y hambre</emph>,</l>
             <l><emph>con el salmo prosig[u]iendo</emph>:</l>
           </sp>
           <sp who="#música">
             <speaker>MÚSICA</speaker>
-            <l><emph>Al que Rey de Reyes es</emph>
+            <l>
+              <emph>Al que Rey de Reyes es</emph>
             </l>
-            <l><emph>y fuerte venciendo al fuerte</emph>
+            <l>
+              <emph>y fuerte venciendo al fuerte</emph>
             </l>
-            <l n="1075"><emph>viene a enmendar nuestra suerte,</emph>
+            <l n="1075">
+              <emph>viene a enmendar nuestra suerte,</emph>
             </l>
             <l><emph>cante sagrada la historia</emph>:</l>
-            <l><emph>Vitoria, vitoria,</emph>
+            <l>
+              <emph>Vitoria, vitoria,</emph>
             </l>
             <l><emph>pues es en eterno su misericordia</emph>.</l>
           </sp>
           <sp who="#fe">
             <speaker>FE</speaker>
-            <l><emph>Yo que entre el cielo y la tierra</emph>
+            <l>
+              <emph>Yo que entre el cielo y la tierra</emph>
             </l>
-            <l n="1080"><emph>soy la Fe, que désta creo</emph>
+            <l n="1080">
+              <emph>soy la Fe, que désta creo</emph>
             </l>
-            <l><emph>lo que de aquel oigo, el puro</emph>
+            <l>
+              <emph>lo que de aquel oigo, el puro</emph>
             </l>
-            <l><emph>cristal del Jordán te ofrezco,</emph>
+            <l>
+              <emph>cristal del Jordán te ofrezco,</emph>
             </l>
-            <l><emph>para que de aquella fruta</emph>
+            <l>
+              <emph>para que de aquella fruta</emph>
             </l>
-            <l><emph>antídoto sea el veneno,</emph>
+            <l>
+              <emph>antídoto sea el veneno,</emph>
             </l>
-            <l n="1085"><emph>carácter de la Fe el agua,</emph>
+            <l n="1085">
+              <emph>carácter de la Fe el agua,</emph>
             </l>
             <l><emph>con entrambos repitiendo</emph>:</l>
           </sp>
           <sp who="#música">
             <speaker>MÚSICA</speaker>
-            <l><emph>Al que no nos olvidó,</emph>
+            <l>
+              <emph>Al que no nos olvidó,</emph>
             </l>
-            <l><emph>y, cielo y tierra testigos,</emph>
+            <l>
+              <emph>y, cielo y tierra testigos,</emph>
             </l>
-            <l><emph>venció nuestros enemigos</emph>
+            <l>
+              <emph>venció nuestros enemigos</emph>
             </l>
-            <l n="1090"><emph>del cielo y tierra, la gloria:</emph>
+            <l n="1090">
+              <emph>del cielo y tierra, la gloria:</emph>
             </l>
             <l><emph>vitoria, vitoria</emph>.</l>
           </sp>
           <sp who="#peregrino">
             <speaker>PEREGRINO</speaker>
-            <l><emph>Ya, Naturaleza, sobre</emph>
+            <l>
+              <emph>Ya, Naturaleza, sobre</emph>
             </l>
-            <l><emph>los celestiales asientos</emph>
+            <l>
+              <emph>los celestiales asientos</emph>
             </l>
             <l><emph>tienes frutas y cristales</emph>.</l>
           </sp>
           <sp who="#naturaleza-humana">
             <speaker>NATURALEZA HUMANA</speaker>
-            <l n="1095"><emph>¡Ay que no he perdido el miedo</emph>
+            <l n="1095">
+              <emph>¡Ay que no he perdido el miedo</emph>
             </l>
-            <l><emph>[a] aquella primera fruta!</emph>
+            <l>
+              <emph>[a] aquella primera fruta!</emph>
             </l>
           </sp>
           <sp who="#peregrino">
             <speaker>PEREGRINO</speaker>
-            <l><emph>El Jordán te da el remedio</emph>
+            <l>
+              <emph>El Jordán te da el remedio</emph>
             </l>
             <l><emph>en sus ondas ya y espera</emph>.</l>
             <l>que otro bocado sea presto</l>
             <l n="1100">reparo de aquel bocado,</l>
             <l>otro leño de aquel leño,</l>
             <l>y otro Adán de aquel Adán;</l>
-            <l><emph>y ven, que desta lid quiero,</emph>
+            <l>
+              <emph>y ven, que desta lid quiero,</emph>
             </l>
-            <l><emph>síncopa haciendo mi vida,</emph>
+            <l>
+              <emph>síncopa haciendo mi vida,</emph>
             </l>
-            <l n="1105"><emph>a no ignorados misterios,</emph>
+            <l n="1105">
+              <emph>a no ignorados misterios,</emph>
             </l>
             <l part="I"><emph>gozar el triunfo</emph>.</l>
           </sp>
@@ -2295,7 +2490,8 @@
             <l part="F">El mayor</l>
             <l>que de <emph>tu piedad</emph> espero</l>
             <l>es que te acuerdes que estoy</l>
-            <l><emph>tocada de aquel aliento</emph>
+            <l>
+              <emph>tocada de aquel aliento</emph>
             </l>
             <l n="1110">que, a fuer de rabia, si no</l>
             <l>sana el que me hirió, no puedo</l>
@@ -2345,11 +2541,11 @@
           </sp>
           <sp who="#penitencia">
             <speaker>FUERA 1º</speaker>
-            <l><emph>El que, fuerte y poderoso,</emph>
+            <l>
+              <emph>El que, fuerte y poderoso,</emph>
             </l>
             <l n="1125"><emph>vence al altivo y soberbio</emph>.</l>
-            <l><emph>Levad las puentes</emph>,<emph> romped</emph>
-            </l>
+            <l><emph>Levad las puentes</emph>,<emph> romped</emph></l>
             <l part="I"><emph>las murallas</emph>.</l>
           </sp>
           <sp who="#fe">
@@ -2369,8 +2565,7 @@
             <l n="1130">El Señor de las Virtudes</l>
             <l>es de la Gloria el Rey <emph>mesmo</emph>.</l>
           </sp>
-          <sp
-            who="#apetito #fe #música #naturaleza-divina #naturaleza-humana #penitencia #peregrino">
+          <sp who="#apetito #fe #música #naturaleza-divina #naturaleza-humana #penitencia #peregrino">
             <speaker>TODOS</speaker>
             <l part="I">Abrid las puertas.</l>
           </sp>
@@ -2388,11 +2583,14 @@
             <speaker>CONOCIMIENTO</speaker>
             <l>Sí, yo he de decirlo oyendo</l>
             <l>esas voces, sobre otras</l>
-            <l><emph>señas que vi en unos lejos,</emph>
+            <l>
+              <emph>señas que vi en unos lejos,</emph>
             </l>
-            <l n="1140"><emph>visos y sombras: este es</emph>
+            <l n="1140">
+              <emph>visos y sombras: este es</emph>
             </l>
-            <l><emph>de la Gloria el Rey Excelso,</emph>
+            <l>
+              <emph>de la Gloria el Rey Excelso,</emph>
             </l>
             <l><emph>y</emph> el Señor de las Virtudes.</l>
           </sp>
@@ -2401,9 +2599,11 @@
             <l>Pues por <emph>ahora</emph> te tengo,</l>
             <l>Conocimiento, entre manos</l>
             <l n="1145">y tú me lo dices, quiero</l>
-            <l><emph>recibirle con olivas</emph>
+            <l>
+              <emph>recibirle con olivas</emph>
             </l>
-            <l><emph>y palmas a sus pies puestos</emph>
+            <l>
+              <emph>y palmas a sus pies puestos</emph>
             </l>
             <l>alfombras, haced los mantos,</l>
             <l>y su venida aplaudiendo</l>
@@ -2434,7 +2634,8 @@
           </sp>
           <sp who="#naturaleza-divina">
             <speaker>NATURALEZA DIVINA</speaker>
-            <l part="F"><emph>Como aún estoy yo</emph>
+            <l part="F">
+              <emph>Como aún estoy yo</emph>
             </l>
             <l n="1160"><emph>corrido este Humano velo</emph>.</l>
           </sp>
@@ -2465,7 +2666,8 @@
             <l><emph>tan</emph> divertido <emph>y</emph> suspenso</l>
             <l n="1170">el Judaísmo, su vista</l>
             <l>huya; que cobarde temo</l>
-            <l><emph>su varia condición y</emph>
+            <l>
+              <emph>su varia condición y</emph>
             </l>
             <l><emph>lo áspero y cruel. Y puesto</emph>.</l>
             <l><emph>que aquí violento me trujo</emph>,</l>
@@ -2481,12 +2683,14 @@
             <l>Bien que no sé qué echo menos</l>
             <l n="1180">en mí de un instante acá</l>
             <l>que me está como diciendo,</l>
-            <l><emph>hice mal, sin más pesquisa</emph>
+            <l>
+              <emph>hice mal, sin más pesquisa</emph>
             </l>
             <l>en persuadirme tan presto.</l>
             <l>Conocimiento, a decirme</l>
             <l n="1185">vuelve si..., mas no le veo:</l>
-            <l><emph>sin duda es el que echaba</emph>
+            <l>
+              <emph>sin duda es el que echaba</emph>
             </l>
             <l><emph>menos yo</emph>. ¿Qué mucho, ¡cielos!,</l>
             <l>si el Conocimiento falta</l>
@@ -2499,11 +2703,14 @@
             <speaker>GENTILIDAD</speaker>
             <l part="F">¿Qué es esto,</l>
             <l>Judaísmo? ¿A quién aclamas</l>
-            <l><emph>con tan festivos estremos,</emph>
+            <l>
+              <emph>con tan festivos estremos,</emph>
             </l>
-            <l><emph>que a las voces de tu aplauso</emph>
+            <l>
+              <emph>que a las voces de tu aplauso</emph>
             </l>
-            <l n="1195"><emph>absorto y confuso vengo?</emph>
+            <l n="1195">
+              <emph>absorto y confuso vengo?</emph>
             </l>
           </sp>
           <sp who="#judaísmo">
@@ -2512,28 +2719,35 @@
           </sp>
           <sp who="#gentilidad">
             <speaker>GENTILIDAD</speaker>
-            <l part="F"><emph>¿Hallaste el Hombre Dios</emph>
+            <l part="F">
+              <emph>¿Hallaste el Hombre Dios</emph>
             </l>
-            <l><emph>a quien te dejé siguiendo?</emph>
+            <l>
+              <emph>a quien te dejé siguiendo?</emph>
             </l>
           </sp>
           <sp who="#judaísmo">
             <speaker>JUDAÍSMO</speaker>
-            <l part="I"><emph>No sé.</emph>
+            <l part="I">
+              <emph>No sé.</emph>
             </l>
           </sp>
           <sp who="#gentilidad">
             <speaker>GENTILIDAD</speaker>
-            <l part="M"><emph>¿Qué buscas?</emph>
+            <l part="M">
+              <emph>¿Qué buscas?</emph>
             </l>
           </sp>
           <sp who="#judaísmo">
             <speaker>JUDAÍSMO</speaker>
-            <l part="F"><emph>No sé,</emph>
+            <l part="F">
+              <emph>No sé,</emph>
             </l>
-            <l><emph>si ya no es que busque medios</emph>
+            <l>
+              <emph>si ya no es que busque medios</emph>
             </l>
-            <l n="1200"><emph>para enmendar el error</emph>
+            <l n="1200">
+              <emph>para enmendar el error</emph>
             </l>
             <l><emph>de haber admitido, necio</emph>,</l>
             <l>sin que traiga el aparato</l>
@@ -2552,7 +2766,8 @@
           <sp who="#judaísmo">
             <speaker>JUDAÍSMO</speaker>
             <l>Como en el instante mesmo</l>
-            <l><emph>que al Conocimiento oí</emph>
+            <l>
+              <emph>que al Conocimiento oí</emph>
             </l>
             <l><emph>me faltó el Conocimiento</emph>.</l>
             <l>Forzado conmigo <emph>estaba</emph>
@@ -2566,21 +2781,27 @@
           </sp>
           <sp who="#gentilidad">
             <speaker>GENTILIDAD</speaker>
-            <l n="1220" part="F"><emph>Quizá dijo</emph>
+            <l n="1220" part="F">
+              <emph>Quizá dijo</emph>
             </l>
-            <l><emph>verdad que, tras ti viniendo,</emph>
+            <l>
+              <emph>verdad que, tras ti viniendo,</emph>
             </l>
-            <l><emph>de prodigios y milagros</emph>
+            <l>
+              <emph>de prodigios y milagros</emph>
             </l>
             <l><emph>suyos hallé el mundo lleno</emph>.</l>
           </sp>
           <sp who="#judaísmo">
             <speaker>JUDAÍSMO</speaker>
-            <l><emph>¡Ay, Gentilidad, más cerca</emph>
+            <l>
+              <emph>¡Ay, Gentilidad, más cerca</emph>
             </l>
-            <l n="1225"><emph>que yo estás tú de creerlos!</emph>
+            <l n="1225">
+              <emph>que yo estás tú de creerlos!</emph>
             </l>
-            <l><emph>¿Qué milagros? ¿Qué prodigios?</emph>
+            <l>
+              <emph>¿Qué milagros? ¿Qué prodigios?</emph>
             </l>
           </sp>
           <sp who="#gentilidad">
@@ -2612,7 +2833,8 @@
           <sp who="#judaísmo">
             <speaker>JUDAÍSMO</speaker>
             <l part="F">Ya que ese aplauso</l>
-            <l n="1235"><emph>recibes, saber deseo</emph>
+            <l n="1235">
+              <emph>recibes, saber deseo</emph>
             </l>
             <l>en fe de qué le recibes.</l>
           </sp>
@@ -2704,11 +2926,13 @@
             <l part="F">Si digo que</l>
             <l>no le conozco, mi acento</l>
             <l>será mendaz como el tuyo;</l>
-            <l n="1265"><emph>si di[g]o que Dios eterno</emph>
+            <l n="1265">
+              <emph>si di[g]o que Dios eterno</emph>
             </l>
             <l>tú no le conocerás.</l>
             <l>Y así <emph>a</emph> decir me resuelvo</l>
-            <l><emph>que de haberme recebido</emph>
+            <l>
+              <emph>que de haberme recebido</emph>
             </l>
             <l><emph>no te pese, ten contento</emph>,</l>
             <l n="1270">que Abraham se holgó de verme.</l>
@@ -2751,15 +2975,18 @@
             <l n="1285">y quien <emph>la</emph> fuere siguiendo</l>
             <l>no pisará las tinieblas,</l>
             <l><emph>pues soy la luz a este efeto</emph>,</l>
-            <l><emph>del Camino de la Vida</emph>
+            <l>
+              <emph>del Camino de la Vida</emph>
             </l>
             <l part="I"><emph>y aun Vida y Camino</emph>.</l>
           </sp>
           <sp who="#judaísmo">
             <speaker>JUDAÍSMO</speaker>
-            <l part="F"><emph>¿Y eso</emph>
+            <l part="F">
+              <emph>¿Y eso</emph>
             </l>
-            <l part="I"><emph>quién lo dice?</emph>
+            <l part="I">
+              <emph>quién lo dice?</emph>
             </l>
           </sp>
           <sp who="#peregrino">
@@ -2768,7 +2995,8 @@
           </sp>
           <sp who="#judaísmo">
             <speaker>JUDAÍSMO</speaker>
-            <l part="I"><emph>¿Quién es la Verdad?</emph>
+            <l part="I">
+              <emph>¿Quién es la Verdad?</emph>
             </l>
           </sp>
           <sp who="#peregrino">
@@ -2777,37 +3005,44 @@
           </sp>
           <sp who="#judaísmo">
             <speaker>JUDAÍSMO</speaker>
-            <l><emph>Verdad, Luz, Camino y Vida,</emph>
+            <l>
+              <emph>Verdad, Luz, Camino y Vida,</emph>
             </l>
-            <l><emph>¿quieres ser? Que tienes, pienso,</emph>
+            <l>
+              <emph>¿quieres ser? Que tienes, pienso,</emph>
             </l>
             <l part="I"><emph>demonio</emph>.</l>
           </sp>
           <sp who="#peregrino">
             <speaker>PEREGRINO</speaker>
-            <l part="F"><emph>Quizá a quitarle</emph>
+            <l part="F">
+              <emph>Quizá a quitarle</emph>
             </l>
             <l n="1295"><emph>a alguien que le tiene vengo</emph>.</l>
           </sp>
           <sp who="#judaísmo">
             <speaker>JUDAÍSMO</speaker>
-            <l part="I"><emph>¿Cuándo será eso?</emph>
+            <l part="I">
+              <emph>¿Cuándo será eso?</emph>
             </l>
           </sp>
           <sp who="#peregrino">
             <speaker>PEREGRINO</speaker>
-            <l part="F"><emph>Cuando</emph>
+            <l part="F">
+              <emph>Cuando</emph>
             </l>
             <l part="I"><emph>diga el Mundo</emph>.</l>
           </sp>
           <sp who="#conocimiento">
             <speaker>DENTRO</speaker>
-            <l part="F"><emph>¡Favor, cielos!</emph>
+            <l part="F">
+              <emph>¡Favor, cielos!</emph>
             </l>
           </sp>
           <sp who="#apetito">
             <speaker>APETITO</speaker>
-            <l><emph>¡Huid todos de sus furias!</emph>
+            <l>
+              <emph>¡Huid todos de sus furias!</emph>
             </l>
           </sp>
           <sp who="#judaísmo">
@@ -2835,33 +3070,42 @@
           </sp>
           <sp who="#peregrino #naturaleza-humana #naturaleza-divina #gentilidad #judaísmo #apetito">
             <speaker>TODOS</speaker>
-            <l n="1305" part="F"><emph>¡Favor, cielos!</emph>
+            <l n="1305" part="F">
+              <emph>¡Favor, cielos!</emph>
             </l>
           </sp>
           <stage>Sale el DEMONIO vestido a lo judío.</stage>
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
             <l><emph>Rebelde espíritu mío</emph>,</l>
-            <l><emph>¿qué superiores decretos,</emph>
+            <l>
+              <emph>¿qué superiores decretos,</emph>
             </l>
-            <l><emph>sus pasos moviendo rompen</emph>
+            <l>
+              <emph>sus pasos moviendo rompen</emph>
             </l>
-            <l><emph>mis leyes? ¿Dónde vas? Pero,</emph>
+            <l>
+              <emph>mis leyes? ¿Dónde vas? Pero,</emph>
             </l>
-            <l n="1310"><emph>pues yo no lo sé, sin duda</emph>
+            <l n="1310">
+              <emph>pues yo no lo sé, sin duda</emph>
             </l>
             <l><emph>te arrastra grande misterio</emph>;</l>
-            <l><emph>y así, disfrazado a vista</emph>
+            <l>
+              <emph>y así, disfrazado a vista</emph>
             </l>
-            <l><emph>suya, entre el tumulto tengo</emph>
+            <l>
+              <emph>suya, entre el tumulto tengo</emph>
             </l>
             <l part="I">de asistir a todo.</l>
           </sp>
           <sp who="#judaísmo">
             <speaker>JUDAÍSMO</speaker>
-            <l part="F"><emph>¿Dinos</emph>
+            <l part="F">
+              <emph>¿Dinos</emph>
             </l>
-            <l part="I"><emph>qué es esto?</emph>
+            <l part="I">
+              <emph>qué es esto?</emph>
             </l>
           </sp>
           <sp who="#demonio">
@@ -2896,27 +3140,34 @@
           </sp>
           <sp who="#naturaleza-humana">
             <speaker>NATURALEZA HUMANA</speaker>
-            <l part="F"><emph>¡Ay cielos!</emph>
+            <l part="F">
+              <emph>¡Ay cielos!</emph>
             </l>
-            <l n="1330"><emph>¿Qué haré yo, infeliz, que en parte</emph>
+            <l n="1330">
+              <emph>¿Qué haré yo, infeliz, que en parte</emph>
             </l>
-            <l><emph>todo lo que él siente siento?</emph>
+            <l>
+              <emph>todo lo que él siente siento?</emph>
             </l>
           </sp>
           <sp who="#apetito">
             <speaker>APETITO</speaker>
-            <l><emph>Huid todos de sus furias,</emph>
+            <l>
+              <emph>Huid todos de sus furias,</emph>
             </l>
-            <l><emph>que aun a mí también me ha muerto,</emph>
+            <l>
+              <emph>que aun a mí también me ha muerto,</emph>
             </l>
             <l><emph>con ser yo su familiar</emph> ,</l>
-            <l n="1335"><emph>aunque no del que dijeron</emph>
+            <l n="1335">
+              <emph>aunque no del que dijeron</emph>
             </l>
             <l><emph>el familiar sin demonio</emph>.</l>
           </sp>
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
-            <l><emph>Ya muestra no sé qué lejos</emph>
+            <l>
+              <emph>Ya muestra no sé qué lejos</emph>
             </l>
             <l><emph>echar de sí el Apetito</emph>.</l>
           </sp>
@@ -2926,29 +3177,35 @@
           </sp>
           <sp who="#gentilidad">
             <speaker>GENTILIDAD</speaker>
-            <l part="F"><emph>¡Qué aspeto</emph>
+            <l part="F">
+              <emph>¡Qué aspeto</emph>
             </l>
-            <l part="I"><emph>tan temeroso!</emph>
+            <l part="I">
+              <emph>tan temeroso!</emph>
             </l>
           </sp>
           <sp who="#fe">
             <speaker>FE</speaker>
-            <l n="1340" part="F"><emph>¡Qué asombro!</emph>
+            <l n="1340" part="F">
+              <emph>¡Qué asombro!</emph>
             </l>
           </sp>
           <sp who="#conocimiento">
             <speaker>CONOCIMIENTO</speaker>
-            <l part="I"><emph>¡Qué pasmo!</emph>
+            <l part="I">
+              <emph>¡Qué pasmo!</emph>
             </l>
           </sp>
           <sp who="#penitencia">
             <speaker>PENITENCIA</speaker>
-            <l part="M"><emph>¡Qué horror!</emph>
+            <l part="M">
+              <emph>¡Qué horror!</emph>
             </l>
           </sp>
           <sp who="#apetito">
             <speaker>APETITO</speaker>
-            <l part="F"><emph>¡Qué miedo!</emph>
+            <l part="F">
+              <emph>¡Qué miedo!</emph>
             </l>
           </sp>
           <sp who="#peregrino">
@@ -2968,25 +3225,35 @@
           </sp>
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
-            <l part="F"><emph>Yo lo diré</emph>
+            <l part="F">
+              <emph>Yo lo diré</emph>
             </l>
-            <l><emph>pues no implica a este misterio,</emph>
+            <l>
+              <emph>pues no implica a este misterio,</emph>
             </l>
-            <l><emph>ya que hábito hizo el Demonio</emph>
+            <l>
+              <emph>ya que hábito hizo el Demonio</emph>
             </l>
-            <l><emph>el error del pueblo hebreo,</emph>
+            <l>
+              <emph>el error del pueblo hebreo,</emph>
             </l>
-            <l n="1350"><emph>que hable yo que asisto en todos</emph>
+            <l n="1350">
+              <emph>que hable yo que asisto en todos</emph>
             </l>
-            <l><emph>y soy la voz de su estruendo:</emph>
+            <l>
+              <emph>y soy la voz de su estruendo:</emph>
             </l>
-            <l><emph>quedaste en que eras la Luz</emph>
+            <l>
+              <emph>quedaste en que eras la Luz</emph>
             </l>
-            <l><emph>del mundo, y del mundo luego</emph>
+            <l>
+              <emph>del mundo, y del mundo luego</emph>
             </l>
-            <l><emph>Camino, Vida y Verdad,</emph>
+            <l>
+              <emph>Camino, Vida y Verdad,</emph>
             </l>
-            <l part="I"><emph>y que él lo diría.</emph>
+            <l part="I">
+              <emph>y que él lo diría.</emph>
             </l>
           </sp>
           <sp who="#peregrino">
@@ -3059,17 +3326,23 @@
             <l>sordo y mudo, quien le dé</l>
             <l>oído, voz, senda y aliento</l>
             <l>será Luz, Vida <emph>y</emph> Camino</l>
-            <l n="1375"><emph>y Verdad; cuyo argumento,</emph>
+            <l n="1375">
+              <emph>y Verdad; cuyo argumento,</emph>
             </l>
-            <l><emph>consecuencia a todo el grande,</emph>
+            <l>
+              <emph>consecuencia a todo el grande,</emph>
             </l>
-            <l><emph>hará este mundo pequeño,</emph>
+            <l>
+              <emph>hará este mundo pequeño,</emph>
             </l>
-            <l><emph>a quien reducido hoy</emph>
+            <l>
+              <emph>a quien reducido hoy</emph>
             </l>
-            <l><emph>se ve todo el Universo.</emph>
+            <l>
+              <emph>se ve todo el Universo.</emph>
             </l>
-            <l n="1380"><emph>Pues oye, tirano güésped</emph>
+            <l n="1380">
+              <emph>Pues oye, tirano güésped</emph>
             </l>
             <l>de ese amotinado reino</l>
             <l>de potencias y sentidos,</l>
@@ -3083,7 +3356,8 @@
           </sp>
           <sp who="#apetito">
             <speaker>APETITO</speaker>
-            <l><emph>Como es casa a la malicia,</emph>
+            <l>
+              <emph>Como es casa a la malicia,</emph>
             </l>
             <l><emph>echó el güésped de aposento</emph>.</l>
           </sp>
@@ -3095,16 +3369,19 @@
           </sp>
           <sp who="#naturaleza-humana">
             <speaker>NATURALEZA HUMANA</speaker>
-            <l><emph>Con más paz, con más sosiego,</emph>
+            <l>
+              <emph>Con más paz, con más sosiego,</emph>
             </l>
             <l><emph>respira él y yo respiro</emph>.</l>
           </sp>
           <stage>Va a caer; tiénele el CONOCIMIENTO.</stage>
           <sp who="#conocimiento">
             <speaker>CONOCIMIENTO</speaker>
-            <l><emph>Todavía se está ciego,</emph>
+            <l>
+              <emph>Todavía se está ciego,</emph>
             </l>
-            <l><emph>pero esta vez ya que cai</emph>
+            <l>
+              <emph>pero esta vez ya que cai</emph>
             </l>
             <l n="1395">es en su Conocimiento.</l>
           </sp>
@@ -3119,9 +3396,11 @@
           </sp>
           <sp who="#peregrino">
             <speaker>PEREGRINO</speaker>
-            <l><emph>Aunque éste el ciego no es</emph>
+            <l>
+              <emph>Aunque éste el ciego no es</emph>
             </l>
-            <l><emph>que sanó el barro, es lo mesmo</emph>
+            <l>
+              <emph>que sanó el barro, es lo mesmo</emph>
             </l>
             <l n="1400"><emph>para el místico sentido</emph>;</l>
             <l>dale, en vez de aquel espejo,</l>
@@ -3138,39 +3417,50 @@
           </sp>
           <sp who="#penitencia">
             <speaker>PENITENCIA</speaker>
-            <l><emph>¿Quién quieres que sea sino,</emph>
+            <l>
+              <emph>¿Quién quieres que sea sino,</emph>
             </l>
-            <l><emph>tras la confesión que has hecho,</emph>
+            <l>
+              <emph>tras la confesión que has hecho,</emph>
             </l>
-            <l part="I"><emph>la Penitencia?</emph>
+            <l part="I">
+              <emph>la Penitencia?</emph>
             </l>
           </sp>
           <sp who="#hombre">
             <speaker>HOMBRE</speaker>
-            <l n="1410" part="F"><emph>Aunque cobre</emph>
+            <l n="1410" part="F">
+              <emph>Aunque cobre</emph>
             </l>
-            <l><emph>vista y voz, todavía tengo</emph>
+            <l>
+              <emph>vista y voz, todavía tengo</emph>
             </l>
-            <l><emph>el oído informe, pues</emph>
+            <l>
+              <emph>el oído informe, pues</emph>
             </l>
-            <l><emph>no ejercitado, no puedo</emph>
+            <l>
+              <emph>no ejercitado, no puedo</emph>
             </l>
             <l part="I"><emph>decir que te oí</emph>.</l>
           </sp>
           <stage>Pasa a la FE.</stage>
           <sp who="#fe">
             <speaker>FE</speaker>
-            <l part="F"><emph>Pues yo</emph>
+            <l part="F">
+              <emph>Pues yo</emph>
             </l>
-            <l n="1415"><emph>ese sentido te vuelvo,</emph>
+            <l n="1415">
+              <emph>ese sentido te vuelvo,</emph>
             </l>
-            <l><emph>para que oyendo sus obras</emph>
+            <l>
+              <emph>para que oyendo sus obras</emph>
             </l>
             <l><emph>lleg[u]es mejor a mi pecho</emph>.</l>
           </sp>
           <sp who="#hombre">
             <speaker>HOMBRE</speaker>
-            <l part="I"><emph>Quién eres tú?</emph>
+            <l part="I">
+              <emph>Quién eres tú?</emph>
             </l>
           </sp>
           <sp who="#fe">
@@ -3179,9 +3469,11 @@
           </sp>
           <sp who="#hombre">
             <speaker>HOMBRE</speaker>
-            <l><emph>Pues ya cuanto digas creo,</emph>
+            <l>
+              <emph>Pues ya cuanto digas creo,</emph>
             </l>
-            <l n="1420"><emph>a quien en cuatro milagros</emph>
+            <l n="1420">
+              <emph>a quien en cuatro milagros</emph>
             </l>
             <l><emph>cuatro beneficios debo</emph>.</l>
           </sp>
@@ -3202,9 +3494,11 @@
             <speaker>DEMONIO</speaker>
             <l><emph>¿Cómo ¡ay de mí! no reviento</emph>,</l>
             <l><emph>al ver tan grande prodigio</emph>,</l>
-            <l><emph>la mina de mis incendios?</emph>
+            <l>
+              <emph>la mina de mis incendios?</emph>
             </l>
-            <l n="1430"><emph>Admirable advenedizo,</emph>
+            <l n="1430">
+              <emph>Admirable advenedizo,</emph>
             </l>
             <l><emph>ignorado nazareno</emph>,</l>
             <l>bien <emph>cre[e]rás</emph> que <emph>este</emph> prodigio</l>
@@ -3232,19 +3526,26 @@
             <l n="1450">y en virtud de Belcebut</l>
             <l>le ha dejado a su despecho,</l>
             <l>¿cómo puede ser que sea,</l>
-            <l><emph>pues es sagrado proverbio</emph>
+            <l>
+              <emph>pues es sagrado proverbio</emph>
             </l>
-            <l><emph>«contra mí es quien no es conmigo»,</emph>
+            <l>
+              <emph>«contra mí es quien no es conmigo»,</emph>
             </l>
-            <l n="1455"><emph>él mesmo contra sí mesmo?</emph>
+            <l n="1455">
+              <emph>él mesmo contra sí mesmo?</emph>
             </l>
-            <l><emph>Este imperio no era suyo,</emph>
+            <l>
+              <emph>Este imperio no era suyo,</emph>
             </l>
-            <l><emph>pues a ser suyo este imperio</emph>
+            <l>
+              <emph>pues a ser suyo este imperio</emph>
             </l>
-            <l><emph>no se le quitara a sí,</emph>
+            <l>
+              <emph>no se le quitara a sí,</emph>
             </l>
-            <l><emph>que el Rey, que murado vemos</emph>
+            <l>
+              <emph>que el Rey, que murado vemos</emph>
             </l>
             <l n="1460">y pertrechado, <emph>seguro</emph>
             </l>
@@ -3252,15 +3553,20 @@
             <l>mas si está <emph>desprevenido</emph>
             </l>
             <l>y otro con poder supremo</l>
-            <l><emph>le asalta, de ese será</emph>
+            <l>
+              <emph>le asalta, de ese será</emph>
             </l>
-            <l n="1465"><emph>el cetro y corona; luego</emph>
+            <l n="1465">
+              <emph>el cetro y corona; luego</emph>
             </l>
-            <l><emph>superior poder ha sido</emph>
+            <l>
+              <emph>superior poder ha sido</emph>
             </l>
-            <l><emph>el que le venció. Este el dedo</emph>
+            <l>
+              <emph>el que le venció. Este el dedo</emph>
             </l>
-            <l><emph>es de Dios; y pues con él</emph>
+            <l>
+              <emph>es de Dios; y pues con él</emph>
             </l>
             <l>destruyo, avasallo y venzo</l>
             <l n="1470">el reino de Belcebut,</l>
@@ -3280,13 +3586,18 @@
           </sp>
           <sp who="#gentilidad">
             <speaker>GENTILIDAD</speaker>
-            <l n="1475"><emph>Entre las tropas</emph><emph> del pueblo</emph>
+            <l n="1475">
+              <emph>Entre las tropas</emph>
+              <emph> del pueblo</emph>
             </l>
-            <l><emph>la Fe allí de una mujer,</emph>
+            <l>
+              <emph>la Fe allí de una mujer,</emph>
             </l>
-            <l><emph>y tan grande que ser pienso</emph>
+            <l>
+              <emph>y tan grande que ser pienso</emph>
             </l>
-            <l><emph>la Fe misma, levantó</emph>
+            <l>
+              <emph>la Fe misma, levantó</emph>
             </l>
             <l part="I"><emph>la voz</emph>.</l>
           </sp>
@@ -3296,7 +3607,8 @@
           </sp>
           <sp who="#naturaleza-humana">
             <speaker>NATURALEZA HUMANA</speaker>
-            <l n="1480"><emph>Porque no dudes qué dijo</emph>
+            <l n="1480">
+              <emph>Porque no dudes qué dijo</emph>
             </l>
             <l>todos lo repetiremos</l>
             <l part="I">diciendo con ella</l>
@@ -3313,15 +3625,20 @@
           </sp>
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
-            <l><emph>¡Cuánto temo que éste sea</emph>
+            <l>
+              <emph>¡Cuánto temo que éste sea</emph>
             </l>
-            <l><emph>de María el evangelio!</emph>
+            <l>
+              <emph>de María el evangelio!</emph>
             </l>
-            <l><emph>Pero, pues de otro jardín</emph>
+            <l>
+              <emph>Pero, pues de otro jardín</emph>
             </l>
-            <l><emph>áspid fui, de aqueste güerto</emph>
+            <l>
+              <emph>áspid fui, de aqueste güerto</emph>
             </l>
-            <l n="1490"><emph>lo sea, y antes que corra</emph>
+            <l n="1490">
+              <emph>lo sea, y antes que corra</emph>
             </l>
             <l><emph>su voz, corra mi veneno</emph>.</l>
             <l>Gentilidad, ¿cómo estando</l>
@@ -3336,31 +3653,40 @@
           </sp>
           <sp who="#judaísmo">
             <speaker>JUDAÍSMO</speaker>
-            <l><emph>Dices bien, y pues advierto</emph>
+            <l>
+              <emph>Dices bien, y pues advierto</emph>
             </l>
-            <l><emph>a mi pueblo tan confuso,</emph>
+            <l>
+              <emph>a mi pueblo tan confuso,</emph>
             </l>
-            <l><emph>que es Babilonia mi pueblo,</emph>
+            <l>
+              <emph>que es Babilonia mi pueblo,</emph>
             </l>
-            <l><emph>porque no pase adelante</emph>
+            <l>
+              <emph>porque no pase adelante</emph>
             </l>
-            <l n="1505"><emph>en nombre tuyo le prendo;</emph>
+            <l n="1505">
+              <emph>en nombre tuyo le prendo;</emph>
             </l>
-            <l><emph>toma, pues, y hazle la causa</emph>
+            <l>
+              <emph>toma, pues, y hazle la causa</emph>
             </l>
             <l part="I"><emph>de sedicioso</emph>.</l>
             <stage>Pásale a la GENTILIDAD.</stage>
           </sp>
           <sp who="#gentilidad">
             <speaker>GENTILIDAD</speaker>
-            <l part="F"><emph>¿A qué efeto?</emph>
+            <l part="F">
+              <emph>¿A qué efeto?</emph>
             </l>
           </sp>
           <sp who="#judaísmo">
             <speaker>JUDAÍSMO</speaker>
-            <l><emph>Al del escándalo, cuando</emph>
+            <l>
+              <emph>Al del escándalo, cuando</emph>
             </l>
-            <l><emph>no fuera porque no creo</emph>
+            <l>
+              <emph>no fuera porque no creo</emph>
             </l>
             <l part="I">ser quién dice.</l>
           </sp>
@@ -3383,48 +3709,59 @@
           </sp>
           <sp who="#judaísmo">
             <speaker>JUDAÍSMO</speaker>
-            <l><emph>Habiendo oído que viene</emph>
+            <l>
+              <emph>Habiendo oído que viene</emph>
             </l>
             <l><emph>a introducir nuevo Reino</emph>,</l>
-            <l><emph>traidor al César serás</emph>
+            <l>
+              <emph>traidor al César serás</emph>
             </l>
             <l part="I"><emph>si no le castigas</emph>.</l>
           </sp>
           <sp who="#gentilidad">
             <speaker>GENTILIDAD</speaker>
-            <l part="F"><emph>¡Cielos!</emph>
+            <l part="F">
+              <emph>¡Cielos!</emph>
             </l>
-            <l n="1520"><emph>La calunia de traidor</emph>
+            <l n="1520">
+              <emph>La calunia de traidor</emph>
             </l>
-            <l><emph>más que la de injusto temo.</emph>
+            <l>
+              <emph>más que la de injusto temo.</emph>
             </l>
-            <l><emph>Ves ahí el Hombre, pon tú</emph>
+            <l>
+              <emph>Ves ahí el Hombre, pon tú</emph>
             </l>
             <l><emph>las manos; yo te le entrego</emph>.</l>
           </sp>
           <sp who="#judaísmo">
             <speaker>JUDAÍSMO</speaker>
-            <l><emph>Tanto al verte a ti remiso</emph>
+            <l>
+              <emph>Tanto al verte a ti remiso</emph>
             </l>
-            <l n="1525"><emph>y a él culpado me enfurezco,</emph>
+            <l n="1525">
+              <emph>y a él culpado me enfurezco,</emph>
             </l>
             <l><emph>que he de castigarle yo</emph>.</l>
-            <l><emph>Va a sacar la espada y se detiene.</emph>
+            <l>
+              <emph>Va a sacar la espada y se detiene.</emph>
             </l>
             <l>A sacar iba el acero,</l>
-            <l><emph>mas no ha de ser de su muerte</emph>
+            <l>
+              <emph>mas no ha de ser de su muerte</emph>
             </l>
-            <l n="1530"><emph>tan ilustre el [instrumento]</emph>
+            <l n="1530">
+              <emph>tan ilustre el [instrumento]</emph>
             </l>
             <l>Su báculo, porque infame</l>
             <l>muera con mayor desprecio,</l>
             <l><emph>de su afrenta y de mi ira</emph>,</l>
             <l part="I">lo sea.</l>
           </sp>
-          <sp
-            who="#penitencia #apetito #gentilidad #naturaleza-divina #naturaleza-humana #conocimiento #demonio #fe #hombre #peregrino">
+          <sp who="#penitencia #apetito #gentilidad #naturaleza-divina #naturaleza-humana #conocimiento #demonio #fe #hombre #peregrino">
             <speaker>TODOS</speaker>
-            <l part="F"><emph>¿Qué haces, necio?</emph>
+            <l part="F">
+              <emph>¿Qué haces, necio?</emph>
             </l>
           </sp>
           <stage>Quítale el bordón y al darle con él se forma una cruz, y la NATURALEZA HUMANA se
@@ -3433,241 +3770,317 @@
             toma él y se va cayendo y levantando llevándose consigo el velo de la DIVINIDAD.</stage>
           <sp who="#naturaleza-humana">
             <speaker>NATURALEZA HUMANA</speaker>
-            <l n="1535"><emph>Tente, mas ¡ay! que en mi dio</emph>
+            <l n="1535">
+              <emph>Tente, mas ¡ay! que en mi dio</emph>
             </l>
             <l><emph>el golpe con que a él le ha muerto</emph>.</l>
           </sp>
           <sp who="#peregrino">
             <speaker>PEREGRINO</speaker>
-            <l><emph>La Naturaleza Humana,</emph>
+            <l>
+              <emph>La Naturaleza Humana,</emph>
             </l>
-            <l><emph>entre mí y él puesta en medio,</emph>
+            <l>
+              <emph>entre mí y él puesta en medio,</emph>
             </l>
-            <l><emph>las heridas recibió:</emph>
+            <l>
+              <emph>las heridas recibió:</emph>
             </l>
-            <l n="1540"><emph>suya es la sangre que vierto.</emph>
+            <l n="1540">
+              <emph>suya es la sangre que vierto.</emph>
             </l>
-            <l><emph>¿por qué me has desamparado,</emph>
+            <l>
+              <emph>¿por qué me has desamparado,</emph>
             </l>
-            <l part="I"><emph>Padre mío?</emph>
+            <l part="I">
+              <emph>Padre mío?</emph>
             </l>
           </sp>
           <sp who="#naturaleza-humana">
             <speaker>NATURALEZA HUMANA</speaker>
-            <l part="F"><emph>¿Cómo, viendo</emph>
+            <l part="F">
+              <emph>¿Cómo, viendo</emph>
             </l>
-            <l><emph>que recibiendo yo el golpe</emph>
+            <l>
+              <emph>que recibiendo yo el golpe</emph>
             </l>
-            <l><emph>él es el que va muriendo,</emph>
+            <l>
+              <emph>él es el que va muriendo,</emph>
             </l>
-            <l n="1545"><emph>Divina Naturaleza,</emph>
+            <l n="1545">
+              <emph>Divina Naturaleza,</emph>
             </l>
-            <l><emph>en las ansias que padezco</emph>
+            <l>
+              <emph>en las ansias que padezco</emph>
             </l>
-            <l part="I"><emph>no me socorres?</emph>
+            <l part="I">
+              <emph>no me socorres?</emph>
             </l>
           </sp>
           <stage>Llega y tírale del velo de la otra parte, de modo que entre el PEREGRINO y la
             NATURALEZA HUMANA van tirando del velo de la DIVINA.</stage>
           <sp who="#naturaleza-divina">
             <speaker>NATURALEZA DIVINA</speaker>
-            <l part="F"><emph>Conviene</emph>
+            <l part="F">
+              <emph>Conviene</emph>
             </l>
-            <l><emph>que padezcas y así tengo</emph>
+            <l>
+              <emph>que padezcas y así tengo</emph>
             </l>
-            <l><emph>de mi absoluto poder</emph>
+            <l>
+              <emph>de mi absoluto poder</emph>
             </l>
-            <l n="1550"><emph>por ahora el brazo suspenso;</emph>
+            <l n="1550">
+              <emph>por ahora el brazo suspenso;</emph>
             </l>
-            <l><emph>padece que yo te asisto</emph>
+            <l>
+              <emph>padece que yo te asisto</emph>
             </l>
-            <l><emph>aunque no te favorezco,</emph>
+            <l>
+              <emph>aunque no te favorezco,</emph>
             </l>
             <l><emph>pues, aunque me voy con él</emph>,</l>
-            <l><emph>también contigo me quedo.</emph>
+            <l>
+              <emph>también contigo me quedo.</emph>
             </l>
-            <l n="1555"><emph>Dígalo ese velo en fe</emph>
+            <l n="1555">
+              <emph>Dígalo ese velo en fe</emph>
             </l>
-            <l><emph>de que ya fue mío y le dejo</emph>
+            <l>
+              <emph>de que ya fue mío y le dejo</emph>
             </l>
             <l><emph>como en prendas</emph><emph> en tu mano</emph>.</l>
           </sp>
           <stage>Vase y suena terremoto.</stage>
-          <sp
-            who="#fe #peregrino #hombre #demonio #conocimiento #naturaleza-humana #apetito #penitencia #gentilidad #judaísmo #ángel">
+          <sp who="#fe #peregrino #hombre #demonio #conocimiento #naturaleza-humana #apetito #penitencia #gentilidad #judaísmo #ángel">
             <speaker>TODOS</speaker>
-            <l><emph>¿Qué es esto, cielos, qué es esto?</emph>
+            <l>
+              <emph>¿Qué es esto, cielos, qué es esto?</emph>
             </l>
           </sp>
           <sp who="#naturaleza-humana">
             <speaker>NATURALEZA HUMANA</speaker>
-            <l><emph>¿Qué ha de ser? Haber corrido</emph>
+            <l>
+              <emph>¿Qué ha de ser? Haber corrido</emph>
             </l>
-            <l n="1560"><emph>la Divinidad el velo,</emph>
+            <l n="1560">
+              <emph>la Divinidad el velo,</emph>
             </l>
-            <l><emph>y en mí y en él igualmente</emph>
+            <l>
+              <emph>y en mí y en él igualmente</emph>
             </l>
-            <l><emph>partir y quedarse entero;</emph>
+            <l>
+              <emph>partir y quedarse entero;</emph>
             </l>
-            <l><emph>y a su lloroso semblante</emph>
+            <l>
+              <emph>y a su lloroso semblante</emph>
             </l>
-            <l><emph>hacer común sentimiento</emph>
+            <l>
+              <emph>hacer común sentimiento</emph>
             </l>
-            <l n="1565"><emph>en mis exequias la hermosa</emph>
+            <l n="1565">
+              <emph>en mis exequias la hermosa</emph>
             </l>
             <l><emph>fábrica de el Universo</emph>.</l>
             <stage>Vase.</stage>
           </sp>
           <sp who="#fe">
             <speaker>FE</speaker>
-            <l part="I"><emph>¡Qué maravilla!</emph>
+            <l part="I">
+              <emph>¡Qué maravilla!</emph>
             </l>
             <stage>Vase.</stage>
           </sp>
           <sp who="#conocimiento">
             <speaker>CONOCIMIENTO</speaker>
-            <l part="F"><emph>¡Qué asombro!</emph>
+            <l part="F">
+              <emph>¡Qué asombro!</emph>
             </l>
             <stage>Vase.</stage>
           </sp>
           <sp who="#penitencia">
             <speaker>PENITENCIA</speaker>
-            <l part="I"><emph>¡Qué prodigio!</emph>
+            <l part="I">
+              <emph>¡Qué prodigio!</emph>
             </l>
             <stage>Vase.</stage>
           </sp>
           <sp who="#apetito">
             <speaker>APETITO</speaker>
-            <l part="F"><emph>¡Qué portento!</emph>
+            <l part="F">
+              <emph>¡Qué portento!</emph>
             </l>
             <stage>Vase.</stage>
           </sp>
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
-            <l><emph>¿Cómo sin oposición</emph>
+            <l>
+              <emph>¿Cómo sin oposición</emph>
             </l>
-            <l n="1570"><emph>del sol y la luna, veo</emph>
+            <l n="1570">
+              <emph>del sol y la luna, veo</emph>
             </l>
-            <l><emph>de aquél la faz eclisada</emph>
+            <l>
+              <emph>de aquél la faz eclisada</emph>
             </l>
-            <l><emph>y dést[a] el rostro sangriento?</emph>
+            <l>
+              <emph>y dést[a] el rostro sangriento?</emph>
             </l>
             <l><emph>Emboscada en negras nubes</emph>,</l>
-            <l><emph>la noche al paso saliendo,</emph>
+            <l>
+              <emph>la noche al paso saliendo,</emph>
             </l>
-            <l n="1575"><emph>hoy bandolera del día</emph>
+            <l n="1575">
+              <emph>hoy bandolera del día</emph>
             </l>
             <l><emph>a media tarde le ha muerto</emph>.</l>
           </sp>
           <sp who="#gentilidad">
             <speaker>GENTILIDAD</speaker>
-            <l><emph>En sedicioso motín</emph>
+            <l>
+              <emph>En sedicioso motín</emph>
             </l>
-            <l><emph>trabados los elementos</emph>
+            <l>
+              <emph>trabados los elementos</emph>
             </l>
-            <l><emph>falta el fuego, tiembla el monte,</emph>
+            <l>
+              <emph>falta el fuego, tiembla el monte,</emph>
             </l>
             <l n="1580"><emph>gime el mar y brama el viento</emph>.</l>
           </sp>
           <sp who="#hombre">
             <speaker>HOMBRE</speaker>
-            <l><emph>Las piedras unas con otras</emph>
+            <l>
+              <emph>Las piedras unas con otras</emph>
             </l>
-            <l><emph>se rompen, a cuyo encuentro,</emph>
+            <l>
+              <emph>se rompen, a cuyo encuentro,</emph>
             </l>
-            <l><emph>como huyendo, se levantan</emph>
+            <l>
+              <emph>como huyendo, se levantan</emph>
             </l>
             <l><emph>de sus sepulcros los muertos</emph>.</l>
           </sp>
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
-            <l n="1585"><emph>Todo es pavor para mí,</emph>
+            <l n="1585">
+              <emph>Todo es pavor para mí,</emph>
             </l>
-            <l><emph>aunque para mí ya el velo</emph>
+            <l>
+              <emph>aunque para mí ya el velo</emph>
             </l>
-            <l><emph>corrió la Divinidad,</emph>
+            <l>
+              <emph>corrió la Divinidad,</emph>
             </l>
             <l><emph>pues que se rasga el del tem[p]lo</emph>.</l>
           </sp>
           <sp who="#gentilidad">
             <speaker>GENTILIDAD</speaker>
-            <l><emph>Verdaderamente era,</emph>
+            <l>
+              <emph>Verdaderamente era,</emph>
             </l>
-            <l n="1590"><emph>si Gentilidad atiendo</emph>
+            <l n="1590">
+              <emph>si Gentilidad atiendo</emph>
             </l>
-            <l><emph>al centurión, este Hombre</emph>
+            <l>
+              <emph>al centurión, este Hombre</emph>
             </l>
             <l part="I"><emph>Hijo de Dios</emph>.</l>
           </sp>
           <sp who="#judaísmo">
             <speaker>JUDAÍSMO</speaker>
-            <l part="F"><emph>¡Qué mal he hecho</emph>
+            <l part="F">
+              <emph>¡Qué mal he hecho</emph>
             </l>
-            <l><emph>en darle muerte, pues no</emph>
+            <l>
+              <emph>en darle muerte, pues no</emph>
             </l>
-            <l><emph>dudo que haya hasta [a]hora i[n]genio</emph>
+            <l>
+              <emph>dudo que haya hasta [a]hora i[n]genio</emph>
             </l>
             <l n="1595">que diga que su Hacedor</l>
-            <l><emph>padece o que el mundo entero</emph>
+            <l>
+              <emph>padece o que el mundo entero</emph>
             </l>
-            <l part="I"><emph>espira!</emph>
+            <l part="I">
+              <emph>espira!</emph>
             </l>
           </sp>
           <sp who="#hombre">
             <speaker>HOMBRE</speaker>
-            <l part="F"><emph>Y dirá bien, pues</emph>
+            <l part="F">
+              <emph>Y dirá bien, pues</emph>
             </l>
-            <l><emph>yo en mí que padece siento</emph>
+            <l>
+              <emph>yo en mí que padece siento</emph>
             </l>
             <l><emph>el Justo por el Injusto</emph>.</l>
           </sp>
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
-            <l n="1600"><emph>¿Qué importa que tú creas eso</emph>
+            <l n="1600">
+              <emph>¿Qué importa que tú creas eso</emph>
             </l>
-            <l><emph>al verte libre de aquel</emph>
+            <l>
+              <emph>al verte libre de aquel</emph>
             </l>
-            <l><emph>espíritu, si aunque huyendo</emph>
+            <l>
+              <emph>espíritu, si aunque huyendo</emph>
             </l>
-            <l><emph>de aquí a inmundo lugar vaya</emph>
+            <l>
+              <emph>de aquí a inmundo lugar vaya</emph>
             </l>
-            <l><emph>yo con otros siete vuelvo</emph>
+            <l>
+              <emph>yo con otros siete vuelvo</emph>
             </l>
-            <l n="1605"><emph>aun peores contra ti?</emph>
+            <l n="1605">
+              <emph>aun peores contra ti?</emph>
             </l>
           </sp>
           <sp who="#hombre">
             <speaker>HOMBRE</speaker>
-            <l><emph>Cuando tú vuelvas con esos</emph>
+            <l>
+              <emph>Cuando tú vuelvas con esos</emph>
             </l>
-            <l><emph>siete capitales vicios,</emph>
+            <l>
+              <emph>siete capitales vicios,</emph>
             </l>
-            <l><emph>también me dará contra ellos</emph>
+            <l>
+              <emph>también me dará contra ellos</emph>
             </l>
-            <l><emph>siete virtudes el que,</emph>
+            <l>
+              <emph>siete virtudes el que,</emph>
             </l>
-            <l n="1610"><emph>sobre mi Conocimiento,</emph>
+            <l n="1610">
+              <emph>sobre mi Conocimiento,</emph>
             </l>
-            <l><emph>Penitencia y Fe tan alta,</emph>
+            <l>
+              <emph>Penitencia y Fe tan alta,</emph>
             </l>
-            <l><emph>mi Naturaleza ha puesto,</emph>
+            <l>
+              <emph>mi Naturaleza ha puesto,</emph>
             </l>
-            <l><emph>que resucitada goza</emph>
+            <l>
+              <emph>que resucitada goza</emph>
             </l>
             <l><emph>el más superior asiento</emph>.</l>
           </sp>
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
-            <l part="I"><emph>¿Adónde o cómo?</emph>
+            <l part="I">
+              <emph>¿Adónde o cómo?</emph>
             </l>
           </sp>
           <sp who="#hombre">
             <speaker>HOMBRE</speaker>
-            <l n="1615" part="F"><emph>En la cumbre</emph>
+            <l n="1615" part="F">
+              <emph>En la cumbre</emph>
             </l>
-            <l><emph>del Monte del Testamento,</emph>
+            <l>
+              <emph>del Monte del Testamento,</emph>
             </l>
-            <l><emph>y aunque tú verlo no puedas</emph>
+            <l>
+              <emph>y aunque tú verlo no puedas</emph>
             </l>
             <l><emph>llega a sentirlo sin verlo</emph>.</l>
           </sp>
@@ -3675,100 +4088,131 @@
             y la FE y el CONOCIMIENTO, y la PENITENCIA más abajo.</stage>
           <sp who="#música">
             <speaker>MÚSICA</speaker>
-            <l><emph>Abra el Hombre los ojos,</emph>
+            <l>
+              <emph>Abra el Hombre los ojos,</emph>
             </l>
-            <l n="1620"><emph>pues al más ciego</emph>
+            <l n="1620">
+              <emph>pues al más ciego</emph>
             </l>
-            <l><emph>le da vista su propio</emph>
+            <l>
+              <emph>le da vista su propio</emph>
             </l>
             <l><emph>Conocimiento</emph>.</l>
           </sp>
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
-            <l><emph>Aunque en sombras, lo diviso</emph>
+            <l>
+              <emph>Aunque en sombras, lo diviso</emph>
             </l>
-            <l><emph>no rendido, lo confieso,</emph>
+            <l>
+              <emph>no rendido, lo confieso,</emph>
             </l>
-            <l n="1625"><emph>y él ausente, esas virtudes</emph>
+            <l n="1625">
+              <emph>y él ausente, esas virtudes</emph>
             </l>
             <l part="I"><emph>destruye</emph>.</l>
           </sp>
           <sp who="#peregrino">
             <speaker>PEREGRINO</speaker>
-            <l part="F"><emph>Si fundas, fiero,</emph>
+            <l part="F">
+              <emph>Si fundas, fiero,</emph>
             </l>
-            <l><emph>en mi ausencia su peligro,</emph>
+            <l>
+              <emph>en mi ausencia su peligro,</emph>
             </l>
             <l><emph>no me ausento aunque me ausento</emph>.</l>
           </sp>
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
-            <l part="I"><emph>¿Cómo?</emph>
+            <l part="I">
+              <emph>¿Cómo?</emph>
             </l>
           </sp>
           <sp who="#peregrino">
             <speaker>PEREGRINO</speaker>
-            <l part="F"><emph>Como porque tengan</emph>
+            <l part="F">
+              <emph>Como porque tengan</emph>
             </l>
-            <l n="1630"><emph>contra las iras esfuerzo,</emph>
+            <l n="1630">
+              <emph>contra las iras esfuerzo,</emph>
             </l>
-            <l><emph>de siete pecados siete</emph>
+            <l>
+              <emph>de siete pecados siete</emph>
             </l>
-            <l><emph>virtudes darles prevengo,</emph>
+            <l>
+              <emph>virtudes darles prevengo,</emph>
             </l>
-            <l><emph>proporcionadas las armas</emph>
+            <l>
+              <emph>proporcionadas las armas</emph>
             </l>
-            <l><emph>de otros siete sacramentos,</emph>
+            <l>
+              <emph>de otros siete sacramentos,</emph>
             </l>
-            <l n="1635"><emph>y en el de la eucaristía,</emph>
+            <l n="1635">
+              <emph>y en el de la eucaristía,</emph>
             </l>
-            <l><emph>que es decir de gracia aumento,</emph>
+            <l>
+              <emph>que es decir de gracia aumento,</emph>
             </l>
-            <l><emph>yéndome humano y divino,</emph>
+            <l>
+              <emph>yéndome humano y divino,</emph>
             </l>
-            <l><emph>divino y humano quedo</emph>
+            <l>
+              <emph>divino y humano quedo</emph>
             </l>
-            <l><emph>debajo de las especies</emph>
+            <l>
+              <emph>debajo de las especies</emph>
             </l>
-            <l n="1640"><emph>de aquel pan en alma y cuerpo,</emph>
+            <l n="1640">
+              <emph>de aquel pan en alma y cuerpo,</emph>
             </l>
             <l><emph>donde enviada oblación</emph>,</l>
             <l><emph>que esto es misa, al Padre eterno</emph>,</l>
-            <l><emph>como obra del amor sube</emph>
+            <l>
+              <emph>como obra del amor sube</emph>
             </l>
             <l><emph>en pirámides de fuego</emph>.</l>
           </sp>
           <stage>Descúbrese un pirámide con el Sacramento.</stage>
           <sp who="#música">
             <speaker>MÚSICA</speaker>
-            <l n="1645"><emph>Abra el Hombre los labios,</emph>
+            <l n="1645">
+              <emph>Abra el Hombre los labios,</emph>
             </l>
-            <l><emph>pues si confiesa,</emph>
+            <l>
+              <emph>pues si confiesa,</emph>
             </l>
-            <l><emph>le darán voz y oído</emph>
+            <l>
+              <emph>le darán voz y oído</emph>
             </l>
             <l><emph>Fe y Penitencia</emph>.</l>
           </sp>
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
-            <l><emph>¡Ay de mí! que eternamente</emph>
+            <l>
+              <emph>¡Ay de mí! que eternamente</emph>
             </l>
             <l n="1650"><emph>ni aun adorarle merezco</emph>.</l>
           </sp>
           <sp who="#judaísmo">
             <speaker>JUDAÍSMO</speaker>
-            <l><emph>¡Qué admiraciones al verle</emph>
+            <l>
+              <emph>¡Qué admiraciones al verle</emph>
             </l>
-            <l part="I"><emph>haces!</emph>
+            <l part="I">
+              <emph>haces!</emph>
             </l>
           </sp>
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
-            <l part="F"><emph>¿Qué mucho, vil pueblo,</emph>
+            <l part="F">
+              <emph>¿Qué mucho, vil pueblo,</emph>
             </l>
-            <l><emph>es que yo haga admiraciones</emph>
+            <l>
+              <emph>es que yo haga admiraciones</emph>
             </l>
-            <l><emph>cuando él hace sacramentos?</emph>
+            <l>
+              <emph>cuando él hace sacramentos?</emph>
             </l>
             <stage>Vase.</stage>
           </sp>
@@ -3780,19 +4224,26 @@
             <speaker>PEREGRINO</speaker>
             <l><emph>Más es, pues estoy yo dentro</emph>.</l>
             <stage>ábrese la Hostia y vese dentro un NIñO JESúS vestido de peregrino.</stage>
-            <l><emph>que si a la Divinidad</emph>
+            <l>
+              <emph>que si a la Divinidad</emph>
             </l>
-            <l><emph>un velo cubrió viviendo,</emph>
+            <l>
+              <emph>un velo cubrió viviendo,</emph>
             </l>
-            <l><emph>a la Humanidad y a ella</emph>
+            <l>
+              <emph>a la Humanidad y a ella</emph>
             </l>
-            <l n="1660"><emph>muriendo cubrió otro velo</emph>
+            <l n="1660">
+              <emph>muriendo cubrió otro velo</emph>
             </l>
-            <l><emph>que es el de esta blanca hostia</emph>
+            <l>
+              <emph>que es el de esta blanca hostia</emph>
             </l>
-            <l><emph>en cuyo merecimiento</emph>
+            <l>
+              <emph>en cuyo merecimiento</emph>
             </l>
-            <l><emph>aquella infinita deuda</emph>
+            <l>
+              <emph>aquella infinita deuda</emph>
             </l>
             <l><emph>ya tiene infinito precio</emph>.</l>
           </sp>
@@ -3802,7 +4253,8 @@
           </sp>
           <sp who="#judaísmo">
             <speaker>JUDAÍSMO</speaker>
-            <l><emph>Aunque tú lo digas, yo</emph>
+            <l>
+              <emph>Aunque tú lo digas, yo</emph>
             </l>
             <l><emph>por ahora no lo creo</emph>.</l>
             <stage>Vase.</stage>
@@ -3813,25 +4265,31 @@
           </sp>
           <sp who="#peregrino">
             <speaker>PEREGRINO</speaker>
-            <l><emph>Pues tú serás según eso,</emph>
+            <l>
+              <emph>Pues tú serás según eso,</emph>
             </l>
-            <l n="1670"><emph>Gentilidad, la heredera</emph>
+            <l n="1670">
+              <emph>Gentilidad, la heredera</emph>
             </l>
-            <l><emph>de la viña que, protervo,</emph>
+            <l>
+              <emph>de la viña que, protervo,</emph>
             </l>
-            <l><emph>perdió el Judaísmo cuando</emph>
+            <l>
+              <emph>perdió el Judaísmo cuando</emph>
             </l>
             <l><emph>la muerte dio al heredero</emph>.</l>
           </sp>
           <sp who="#naturaleza-divina">
             <speaker>NATURALEZA DIVINA</speaker>
-            <l><emph>Feliz yo, que con tal triunfo</emph>
+            <l>
+              <emph>Feliz yo, que con tal triunfo</emph>
             </l>
             <l n="1675"><emph>gozosa a mi patria vuelvo</emph>.</l>
           </sp>
           <sp who="#naturaleza-humana">
             <speaker>NATURALEZA HUMANA</speaker>
-            <l><emph>Feliz yo, pues de tu unión</emph>
+            <l>
+              <emph>Feliz yo, pues de tu unión</emph>
             </l>
             <l><emph>gozaré siglos eternos</emph>.</l>
           </sp>
@@ -3849,19 +4307,24 @@
           </sp>
           <sp who="#hombre">
             <speaker>HOMBRE</speaker>
-            <l><emph>Y feliz yo, que lo creo,</emph></l>
-            <l><emph>[recobrado] en mis sentidos</emph>
+            <l>
+              <emph>Y feliz yo, que lo creo,</emph>
+            </l>
+            <l>
+              <emph>[recobrado] en mis sentidos</emph>
             </l>
             <l><emph>con todos juntos diciendo</emph>:</l>
           </sp>
-          <sp
-            who="#fe #gentilidad #penitencia #hombre #conocimiento #naturaleza-divina #naturaleza-humana #peregrino #música">
+          <sp who="#fe #gentilidad #penitencia #hombre #conocimiento #naturaleza-divina #naturaleza-humana #peregrino #música">
             <speaker>TODAS Y LA MÚSICA</speaker>
-            <l><emph>Abra el Hombre los labios,</emph>
+            <l>
+              <emph>Abra el Hombre los labios,</emph>
             </l>
-            <l n="1685"><emph>pues si confiesa,</emph>
+            <l n="1685">
+              <emph>pues si confiesa,</emph>
             </l>
-            <l><emph>le darán voz y oído</emph>
+            <l>
+              <emph>le darán voz y oído</emph>
             </l>
             <l><emph>Fe y Penitencia</emph>.</l>
           </sp>

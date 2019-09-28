@@ -20,14 +20,14 @@
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/las-ordenes-militares--0/html/</idno>
           <bibl type="originalSource">
-            <title>Edición digital a partir de la de Pedro Pando y Mier, 
-              Autos Sacramentales, alegóricos y historiales..., Madrid, 
-              Manuel Ruiz de Murga, 1717 y cotejada con la edición de 
-              Nicolás González Ruiz, Piezas maestras del teatro teológico español, 4ª ed., 
+            <title>Edición digital a partir de la de Pedro Pando y Mier,
+              Autos Sacramentales, alegóricos y historiales..., Madrid,
+              Manuel Ruiz de Murga, 1717 y cotejada con la edición de
+              Nicolás González Ruiz, Piezas maestras del teatro teológico español, 4ª ed.,
               Madrid, Biblioteca de Autores Cristianos, 1997, t. I, pp. 479-516. </title>
-          <date type="print" when="1717"/>
-          <date type="written"/>
-         </bibl>
+            <date type="print" when="1717"/>
+            <date type="written"/>
+          </bibl>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -2429,13 +2429,19 @@
           <sp who="#david">
             <speaker>DAVID</speaker>
             <l part="F"> Que <emph>et in peccato</emph></l>
-            <l><emph>concepit me mater mea.</emph></l>
+            <l>
+              <emph>concepit me mater mea.</emph>
+            </l>
           </sp>
           <sp who="#música">
             <speaker>MÚSICA</speaker>
             <stage>Dentro.</stage>
-            <l><emph>Et in peccato</emph></l>
-            <l><emph>concepit me mater mea.</emph></l>
+            <l>
+              <emph>Et in peccato</emph>
+            </l>
+            <l>
+              <emph>concepit me mater mea.</emph>
+            </l>
           </sp>
           <sp who="#naturaleza">
             <speaker>NATURALEZA</speaker>

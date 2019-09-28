@@ -21,8 +21,8 @@
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/la-primer-flor-del-carmelo--0/html/</idno>
           <bibl type="originalSource">
-            <title>Texto crítico preparado por Fernando Plata Parga procedente de la edición 
-              Calderón de la Barca, Pedro, La primer flor del Carmelo, ed. Fernando Plata Parga, 
+            <title>Texto crítico preparado por Fernando Plata Parga procedente de la edición
+              Calderón de la Barca, Pedro, La primer flor del Carmelo, ed. Fernando Plata Parga,
               Pamplona–Kassel, Universidad de Navarra–Reichenberger, 1998. ISBN: 3-931887-46-4.</title>
             <date type="print"/>
             <date type="written"/>
@@ -746,7 +746,9 @@
             <l n="390">Abigail, que en sí encierra</l>
             <l>sentidos que decir quieren,</l>
             <l>en la tradición más cierta,</l>
-            <l><emph>La madre de la alegría.</emph></l>
+            <l>
+              <emph>La madre de la alegría.</emph>
+            </l>
             <l>Pues si ya sentado queda</l>
             <l n="395">que el Mesías que se aguarda</l>
             <l>en sombras se manifiesta,</l>
@@ -2231,8 +2233,7 @@
             <l>por entonces satisfecho,</l>
             <l>de nuevo volvió a poblar</l>
             <l n="1030">el mundo, y darle de nuevo</l>
-            <l part="I">
-              <emph>esperanza</emph>...</l>
+            <l part="I"><emph>esperanza</emph>...</l>
           </sp>
           <sp who="#liberalidad">
             <speaker>LIBERALIDAD</speaker>

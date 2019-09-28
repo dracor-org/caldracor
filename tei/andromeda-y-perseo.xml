@@ -22,8 +22,8 @@
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/andromeda-y-perseo--0/html/</idno>
           <bibl type="originalSource">
-            <title>Texto crítico preparado por José María Ruano de la Haza procedente de la edición 
-              Calderón de la Barca, Pedro, Andrómeda y Perseo, ed. José María Ruano de la Haza, 
+            <title>Texto crítico preparado por José María Ruano de la Haza procedente de la edición
+              Calderón de la Barca, Pedro, Andrómeda y Perseo, ed. José María Ruano de la Haza,
               Pamplona–Kassel, Universidad de Navarra–Reichenberger, 1995. ISBN: 3-930700-43-3</title>
             <date type="print"/>
             <date type="written"/>
@@ -369,8 +369,7 @@
             <l>anteví en San Isidoro</l>
             <l>que el bello esplendor del oro,</l>
             <l>que en tus rizos se corona,</l>
-            <l n="165">
-              <emph>andrómadas</emph>, en el griego</l>
+            <l n="165"><emph>andrómadas</emph>, en el griego</l>
             <l>idioma, quiere decir.</l>
             <l>Y, volviendo a proseguir,</l>
             <l>Enrico Estephano luego</l>
@@ -392,9 +391,7 @@
             <l>labrado a su semejanza-</l>
             <l n="185">de todos estos sentidos</l>
             <l>que en sí el griego frase trae,</l>
-            <l>
-              <emph>androdeas</emph>, <emph>androae</emph>
-            </l>
+            <l><emph>androdeas</emph>, <emph>androae</emph></l>
             <l>y <emph>andromacas</emph> reducidos,</l>
             <l>un nombre proprio saqué,</l>
             <l n="190">viendo convenir en ti</l>

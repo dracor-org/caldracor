@@ -21,8 +21,8 @@
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/el-nuevo-hospicio-de-pobres--0/html/</idno>
           <bibl type="originalSource">
-            <title>Texto crítico preparado por Ignacio Arellano procedente de la edición 
-              Calderón de la Barca, Pedro, El nuevo hospicio de pobres, ed. Ignacio Arellano, 
+            <title>Texto crítico preparado por Ignacio Arellano procedente de la edición
+              Calderón de la Barca, Pedro, El nuevo hospicio de pobres, ed. Ignacio Arellano,
               Pamplona–Kassel, Universidad de Navarra–Reichenberger, 1995. ISBN: 3-930700-34-4.</title>
             <date type="print"/>
             <date type="written"/>
@@ -3696,8 +3696,10 @@
             <l>ya que en vuestra santa palabra nos vemos</l>
             <l n="2165">sanos, perdonados, salvos y contentos.</l>
           </sp>
-          <ab><emph>Si quid dictum contra Fidem, aut bonos mores, quasi non dictum, &amp; omnia sub
-              correctionem.</emph></ab>
+          <ab>
+            <emph>Si quid dictum contra Fidem, aut bonos mores, quasi non dictum, &amp; omnia sub
+              correctionem.</emph>
+          </ab>
           <trailer>FIN</trailer>
         </div>
       </div>
