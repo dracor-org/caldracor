@@ -15,6 +15,7 @@
           <time when="09:55:19"/>
         </date>
         <idno type="quadramaX">El Faetonte</idno>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q69034587</idno>
         <idno type="dracor" xml:base="https://dracor.org/id/">cal000013</idno>
       </publicationStmt>
       <sourceDesc>

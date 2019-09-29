@@ -15,6 +15,7 @@
           <time when="19:39:43"/>
         </date>
         <idno type="quadramaX">La nave del mercader</idno>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q69033759</idno>
         <idno type="dracor" xml:base="https://dracor.org/id/">cal000032</idno>
       </publicationStmt>
       <sourceDesc>

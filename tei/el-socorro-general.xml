@@ -15,6 +15,7 @@
           <time when="10:44:20"/>
         </date>
         <idno type="quadramaX">El socorro general</idno>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q69034179</idno>
         <idno type="dracor" xml:base="https://dracor.org/id/">cal000022</idno>
       </publicationStmt>
       <sourceDesc>
