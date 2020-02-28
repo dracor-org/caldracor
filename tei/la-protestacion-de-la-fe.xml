@@ -10,13 +10,20 @@
         <author key="pnd:118518399">Calderón de la Barca, Pedro</author>
       </titleStmt>
       <publicationStmt>
-        <authority>Automatisch generiertes XML/TEI</authority>
+        <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
+        <publisher xml:id="dracor">DraCor</publisher>
         <date when="2019-03-11">
           <time when="13:51:51"/>
         </date>
         <idno type="quadramaX">La protestación de la fe</idno>
         <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q69033505</idno>
         <idno type="dracor" xml:base="https://dracor.org/id/">cal000035</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

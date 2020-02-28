@@ -10,12 +10,19 @@
         <author key="pnd:118518399">Calderón de la Barca, Pedro</author>
       </titleStmt>
       <publicationStmt>
-        <authority>Automatisch generiertes XML/TEI</authority>
+        <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
+        <publisher xml:id="dracor">DraCor</publisher>
         <date when="2019-05-16">
           <time when="08:13:31"/>
         </date>
         <idno type="quadramaX">Loa para el auto sacramental intitulado «La humildad coronada de las plantas»</idno>
         <idno type="dracor" xml:base="https://dracor.org/id/">cal000046</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">

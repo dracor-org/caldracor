@@ -10,13 +10,20 @@
         <author key="pnd:118518399">Calderón de la Barca, Pedro</author>
       </titleStmt>
       <publicationStmt>
-        <authority>Automatisch generiertes XML/TEI</authority>
+        <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
+        <publisher xml:id="dracor">DraCor</publisher>
         <date when="2019-05-23">
           <time when="23:18:03"/>
         </date>
         <idno type="quadramaX">El médico de su honra</idno>
         <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q5352475</idno>
         <idno type="dracor" xml:base="https://dracor.org/id/">cal000018</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
