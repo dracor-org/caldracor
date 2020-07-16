@@ -1,0 +1,1 @@
+Edited by members of the [Institute of Romance Languages and Literatures](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/romanisches-seminar/home/) of University of Tübingen.
