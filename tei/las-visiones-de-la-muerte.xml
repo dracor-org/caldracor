@@ -16,7 +16,7 @@
           <time when="07:57:42"/>
         </date>
         <idno type="quadramaX">Las visiones de la muerte</idno>
-        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q69032190</idno>
+        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q69032190</idno>
         <idno type="dracor" xml:base="https://dracor.org/id/">cal000040</idno>
         <availability>
           <licence>

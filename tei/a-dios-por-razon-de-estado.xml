@@ -15,7 +15,7 @@
           <time when="13:08:14"/>
         </date>
         <idno type="quadramaX">A Dios por razón de estado</idno>
-        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q5654107</idno>
+        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q5654107</idno>
         <idno type="dracor" xml:base="https://dracor.org/id/">cal000001</idno>
         <availability>
           <licence>
