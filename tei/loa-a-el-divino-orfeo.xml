@@ -7,7 +7,16 @@
       <titleStmt>
         <title type="main">Loa a El divino Orfeo</title>
         <title type="sub">Auto sacramental</title>
-        <author key="pnd:118518399">Calderón de la Barca, Pedro</author>
+        <author>
+          <persName>
+            <forename>Pedro</forename>
+            <surname sort="1">Calderón</surname>
+            <nameLink>de la</nameLink>
+            <surname>Barca</surname>
+          </persName>
+          <idno type="wikidata">Q170800</idno>
+          <idno type="pnd">118518399</idno>
+        </author>        
       </titleStmt>
       <publicationStmt>
         <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
