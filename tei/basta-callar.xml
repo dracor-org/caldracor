@@ -91,6 +91,9 @@
                <person xml:id="nise" sex="FEMALE">
                   <persName>NISE</persName>
                </person>
+               <person xml:id="música" sex="MALE">
+                  <persName>MÚSICA</persName>
+               </person>
             </listPerson>
          </particDesc>
          <textClass>
@@ -2956,7 +2959,7 @@
                      <l>y es fuerza ser cruel acción…</l>
                   </lg>
                </sp>
-               <sp who="#césar-y-música">
+               <sp who="#césar #música">
                   <speaker rend="caps">César y Música</speaker>
                   <lg>
                      <l>…acción lograda en el susto.</l>
@@ -2981,7 +2984,7 @@
                      <l>¿por qué tan cruel le publicas ...</l>
                   </lg>
                </sp>
-               <sp who="#césar-y-música">
+               <sp who="#césar #música">
                   <speaker rend="caps">César y Música</speaker>
                   <lg>
                      <l>...que recatas el intento?</l>
@@ -3006,7 +3009,7 @@
                      <l>de que no reirás mi pena,…</l>
                   </lg>
                </sp>
-               <sp who="#césar-y-música">
+               <sp who="#césar #música">
                   <speaker rend="caps">César y Música</speaker>
                   <lg>
                      <l>...di, pues lloras mi contento?</l>
@@ -3053,7 +3056,7 @@
                      <l>vivir para ti el temor…</l>
                   </lg>
                </sp>
-               <sp who="#césar-y-música">
+               <sp who="#césar #música">
                   <speaker rend="caps">César y Música</speaker>
                   <lg>
                      <l>...si murió para mí el gusto ...</l>
@@ -9645,7 +9648,7 @@
                      <l>pues que dijo en sus concetos...)</l>
                   </lg>
                </sp>
-               <sp who="#ellos-y-la-música">
+               <sp who="#serafina #conde #margarita #flora #duque #música">
                   <speaker rend="caps">Ellos Y La Música</speaker>
                   <lg>
                      <l>Quien por cobardes respetos</l>
