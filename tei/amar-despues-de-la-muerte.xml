@@ -44,13 +44,13 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <person xml:id="don-álvaro-tuzaní" sex="MALE">
+               <person xml:id="don-álvaro" sex="MALE">
                   <persName>DON ÁLVARO TUZANÍ</persName>
                </person>
-               <person xml:id="don-juan-malec" sex="MALE">
+               <person xml:id="malec" sex="MALE">
                   <persName>DON JUAN MALEC, viejo</persName>
                </person>
-               <person xml:id="don-fernando-de-válor" sex="MALE">
+               <person xml:id="válor" sex="MALE">
                   <persName>DON FERNANDO DE VÁLOR</persName>
                </person>
                <person xml:id="alcuzcuz" sex="MALE">
@@ -59,25 +59,25 @@
                <person xml:id="cadí" sex="MALE">
                   <persName>CADÍ, morisco viejo</persName>
                </person>
-               <person xml:id="don-juan-de-mendoza" sex="MALE">
+               <person xml:id="mendoza" sex="MALE">
                   <persName>DON JUAN DE MENDOZA</persName>
                </person>
-               <person xml:id="señor-don-juan-de-austria" sex="MALE">
+               <person xml:id="don-juan" sex="MALE">
                   <persName>EL SEÑOR DON JUAN DE AUSTRIA</persName>
                </person>
-               <person xml:id="don-lope-de-figueroa" sex="MALE">
+               <person xml:id="don-lope" sex="MALE">
                   <persName>DON LOPE DE FIGUEROA</persName>
                </person>
-               <person xml:id="don-alonso-de-zúñiga" sex="MALE">
+               <person xml:id="don-alonso" sex="MALE">
                   <persName>DON ALONSO DE ZÚÑIGA, corregidor</persName>
                </person>
                <person xml:id="garcés" sex="MALE">
                   <persName>GARCÉS, soldado</persName>
                </person>
-               <person xml:id="doña-isabel-tuzaní" sex="FEMALE">
+               <person xml:id="doña-isabel" sex="FEMALE">
                   <persName>DOÑA ISABEL TUZANÍ</persName>
                </person>
-               <person xml:id="doña-clara-malec" sex="FEMALE">
+               <person xml:id="doña-clara" sex="FEMALE">
                   <persName>DOÑA CLARA MALEC</persName>
                </person>
                <person xml:id="beatriz" sex="FEMALE">
@@ -89,10 +89,10 @@
                <person xml:id="criado" sex="MALE">
                   <persName>UN CRIADO</persName>
                </person>
-               <person xml:id="moriscos" sex="MALE">
+               <person xml:id="morisco" sex="MALE">
                   <persName>MORISCOS</persName>
                </person>
-               <person xml:id="moriscas" sex="FEMALE">
+               <person xml:id="morisca" sex="FEMALE">
                   <persName>MORISCAS</persName>
                </person>
                <person xml:id="soldados-cristianos" sex="MALE">
@@ -100,6 +100,18 @@
                </person>
                <person xml:id="soldados-moriscos" sex="MALE">
                   <persName>SOLDADOS MORISCOS</persName>
+               </person>
+               <person xml:id="soldado-1" sex="MALE">
+                  <persName>SOLDADOS MORISCOS</persName>
+               </person>
+               <person xml:id="soldado-2" sex="MALE">
+                  <persName>SOLDADO 2</persName>
+               </person>
+               <person xml:id="soldado-3" sex="MALE">
+                  <persName>SOLDADO 3</persName>
+               </person>
+               <person xml:id="música" sex="MALE">
+                  <persName>MÚSICA</persName>
                </person>
             </listPerson>
          </particDesc>
@@ -497,7 +509,7 @@
                   <speaker>UNO</speaker>
                   <l>Todos decimos lo mismo.</l>
                </sp>
-               <sp who="#una-morisca">
+               <sp who="#morisca">
                   <speaker>UNA MORISCA</speaker>
                   <l n="205">Y yo en el nombre de cuantas</l>
                   <l>moriscas Granada tiene,</l>
@@ -2318,7 +2330,7 @@
             <div type="scene" n="3">
                <stage>Escena III</stage>
                <stage>UN SOLDADO, GARCÉS, ALCUZCUZ.-Dichos.</stage>
-               <sp who="#un-soldado">
+               <sp who="#soldado-1">
                   <speaker>UN SOLDADO</speaker>
                   <stage>Dentro.</stage>
                   <l part="F">Deteneos.</l>
@@ -2793,7 +2805,7 @@
                   <l part="F">Los brazos</l>
                   <l>conformen eternos lazos.</l>
                </sp>
-               <sp who="#los-dos">
+               <sp who="#don-álvaro #malec">
                   <speaker>LOS DOS</speaker>
                   <l part="I">Yo soy feliz...</l>
                </sp>
@@ -3041,7 +3053,7 @@
                   <l>Dos veces desde hoy seréis</l>
                   <l part="I">venturosas.</l>
                </sp>
-               <sp who="#los-dos">
+               <sp who="#don-álvaro #doña-clara">
                   <speaker>LOS DOS</speaker>
                   <stage>Para sí.</stage>
                   <l part="F">Lo mostráis</l>
@@ -3411,7 +3423,7 @@
                   <l>podremos llegarnos más.-</l>
                   <l>A Galera marche el tercio.</l>
                </sp>
-               <sp who="#un-soldado">
+               <sp who="#soldado-1">
                   <speaker>UN SOLDADO</speaker>
                   <l part="I">Pase la palabra.</l>
                </sp>
@@ -3419,7 +3431,7 @@
                   <speaker>OTRO</speaker>
                   <l part="F">Pase.</l>
                </sp>
-               <sp who="#soldados">
+               <sp who="#soldado-1 #soldado-3 #soldado-3">
                   <speaker>SOLDADOS</speaker>
                   <l part="I">A Galera.</l>
                </sp>
@@ -3569,7 +3581,7 @@
                   <l>me boca, que no la encuentro?</l>
                </sp>
                <stage>Cajas dentro.</stage>
-               <sp who="#soldados">
+               <sp who="#soldado-1 #soldado-2 #soldado-3">
                   <speaker>SOLDADOS</speaker>
                   <stage>Dentro.</stage>
                   <l n="970">Centinelas de Galera,</l>
@@ -3912,8 +3924,8 @@
                   <l>Pues ¿desde anoche, que fue</l>
                   <l part="I">eso, estás aquí?</l>
                </sp>
-               <sp who="#alcuzcuz-¿">
-                  <speaker>ALCUZCUZ ¿</speaker>
+               <sp who="#alcuzcuz">
+                  <speaker>ALCUZCUZ</speaker>
                   <l part="F">Qué hablalde</l>
                   <l n="50">desde anoche, si no haber</l>
                   <l>que me dormir un instante</l>
@@ -4201,7 +4213,7 @@
                   <l part="F">A retirar.</l>
                   <l part="I">Pase la palabra.</l>
                </sp>
-               <sp who="#soldados">
+               <sp who="#soldado-1 #soldado-2 #soldado-3">
                   <speaker>SOLDADOS</speaker>
                   <l part="F">Pase.</l>
                </sp>
@@ -4496,7 +4508,7 @@
                   <l>no ciñe este acero en balde.</l>
                   <stage>Vase.</stage>
                </sp>
-               <sp who="#dona-isabel">
+               <sp who="#doña-isabel">
                   <speaker>DONA ISABEL</speaker>
                   <stage>Aparte.</stage>
                   <l>¡Pluguiera al cielo sus montes,</l>
@@ -5073,7 +5085,7 @@
             <div type="scene" n="13">
                <stage>Escena XIII</stage>
                <stage>SOLDADOS; y luego, GARCÉS, DON ÁLVARO y ALCUZCUZ.</stage>
-               <sp who="#soldados">
+               <sp who="#soldado-1 #soldado-2 #soldado-3">
                   <speaker>SOLDADOS</speaker>
                   <stage>Dentro.</stage>
                   <l part="F">Deténganse.</l>
@@ -5084,13 +5096,13 @@
                   <l part="I">Afuera.</l>
                </sp>
                <stage>Riñen dentro.</stage>
-               <sp who="#un-soldado">
+               <sp who="#soldado-1">
                   <speaker>UN SOLDADO</speaker>
                   <stage>Dentro.</stage>
                   <l part="F">Tengo de darle la muerte,</l>
                   <l>aunque el mundo lo defienda.</l>
                </sp>
-               <sp who="#otro-soldado">
+               <sp who="#soldado-2">
                   <speaker>OTRO SOLDADO</speaker>
                   <l n="680">Con nuestro enemigo es.</l>
                </sp>
@@ -5118,7 +5130,7 @@
                   <l>¡A bonas cosas venir,</l>
                   <l>a no hablar, e a ver pendencias!</l>
                </sp>
-               <sp who="#un-soldado">
+               <sp who="#soldado-1">
                   <speaker>UN SOLDADO</speaker>
                   <l part="I">Muerto soy.</l>
                   <stage>Cae dentro.</stage>
@@ -5131,7 +5143,7 @@
                   <speaker>DON LOPE</speaker>
                   <l part="M">¿Qué es esto?</l>
                </sp>
-               <sp who="#un-soldado">
+               <sp who="#soldado-1">
                   <speaker>UN SOLDADO</speaker>
                   <l n="690" part="F">Muerto</l>
                   <l>está: huyamos, no nos prendan.</l>
@@ -5425,7 +5437,7 @@
             <div type="scene" n="17">
                <stage>Escena XVII</stage>
                <stage>UN SOLDADO, que hace la posta; GARCÉS, con prisiones.-Dichos.</stage>
-               <sp who="#soldado">
+               <sp who="#soldado-1">
                   <speaker>SOLDADO</speaker>
                   <stage>A GARCÉS.</stage>
                   <l n="840">Aquel vuestro camarada</l>
@@ -5453,7 +5465,7 @@
                   <l>pues mis servicios serán</l>
                   <l>los méritos de mi vida.</l>
                </sp>
-               <sp who="#soldado">
+               <sp who="#soldado-1">
                   <speaker>SOLDADO</speaker>
                   <l n="860">Yo le diré que aquí os vea,</l>
                   <l>en acabando de hacer</l>
@@ -5555,7 +5567,7 @@
                   <l>la ocasión que me ha traído</l>
                   <l part="I">a esta tierra.</l>
                </sp>
-               <sp who="#soldado">
+               <sp who="#soldado-1">
                   <speaker>SOLDADO</speaker>
                   <l n="900" part="F">No tenéis</l>
                   <l>que temer los dos morir,</l>
@@ -5574,7 +5586,7 @@
                   <stage>Aparte.</stage>
                   <l>El que tal decir revente.</l>
                </sp>
-               <sp who="#soldado">
+               <sp who="#soldado-1">
                   <speaker>SOLDADO</speaker>
                   <l>Y así, el tal mudo este día,</l>
                   <l>de todos tres, morirá.</l>
@@ -5975,7 +5987,7 @@
                   <l>que yo la haré a cuchilladas...</l>
                   <stage>Acuchíllanse.</stage>
                </sp>
-               <sp who="#un-soldado">
+               <sp who="#soldado-1">
                   <speaker>UN SOLDADO</speaker>
                   <l part="I">Muerto soy.</l>
                   <stage>Huye, y cae dentro.</stage>
@@ -6085,7 +6097,7 @@
                   <l>he rompido, hasta llegar</l>
                   <l>a los pies desta montaña.</l>
                </sp>
-               <sp who="#un-soldado">
+               <sp who="#soldado-1">
                   <speaker>UN SOLDADO</speaker>
                   <stage>Dentro.</stage>
                   <l>Antes que entre en la espesura,</l>
@@ -6095,7 +6107,7 @@
                   <speaker>DON ÁLVARO</speaker>
                   <l>Todos sois pocos: cercadme.</l>
                </sp>
-               <sp who="#un-morisco">
+               <sp who="#morisco">
                   <speaker>UN MORISCO</speaker>
                   <l part="I">A Berja subid.</l>
                </sp>
