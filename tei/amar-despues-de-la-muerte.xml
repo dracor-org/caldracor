@@ -89,8 +89,14 @@
                <person xml:id="criado" sex="MALE">
                   <persName>UN CRIADO</persName>
                </person>
-               <person xml:id="morisco" sex="MALE">
+               <person xml:id="moriscos" sex="MALE">
                   <persName>MORISCOS</persName>
+               </person>
+               <person xml:id="morisco" sex="MALE">
+                  <persName>UN MORISCO</persName>
+               </person>
+               <person xml:id="morisca" sex="FEMALE">
+                  <persName>UNA MORISCA</persName>
                </person>
                <person xml:id="morisca" sex="FEMALE">
                   <persName>MORISCAS</persName>
@@ -4038,7 +4044,7 @@
                   <l n="105">aunque se ignora el lenguaje.</l>
                </sp>
                <stage>Explosión de una mina.</stage>
-               <sp who="#moriscos">
+               <sp who="#morisco">
                   <speaker>MORISCOS</speaker>
                   <stage>Dentro.</stage>
                   <l part="I">¡Valedme, cielos!</l>
@@ -5011,7 +5017,7 @@
                   <l>los extremos, pues alcanza</l>
                   <l n="645">desde un soldado a una alteza?</l>
                </sp>
-               <sp who="#soldado-l">
+               <sp who="#soldado-1">
                   <speaker>SOLDADO l.º</speaker>
                   <l>Al partir pues la ganancia,</l>
                   <l>le doy el Cupido en cuenta</l>
