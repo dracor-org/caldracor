@@ -94,6 +94,9 @@
                <person xml:id="venus" sex="FEMALE">
                   <persName>VENUS</persName>
                </person>
+               <person xml:id="libio" sex="MALE">
+                  <persName>LIBIO</persName>
+               </person>
                <person xml:id="criado" sex="MALE">
                   <persName>CRIADO</persName>
                </person>
@@ -3522,14 +3525,14 @@
                   </lg>
                </sp>
                <stage>Vanse AMINTA, IRENE, CLORI, Y FLORA. [Salen DIANA y VENUS, en el aire]</stage>
-               <sp who="#[diana]">
+               <sp who="#diana">
                   <speaker rend="caps">[diana]</speaker>
                   <lg>
                      <l>Ya de nuestra competencia</l>
                      <l>está a la vista el examen.</l>
                   </lg>
                </sp>
-               <sp who="#[venus]">
+               <sp who="#venus">
                   <speaker rend="caps">[venus]</speaker>
                   <lg>
                      <l>Pues la primera experiencia,</l>
