@@ -75,6 +75,9 @@
                </person>
                <person xml:id="jacinta" sex="FEMALE">
                   <persName>JACINTA</persName>
+               <person xml:id="criado" sex="MALE">
+                  <persName>UN CRIADO</persName>
+               </person>
                </person>
             </listPerson>
          </particDesc>
