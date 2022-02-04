@@ -3098,7 +3098,7 @@
                   </lg>
                </sp>
                <stage>Dentro, Licanoro.</stage>
-               <sp who="#licanor">
+               <sp who="#licanoro">
                   <speaker rend="caps">Licanor</speaker>
                   <lg>
                      <l>Sí.</l>
@@ -5955,7 +5955,7 @@
                      <l>... que a quien la razón no vale,</l>
                   </lg>
                </sp>
-               <sp who="#y-los-dos">
+               <sp who="#auristela #lisidante">
                   <speaker rend="caps">y los dos</speaker>
                   <lg>
                      <l>¿qué vale tener razón?</l>
@@ -9606,7 +9606,7 @@
                      <l>razón, al saber quién fueseis...</l>
                   </lg>
                </sp>
-               <sp who="#ella-y-música">
+               <sp who="#clariana #música">
                   <speaker rend="caps">Ella y música</speaker>
                   <lg>
                      <l>... que alternando a coros</l>
