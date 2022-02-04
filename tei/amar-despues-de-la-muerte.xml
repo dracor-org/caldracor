@@ -98,7 +98,7 @@
                <person xml:id="morisca" sex="FEMALE">
                   <persName>UNA MORISCA</persName>
                </person>
-               <person xml:id="morisca" sex="FEMALE">
+               <person xml:id="moriscas" sex="FEMALE">
                   <persName>MORISCAS</persName>
                </person>
                <person xml:id="soldados-cristianos" sex="MALE">
