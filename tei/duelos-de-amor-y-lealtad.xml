@@ -1139,7 +1139,7 @@
                   </lg>
                </sp>
                <stage>Descubren a Morlaco echado en el suelo.</stage>
-               <sp who="#soldado">
+               <sp who="#soldados-persianos-1">
                   <speaker rend="caps">Soldado</speaker>
                   <lg>
                      <l>Aquí hay uno que sin duda</l>
@@ -1568,7 +1568,7 @@
                      <l>de campaña mi marido.</l>
                   </lg>
                </sp>
-               <sp who="#canta">
+               <sp who="#flora">
                   <speaker rend="caps">Canta</speaker>
                   <lg>
                      <l>Que de la Fortuna</l>
@@ -1694,7 +1694,7 @@
                   </lg>
                </sp>
                <stage>Salen.</stage>
-               <sp who="#las-cuatro">
+               <sp who="#laura #ismenia #doris #flora">
                   <speaker rend="caps">Las Cuatro</speaker>
                   <lg>
                      <l>Señora,</l>
@@ -1710,13 +1710,13 @@
                      <l>esa persiana me da.</l>
                   </lg>
                </sp>
-               <sp who="#las-dos">
+               <sp who="#laura #ismenia">
                   <speaker rend="caps">Las Dos</speaker>
                   <lg>
                      <l>¡Qué lástima!</l>
                   </lg>
                </sp>
-               <sp who="#otras-dos">
+               <sp who="#doris #flora">
                   <speaker rend="caps">Otras Dos</speaker>
                   <lg>
                      <l>¡Qué dolor!</l>
@@ -6446,8 +6446,8 @@
                      <l>mejorada nuestra suerte.</l>
                   </lg>
                </sp>
-               <sp who="#irífle">
-                  <speaker rend="caps">Irífle</speaker>
+               <sp who="#irífile">
+                  <speaker rend="caps">Irífile</speaker>
                   <lg>
                      <l>Solo la mejora es verte</l>
                      <l>y hablarte sin el temor</l>
