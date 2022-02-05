@@ -352,7 +352,7 @@
                   </lg>
                </sp>
                <stage>Al irse retirando a un lado, echan agua sobre él de lo alto.</stage>
-               <sp who="#criada">
+               <sp who="#criada-1">
                   <speaker rend="caps">Criada</speaker>
                   <stage type="withText">dentro</stage>
                   <lg>
@@ -471,7 +471,7 @@
                      <stage>Silba y sale a la puerta una criada.</stage>
                   </lg>
                </sp>
-               <sp who="#criada">
+               <sp who="#criada-1">
                   <speaker rend="caps">Criada</speaker>
                   <lg>
                      <l>¿Eres tú?</l>
@@ -484,7 +484,7 @@
                      <l>Yo soy.</l>
                   </lg>
                </sp>
-               <sp who="#criada">
+               <sp who="#criada-1">
                   <speaker rend="caps">Criada</speaker>
                   <lg>
                      <l>¡Albricias! Que nada</l>
@@ -502,7 +502,7 @@
                      <l>Oye.</l>
                   </lg>
                </sp>
-               <sp who="#criada">
+               <sp who="#criada-1">
                   <speaker rend="caps">Criada</speaker>
                   <lg>
                      <l>Adiós, adiós.</l>
