@@ -89,6 +89,12 @@
                <person xml:id="zagales" sex="MALE">
                   <persName>CORO DE ZAGALES</persName>
                </person>
+               <person xml:id="hombres" sex="MALE">
+                  <persName>CORO DE HOMBRES</persName>
+               </person>
+               <person xml:id="mujeres" sex="MALE">
+                  <persName>CORO DE MUJERES</persName>
+               </person>
                <person xml:id="aura" sex="FEMALE">
                   <persName>AURA</persName>
                </person>
@@ -154,7 +160,7 @@
                   <l>del torpe que desprecias,</l>
                   <l>presentan ante ti.</l>
                </sp>
-               <sp who="#coro">
+               <sp who="#ninfa-1 #ninfa-2 #ninfa-3">
                   <speaker>CORO</speaker>
                   <l n="10">Y en forma de querella</l>
                   <l>de su amante delito</l>
@@ -177,7 +183,7 @@
                   <l>la línea sale y entra</l>
                   <l>disfamando de todas.</l>
                </sp>
-               <sp who="#coro">
+               <sp who="#ninfa-1 #ninfa-2 #ninfa-3">
                   <speaker>CORO</speaker>
                   <l>La votada pureza</l>
                   <l n="25">con que tu templo sirven</l>
@@ -200,7 +206,7 @@
                   <l>entre sus flores bellas,</l>
                   <l>hurtos de amor lograba.</l>
                </sp>
-               <sp who="#coro">
+               <sp who="#ninfa-1 #ninfa-2 #ninfa-3">
                   <speaker>CORO</speaker>
                   <l>Y como a él no puedan</l>
                   <l>seguirle nuestras plantas,</l>
@@ -253,7 +259,7 @@
                   <speaker>POCRIS</speaker>
                   <l part="I">Ven, fiera.</l>
                </sp>
-               <sp who="#coro">
+               <sp who="#ninfa-1 #ninfa-2 #ninfa-3">
                   <speaker>CORO</speaker>
                   <l part="F">Ven, tirana.</l>
                </sp>
@@ -505,7 +511,7 @@
                   <speaker>CÉFALO</speaker>
                   <l part="F">Espera.</l>
                </sp>
-               <sp who="#pocris #el-coro">
+               <sp who="#pocris #ninfa-1 #ninfa-2 #ninfa-3">
                   <speaker>POCRIS y el CORO</speaker>
                   <l part="I">¿Qué hay que esperar?</l>
                </sp>
@@ -527,11 +533,11 @@
                   <l>que trajo a socorrerla,</l>
                   <l>usó de la divina.</l>
                </sp>
-               <sp who="#coro">
+               <sp who="#ninfa-1 #ninfa-2 #ninfa-3">
                   <speaker>CORO</speaker>
                   <l part="I">¿Cómo?</l>
                </sp>
-               <sp who="#coro-2º">
+               <sp who="#zagales">
                   <speaker>CORO 2.º</speaker>
                   <stage>Dentro.</stage>
                   <l part="F">Desta manera.</l>
@@ -542,7 +548,7 @@
                   <l>¡Ay infeliz de aquella</l>
                   <l n="225">que hizo verdad haber quien amor muera!</l>
                </sp>
-               <sp who="#coro">
+               <sp who="#ninfa-1 #ninfa-2 #ninfa-3">
                   <speaker>CORO</speaker>
                   <l>En aire convertida,</l>
                   <l>desvanecida vuela</l>
@@ -1563,7 +1569,7 @@
                <stage>Dentro grita de pastores, y salen cantando todos los músicos, y detrás dellos
                   CÉFALO, ERÓSTRATO y CLARÍN, de villanos, con dones en las manos, excepto CLARÍN,
                   que no le trae.</stage>
-               <sp who="#coro-de-hombres">
+               <sp who="#música">
                   <speaker>CORO DE HOMBRES</speaker>
                   <l>Venid, moradores de Lidia, venid,</l>
                   <l>venid, que hoy de marzo la luna se cumple,</l>
@@ -1729,7 +1735,7 @@
                   <l>las otras sus aras adornen perfumes.</l>
                   <stage>Vase CÉFALO.</stage>
                </sp>
-               <sp who="#coro-2º">
+               <sp who="#zagales">
                   <speaker>CORO 2.º</speaker>
                   <l>Venid, que hoy de marzo la luna se cumple.</l>
                </sp>
@@ -1825,7 +1831,7 @@
                   <l>en que partidos el día y la noche,</l>
                   <l>iguala Diana las sombras y luces.</l>
                </sp>
-               <sp who="#coro-1º">
+               <sp who="#hombres">
                   <speaker>CORO 1.º</speaker>
                   <l>Venid, y trayendo de rosas y flores,</l>
                   <l n="180">de fieras y aves los dones comunes,</l>
@@ -1854,7 +1860,7 @@
                   <l>las músicas canciones,</l>
                   <l>decid para blasón de mis blasones...</l>
                </sp>
-               <sp who="#coro-1º">
+               <sp who="#hombres">
                   <speaker>CORO 1.º</speaker>
                   <l>Pues la vitoria mayor</l>
                   <l n="200">vencerse a sí mismo ha sido,</l>
@@ -1985,12 +1991,12 @@
                   <speaker>TODOS</speaker>
                   <l n="265">¡Viva el olvido y muera el amor!</l>
                </sp>
-               <sp who="#coro-2º">
+               <sp who="#mujeres">
                   <speaker>CORO 2.º</speaker>
                   <l>Todos de nuestro ejercicio</l>
                   <l>las primicias dedicamos.</l>
                </sp>
-               <sp who="#coro-1º">
+               <sp who="#hombres">
                   <speaker>CORO 1.º</speaker>
                   <l>Y todas las acetamos</l>
                   <l>de Diana en sacrificio.</l>
@@ -2188,7 +2194,7 @@
                   <l>el aborrecer.</l>
                </sp>
                <stage>Huyen todos y desaparécese DIANA.</stage>
-               <sp who="#coro-2º">
+               <sp who="#mujeres">
                   <speaker>CORO 2.º</speaker>
                   <l part="I">Huyamos todos.</l>
                </sp>
@@ -2215,7 +2221,7 @@
                   <l n="425">por si no la hallo otra vez.</l>
                   <stage>Vase.</stage>
                </sp>
-               <sp who="#coro">
+               <sp who="#hombres #ninfa-1 #ninfa-2 #ninfa-3">
                   <speaker>CORO</speaker>
                   <l>Pues hemos quedado solas,</l>
                   <l>el templo a cerrar volved.</l>
@@ -3662,7 +3668,7 @@
                   <l>por ver si más se dilatan</l>
                   <l>mis sacrílegos recelos.</l>
                </sp>
-               <sp who="#coro">
+               <sp who="#música">
                   <speaker>CORO</speaker>
                   <l n="350">Que si el aire diere celos,</l>
                   <l>celos aun del aire matan.</l>
