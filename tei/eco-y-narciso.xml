@@ -552,7 +552,7 @@
                      <l>¡Quién no tuviera temor!</l>
                   </lg>
                </sp>
-               <sp who="#la-música">
+               <sp who="#música">
                   <speaker rend="caps">La Música</speaker>
                   <lg>
                      <l>A los años felices de Eco,</l>
@@ -6880,8 +6880,8 @@
                      <l>Siento.</l>
                   </lg>
                </sp>
-               <sp who="#eco-ymúsicos">
-                  <speaker rend="caps">Eco ymúsicos</speaker>
+               <sp who="#eco #música">
+                  <speaker rend="caps">Eco y músicos</speaker>
                   <lg>
                      <l>¡Ay que me muero de celos</l>
                      <l>y amores, ay que me muero!</l>
