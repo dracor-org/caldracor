@@ -51,7 +51,7 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <person xml:id="federico" sex="MALE">
+               <person xml:id="duque" sex="MALE">
                   <persName>FEDERICO</persName>
                </person>
                <person xml:id="fadrique" sex="MALE">
@@ -7055,8 +7055,8 @@
                      <l>cuerdo me hará con favores.</l>
                   </lg>
                </sp>
-               <sp who="#perní">
-                  <speaker rend="caps">Perní</speaker>
+               <sp who="#pernía">
+                  <speaker rend="caps">Pernía</speaker>
                   <lg>
                      <l>Conque en la comedia acaban</l>
                      <l>de una causa dos efectos;</l>
