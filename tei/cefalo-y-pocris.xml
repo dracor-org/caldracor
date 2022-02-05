@@ -113,6 +113,12 @@
                <person xml:id="soldado-1" sex="MALE">
                   <persName>UN SOLDADO</persName>
                </person>
+               <person xml:id="dueña" sex="FEMALE">
+                  <persName>DUEÑA</persName>
+               </person>
+               <person xml:id="dueñas" sex="FEMALE">
+                  <persName>DUEÑAS</persName>
+               </person>
                <person xml:id="música" sex="MALE">
                   <persName>MÚSICA</persName>
                </person>
@@ -7868,7 +7874,7 @@
                      <l>siente bien cualquiera mal.</l>
                   </lg>
                </sp>
-               <sp who="#toda-la-música">
+               <sp who="#música">
                   <speaker rend="caps">Toda La Música</speaker>
                   <lg>
                      <l>Vaya, vaya, [de mojiganga,</l>
