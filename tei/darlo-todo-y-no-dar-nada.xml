@@ -100,7 +100,7 @@
                   <persName>VOZ 1</persName>
                </person>
                <person xml:id="voz-2" sex="MALE">
-                  <persName>VOZ 1</persName>
+                  <persName>VOZ 2</persName>
                </person>
                <person xml:id="coro-1" sex="MALE">
                   <persName>CORO 1</persName>
@@ -3400,13 +3400,13 @@
                   </lg>
                </sp>
                <stage>Voces dentro.</stage>
-               <sp who="#dentro-1">
+               <sp who="#voz-1">
                   <speaker rend="caps">Dentro 1</speaker>
                   <lg>
                      <l>Al valle.</l>
                   </lg>
                </sp>
-               <sp who="#dentro-2">
+               <sp who="#voz-2">
                   <speaker rend="caps">Dentro 2</speaker>
                   <lg>
                      <l>A la selva.</l>
@@ -3505,7 +3505,7 @@
                      <l>que celebra el lisonjero.</l>
                   </lg>
                </sp>
-               <sp who="#dentro-1">
+               <sp who="#voz-1">
                   <speaker rend="caps">Dentro 1</speaker>
                   <lg>
                      <l>Al monte.</l>
@@ -5146,7 +5146,7 @@
                   </lg>
                </sp>
                <stage>Canta toda la música.</stage>
-               <sp who="#músicos">
+               <sp who="#música">
                   <speaker rend="caps">Músicos</speaker>
                   <lg>
                      <l>A Nise adoro, y aunqué</l>
@@ -5893,7 +5893,7 @@
                   </lg>
                </sp>
                <stage>La música dentro.</stage>
-               <sp who="#músicos">
+               <sp who="#música">
                   <speaker rend="caps">Músicos</speaker>
                   <lg>
                      <l>Condición, y retrato</l>
@@ -5930,7 +5930,7 @@
                      <l>qué ídolo, qué amor es este?</l>
                   </lg>
                </sp>
-               <sp who="#músicos">
+               <sp who="#música">
                   <speaker rend="caps">Músicos</speaker>
                   <lg>
                      <l>Cuando libre el cabello</l>
@@ -5970,7 +5970,7 @@
                      <l>de que la vida le diese.</l>
                   </lg>
                </sp>
-               <sp who="#músicos">
+               <sp who="#música">
                   <speaker rend="caps">Músicos</speaker>
                   <lg>
                      <l>Quien se abrasa, y no sabe</l>
@@ -6007,7 +6007,7 @@
                      <l>Mentir las horas de ausente.</l>
                   </lg>
                </sp>
-               <sp who="#músicos">
+               <sp who="#música">
                   <speaker rend="caps">Músicos</speaker>
                   <lg>
                      <l>Arcos son sus cejas</l>
@@ -6069,7 +6069,7 @@
                      <l>menos que la ajena duele.</l>
                   </lg>
                </sp>
-               <sp who="#músicos">
+               <sp who="#música">
                   <speaker rend="caps">Músicos</speaker>
                   <lg>
                      <l>Son sus ojos preciados</l>
@@ -6121,7 +6121,7 @@
                      <l>lo que a ti te desvanece.</l>
                   </lg>
                </sp>
-               <sp who="#músicos">
+               <sp who="#música">
                   <speaker rend="caps">Músicos</speaker>
                   <lg>
                      <l>Un pleito a sus mejillas</l>
@@ -6175,7 +6175,7 @@
                      <l>¿Contra ti? ¿Pues de qué suerte?</l>
                   </lg>
                </sp>
-               <sp who="#músicos">
+               <sp who="#música">
                   <speaker rend="caps">Músicos</speaker>
                   <lg>
                      <l>Si se enoja, y sus labios</l>
@@ -6241,7 +6241,7 @@
                   </lg>
                </sp>
                <stage>Pónela delante el retrato.</stage>
-               <sp who="#músicos">
+               <sp who="#música">
                   <speaker rend="caps">Músicos</speaker>
                   <lg>
                      <l>Condición y retrato</l>
@@ -7084,7 +7084,7 @@
                   </lg>
                </sp>
                <stage>dentro música.</stage>
-               <sp who="#una-voz">
+               <sp who="#voz-1">
                   <speaker rend="caps">Una voz</speaker>
                   <lg>
                      <l>Solo el silencio testigo</l>
@@ -7108,7 +7108,7 @@
                   </lg>
                </sp>
                <stage>dentro música.</stage>
-               <sp who="#otra-voz">
+               <sp who="#voz-2">
                   <speaker rend="caps">Otra voz</speaker>
                   <lg>
                      <l>Aun no cabe lo que siento</l>
@@ -8857,7 +8857,7 @@
                   </lg>
                </sp>
                <stage/>
-               <sp who="#músicos">
+               <sp who="#música">
                   <speaker rend="caps">Músicos</speaker>
                   <stage type="withText">dentro.</stage>
                   <lg>
@@ -8886,7 +8886,7 @@
                   </lg>
                </sp>
                <stage/>
-               <sp who="#músicos">
+               <sp who="#música">
                   <speaker rend="caps">Músicos</speaker>
                   <stage type="withText">dentro.</stage>
                   <lg>
@@ -8921,7 +8921,7 @@
                   </lg>
                </sp>
                <stage/>
-               <sp who="#músicos">
+               <sp who="#música">
                   <speaker rend="caps">Músicos</speaker>
                   <stage type="withText">dentro</stage>
                   <lg>
@@ -8983,7 +8983,7 @@
                   </lg>
                </sp>
                <stage>La música, las cajas y la representación todo a un tiempo, y dicen dentro.</stage>
-               <sp who="#la-música">
+               <sp who="#música">
                   <speaker rend="caps">La música</speaker>
                   <lg>
                      <l>En repúblicas de amor</l>
