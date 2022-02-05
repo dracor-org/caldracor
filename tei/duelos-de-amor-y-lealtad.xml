@@ -88,25 +88,25 @@
                   <persName>FLORA</persName>
                </person>
                <person xml:id="soldados-persianos-1" sex="MALE">
-                  <persName>SOLDADOS PERSIANOS 1</persName>
+                  <persName>SOLDADO PERSIANO 1</persName>
                </person>
                <person xml:id="soldados-persianos-2" sex="MALE">
-                  <persName>SOLDADOS PERSIANOS 2</persName>
+                  <persName>SOLDADO PERSIANO 2</persName>
                </person>
                <person xml:id="soldados-persianos-3" sex="MALE">
-                  <persName>SOLDADOS PERSIANOS 3</persName>
+                  <persName>SOLDADO PERSIANO 3</persName>
                </person>
                <person xml:id="soldados-persianos-4" sex="MALE">
-                  <persName>SOLDADOS PERSIANOS 4</persName>
+                  <persName>SOLDADO PERSIANO 4</persName>
                </person>
                <person xml:id="cósdroas" sex="MALE">
                   <persName>CÓSDROAS</persName>
                </person>
                <person xml:id="soldados-fenicios-1" sex="MALE">
-                  <persName>SOLDADOS FENICIOS 1</persName>
+                  <persName>SOLDADO FENICIO 1</persName>
                </person>
                <person xml:id="soldados-fenicios-2" sex="MALE">
-                  <persName>SOLDADOS FENICIOS 2</persName>
+                  <persName>SOLDADO FENICIO 2</persName>
                </person>
                <person xml:id="morlaco" sex="MALE">
                   <persName>MORLACO</persName>
