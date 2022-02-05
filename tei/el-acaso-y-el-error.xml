@@ -1622,8 +1622,8 @@
                      <l>Es la cura más perfeta.</l>
                   </lg>
                </sp>
-               <sp who="#pesote">
-                  <speaker rend="caps">Pesote</speaker>
+               <sp who="#perote">
+                  <speaker rend="caps">Perote</speaker>
                   <lg>
                      <l>Que así hice yo con Gileta.</l>
                   </lg>
@@ -2100,8 +2100,8 @@
                      <l>Le dije: «Yo a vos también».</l>
                   </lg>
                </sp>
-               <sp who="#pesote">
-                  <speaker rend="caps">Pesote</speaker>
+               <sp who="#perote">
+                  <speaker rend="caps">Perote</speaker>
                   <lg>
                      <l>Pues si dijo todo eso,</l>
                      <l>Digo que tenéis razón.</l>
@@ -2474,8 +2474,8 @@
                      <l>En tu busca vengo.</l>
                   </lg>
                </sp>
-               <sp who="#díana">
-                  <speaker rend="caps">Díana</speaker>
+               <sp who="#diana">
+                  <speaker rend="caps">Diana</speaker>
                   <lg>
                      <l>¿Qué me mandas?</l>
                   </lg>
@@ -2918,7 +2918,7 @@
                      <l>yo la envidiosa al verte...</l>
                   </lg>
                </sp>
-               <sp who="#diana #música">
+               <sp who="#diana #músicos">
                   <speaker rend="caps">Ella Y Música</speaker>
                   <lg>
                      <l>Que si raudales presumes,</l>
