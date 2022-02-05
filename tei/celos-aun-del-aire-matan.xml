@@ -77,14 +77,35 @@
                <person xml:id="rústico" sex="MALE">
                   <persName>RÚSTICO</persName>
                </person>
-               <person xml:id="coro-de-ninfas" sex="FEMALE">
-                  <persName>CORO DE NINFAS</persName>
+               <person xml:id="ninfa-1" sex="FEMALE">
+                  <persName>NINFA 1</persName>
                </person>
-               <person xml:id="coro-de-zagales" sex="MALE">
+               <person xml:id="ninfa-2" sex="FEMALE">
+                  <persName>NINFA 2</persName>
+               </person>
+               <person xml:id="ninfa-3" sex="FEMALE">
+                  <persName>NINFA 3</persName>
+               </person>
+               <person xml:id="zagales" sex="MALE">
                   <persName>CORO DE ZAGALES</persName>
                </person>
                <person xml:id="aura" sex="FEMALE">
                   <persName>AURA</persName>
+               </person>
+               <person xml:id="música" sex="MALE">
+                  <persName>MÚSICA</persName>
+               </person>
+               <person xml:id="voz-1" sex="FEMALE">
+                  <persName>VOZ 1</persName>
+               </person>
+               <person xml:id="voz-2" sex="FEMALE">
+                  <persName>VOZ 2</persName>
+               </person>
+               <person xml:id="voz-3" sex="FEMALE">
+                  <persName>VOZ 3</persName>
+               </person>
+               <person xml:id="voz-4" sex="FEMALE">
+                  <persName>VOZ 4</persName>
                </person>
             </listPerson>
          </particDesc>
@@ -1114,7 +1135,7 @@
                   <speaker>RÚSTICO</speaker>
                   <l>Pues ella por león me tenía de antes.</l>
                </sp>
-               <sp who="#las-dos">
+               <sp who="#pocris #floreta">
                   <speaker>LAS DOS</speaker>
                   <l n="545">¿No hay quien de tan bruta fiera</l>
                   <l>nos favorezca, y ampare?</l>
@@ -1282,7 +1303,7 @@
                   <speaker>CÉFALO</speaker>
                   <l>¡Ay de mí! ¡Qué viva voz!</l>
                </sp>
-               <sp who="#los-dos">
+               <sp who="#céfalo #pocris">
                   <speaker>LOS DOS</speaker>
                   <l>Hacia la parte del alma</l>
                   <l>hablando está al corazón.</l>
@@ -1512,7 +1533,7 @@
                   <speaker>CÉFALO</speaker>
                   <l n="700">Diciendo esté al corazón...</l>
                </sp>
-               <sp who="#los-dos #aura">
+               <sp who="#céfalo #pocris #aura">
                   <speaker>LOS DOS y AURA</speaker>
                   <l>Inspire suave el aura de amor.</l>
                </sp>
@@ -1530,7 +1551,7 @@
                   <l>Con que diremos cantando</l>
                   <l n="705">de nuestros amos al son.</l>
                </sp>
-               <sp who="#los-dos">
+               <sp who="#clarín #floreta">
                   <speaker>LOS DOS</speaker>
                   <l>Inspire suave el aura de amor.</l>
                </sp>
@@ -2450,7 +2471,7 @@
                   <speaker>CÉFALO</speaker>
                   <l n="515">Y no siendo cruel...</l>
                </sp>
-               <sp who="#los-dos">
+               <sp who="#céfalo #pocris">
                   <speaker>LOS DOS</speaker>
                   <l>No enmienda al amar</l>
                   <l>el aborrecer.</l>
@@ -2479,7 +2500,7 @@
                   <speaker>CÉFALO</speaker>
                   <l>Está en que penséis...</l>
                </sp>
-               <sp who="#los-dos">
+               <sp who="#céfalo #pocris">
                   <speaker>LOS DOS</speaker>
                   <l>Que siendo constante</l>
                   <l>y no siendo cruel,</l>
@@ -2614,7 +2635,7 @@
                   <l n="575">No ha de pasar ante mí</l>
                   <l>de tal abrazo la fee.</l>
                </sp>
-               <sp who="#los-dos">
+               <sp who="#clarín #floreta">
                   <speaker>LOS DOS</speaker>
                   <l part="I">¿Qué es esto?</l>
                </sp>
@@ -2854,15 +2875,15 @@
                <stage>Vanse los dos, y descúbrese la perspectiva del incendio, 
                   y AURA volando sobre el fuego, y van pasando las ninfas, 
                   y se entran, como van diciendo los versos.</stage>
-               <sp who="#ninfa-1ª">
+               <sp who="#ninfa-1">
                   <speaker>NINFA 1.ª</speaker>
                   <l>Moradores destos riscos...</l>
                </sp>
-               <sp who="#ninfa-2ª">
+               <sp who="#ninfa-2">
                   <speaker>NINFA 2.ª</speaker>
                   <l>Pastores destos desiertos...</l>
                </sp>
-               <sp who="#ninfa-3ª">
+               <sp who="#ninfa-3">
                   <speaker>NINFA 3.ª</speaker>
                   <l>Cazadores destas selvas...</l>
                </sp>
@@ -2882,11 +2903,11 @@
                   <l>su gran fábrica se ha vuelto.</l>
                   <l part="I">¡Fuego!</l>
                </sp>
-               <sp who="#voz-1ª">
+               <sp who="#voz-1">
                   <speaker>VOZ 1.ª</speaker>
                   <l n="685" part="F">¡Que me abraso, fuego!</l>
                </sp>
-               <sp who="#voz-2ª">
+               <sp who="#voz-2">
                   <speaker>VOZ 2.ª</speaker>
                   <l part="I">¡Que me quemo!</l>
                </sp>
@@ -2950,19 +2971,19 @@
                   <l>toda su máquina al suelo,</l>
                   <l>socorrer alguna vida.</l>
                </sp>
-               <sp who="#voz-1ª">
+               <sp who="#voz-1">
                   <speaker>VOZ 1.ª</speaker>
                   <l>¡Que me abraso! ¡Fuego!</l>
                </sp>
-               <sp who="#voz-2ª">
+               <sp who="#voz-2">
                   <speaker>VOZ 2.ª</speaker>
                   <l>¡Que me muero! ¡Fuego!</l>
                </sp>
-               <sp who="#voz-3ª">
+               <sp who="#voz-3">
                   <speaker>VOZ 3.ª</speaker>
                   <l n="705">¡Que me quemo! ¡Fuego!</l>
                </sp>
-               <sp who="#voz-4ª">
+               <sp who="#voz-4">
                   <speaker>VOZ 4.ª</speaker>
                   <l>¡Que me ahogo! ¡Fuego!</l>
                </sp>
@@ -3036,20 +3057,20 @@
                   <l>donde su lamento diga,</l>
                   <l n="735">cifrando esotros lamentos...</l>
                </sp>
-               <sp who="#voz-1ª">
+               <sp who="#voz-1">
                   <speaker>VOZ 1.ª</speaker>
                   <stage>Dentro.</stage>
                   <l>¡Que me abraso! ¡Fuego!</l>
                </sp>
-               <sp who="#voz-2ª">
+               <sp who="#voz-2">
                   <speaker>VOZ 2.ª</speaker>
                   <l>¡Que me muero! ¡Fuego!</l>
                </sp>
-               <sp who="#voz-3ª">
+               <sp who="#voz-3">
                   <speaker>VOZ 3.ª</speaker>
                   <l>¡Que me quemo! ¡Fuego!</l>
                </sp>
-               <sp who="#voz-4ª">
+               <sp who="#voz-4">
                   <speaker>VOZ 4.ª</speaker>
                   <l>¡Que me ahogo! ¡Fuego!</l>
                </sp>
@@ -3137,7 +3158,7 @@
                   <l>a vista destos, cobre</l>
                   <l>Rústico la primera forma suya.</l>
                </sp>
-               <sp who="#las-tres">
+               <sp who="#diana #megera #tesífone">
                   <speaker>LAS TRES</speaker>
                   <l>Tú verás que, obedientes</l>
                   <l>a las órdenes tuyas,</l>
@@ -3174,7 +3195,7 @@
                   <l n="70">desde donde yo influya</l>
                   <l>rigores, que los tres...</l>
                </sp>
-               <sp who="#todas">
+               <sp who="#diana #megera #tesífone #alecto">
                   <speaker>TODAS</speaker>
                   <l>Padezcan, penen, giman, lloren, sufran.</l>
                </sp>
@@ -3594,7 +3615,7 @@
                   <speaker>ALECTO</speaker>
                   <l>Pocris, si a saber alcanzas...</l>
                </sp>
-               <sp who="#las-dos">
+               <sp who="#pocris #floreta">
                   <speaker>LAS DOS</speaker>
                   <l>Pocris, si a saber alcanzas...</l>
                </sp>
@@ -3677,7 +3698,7 @@
                   <speaker>MEGERA</speaker>
                   <l>Viendo al seguir mis anhelos.</l>
                </sp>
-               <sp who="#ella #música">
+               <sp who="#megera #música">
                   <speaker>ELLA y MÚSICOS</speaker>
                   <l>Que si el aire diere celos,</l>
                   <l>celos aun del aire matan.</l>
@@ -4388,11 +4409,11 @@
                   <l n="745">por dios de la primavera,</l>
                   <l part="I">diga el sol...</l>
                </sp>
-               <sp who="#voces">
+               <sp who="#voz-1 #voz-2 #voz-3 #voz-4">
                   <speaker>VOCES</speaker>
                   <l part="F">Guarda la fiera.</l>
                </sp>
-               <sp who="#los-tres">
+               <sp who="#aura #pocris #céfalo">
                   <speaker>LOS TRES</speaker>
                   <l>Ya, que no prosiga, es bien.</l>
                   <l>Ven, Aura, ven.</l>
@@ -4691,7 +4712,7 @@
                   <l n="920">destas selvas moradores!</l>
                </sp>
                <stage>Salen todas las NINFAS, y ZAGALES, CLARÍN y RÚSTICO.</stage>
-               <sp who="#ninfas">
+               <sp who="#ninfa-1 #ninfa-2 #ninfa-3">
                   <speaker>NINFAS</speaker>
                   <l part="I">¿Qué nos mandas?</l>
                </sp>
@@ -4806,7 +4827,7 @@
                   <l>a Júpiter deis las gracias,</l>
                   <l>diciendo en ecos veloces...</l>
                </sp>
-               <sp who="#las-tres">
+               <sp who="#ninfa-1 #ninfa-2 #ninfa-3">
                   <speaker>LAS TRES</speaker>
                   <l n="985">Que aunque son nobles también las venganzas,</l>
                   <l>tal vez blasonadas desdices de nobles.</l>
