@@ -59,13 +59,13 @@
                <person xml:id="leonelo" sex="MALE">
                   <persName>Leonelo</persName>
                </person>
-               <person xml:id="don-félix" sex="MALE">
+               <person xml:id="félix" sex="MALE">
                   <persName>Don Félix</persName>
                </person>
                <person xml:id="don-juan" sex="MALE">
                   <persName>Don Juan</persName>
                </person>
-               <person xml:id="doña-beatriz" sex="FEMALE">
+               <person xml:id="beatriz" sex="FEMALE">
                   <persName>Doña Beatriz</persName>
                </person>
                <person xml:id="inés" sex="FEMALE">
@@ -77,7 +77,7 @@
                <person xml:id="isabel" sex="FEMALE">
                   <persName>Isabel</persName>
                </person>
-               <person xml:id="un-alguacil" sex="MALE">
+               <person xml:id="alguacil" sex="MALE">
                   <persName>Un alguacil</persName>
                </person>
             </listPerson>
