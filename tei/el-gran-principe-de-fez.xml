@@ -109,6 +109,12 @@
                <person xml:id="ángel" sex="MALE">
                   <persName>UN ÁNGEL</persName>
                </person>
+               <person xml:id="caballero" sex="MALE">
+                  <persName>UN CABALLERO</persName>
+               </person>
+               <person xml:id="moro" sex="MALE">
+                  <persName>UN MORO</persName>
+               </person>
                <person xml:id="voces" sex="MALE">
                   <persName>VOCES</persName>
                </person>
