@@ -121,6 +121,9 @@
                <person xml:id="hombres" sex="MALE">
                   <persName>Hombres</persName>
                </person>
+               <person xml:id="un-mujer" sex="FEMALE">
+                  <persName>Un Mujer</persName>
+               </person>
                <person xml:id="mujeres" sex="FEMALE">
                   <persName>Mujeres</persName>
                </person>
@@ -2836,7 +2839,7 @@
                      <l>y el triunfo a Apolo.</l>
                   </lg>
                </sp>
-               <sp who="#una">
+               <sp who="#un-mujer">
                   <speaker rend="caps">Una</speaker>
                   <lg>
                      <l>Di,</l>
@@ -4458,7 +4461,7 @@
                      <l>¿Qué es esto?</l>
                   </lg>
                </sp>
-               <sp who="#uno-3- #uno-4">
+               <sp who="#uno-3 #uno-4">
                   <speaker rend="caps">Otros</speaker>
                   <lg>
                      <l>¿Qué le habrá dado?</l>
