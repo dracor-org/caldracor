@@ -105,8 +105,8 @@
      <person sex="FEMALE" xml:id="dama">
       <persName> DAMA </persName>
      </person>
-     <person sex="MALE" xml:id="acompagnamiento">
-      <persName> Unos, Otros, Coro 1, Coro 2, Villanos </persName>
+     <person sex="MALE" xml:id="acompanamiento">
+      <persName> Acompañamiento </persName>
      </person>
     </listPerson>
    </particDesc>
