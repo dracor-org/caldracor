@@ -56,7 +56,7 @@
                <person xml:id="don-juan" sex="MALE">
                   <persName>DON JUAN</persName>
                </person>
-               <person xml:id="rey-moro" sex="MALE">
+               <person xml:id="rey" sex="MALE">
                   <persName>REY MORO</persName>
                </person>
                <person xml:id="celín" sex="FEMALE">
@@ -77,7 +77,7 @@
                <person xml:id="tarudante" sex="MALE">
                   <persName>TARUDANTE</persName>
                </person>
-               <person xml:id="don-alfonso" sex="MALE">
+               <person xml:id="alfonso" sex="MALE">
                   <persName>DON ALFONSO</persName>
                </person>
                <person xml:id="brito" sex="MALE">
@@ -89,11 +89,20 @@
                <person xml:id="soldados" sex="MALE">
                   <persName>SOLDADOS</persName>
                </person>
-               <person xml:id="moros" sex="MALE">
-                  <persName>MOROS</persName>
+               <person xml:id="moro-1" sex="MALE">
+                  <persName>UN MORO</persName>
                </person>
-               <person xml:id="cautivos" sex="MALE">
-                  <persName>CAUTIVOS</persName>
+               <person xml:id="moro-2" sex="MALE">
+                  <persName>OTRO MORO</persName>
+               </person>
+               <person xml:id="cautivo-1" sex="MALE">
+                  <persName>CAUTIVO PRIMERO</persName>
+               </person>
+               <person xml:id="cautivo-2" sex="MALE">
+                  <persName>CAUTIVO SEGUNDO</persName>
+               </person>
+               <person xml:id="cautivo-3" sex="MALE">
+                  <persName>CAUTIVO TERCERO</persName>
                </person>
             </listPerson>
          </particDesc>
@@ -140,7 +149,7 @@
                   <l n="5">tal vez en los baños, llenas</l>
                   <l>de dolor y sentimiento.</l>
                </sp>
-               <sp who="#cautivo-1º">
+               <sp who="#cautivo-1">
                   <speaker>CAUTIVO 1.º</speaker>
                   <l>Música cuyo instrumento</l>
                   <l>son los hierros y cadenas</l>
@@ -153,7 +162,7 @@
                   <l>Ella escucha desde aquí;</l>
                   <l part="I">cantad.</l>
                </sp>
-               <sp who="#cautivo-1º">
+               <sp who="#cautivo-1">
                   <speaker>CAUTIVO 1.º</speaker>
                   <l part="F">Esa pena excede,</l>
                   <l>Zara hermosa, cuantas son,</l>
@@ -165,7 +174,7 @@
                   <speaker>ZARA</speaker>
                   <l part="I">¿No cantáis vosotros?</l>
                </sp>
-               <sp who="#cautivo-2º">
+               <sp who="#cautivo-2">
                   <speaker>CAUTIVO 2.º</speaker>
                   <l part="F">Es</l>
                   <l>para divertir las penas</l>
@@ -175,7 +184,7 @@
                   <speaker>ZARA</speaker>
                   <l n="20">Ella escucha, cantad pues.</l>
                </sp>
-               <sp who="#cautivos">
+               <sp who="#cautivo-1 #cautivo-2 #cautivo-3">
                   <speaker>CAUTIVOS</speaker>
                   <stage>Cantan.</stage>
                   <l>Al peso de los años</l>
@@ -878,7 +887,7 @@
                </sp>
                <stage>Vanse. Tocan un clarín y ruido de desembarcar y van saliendo el infante DON
                   FERNANDO y DON ENRIQUE y DON JUAN COUTIÑO.</stage>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l>Yo he de ser el primero, África bella,</l>
                   <l>que he de pisar tu margen arenosa,</l>
@@ -886,7 +895,7 @@
                   <l n="480">sientas en tu cerviz la poderosa</l>
                   <l part="I">fuerza que ha de rendirte.</l>
                </sp>
-               <sp who="#enrique">
+               <sp who="#don-enrique">
                   <speaker>ENRIQUE</speaker>
                   <l part="F">Yo en el suelo</l>
                   <l>africano la planta generosa</l>
@@ -894,23 +903,23 @@
                   <stage>Cae.</stage>
                   <l>¡Hasta aquí los agüeros me han seguido!</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l n="485">Pierde, Enrique, a esas cosas el recelo,</l>
                   <l>porque el caer agora antes ha sido</l>
                   <l>que ya como señor la misma tierra</l>
                   <l>los brazos en albricias te ha pedido.</l>
                </sp>
-               <sp who="#enrique">
+               <sp who="#don-enrique">
                   <speaker>ENRIQUE</speaker>
                   <l>Desierta esta campaña y esta sierra</l>
                   <l n="490">los alarbes al vernos han dejado.</l>
                </sp>
-               <sp who="#juan">
+               <sp who="#don-juan">
                   <speaker>JUAN</speaker>
                   <l>Tánger las puertas de sus muros cierra.</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l>Todos se han retirado a su sagrado.</l>
                   <l>Don Juan Coutiño, conde de Miralva,</l>
@@ -922,7 +931,7 @@
                   <l>porque la he de ganar a sangre y fuego,</l>
                   <l n="500">que el campo inunde, el edificio encienda.</l>
                </sp>
-               <sp who="#juan">
+               <sp who="#don-juan">
                   <speaker>JUAN</speaker>
                   <l>Tú verás que a sus mismas puertas llego,</l>
                   <l>aunque Volcán de llamas y de rayos</l>
@@ -942,7 +951,7 @@
                   <l>¡No muera en agua yo, como no muera</l>
                   <l>tampoco en tierra hasta el postrero día!</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l part="I">¿Qué es eso, Brito?</l>
                </sp>
@@ -955,17 +964,17 @@
                   <l>porque este enojo, desde que se fragua</l>
                   <l>con ella el vino, me quedó, y ya es viejo.</l>
                </sp>
-               <sp who="#enrique">
+               <sp who="#don-enrique">
                   <speaker>ENRIQUE</speaker>
                   <l part="I">¿Que escuches este loco?</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l n="520" part="F">¡Y que tu pena</l>
                   <l>sin razón, sin arbitrio y sin consuelo,</l>
                   <l>tanto de ti te priva y te divierte!</l>
                </sp>
-               <sp who="#enrique">
+               <sp who="#don-enrique">
                   <speaker>ENRIQUE</speaker>
                   <l>El alma traigo de temores llena;</l>
                   <l>echada juzgo contra mí la suerte;</l>
@@ -984,7 +993,7 @@
                   <l>si a la tierra, sepulcros representa,</l>
                   <l>donde, mísero yo, caiga y tropiece.</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l>Pues disfrazarte aquí mi amor intenta</l>
                   <l n="540">causa de un melancólico accidente:</l>
@@ -1015,7 +1024,7 @@
                   <l part="I">Pero ¿qué es esto?</l>
                </sp>
                <stage>Sale DON JUAN.</stage>
-               <sp who="#juan">
+               <sp who="#don-juan">
                   <speaker>JUAN</speaker>
                   <l n="565" part="F">Señor,</l>
                   <l>yendo al muro a obedecerte,</l>
@@ -1030,7 +1039,7 @@
                   <l n="575">y así la tierra ni el aire</l>
                   <l>sabe si corren o vuelen.</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l>Salgamos a recebillos,</l>
                   <l>haciendo primero frente</l>
@@ -1042,7 +1051,7 @@
                   <l>esta ocasión nos ofrece!</l>
                   <l part="I">¡Ánimo!</l>
                </sp>
-               <sp who="#enrique">
+               <sp who="#don-enrique">
                   <speaker>ENRIQUE</speaker>
                   <l n="585" part="F">Tu hermano soy;</l>
                   <l>no me espantan accidentes</l>
@@ -1061,37 +1070,37 @@
                </sp>
                <stage>Vase y tocan al arma; salen peleando de dos en dos DON JUAN y DON
                   ENRIQUE.</stage>
-               <sp who="#enrique">
+               <sp who="#don-enrique">
                   <speaker>ENRIQUE</speaker>
                   <l n="595">¡A ellos, que ya los moros</l>
                   <l>vencidos la espalda vuelven!</l>
                </sp>
-               <sp who="#juan">
+               <sp who="#don-juan">
                   <speaker>JUAN</speaker>
                   <l>Llenos de despojos quedan</l>
                   <l>de caballos y de gentes</l>
                   <l part="I">estos campos.</l>
                </sp>
-               <sp who="#enrique">
+               <sp who="#don-enrique">
                   <speaker>ENRIQUE</speaker>
                   <l part="F">¿Don Fernando</l>
                   <l n="600">dónde está, que no parece?</l>
                </sp>
-               <sp who="#juan">
+               <sp who="#don-juan">
                   <speaker>JUAN</speaker>
                   <l>Tanto se ha empeñado en ellos</l>
                   <l>que ya de vista se pierde.</l>
                </sp>
-               <sp who="#enrique">
+               <sp who="#don-enrique">
                   <speaker>ENRIQUE</speaker>
                   <l>Pues a buscarle, Coutiño.</l>
                </sp>
-               <sp who="#juan">
+               <sp who="#don-juan">
                   <speaker>JUAN</speaker>
                   <l>Siempre a tu lado me tienes.</l>
                </sp>
                <stage>Vanse y salen DON FERNANDO con la espada de MULEY y MULEY con adarga.</stage>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l n="605">En la desierta campaña,</l>
                   <l>que tumba común parece</l>
@@ -1352,7 +1361,7 @@
                      <emph>¡mira si es bien me lamente!</emph>
                   </l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l>Valiente moro y galán,</l>
                   <l>
@@ -1401,7 +1410,7 @@
                   <l>sólo acetar es lisonja.</l>
                   <l n="830">Dime, portugués, ¿quién eres?</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l>Un hombre noble y no más.</l>
                </sp>
@@ -1411,7 +1420,7 @@
                   <l>Para el bien y para el mal</l>
                   <l>soy tu esclavo eternamente.</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l n="835">Toma el caballo, que es tarde.</l>
                </sp>
@@ -1422,7 +1431,7 @@
                   <l>y libre a su dama vuelve?</l>
                   <stage>Vase.</stage>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l>Generosa acción es dar,</l>
                   <l part="I">y más la vida.</l>
@@ -1433,7 +1442,7 @@
                   <l n="840" part="F">¡Valiente</l>
                   <l part="I">portugués!</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l part="F">Desde el caballo</l>
                   <l>habla. ¿Qué es lo que me quieres?</l>
@@ -1443,7 +1452,7 @@
                   <l>Espero que he de pagarte</l>
                   <l>algún día tantos bienes.</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l part="I">Gózalos tú.</l>
                </sp>
@@ -1453,7 +1462,7 @@
                   <l>hacer bien nunca se pierde.</l>
                   <l>Alá te guarde, español.</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l>Si Alá es Dios, con bien te lleve.</l>
                   <stage>Suena dentro ruido de trompetas y cajas.</stage>
@@ -1464,16 +1473,16 @@
                   <l part="I">son las dos.</l>
                </sp>
                <stage>Sale DON ENRIQUE.</stage>
-               <sp who="#enrique">
+               <sp who="#don-enrique">
                   <speaker>ENRIQUE</speaker>
                   <l part="F"> ¡Oh, Fernando!,</l>
                   <l>tu persona, veloz vengo buscando.</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l part="I">Enrique, ¿qué hay de nuevo?</l>
                </sp>
-               <sp who="#enrique">
+               <sp who="#don-enrique">
                   <speaker>ENRIQUE</speaker>
                   <l n="855" part="F">Aquellos ecos</l>
                   <l>ejércitos de Fez y de Marruecos</l>
@@ -1489,7 +1498,7 @@
                   <l>nos deslumbran relámpagos de Marte.</l>
                   <l>¿Qué haremos, pues, de confusiones llenos?</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l>¿Qué? Morir como buenos,</l>
                   <l>con ánimos constantes.</l>
@@ -1502,18 +1511,18 @@
                   <l>pues a morir venimos.</l>
                </sp>
                <stage>Sale DON JUAN.</stage>
-               <sp who="#juan">
+               <sp who="#don-juan">
                   <speaker>JUAN</speaker>
                   <l>Mala salida a tierra dispusimos.</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l>Ya no es tiempo de medios:</l>
                   <l>a los brazos apelen los remedios,</l>
                   <l n="880">que uno y otro ejército nos cierra</l>
                   <l part="I">en medio. ¡Avís y Cristo!</l>
                </sp>
-               <sp who="#juan">
+               <sp who="#don-juan">
                   <speaker>JUAN</speaker>
                   <l part="F"> ¡Guerra, guerra!</l>
                </sp>
@@ -1531,13 +1540,13 @@
                   <l>y muerto lo tendré para adelante.</l>
                </sp>
                <stage>Cáese en el suelo y sale un MORO acuchillando a ENRIQUE.</stage>
-               <sp who="#moro">
+               <sp who="#moro-1">
                   <speaker>MORO</speaker>
                   <l>¿Quién tanto se defiende,</l>
                   <l>siendo mi brazo rayo que desciende</l>
                   <l>desde la cuarta esfera?</l>
                </sp>
-               <sp who="#enrique">
+               <sp who="#don-enrique">
                   <speaker>ENRIQUE</speaker>
                   <l n="895">Pues, aunque yo tropiece, caiga y muera,</l>
                   <l>en cuerpos de cristianos</l>
@@ -1556,7 +1565,7 @@
                   <l>mi valor, pues quisiera</l>
                   <l part="I">daros hoy la vitoria.</l>
                </sp>
-               <sp who="#juan">
+               <sp who="#don-juan">
                   <speaker>JUAN</speaker>
                   <l part="F">¡Pena fiera!</l>
                   <l>Sin tiento y sin aviso</l>
@@ -1576,13 +1585,13 @@
                   <l n="910">en mi poder, prometo</l>
                   <l>ser tu amigo. ¿Quién eres?</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l>Un caballero soy; saber no esperes</l>
                   <l>más de mí. Dame muerte.</l>
                </sp>
                <stage>Sale DON JUAN y pónese a su lado.</stage>
-               <sp who="#juan">
+               <sp who="#don-juan">
                   <speaker>JUAN</speaker>
                   <l>Primero, gran señor, mi pecho fuerte,</l>
                   <l n="915">que es muro de diamante,</l>
@@ -1605,17 +1614,17 @@
                   <speaker>MULEY</speaker>
                   <l part="F"> ¿Qué es lo que estoy mirando?</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l>Sólo a un rey la rindiera,</l>
                   <l>que desesperación negarla fuera.</l>
                </sp>
                <stage>Sale DON ENRIQUE.</stage>
-               <sp who="#enrique">
+               <sp who="#don-enrique">
                   <speaker>ENRIQUE</speaker>
                   <l part="I">¡Preso mi hermano!</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l part="F">Enrique,</l>
                   <l n="930">tu voz más sentimiento no publique,</l>
@@ -1644,7 +1653,7 @@
                   <l n="950">a quien debo esta honra, esta grandeza,</l>
                   <l>a Fez venga conmigo.</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l>Iré a la esfera cuyo rayo sigo.</l>
                </sp>
@@ -1653,7 +1662,7 @@
                   <l>(Por que yo tenga, ¡cielos!,</l>
                   <l>más que sentir entre amistad y celos).</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l n="955">Enrique, preso quedo;</l>
                   <l>ni al mal ni a la fortuna tengo miedo.</l>
@@ -1661,57 +1670,57 @@
                   <l>que haga aquí como príncipe cristiano</l>
                   <l>en la desdicha mía.</l>
                </sp>
-               <sp who="#enrique">
+               <sp who="#don-enrique">
                   <speaker>ENRIQUE</speaker>
                   <l n="960">Pues ¿quién de sus grandezas desconfía?</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l>Esto te encargo y digo</l>
                   <l part="I">que haga como cristiano.</l>
                </sp>
-               <sp who="#enrique">
+               <sp who="#don-enrique">
                   <speaker>ENRIQUE</speaker>
                   <l part="F">Yo me obligo</l>
                   <l part="I">a volver como tal.</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l part="F">Dame esos brazos.</l>
                </sp>
-               <sp who="#enrique">
+               <sp who="#don-enrique">
                   <speaker>ENRIQUE</speaker>
                   <l>Tú eres el preso y pónesme a mí lazos.</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l part="I">Don Juan, adiós.</l>
                </sp>
-               <sp who="#juan">
+               <sp who="#don-juan">
                   <speaker>JUAN</speaker>
                   <l n="965" part="F">Yo he de quedar contigo;</l>
                   <l part="I">de mí no te despidas.</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l part="F">¡Leal amigo!</l>
                </sp>
-               <sp who="#enrique">
+               <sp who="#don-enrique">
                   <speaker>ENRIQUE</speaker>
                   <l>¡Oh, infelice jornada!</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l>Dirás al Rey..., mas no le digas nada,</l>
                   <l>sino con gran silencio en miedo vano</l>
                   <l n="970">estas lágrimas lleva al Rey mi hermano.</l>
                </sp>
                <stage>Vanse y salen dos MOROS y ven a BRITO como muerto.</stage>
-               <sp who="#moro-1º">
+               <sp who="#moro-1">
                   <speaker>MORO 1.º</speaker>
                   <l>Cristiano muerto es este.</l>
                </sp>
-               <sp who="#moro-2º">
+               <sp who="#moro-2">
                   <speaker>MORO 2.º</speaker>
                   <l>Por que no causen peste,</l>
                   <l>echad al mar los muertos.</l>
@@ -1834,19 +1843,19 @@
                   <l> de amor, de envidia y de celos. </l>
                </sp>
                <stage>Salen tres cautivos y el infante DON FERNANDO.</stage>
-               <sp who="#cautivo-1º">
+               <sp who="#cautivo-1">
                   <speaker>CAUTIVO 1.º</speaker>
                   <l n="90"> Desde aquel jardín te vimos </l>
                   <l> andar a caza, Fernando, </l>
                   <l> y todos juntos venimos </l>
                   <l> a arrojarnos a tus pies. </l>
                </sp>
-               <sp who="#cautivo-2º">
+               <sp who="#cautivo-2">
                   <speaker>CAUTIVO 2.º</speaker>
                   <l> Solamente este consuelo </l>
                   <l n="95"> aquí nos ofrece el cielo. </l>
                </sp>
-               <sp who="#cautivo-3º">
+               <sp who="#cautivo-3">
                   <speaker>CAUTIVO 3.º</speaker>
                   <l> Piedad como suya es. </l>
                </sp>
@@ -1886,13 +1895,13 @@
                   <l> Id con Dios a trabajar; </l>
                   <l> no disgustéis vuestros dueños. </l>
                </sp>
-               <sp who="#cautivo-1º">
+               <sp who="#cautivo-1">
                   <speaker>CAUTIVO 1.º</speaker>
                   <l n="130"> Tu vista </l>
                   <l> hace nuestra esclavitud </l>
                   <l part="I"> dichosa. </l>
                </sp>
-               <sp who="#cautivo-2º">
+               <sp who="#cautivo-2">
                   <speaker>CAUTIVO 2.º</speaker>
                   <l part="F"> Siglos pequeños </l>
                   <l> son los del fénix, señor, </l>
@@ -2505,7 +2514,7 @@
                   <l> Mayor que su rigor es mi paciencia. </l>
                </sp>
                <stage>Salen los cautivos, y uno canta mientras los otros cavan en un jardín.</stage>
-               <sp who="#cautivo-1º">
+               <sp who="#cautivo-1">
                   <speaker>CAUTIVO 1.º</speaker>
                   <l> A la conquista de Tánger, </l>
                   <l n="545"> contra el bárbaro Muley, </l>
@@ -2518,7 +2527,7 @@
                   <l> no deje de cansar a la memoria? </l>
                   <l n="550"> Triste estoy y turbado. </l>
                </sp>
-               <sp who="#cautivo-2º">
+               <sp who="#cautivo-2">
                   <speaker>CAUTIVO 2.º</speaker>
                   <l> Cautivo, ¿cómo estáis tan descuidado? </l>
                   <l> No lloréis, consolaos; que ya el Maestre </l>
@@ -2530,7 +2539,7 @@
                   <speaker>DON FERNANDO</speaker>
                   <l> ¡Qué presto perderéis ese consuelo! </l>
                </sp>
-               <sp who="#cautivo-2º">
+               <sp who="#cautivo-2">
                   <speaker>CAUTIVO 2.º</speaker>
                   <l> Consolad los rigores </l>
                   <l> y ayudadme a regar aquestas flores: </l>
@@ -2546,7 +2555,7 @@
                   <l> llenará en la corriente de mis ojos. </l>
                   <stage>Vase.</stage>
                </sp>
-               <sp who="#cautivo-1º">
+               <sp who="#cautivo-1">
                   <speaker>CAUTIVO 1.º</speaker>
                   <l n="565"> Al baño han echado, y con cuidado, </l>
                   <l part="I"> más cautivos. </l>
@@ -2562,7 +2571,7 @@
                   <l> si viste cultivando </l>
                   <l> este jardín al maestre don Fernando. </l>
                </sp>
-               <sp who="#cautivo-2º">
+               <sp who="#cautivo-2">
                   <speaker>CAUTIVO 2.º</speaker>
                   <l> No le hemos visto. </l>
                </sp>
@@ -2570,7 +2579,7 @@
                   <speaker>DON JUAN</speaker>
                   <l> Mal el dolor y lágrimas resisto. </l>
                </sp>
-               <sp who="#cautivo-3º">
+               <sp who="#cautivo-3">
                   <speaker>CAUTIVO 3.º</speaker>
                   <l n="575"> Digo que el baño abrieron </l>
                   <l> y que nuevos cautivos a él vinieron. </l>
@@ -2597,12 +2606,12 @@
                   <l> entre mi misma gente, </l>
                   <l> sirviendo pobre y miserablemente. </l>
                </sp>
-               <sp who="#cautivo-1º">
+               <sp who="#cautivo-1">
                   <speaker>CAUTIVO 1.º</speaker>
                   <l> Señor, que perdonéis os ruego </l>
                   <l n="590"> de haber andado yo tan loco y ciego. </l>
                </sp>
-               <sp who="#cautivo-2º">
+               <sp who="#cautivo-2">
                   <speaker>CAUTIVO 2.º</speaker>
                   <l part="I"> Dadnos señor, tus pies. </l>
                </sp>
@@ -2647,7 +2656,7 @@
                   <l> Yo llevársele espero; </l>
                   <l> que en cuanto sea servir seré el primero. </l>
                </sp>
-               <sp who="#cautivo-1º">
+               <sp who="#cautivo-1">
                   <speaker>CAUTIVO 1.º</speaker>
                   <l> Ea, vamos a cogellas. </l>
                </sp>
@@ -3827,7 +3836,7 @@
                </sp>
                <stage>Vanse y sacan en brazos al infante DON FERNANDO, DON JUAN y CAUTIVOS, y sacan
                   una estera en que sentarle.</stage>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l>Ponedme en aquesta parte</l>
                   <l>para que goce mejor</l>
@@ -3850,7 +3859,7 @@
                   <speaker>BRITO</speaker>
                   <l>¿Estás bien, señor, así?</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l>Mejor que merezco, amigo.</l>
                   <l>¡Qué de piedades aquí,</l>
@@ -3860,31 +3869,31 @@
                   <l>un sol para calentarme;</l>
                   <l>liberal, Señor, estáis.</l>
                </sp>
-               <sp who="#cautivo-1º">
+               <sp who="#cautivo-1">
                   <speaker>CAUTIVO 1.º</speaker>
                   <l n="2235">Sabe el cielo si quedarme</l>
                   <l>y acompañaros quisiera,</l>
                   <l>mas ya veis que nos espera</l>
                   <l part="I">el trabajo.</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l part="F">Hijos, adiós.</l>
                </sp>
-               <sp who="#cautivo-2º">
+               <sp who="#cautivo-2">
                   <speaker>CAUTIVO 2.º</speaker>
                   <l>¡Qué pesar!</l>
                   <stage>Vanse.</stage>
                </sp>
-               <sp who="#juan">
+               <sp who="#don-juan">
                   <speaker>JUAN</speaker>
                   <l n="2240">Yo también te he de dejar.</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l>¿Qué haré yo sin tu favor?</l>
                </sp>
-               <sp who="#juan">
+               <sp who="#don-juan">
                   <speaker>JUAN</speaker>
                   <l>Presto volveré, señor,</l>
                   <l>que sólo voy a buscar</l>
@@ -3904,7 +3913,7 @@
                   <l>Gente viene, gran señor.</l>
                   <l part="I">Yo me voy.</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l part="F"> ¡Oh, si pudiera</l>
                   <l>mover a alguno a piedad</l>
@@ -3929,7 +3938,7 @@
                   <speaker>TARUDANTE</speaker>
                   <l>Siempre mis honras deseas.</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l>Dalde de limosna hoy</l>
                   <l n="2270">a este pobre algún sustento;</l>
@@ -3945,7 +3954,7 @@
                   <l part="F">Ya aquí</l>
                   <l>no hay pedir de esa manera.</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l part="I">¿Cómo he de decir?</l>
                </sp>
@@ -3968,7 +3977,7 @@
                   <speaker>BRITO</speaker>
                   <l part="F">El Rey llama.</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l>¿A mí, Brito? Haste engañado:</l>
                   <l>ni infante ni maestre soy,</l>
@@ -3982,7 +3991,7 @@
                   <l>Pues no eres maestre ni infante,</l>
                   <l>respóndeme a mí, Fernando.</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l n="2295">Agora, aunque me levante</l>
                   <l>de la tierra, iré arrastrando</l>
@@ -3995,7 +4004,7 @@
                   <l>¿Es humildad o valor</l>
                   <l part="I">esta obediencia?</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l n="2300" part="F"> Es mostrar</l>
                   <l>cuánto debe respetar</l>
@@ -4181,7 +4190,7 @@
                   <l>Fernando, y tendrela yo.</l>
                   <stage>Vase.</stage>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l>Señor, vuestra Majestad</l>
                   <l part="I">me valga.</l>
@@ -4191,7 +4200,7 @@
                   <l n="2480" part="F">¡Qué desventura!</l>
                   <stage>Vase.</stage>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l>Si es alma de la hermosura</l>
                   <l>esa divina deidad,</l>
@@ -4202,7 +4211,7 @@
                   <speaker>FÉNIX</speaker>
                   <l part="F"> ¡Qué gran dolor!</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l part="I">¿Aun no me miráis?</l>
                </sp>
@@ -4210,7 +4219,7 @@
                   <speaker>FÉNIX</speaker>
                   <l n="2485" part="F">¡Qué horror!</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l>Hacéis bien, que vuestros ojos</l>
                   <l>no son para ver enojos.</l>
@@ -4219,7 +4228,7 @@
                   <speaker>FÉNIX</speaker>
                   <l>¡Qué lástima! ¡Qué dolor!</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l>Pues aunque no me miréis,</l>
                   <l n="2490">señora, es bien que sepáis</l>
@@ -4235,33 +4244,33 @@
                   <l>Que no puedo sentir más.</l>
                </sp>
                <stage>Vase. Sale DON JUAN con un pan.</stage>
-               <sp who="#juan">
+               <sp who="#don-juan">
                   <speaker>JUAN</speaker>
                   <l>Por alcanzar este pan</l>
                   <l>que traerte, me han seguido</l>
                   <l n="2500">los moros y me han herido</l>
                   <l>con los palos que me dan.</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l>Esa es la herencia de Adán.</l>
                </sp>
-               <sp who="#juan">
+               <sp who="#don-juan">
                   <speaker>JUAN</speaker>
                   <l part="I">Toma.</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l part="F">Ya, amigo leal,</l>
                   <l>tarde llegas, que mi mal</l>
                   <l part="I">es ya mortal.</l>
                </sp>
-               <sp who="#juan">
+               <sp who="#don-juan">
                   <speaker>JUAN</speaker>
                   <l n="2505" part="F">Deme el cielo</l>
                   <l>en tantas penas consuelo.</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l>Pero ¿qué mal no es mortal,</l>
                   <l>si mortal el hombre es,</l>
@@ -4287,12 +4296,12 @@
                   <l>Amigos, a mi fin llego,</l>
                   <l>llevadme de aquí en los brazos.</l>
                </sp>
-               <sp who="#juan">
+               <sp who="#don-juan">
                   <speaker>JUAN</speaker>
                   <l n="2530">Serán los últimos lazos</l>
                   <l part="I">de mi vida.</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l part="F">Lo que os ruego,</l>
                   <l>noble don Juan, es que luego</l>
@@ -4325,7 +4334,7 @@
                   <l n="2555">cada bajel un edificio griego.</l>
                </sp>
                <stage>Sale ENRIQUE.</stage>
-               <sp who="#enrique">
+               <sp who="#don-enrique">
                   <speaker>ENRIQUE</speaker>
                   <l>Señor, tú no quisiste que saliera</l>
                   <l>nuestra gente de Fez en la ribera</l>
@@ -4353,7 +4362,7 @@
                   <l>y, antes que se prevengan,</l>
                   <l part="I">toca al arma.</l>
                </sp>
-               <sp who="#enrique">
+               <sp who="#don-enrique">
                   <speaker>ENRIQUE</speaker>
                   <l part="F">Señor, advierte y mira</l>
                   <l part="I">que es sin tiempo esta guerra.</l>
@@ -4366,7 +4375,7 @@
                   <l>entre en mi brazo fuerte</l>
                   <l>por África el azote de la muerte.</l>
                </sp>
-               <sp who="#enrique">
+               <sp who="#don-enrique">
                   <speaker>ENRIQUE</speaker>
                   <l>Mira que ya la noche,</l>
                   <l>envuelta en sombras, el luciente coche</l>
@@ -4382,11 +4391,11 @@
                   <l>cierta es ya la vitoria:</l>
                   <l>mío será el honor, mía la gloria.</l>
                </sp>
-               <sp who="#enrique">
+               <sp who="#don-enrique">
                   <speaker>ENRIQUE</speaker>
                   <l>Tu orgullo altivo yerra.</l>
                </sp>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <stage>Dentro.</stage>
                   <l>¡Embiste, gran Alfonso! ¡Guerra, guerra!</l>
@@ -4396,7 +4405,7 @@
                   <l n="2595">¿Oyes confusas voces</l>
                   <l>romper los vientos tristes y veloces?</l>
                </sp>
-               <sp who="#enrique">
+               <sp who="#don-enrique">
                   <speaker>ENRIQUE</speaker>
                   <l>Sí, y en ellos se oyeron</l>
                   <l>trompetas que a embestir señal hicieron.</l>
@@ -4407,7 +4416,7 @@
                   <l part="I">que el cielo nos ayuda.</l>
                </sp>
                <stage>Sale FERNANDO.</stage>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l n="2600" part="F">Sí ayuda,</l>
                   <l>porque, obligando al cielo,</l>
@@ -4426,7 +4435,7 @@
                   <l>sino a librar mi ocaso en el aurora.</l>
                   <stage>Vase.</stage>
                </sp>
-               <sp who="#enrique">
+               <sp who="#don-enrique">
                   <speaker>ENRIQUE</speaker>
                   <l n="2615">Dudando estoy, Alfonso, lo que veo.</l>
                </sp>
@@ -4438,7 +4447,7 @@
                </sp>
                <stage>Vanse. El REY, CELÍN y en lo alto del tablado DON JUAN y un CAUTIVO, y el
                   INFANTE en un ataúd, que se vea la caja no más.</stage>
-               <sp who="#juan">
+               <sp who="#don-juan">
                   <speaker>JUAN</speaker>
                   <l>Bárbaro, gózate aquí</l>
                   <l n="2620">de que tirano quitaste</l>
@@ -4448,7 +4457,7 @@
                   <speaker>REY</speaker>
                   <l part="F">¿Quién eres?</l>
                </sp>
-               <sp who="#juan">
+               <sp who="#don-juan">
                   <speaker>JUAN</speaker>
                   <l>Un hombre que, aunque me maten,</l>
                   <l>no he de dejar a Fernando</l>
@@ -4477,7 +4486,7 @@
                   <l>y así, puesto a la vergüenza,</l>
                   <l>quiero que esté a cuantos pasen.</l>
                </sp>
-               <sp who="#juan">
+               <sp who="#don-juan">
                   <speaker>JUAN</speaker>
                   <l n="2645">Presto verás tu castigo,</l>
                   <l>que por campañas y mares</l>
@@ -4490,7 +4499,7 @@
                   <l n="2650">a saber sus novedades.</l>
                </sp>
                <stage>Vanse.</stage>
-               <sp who="#juan">
+               <sp who="#don-juan">
                   <speaker>JUAN</speaker>
                   <l>Arrastrando las banderas</l>
                   <l>y destemplados los parches,</l>
@@ -4500,7 +4509,7 @@
                <stage>Tocan cajas destempladas, sale el infante DON FERNANDO con una hacha
                   alumbrando al infante DON ALFONSO y ENRIQUE, que traen cautivos a TARUDANTE, FÉNIX
                   y MULEY y todos los SOLDADOS.</stage>
-               <sp who="#fernando">
+               <sp who="#don-fernando">
                   <speaker>FERNANDO</speaker>
                   <l n="2655">En el horror de la noche,</l>
                   <l>por sendas que nadie sabe,</l>
@@ -4597,7 +4606,7 @@
                   <l>Ya no me queda remedio</l>
                   <l>para vivir un instante.</l>
                </sp>
-               <sp who="#enrique">
+               <sp who="#don-enrique">
                   <speaker>ENRIQUE</speaker>
                   <l>¡Válgame el cielo! ¿Qué escucho?</l>
                   <l>¡Qué tarde, cielos, qué tarde</l>
@@ -4649,11 +4658,11 @@
                   <l>En mis brazos os recibo,</l>
                   <l>divino príncipe mártir.</l>
                </sp>
-               <sp who="#enrique">
+               <sp who="#don-enrique">
                   <speaker>ENRIQUE</speaker>
                   <l>Yo, hermano, aquí te respeto.</l>
                </sp>
-               <sp who="#juan">
+               <sp who="#don-juan">
                   <speaker>JUAN</speaker>
                   <l>Dame, invicto Alfonso, dame</l>
                   <l part="I">la mano.</l>
@@ -4664,7 +4673,7 @@
                   <l>¡buena cuenta del infante</l>
                   <l part="I">me habéis dado!</l>
                </sp>
-               <sp who="#juan">
+               <sp who="#don-juan">
                   <speaker>JUAN</speaker>
                   <l part="F">Hasta su muerte</l>
                   <l>le acompañé hasta mirarle</l>
