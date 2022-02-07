@@ -216,7 +216,7 @@
      <speaker> OTROS </speaker>
      <l part="F"> ¡Viva, y reine! </l>
     </sp>
-    <sp who="#mujer-1 #mujer-2 #mujer-3">
+    <sp who="#mujer #mujer-2 #mujer-3">
      <speaker> MUJERES </speaker>
      <stage> Dentro. </stage>
      <l n="15"> Infelices de nosotras. </l>
@@ -253,7 +253,7 @@
      <speaker> TODOS </speaker>
      <l part="I"> Daos a prisión. </l>
     </sp>
-    <sp who="#mujer-1 #mujer-2 #mujer-3">
+    <sp who="#mujer #mujer-2 #mujer-3">
      <speaker> MUJERES </speaker>
      <l part="F"> ¡Qué desdicha! </l>
     </sp>
@@ -6755,7 +6755,7 @@
      <l n="3525"> el vencedor el vencido </l>
      <l> viene a ser, pues siempre he oído... </l>
     </sp>
-    <sp who="#mujer-1 #mujer-2 #mujer-3">
+    <sp who="#mujer #mujer-2 #mujer-3">
      <speaker> MUJERES </speaker>
      <stage> Dentro. </stage>
      <l part="I"> Scipión viva. </l>
@@ -7077,7 +7077,7 @@
      <speaker> OTROS </speaker>
      <l part="F"> ¡Viva Egidio! </l>
     </sp>
-    <sp who="#mujer-1 #mujer-2 #mujer-3">
+    <sp who="#mujer #mujer-2 #mujer-3">
      <speaker> MUJERES </speaker>
      <l> ¡Solo viva Scipión! </l>
     </sp>
