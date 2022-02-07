@@ -62,7 +62,7 @@
                <person xml:id="tolomeo" sex="MALE">
                   <persName>TOLOMEO, soldado</persName>
                </person>
-               <person xml:id="patricio" sex="MALE">
+               <person xml:id="capitán" sex="MALE">
                   <persName>PATRICIO, capitán</persName>
                </person>
                <person xml:id="polidoro" sex="MALE">
@@ -80,10 +80,13 @@
                <person xml:id="arminda" sex="FEMALE">
                   <persName>ARMINDA, criada</persName>
                </person>
-               <person xml:id="músicos" sex="MALE">
+               <person xml:id="música" sex="MALE">
                   <persName>MÚSICOS</persName>
                </person>
-               <person xml:id="soldados" sex="MALE">
+               <person xml:id="soldado-1" sex="MALE">
+                  <persName>SOLDADOS</persName>
+               </person>
+               <person xml:id="soldado-2" sex="MALE">
                   <persName>SOLDADOS</persName>
                </person>
             </listPerson>
@@ -118,7 +121,7 @@
          <div type="act" n="1">
             <head>Jornada I</head>
             <div type="scene" n="1">
-               <sp who="#músicos">
+               <sp who="#música">
                   <speaker>MÚSICOS</speaker>
                   <l>
                      <emph>La divina Marïene,</emph>
@@ -1048,9 +1051,9 @@
                   <l> padezca un tormento fiero, </l>
                   <l n="620"> o muera en él de leal. </l>
                </sp>
-               <sp who="#(aparte)polidoro">
-                  <speaker>(Aparte.)POLIDORO</speaker>
-                  <stage/>
+               <sp who="#polidoro">
+                  <speaker>POLIDORO</speaker>
+                  <stage>Aparte.</stage>
                   <l> (¿Qué es tormento? Mal por mal, </l>
                   <l> torre pido y noche quiero: </l>
                   <l> vamos a la torre). Yo </l>
@@ -1235,7 +1238,7 @@
                   <speaker>POLIDORO</speaker>
                   <l part="I"> Sí hay. </l>
                </sp>
-               <sp who="#soldado">
+               <sp who="#soldado-1">
                   <speaker>SOLDADO</speaker>
                   <l part="M"> Venid. </l>
                </sp>
@@ -1443,7 +1446,7 @@
                   <l> pues a dos luces el tono </l>
                   <l> está diciendo a dos visos: </l>
                </sp>
-               <sp who="#las-tres">
+               <sp who="#mariene #sirene #libia">
                   <speaker>LAS TRES</speaker>
                   <l>
                      <emph>Porque no me consuelen</emph>
@@ -1849,7 +1852,7 @@
                   <speaker>MARIENE</speaker>
                   <l part="I"> ¡Ay infelice! </l>
                </sp>
-               <sp who="#soldado">
+               <sp who="#soldado-1">
                   <speaker>SOLDADO</speaker>
                   <l part="F"> ¡A prisión </l>
                   <l part="I"> te da! </l>
@@ -2467,7 +2470,7 @@
                   <l> ¿Papel, tinta y pluma aquí </l>
                   <l part="I"> no hay? ¿Polvos y sello? </l>
                </sp>
-               <sp who="#los-dos">
+               <sp who="#soldado-1 #soldado-2">
                   <speaker>LOS DOS</speaker>
                   <l part="F">Sí. </l>
                </sp>
@@ -2493,7 +2496,7 @@
                   <l> El que yo no sé escribir. </l>
                   <stage>Maltrátanle los dos.</stage>
                </sp>
-               <sp who="#soldado-l">
+               <sp who="#soldado-1">
                   <speaker>SOLDADO lº</speaker>
                   <l> ¿Agora sale con eso </l>
                   <l part="I"> el tonto? </l>
@@ -3717,7 +3720,7 @@
                   <speaker>TOLOMEO</speaker>
                   <l> ¿Tú conmigo tan aleve? </l>
                </sp>
-               <sp who="#los-dos">
+               <sp who="#tolomeo #libia">
                   <speaker>LOS DOS</speaker>
                   <l part="I"> ¡Suelta el papel! </l>
                </sp>
@@ -4214,7 +4217,7 @@
                   <speaker>FILIPO</speaker>
                   <l part="F">Y su laurel, y oliva. </l>
                </sp>
-               <sp who="#los-dos">
+               <sp who="#tolomeo #filipo">
                   <speaker>LOS DOS</speaker>
                   <l part="I"> Diciendo a voces... </l>
                </sp>
@@ -4690,7 +4693,7 @@
                   <l> «¡esta es la justicia a este hombre </l>
                   <l> por príncipe contrahecho!»? </l>
                </sp>
-               <sp who="#los-dos">
+               <sp who="#soldado-1 #soldado-2">
                   <speaker>LOS DOS</speaker>
                   <l> Vamos de aquí, que está loco. </l>
                </sp>
@@ -5606,7 +5609,7 @@
                   <l> que, ser conmigo piadoso, </l>
                   <l> no es dejar de ser crüel. </l>
                </sp>
-               <sp who="#dama-1ª">
+               <sp who="#libia">
                   <speaker>DAMA 1ª</speaker>
                   <l> Ya que, aborreciendo el lecho, </l>
                   <l n="3360"> en el jardín has estado </l>
@@ -5731,7 +5734,7 @@
                      <emph> Si te quisiere matar...</emph>
                   </l>
                </sp>
-               <sp who="#dama-1ª">
+               <sp who="#libia">
                   <speaker>DAMA 1ª</speaker>
                   <l n="3420"> Y yo también, pues acudo </l>
                   <l part="I"> las puertas a cerrar. </l>
@@ -5744,7 +5747,7 @@
                   <l> sin luz y sol, quedar ciego </l>
                   <l part="I"> dos veces. </l>
                </sp>
-               <sp who="#dama-1ª">
+               <sp who="#libia">
                   <speaker>DAMA 1ª</speaker>
                   <l part="F">¿Qué veo y escucho? </l>
                   <l part="I"> ¡Ay infelice! </l>
@@ -5753,7 +5756,7 @@
                   <speaker>MARIENE</speaker>
                   <l n="3425" part="F">¿Qué es eso? </l>
                </sp>
-               <sp who="#dama-1ª">
+               <sp who="#libia">
                   <speaker>DAMA 1ª</speaker>
                   <l> El mal embozado bulto </l>
                   <l> de un hombre que hasta aquí ha entrado. </l>
@@ -5777,12 +5780,12 @@
                   <l n="3430"> que aun cómo respire dudo. </l>
                </sp>
                <stage>Vanse huyendo dejando los azafates caer.</stage>
-               <sp who="#dama-1ª">
+               <sp who="#libia">
                   <speaker>DAMA 1ª</speaker>
                   <l> Ni yo, que apenas aliento. </l>
                   <stage>Vase.</stage>
                </sp>
-               <sp who="#dama-2ª">
+               <sp who="#sirene">
                   <speaker>DAMA 2ª</speaker>
                   <l> Ni yo, que tímida huyo. </l>
                   <stage>Vase.</stage>
@@ -6075,7 +6078,7 @@
                   <l> hados, que inocente muero </l>
                   <l part="I"> protesto al cielo! </l>
                </sp>
-               <sp who="#los-dos">
+               <sp who="#tetrarca #octaviano">
                   <speaker>LOS DOS</speaker>
                   <l n="3590" part="F">¡Qué escucho! </l>
                </sp>
