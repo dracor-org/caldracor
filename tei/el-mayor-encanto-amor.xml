@@ -122,6 +122,9 @@
                <person xml:id="astrea" sex="MALE">
                   <persName>ASTREA</persName>
                </person>
+               <person xml:id="música" sex="MALE">
+                  <persName>MÚSICOS</persName>
+               </person>
             </listPerson>
          </particDesc>
          <textClass>
@@ -4919,7 +4922,7 @@
                   <l n="605"> Guerra de amor y celos, </l>
                   <l> pavor pondrá a los cielos. </l>
                </sp>
-               <sp who="#las-mujeres">
+               <sp who="#circe #flérida #libia #astrea #tisbe #sirene #clori">
                   <speaker>LAS MUJERES</speaker>
                   <stage>Dentro.</stage>
                   <l> ¡Cierra Trinacria, cierra! </l>
