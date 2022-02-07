@@ -153,6 +153,9 @@
                <person xml:id="cuarta" sex="FEMALE">
                   <persName>4a</persName>
                </person>
+               <person xml:id="montero-1" sex="MALE">
+                  <persName>Montero 1o</persName>
+               </person>
             </listPerson>
          </particDesc>
          <textClass>
@@ -5847,8 +5850,8 @@
                      <l>¡Ah del alcázar!</l>
                   </lg>
                </sp>
-               <sp who="#musica">
-                  <speaker rend="caps">Musica</speaker>
+               <sp who="#música">
+                  <speaker rend="caps">Música</speaker>
                   <stage type="withText">dentro</stage>
                   <lg>
                      <l>¿Quién llama?</l>
@@ -6162,7 +6165,7 @@
                   </lg>
                </sp>
                <stage>Vanse, cada uno por su parte con un coro y una tropa, como ayudándolos a desnudar.</stage>
-               <sp who="#toda-la-música">
+               <sp who="#música">
                   <speaker rend="caps">Toda La Música</speaker>
                   <lg>
                      <l>Pues ya de Mauricio</l>
@@ -7305,7 +7308,7 @@
                      <l>…pero bueno es tener ojos.</l>
                   </lg>
                </sp>
-               <sp who="#toda-la-música">
+               <sp who="#música">
                   <speaker rend="caps">Toda La Música</speaker>
                   <stage type="withText">repite dentro</stage>
                   <lg>
