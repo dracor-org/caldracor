@@ -124,9 +124,6 @@
                <person xml:id="mujeres" sex="FEMALE">
                   <persName>Mujeres</persName>
                </person>
-               <person xml:id="rustico" sex="MALE">
-                  <persName>Rustico</persName>
-               </person>
                <person xml:id="coro-1" sex="MALE">
                   <persName>Coro 1</persName>
                </person>
@@ -3223,8 +3220,8 @@
                      <l>que no sé lo que sentí.</l>
                   </lg>
                </sp>
-               <sp who="#rustico">
-                  <speaker rend="caps">Rustico</speaker>
+               <sp who="#rústico">
+                  <speaker rend="caps">Rústico</speaker>
                   <lg>
                      <l>Yo sí, pues que no lo sé.</l>
                   </lg>
