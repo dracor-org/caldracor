@@ -1226,8 +1226,8 @@
                      <l>cantando te enamorara!</l>
                   </lg>
                </sp>
-               <sp who="#cantan">
-                  <speaker rend="caps">Cantan</speaker>
+               <sp who="#cloriquea #música">
+                  <stage>Cantan</stage>
                   <lg>
                      <l>Si te agradan suspiros,</l>
                      <l>bellísima Zarés,</l>
@@ -1282,7 +1282,7 @@
                   </lg>
                </sp>
                <sp who="#música">
-                  <speaker rend="caps">Músico Ii</speaker>
+                  <speaker rend="caps">Músico II</speaker>
                   <lg>
                      <l>La fama en decir se emplea</l>
                      <l>sus alabanzas.</l>
@@ -1307,8 +1307,8 @@
                      <l>De la canción lo sabrás.</l>
                   </lg>
                </sp>
-               <sp who="#cantan">
-                  <speaker rend="caps">Cantan</speaker>
+               <sp who="#cloriquea #música">
+                  <stage>Cantan</stage>
                   <lg>
                      <l>No quiero que me quieras;</l>
                      <l>solo quiero querer,</l>
