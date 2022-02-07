@@ -76,6 +76,12 @@
                <person xml:id="clarín" sex="MALE">
                   <persName>CLARÍN</persName>
                </person>
+               <person xml:id="fabio" sex="MALE">
+                  <persName>FABIO</persName>
+               </person>
+               <person xml:id="música" sex="MALE">
+                  <persName>MUSICOS</persName>
+               </person>
             </listPerson>
          </particDesc>
          <textClass>
@@ -90,14 +96,14 @@
          <castList>
             <head>Personas que hablan en ella:</head>
             <castItem>CIPRIANO.</castItem>
-            <castItem> EL DEMONIO. </castItem>
-            <castItem> FLORO. </castItem>
+            <castItem>EL DEMONIO. </castItem>
+            <castItem>FLORO. </castItem>
             <castItem>LELIO. </castItem>
-            <castItem> MOSCÓN.</castItem>
-            <castItem> JUSTINA, dama. </castItem>
-            <castItem> LIBIA, criada.</castItem>
+            <castItem>MOSCÓN.</castItem>
+            <castItem>JUSTINA, dama. </castItem>
+            <castItem>LIBIA, criada.</castItem>
             <castItem>EL GOBERNADOR DE ANTIOQUÍA. </castItem>
-            <castItem> LISANDRO, viejo. </castItem>
+            <castItem>LISANDRO, viejo. </castItem>
             <castItem>CLARÍN. </castItem>
          </castList>
       </front>
