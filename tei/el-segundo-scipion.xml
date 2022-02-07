@@ -215,8 +215,8 @@
     <sp who="#otros">
      <speaker> OTROS </speaker>
      <l part="F"> ¡Viva, y reine! </l>
-    </sp>
-    <sp who="#mujeres">
+    </sp
+    <sp who="#mujer-1 #mujer-2 #mujer-3">
      <speaker> MUJERES </speaker>
      <stage> Dentro. </stage>
      <l n="15"> Infelices de nosotras. </l>
@@ -253,7 +253,7 @@
      <speaker> TODOS </speaker>
      <l part="I"> Daos a prisión. </l>
     </sp>
-    <sp who="#mujeres">
+    <sp who="#mujer-1 #mujer-2 #mujer-3">
      <speaker> MUJERES </speaker>
      <l part="F"> ¡Qué desdicha! </l>
     </sp>
@@ -1528,7 +1528,7 @@
      <l> dulce y militar la salva. </l>
     </sp>
     <stage> Música y instrumentos. </stage>
-    <sp who="#musica">
+    <sp who="#musicos">
      <speaker> MÚSICA </speaker>
      <stage> Dentro. </stage>
      <l n="720"> ¡Viva Scipión, </l>
@@ -1542,7 +1542,7 @@
      <speaker> ARMINDA </speaker>
      <l part="I"> Señores soldados. </l>
     </sp>
-    <sp who="#soldados">
+    <sp who="#soldado-1 #soldado-2 #soldado-3">
      <speaker> SOLDADOS </speaker>
      <l part="F"> ¿Qué es, </l>
      <l> señora, lo que nos mandas? </l>
@@ -6755,7 +6755,7 @@
      <l n="3525"> el vencedor el vencido </l>
      <l> viene a ser, pues siempre he oído... </l>
     </sp>
-    <sp who="#mujeres">
+    <sp who="#mujer-1 #mujer-2 #mujer-3">
      <speaker> MUJERES </speaker>
      <stage> Dentro. </stage>
      <l part="I"> Scipión viva. </l>
@@ -7077,7 +7077,7 @@
      <speaker> OTROS </speaker>
      <l part="F"> ¡Viva Egidio! </l>
     </sp>
-    <sp who="#mujeres">
+    <sp who="#mujer-1 #mujer-2 #mujer-3">
      <speaker> MUJERES </speaker>
      <l> ¡Solo viva Scipión! </l>
     </sp>
@@ -7160,7 +7160,7 @@
      <l> recíbale nuestra salva, </l>
      <l n="3745"> diciendo en alegres ridmos... </l>
     </sp>
-    <sp who="#musica">
+    <sp who="#musicos">
      <speaker> MÚSICA </speaker>
      <stage> Dentro. </stage>
      <l> ¡Viva Scipión, </l>
@@ -7212,9 +7212,9 @@
      <l> de sus armónicos himnos, </l>
      <l n="3790"> diciendo con todas... </l>
     </sp>
-    <sp who="#ella">
-     <speaker> ELLA </speaker>
-     <l> y músicos Que de sus floridos </l>
+    <sp who="#arminda #musicos">
+     <speaker> ELLA y musica</speaker>
+     <l> Que de sus floridos </l>
      <l> años la memoria </l>
      <l> numeren a siglos, </l>
      <l> la tierra con flores, </l>
@@ -7249,7 +7249,7 @@
      <l> con las damas de Cartago, </l>
      <l n="3815"> con ellas diciendo a gritos... </l>
     </sp>
-    <sp who="#musica">
+    <sp who="#musicos">
      <speaker> TODOS Y MÚSICA </speaker>
      <l> ¡Viva Scipión, </l>
      <l> de cuyos floridos </l>
@@ -7590,7 +7590,7 @@
      <l> español César invicto, </l>
      <l> diga que el Segundo Carlos... </l>
     </sp>
-    <sp who="#musica">
+    <sp who="#musicos">
      <speaker> TODOS Y MÚSICA </speaker>
      <l n="4010"> ¡Viva, de cuyos floridos </l>
      <l> años la memoria </l>
