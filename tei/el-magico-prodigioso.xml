@@ -67,7 +67,7 @@
                <person xml:id="libia" sex="FEMALE">
                   <persName>LIBIA, criada</persName>
                </person>
-               <person xml:id="gobernador-de-antioquía" sex="MALE">
+               <person xml:id="gobernador" sex="MALE">
                   <persName>EL GOBERNADOR DE ANTIOQUÍA</persName>
                </person>
                <person xml:id="lisandro" sex="MALE">
@@ -78,6 +78,12 @@
                </person>
                <person xml:id="fabio" sex="MALE">
                   <persName>FABIO</persName>
+               </person>
+               <person xml:id="esqueleto" sex="MALE">
+                  <persName>EL ESQUELETO</persName>
+               </person>
+               <person xml:id="criado" sex="MALE">
+                  <persName>UN CRIADO</persName>
                </person>
                <person xml:id="música" sex="MALE">
                   <persName>MUSICOS</persName>
@@ -2969,9 +2975,9 @@
                   <speaker>LISANDRO</speaker>
                   <l part="I"> ¿Pues qué mandas? </l>
                </sp>
-               <sp who="#(aparte)floro">
-                  <speaker>(Aparte.)FLORO</speaker>
-                  <stage/>
+               <sp who="#floro">
+                  <speaker>FLORO</speaker>
+                  <stage>Aparte.</stage>
                   <l part="F"> ¿Qué diré, </l>
                   <l> que deste empeño me saque? </l>
                </sp>
@@ -3799,11 +3805,10 @@
             <div type="scene" n="1">
                <head>Jornada III</head>
                <stage>Sale CIPRIANO de una gruta.</stage>
-               <sp who="#cipriano-">
+               <sp who="#cipriano">
                   <speaker>CIPRIANO</speaker>
                   <l> Ingrata beldad mía, </l>
-                  <l> llegó el feliz, llegó el dichoso
-           día, </l>
+                  <l> llegó el feliz, llegó el dichoso día, </l>
                   <l> línea de mi esperanza, </l>
                   <l> término de mi amor y tu mudanza, </l>
                   <l n="5"> pues hoy será el postrero </l>
