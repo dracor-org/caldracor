@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">El Maestro De Danzar</title>
+            <title type="main">El maestro de danzar</title>
             <title type="sub">Famosa Comedia</title>
             <author>
                <persName>
@@ -1538,13 +1538,12 @@
                   <speaker rend="caps">Isabel</speaker>
                   <lg>
                      <l>¡Ladrones, cielos, ladrones! dentro</l>
-                     <l>JUANA</l>
                   </lg>
                </sp>
-               <sp who="#y-inés">
-                  <speaker rend="caps">Y Inés</speaker>
+               <sp who="#juana #inés">
+                  <speaker rend="caps">Juana y Inés</speaker>
                   <lg>
-                     <l>Y INÉS ¿Qué voces aquéstas son?</l>
+                     <l>¿Qué voces aquéstas son?</l>
                   </lg>
                </sp>
                <stage>Sale Isabel.</stage>
@@ -2789,7 +2788,7 @@
                      <l>(¡Qué ansia!)</l>
                   </lg>
                </sp>
-               <sp who="#los-dos">
+               <sp who="#don-juan #don-félix">
                   <speaker rend="caps">Los Dos</speaker>
                   <lg>
                      <l>(¡Qué pena!)</l>
@@ -2976,7 +2975,7 @@
                      <l>segundo mayor pesar:…</l>
                   </lg>
                </sp>
-               <sp who="#los-dos">
+               <sp who="#don-diego #don-enrique">
                   <speaker rend="caps">Los Dos</speaker>
                   <lg>
                      <l>¿Qué fue?</l>
@@ -5581,7 +5580,7 @@
                      <l>albricias.</l>
                   </lg>
                </sp>
-               <sp who="#los-dos">
+               <sp who="#don-félix #beatriz">
                   <speaker rend="caps">Los Dos</speaker>
                   <lg>
                      <l>¿De qué?</l>
@@ -5595,7 +5594,7 @@
                      <l>todos sobran.</l>
                   </lg>
                </sp>
-               <sp who="#los-dos">
+               <sp who="#don-félix #beatriz">
                   <speaker rend="caps">Los Dos</speaker>
                   <lg>
                      <l>¿Cómo?</l>
@@ -5615,7 +5614,7 @@
                      <l>Beatriz. Tú, a buscarle.</l>
                   </lg>
                </sp>
-               <sp who="#los-dos">
+               <sp who="#don-félix #beatriz">
                   <speaker rend="caps">Los Dos</speaker>
                   <lg>
                      <l>Deja…</l>
@@ -6362,7 +6361,7 @@
                      <l>que ambos enojos.</l>
                   </lg>
                </sp>
-               <sp who="#los-dos">
+               <sp who="#don-juan #don-diego">
                   <speaker rend="caps">Los Dos</speaker>
                   <lg>
                      <l>¿Qué dices?</l>
@@ -7068,7 +7067,7 @@
                      <l>D. JUAN Y D.</l>
                   </lg>
                </sp>
-               <sp who="#félix">
+               <sp who="#don-félix">
                   <speaker rend="caps">Félix</speaker>
                   <lg>
                      <l>¿Quién se vio en confusión tanta?</l>
@@ -7076,7 +7075,7 @@
                      <l>D. FERNANDO Y D.</l>
                   </lg>
                </sp>
-               <sp who="#diego">
+               <sp who="#don-diego">
                   <speaker rend="caps">Diego</speaker>
                   <lg>
                      <l>¿Qué es tenerme?</l>
