@@ -100,11 +100,32 @@
                <person xml:id="bata" sex="FEMALE">
                   <persName>Bata</persName>
                </person>
+               <person xml:id="uno-1" sex="MALE">
+                  <persName>Hombre 1</persName>
+               </person>
+               <person xml:id="uno-2" sex="MALE">
+                  <persName>Hombre 2</persName>
+               </person>
+               <person xml:id="uno-3" sex="MALE">
+                  <persName>Hombre 3</persName>
+               </person>
+               <person xml:id="uno-4" sex="MALE">
+                  <persName>Hombre 4</persName>
+               </person>
+               <person xml:id="uno-5" sex="MALE">
+                  <persName>Hombre 5</persName>
+               </person>
+               <person xml:id="uno-6" sex="MALE">
+                  <persName>Hombre 6</persName>
+               </person>
                <person xml:id="hombres" sex="MALE">
                   <persName>Hombres</persName>
                </person>
                <person xml:id="mujeres" sex="FEMALE">
                   <persName>Mujeres</persName>
+               </person>
+               <person xml:id="rustico" sex="MALE">
+                  <persName>Rustico</persName>
                </person>
                <person xml:id="coro-1" sex="MALE">
                   <persName>Coro 1</persName>
@@ -434,7 +455,7 @@
                      <l>del orbe?</l>
                   </lg>
                </sp>
-               <sp who="#la-zarzuela">
+               <sp who="#zarzuela">
                   <speaker rend="caps">La Zarzuela</speaker>
                   <stage type="withText">sale</stage>
                   <lg>
@@ -801,26 +822,26 @@
                   </lg>
                </sp>
                <stage>Barájanse todos.</stage>
-               <sp who="#unos">
+               <sp who="#uno-1 #uno-2">
                   <speaker rend="caps">Unos</speaker>
                   <stage type="withText">dentro</stage>
                   <lg>
                      <l>¡A lo llano!</l>
                   </lg>
                </sp>
-               <sp who="#otros">
+               <sp who="#uno-3 #uno-4">
                   <speaker rend="caps">Otros</speaker>
                   <lg>
                      <l>¡Al monte!</l>
                   </lg>
                </sp>
-               <sp who="#otros">
+               <sp who="#uno-5 #uno-4">
                   <speaker rend="caps">Otros</speaker>
                   <lg>
                      <l>¡Al valle!</l>
                   </lg>
                </sp>
-               <sp who="#otros">
+               <sp who="#uno-3 #uno-4">
                   <speaker rend="caps">Otros</speaker>
                   <lg>
                      <l>¡A la selva!</l>
@@ -1575,7 +1596,7 @@
                      <l>¡Viva la gala!</l>
                   </lg>
                </sp>
-               <sp who="#un-hombre">
+               <sp who="#uno-1">
                   <speaker rend="caps">Un Hombre</speaker>
                   <lg>
                      <l>¡Viva la gala de aquel</l>
@@ -1602,13 +1623,13 @@
                      <l>Y la mía.</l>
                   </lg>
                </sp>
-               <sp who="#unos">
+               <sp who="#uno-1 #uno-2">
                   <speaker rend="caps">Unos</speaker>
                   <lg>
                      <l>¡Vaya!</l>
                   </lg>
                </sp>
-               <sp who="#otros">
+               <sp who="#uno-3 #uno-4">
                   <speaker rend="caps">Otros</speaker>
                   <lg>
                      <l>¡Vaya!</l>
@@ -2041,25 +2062,25 @@
                      <l>pastores!</l>
                   </lg>
                </sp>
-               <sp who="#otros">
+               <sp who="#uno-3 #uno-4">
                   <speaker rend="caps">Otros</speaker>
                   <lg>
                      <l>¡Al bosque!</l>
                   </lg>
                </sp>
-               <sp who="#otros">
+               <sp who="#uno-5 #uno-6">
                   <speaker rend="caps">Otros</speaker>
                   <lg>
                      <l>¡Al río!</l>
                   </lg>
                </sp>
-               <sp who="#otros">
+               <sp who="#uno-1 #uno-2">
                   <speaker rend="caps">Otros</speaker>
                   <lg>
                      <l>¡Al monte!</l>
                   </lg>
                </sp>
-               <sp who="#otros">
+               <sp who="#uno-3 #uno-4">
                   <speaker rend="caps">Otros</speaker>
                   <lg>
                      <l>¡Por aquí ataja!</l>
@@ -3412,7 +3433,7 @@
                      <l>siempre está diciendo…</l>
                   </lg>
                </sp>
-               <sp who="#coro-1-eco">
+               <sp who="#coro-1">
                   <speaker rend="caps">Coro 1 Eco</speaker>
                   <lg>
                      <l>¡Amor!</l>
@@ -3433,7 +3454,7 @@
                      <l>siempre está diciendo…</l>
                   </lg>
                </sp>
-               <sp who="#coro-2-iris">
+               <sp who="#coro-2">
                   <speaker rend="caps">Coro 2 Iris</speaker>
                   <lg>
                      <l>¡Olvido!</l>
@@ -3454,7 +3475,7 @@
                      <l>natural violencia…?</l>
                   </lg>
                </sp>
-               <sp who="#coro-1-eco">
+               <sp who="#coro-1">
                   <speaker rend="caps">Coro 1 Eco</speaker>
                   <lg>
                      <l>¡Amor!</l>
@@ -3475,7 +3496,7 @@
                      <l>del olvido el mismo…</l>
                   </lg>
                </sp>
-               <sp who="#coro-2-iris">
+               <sp who="#coro-2">
                   <speaker rend="caps">Coro 2 Iris</speaker>
                   <lg>
                      <l>¡Olvido!</l>
@@ -4220,8 +4241,8 @@
                      <l>pues que tú mismo me ofreces,</l>
                   </lg>
                </sp>
-               <sp who="#canta">
-                  <speaker rend="caps">Canta</speaker>
+               <sp who="#dafne">
+                  <stage>Canta</stage>
                   <lg>
                      <l>con la lición de que libre te olvide,</l>
                      <l>también la razón de que esquiva te deje.</l>
@@ -4434,13 +4455,13 @@
                      <l>quien a Amor vence.</l>
                   </lg>
                </sp>
-               <sp who="#unos">
+               <sp who="#uno-1 #uno-2">
                   <speaker rend="caps">Unos</speaker>
                   <lg>
                      <l>¿Qué es esto?</l>
                   </lg>
                </sp>
-               <sp who="#otros">
+               <sp who="#uno-3- #uno-4">
                   <speaker rend="caps">Otros</speaker>
                   <lg>
                      <l>¿Qué le habrá dado?</l>
@@ -5007,8 +5028,8 @@
                      <l>en la corteza, que dice:</l>
                   </lg>
                </sp>
-               <sp who="#lee">
-                  <speaker rend="caps">Lee</speaker>
+               <sp who="#apolo">
+                  <stage>Lee</stage>
                   <lg>
                      <l>«Céfalo por Dafne muere».</l>
                      <l>¡Oh, mal hayas tú, porque</l>
@@ -5058,8 +5079,8 @@
                      <l>…porque otra vez no me digas:</l>
                   </lg>
                </sp>
-               <sp who="#lee">
-                  <speaker rend="caps">Lee</speaker>
+               <sp who="#apolo">
+                  <stage>Lee</stage>
                   <lg>
                      <l>«A Dafne Silvio aborrece»!</l>
                   </lg>
@@ -6110,12 +6131,8 @@
                      <l>flores.</l>
                   </lg>
                </sp>
-               <sp who="#fin">
-                  <speaker rend="caps">Fin</speaker>
-                  <lg>
-                     <l/>
-                     <stage>Repitióse esta fiesta en el día del nombre del rey nuestro señor don Carlos segundo, en cuya ocasión corrigió don Pedro los errores con que corría impresa la primera jornada, y escribió la segunda con la novedad que se advierte en esta edición.</stage>
-                  </lg>
+               <stage>FIN</stage>
+               <stage>Repitióse esta fiesta en el día del nombre del rey nuestro señor don Carlos segundo, en cuya ocasión corrigió don Pedro los errores con que corría impresa la primera jornada, y escribió la segunda con la novedad que se advierte en esta edición.</stage>
                </sp>
             </div>
          </div>
