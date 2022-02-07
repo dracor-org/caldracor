@@ -81,6 +81,9 @@
                <person xml:id="rey" sex="MALE">
                   <persName>El Rey de Napoles</persName>
                </person>
+               <person xml:id="infante" sex="MALE">
+                  <persName>El Infante</persName>
+               </person>
                <person xml:id="enrique" sex="MALE">
                   <persName>Enrique</persName>
                </person>
@@ -98,6 +101,9 @@
                </person>
                <person xml:id="villano-2" sex="MALE">
                   <persName>Villano 2</persName>
+               </person>
+               <person xml:id="villano-3" sex="MALE">
+                  <persName>Villano 3</persName>
                </person>
                <person xml:id="soldado-1" sex="MALE">
                   <persName>Soldado 1</persName>
@@ -2636,7 +2642,7 @@
                      <l>vuestros necios pareceres!</l>
                   </lg>
                </sp>
-               <sp who="#capitan">
+               <sp who="#capitán">
                   <speaker rend="caps">Capitan</speaker>
                   <lg>
                      <l>Ven, señor, donde descanses.</l>
