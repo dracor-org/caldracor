@@ -4162,7 +4162,7 @@
             <head rend="caps">Jornada Tercera</head>
             <div type="scene" n="1">
                <stage>Salen JUSTINO y MORGAN.</stage>
-               <sp who="#[voces]">
+               <sp who="#voces">
                   <speaker rend="caps">[voces]</speaker>
                   <stage type="withText">(Dentro.)</stage>
                   <lg>
@@ -4187,7 +4187,7 @@
                      <l>para resistiros?</l>
                   </lg>
                </sp>
-               <sp who="#[voces]">
+               <sp who="#voces">
                   <speaker rend="caps">[voces]</speaker>
                   <stage type="withText">(Dentro.)</stage>
                   <lg>
@@ -4204,7 +4204,7 @@
                      <l/>
                   </lg>
                </sp>
-               <sp who="#[voces]">
+               <sp who="#voces">
                   <speaker rend="caps">[voces]</speaker>
                   <lg>
                      <l>No.</l>
@@ -4348,7 +4348,7 @@
                      <l>en la villa.</l>
                   </lg>
                </sp>
-               <sp who="#[voces]">
+               <sp who="#voces">
                   <speaker rend="caps">[voces]</speaker>
                   <stage type="withText">(Dentro.)</stage>
                   <lg>
@@ -5230,7 +5230,7 @@
                      <l>Pero ¿quién causa este ruido?</l>
                   </lg>
                </sp>
-               <sp who="#[voces]">
+               <sp who="#voces">
                   <speaker rend="caps">[voces]</speaker>
                   <stage type="withText">(Dentro.)</stage>
                   <lg>
@@ -5277,7 +5277,7 @@
                      <l>¿Que le acetemos?</l>
                   </lg>
                </sp>
-               <sp who="#[voces]">
+               <sp who="#voces">
                   <speaker rend="caps">[voces]</speaker>
                   <stage type="withText">(Dentro.)</stage>
                   <lg>
@@ -5303,7 +5303,7 @@
                      <l>entregarse.</l>
                   </lg>
                </sp>
-               <sp who="#[voces]">
+               <sp who="#voces">
                   <speaker rend="caps">[voces]</speaker>
                   <stage type="withText">(Dentro.)</stage>
                   <lg>
@@ -5333,7 +5333,7 @@
                      <l>su desinio no estorbéis.</l>
                   </lg>
                </sp>
-               <sp who="#[voces]">
+               <sp who="#voces">
                   <speaker rend="caps">[voces]</speaker>
                   <stage type="withText">(Dentro.)</stage>
                   <lg>
@@ -5369,7 +5369,7 @@
                      <l>¿Qué respondéis?</l>
                   </lg>
                </sp>
-               <sp who="#[voces]">
+               <sp who="#voces">
                   <speaker rend="caps">[voces]</speaker>
                   <stage type="withText">(Dentro.)</stage>
                   <lg>
