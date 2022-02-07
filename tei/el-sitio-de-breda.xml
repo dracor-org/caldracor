@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">El Sitio De Bredá</title>
+            <title type="main">El sitio de Bredá</title>
             <title type="sub">Comedia Famosa</title>
             <author>
                <persName>
@@ -674,7 +674,7 @@
                      <l>esperar que se entregaran?</l>
                   </lg>
                </sp>
-               <sp who="#ballón">
+               <sp who="#pablos">
                   <speaker rend="caps">Ballón</speaker>
                   <lg>
                      <l>Si no quieren pelear</l>
@@ -703,13 +703,13 @@
                      <l>Caballeros: bien está.</l>
                   </lg>
                </sp>
-               <sp who="#ballón">
+               <sp who="#pablos">
                   <speaker rend="caps">Ballón</speaker>
                   <lg>
                      <l>Ir a Grave es lo mejor.</l>
                   </lg>
                </sp>
-               <sp who="#[unos]">
+               <sp who="#unos">
                   <speaker rend="caps">[unos]</speaker>
                   <stage type="withText">(Dentro.)</stage>
                   <lg>
@@ -1353,7 +1353,7 @@
                   </lg>
                </sp>
                <stage>(Dentro LADRÓN.)</stage>
-               <sp who="#ladrón">
+               <sp who="#alonso">
                   <speaker rend="caps">Ladrón</speaker>
                   <lg>
                      <l>¡Hüid, villanos!</l>
@@ -1462,7 +1462,7 @@
                   </lg>
                </sp>
                <stage>(Vanse y sale LADRÓN.)</stage>
-               <sp who="#ladrón">
+               <sp who="#alonso">
                   <speaker rend="caps">Ladrón</speaker>
                   <lg>
                      <l>Tanto a todos te adelantas,</l>
@@ -1482,7 +1482,7 @@
                      <l>consigo de haberlo sido?</l>
                   </lg>
                </sp>
-               <sp who="#ladrón">
+               <sp who="#alonso">
                   <speaker rend="caps">Ladrón</speaker>
                   <lg>
                      <l>Pues cuerpo de Dios, ¿no es nada</l>
@@ -2974,7 +2974,7 @@
                      <l>¿Y a quién has nombrado?</l>
                   </lg>
                </sp>
-               <sp who="#juntos">
+               <sp who="#alberto #carlos">
                   <speaker rend="caps">Juntos</speaker>
                   <lg>
                      <l>A mí.</l>
@@ -2986,7 +2986,7 @@
                      <l>¿Quién va desterrado?</l>
                   </lg>
                </sp>
-               <sp who="#juntos">
+               <sp who="#alberto #carlos">
                   <speaker rend="caps">Juntos</speaker>
                   <lg>
                      <l>Yo.</l>
@@ -4446,7 +4446,7 @@
                      <l>de su vida.</l>
                   </lg>
                </sp>
-               <sp who="#ladrón">
+               <sp who="#alonso">
                   <speaker rend="caps">Ladrón</speaker>
                   <lg>
                      <l>O me perdone</l>
@@ -4583,7 +4583,7 @@
                      <l>que esa dicha, señor, logre.</l>
                   </lg>
                </sp>
-               <sp who="#ladrón">
+               <sp who="#alonso">
                   <speaker rend="caps">Ladrón</speaker>
                   <lg>
                      <l>Yo apostaré que va a dar</l>
@@ -5098,7 +5098,7 @@
                      <l>no podrá ser que una muerte?</l>
                   </lg>
                </sp>
-               <sp who="#ladrón">
+               <sp who="#alonso">
                   <speaker rend="caps">Ladrón</speaker>
                   <lg>
                      <l>El Conde está aquí.</l>
@@ -6302,7 +6302,7 @@
                      <l>para que salga la gente.</l>
                   </lg>
                </sp>
-               <sp who="#ladrón">
+               <sp who="#alonso">
                   <speaker rend="caps">Ladrón</speaker>
                   <lg>
                      <l>Mucho te holgarás de verlo,</l>
