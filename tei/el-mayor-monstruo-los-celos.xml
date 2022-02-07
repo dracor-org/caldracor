@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">El Mayor Monstruo Los Celos</title>
+            <title type="main">El mayor monstruo los celos</title>
             <title type="sub">Comedia Famosa</title>
             <author>
                <persName>
@@ -82,8 +82,8 @@
                <person xml:id="armida" sex="FEMALE">
                   <persName>Armida</persName>
                </person>
-               <person xml:id="patricio" sex="MALE">
-                  <persName>Patricio</persName>
+               <person xml:id="capitán" sex="MALE">
+                  <persName>Patricio, Capitán</persName>
                </person>
                <person xml:id="música" sex="MALE">
                   <persName>Músicos</persName>
@@ -1097,8 +1097,8 @@
                      <l>señor, de tu engaño el fin.</l>
                   </lg>
                </sp>
-               <sp who="#aristóbulo">
-                  <speaker rend="caps">Aristóbulo</speaker>
+               <sp who="#aristóbolo">
+                  <speaker rend="caps">Aristóbolo</speaker>
                   <lg>
                      <l>Disimula.</l>
                   </lg>
@@ -1448,8 +1448,8 @@
                      <l>Libre estás, vete de aquí.</l>
                   </lg>
                </sp>
-               <sp who="#aristóbulo">
-                  <speaker rend="caps">Aristóbulo</speaker>
+               <sp who="#aristóbolo">
+                  <speaker rend="caps">Aristóbolo</speaker>
                   <lg>
                      <l>El cielo vida te dé.</l>
                      <stage type="withText">[Aparte.]</stage>
@@ -4787,8 +4787,8 @@
                      <l>¡Viva Octaviano, viva!</l>
                   </lg>
                </sp>
-               <sp who="#octavian">
-                  <speaker rend="caps">Octavian</speaker>
+               <sp who="#octaviano">
+                  <speaker rend="caps">Octaviano</speaker>
                   <lg>
                      <l>... y allí con voz severa...</l>
                   </lg>
