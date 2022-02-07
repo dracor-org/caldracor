@@ -124,6 +124,36 @@
                <person xml:id="voces" sex="MALE">
                   <persName>VOCES</persName>
                </person>
+               <person xml:id="viejo" sex="MALE">
+                  <persName>UN VIEJO</persName>
+               </person>
+               <person xml:id="salvaje" sex="MALE">
+                  <persName>UN SALVAJE</persName>
+               </person>
+               <person xml:id="primera" sex="MALE">
+                  <persName>MUJER PRIMERA</persName>
+               </person>
+               <person xml:id="segunda" sex="MALE">
+                  <persName>MUJER SEGUNDA</persName>
+               </person>
+               <person xml:id="tercera" sex="MALE">
+                  <persName>MUJER TERCERA</persName>
+               </person>
+               <person xml:id="cuarta" sex="MALE">
+                  <persName>MUJER CUARTA</persName>
+               </person>
+               <person xml:id="primero" sex="MALE">
+                  <persName>HOMBRE PRIMERO</persName>
+               </person>
+               <person xml:id="segundo" sex="MALE">
+                  <persName>HOMBRE SEGUNDO</persName>
+               </person>
+               <person xml:id="tercero" sex="MALE">
+                  <persName>HOMBRE TERCERO</persName>
+               </person>
+               <person xml:id="cuarto" sex="MALE">
+                  <persName>HOMBRE CUARTO</persName>
+               </person>
                <person xml:id="música" sex="MALE">
                   <persName>MÚSICA</persName>
                </person>
