@@ -99,6 +99,12 @@
                <person xml:id="vejete" sex="MALE">
                   <persName>UN VEJETE</persName>
                </person>
+               <person xml:id="primero" sex="MALE">
+                  <persName>UN VILLANO</persName>
+               </person>
+               <person xml:id="segundo" sex="MALE">
+                  <persName>OTRO VILLANO</persName>
+               </person>
             </listPerson>
          </particDesc>
          <textClass>
@@ -7385,7 +7391,7 @@
                      <l>cuando es de igual confusión…</l>
                   </lg>
                </sp>
-               <sp who="#música #enrique">
+               <sp who="#músicos #enrique">
                   <speaker rend="caps">Él Y Música</speaker>
                   <lg>
                      <l>…sólo el silencio testigo.</l>
@@ -7400,7 +7406,7 @@
                      <l>¿por qué la duda ministro…</l>
                   </lg>
                </sp>
-               <sp who="#música #enrique">
+               <sp who="#músicos #enrique">
                   <speaker rend="caps">Él Y Música</speaker>
                   <lg>
                      <l>…ha de ser de mi tormento?</l>
@@ -7414,7 +7420,7 @@
                      <l>tan mudo y tan suspendido…</l>
                   </lg>
                </sp>
-               <sp who="#música #enrique">
+               <sp who="#músicos #enrique">
                   <speaker rend="caps">Él Y Música</speaker>
                   <lg>
                      <l>…que aun no cabe lo que siento…</l>
@@ -7433,7 +7439,7 @@
                      <l>en todo lo que padezco,…</l>
                   </lg>
                </sp>
-               <sp who="#música #enrique">
+               <sp who="#músicos #enrique">
                   <speaker rend="caps">Él Y Música</speaker>
                   <lg>
                      <l>…ni en todo lo que no digo…</l>
@@ -7450,7 +7456,7 @@
                      <l>tan solo me determino…</l>
                   </lg>
                </sp>
-               <sp who="#música #enrique">
+               <sp who="#músicos #enrique">
                   <speaker rend="caps">Él Y Música</speaker>
                   <lg>
                      <l>…a callarlo sin callarlo</l>
@@ -7588,7 +7594,7 @@
                      <l>pues otra en su nombre vino…</l>
                   </lg>
                </sp>
-               <sp who="#música #libia">
+               <sp who="#músicos #libia">
                   <speaker rend="caps">Ella Y Música</speaker>
                   <lg>
                      <l>…a callarlo sin callarlo</l>
