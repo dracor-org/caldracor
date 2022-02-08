@@ -78,6 +78,9 @@
                <person xml:id="irene" sex="FEMALE">
                   <persName>IRENE</persName>
                </person>
+               <person xml:id="mandinga" sex="FEMALE">
+                  <persName>MANDINGA</persName>
+               </person>
                <person xml:id="libio" sex="MALE">
                   <persName>LIBIO</persName>
                </person>
@@ -86,6 +89,9 @@
                </person>
                <person xml:id="joab" sex="MALE">
                   <persName>JOAB</persName>
+               </person>
+               <person xml:id="hebreo" sex="MALE">
+                  <persName>UN HEBREO</persName>
                </person>
                <person xml:id="músico-1" sex="MALE">
                   <persName>MÚSICO 1</persName>
@@ -1233,7 +1239,7 @@
                      <l>no entendiéndose uno, leerse todos.</l>
                   </lg>
                </sp>
-               <sp who="#música-2">
+               <sp who="#músico-2">
                   <speaker rend="caps">Música 2</speaker>
                   <lg>
                      <l>“Un singular, un celestial madero...”</l>
@@ -2019,14 +2025,14 @@
                   </lg>
                </sp>
                <stage>Vase y dicen dentro.</stage>
-               <sp who="#uno">
+               <sp who="#casimira">
                   <speaker rend="caps">Uno</speaker>
                   <stage type="withText">dentro</stage>
                   <lg>
                      <l>¡No le sigas más!</l>
                   </lg>
                </sp>
-               <sp who="#dos">
+               <sp who="#mandinga">
                   <speaker rend="caps">Dos</speaker>
                   <stage type="withText">dentro</stage>
                   <lg>
