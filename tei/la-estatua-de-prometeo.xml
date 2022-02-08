@@ -78,14 +78,20 @@
                <person xml:id="libia" sex="FEMALE">
                   <persName>LIBIA</persName>
                </person>
-               <person xml:id="músicos" sex="MALE">
+               <person xml:id="música" sex="MALE">
                   <persName>MÚSICOS</persName>
                </person>
                <person xml:id="villanos" sex="MALE">
                   <persName>VILLANOS</persName>
                </person>
-               <person xml:id="villanas" sex="FEMALE">
-                  <persName>VILLANAS</persName>
+               <person xml:id="villana-1" sex="FEMALE">
+                  <persName>VILLANA PRIMERA</persName>
+               </person>
+               <person xml:id="villana-2" sex="FEMALE">
+                  <persName>VILLANA SEGUNDA</persName>
+               </person>
+               <person xml:id="villana-3" sex="FEMALE">
+                  <persName>VILLANA TERCERA</persName>
                </person>
             </listPerson>
          </particDesc>
@@ -3534,7 +3540,7 @@
                      <stage>Con la Música a 4 voces.</stage>
                   </lg>
                </sp>
-               <sp who="#villana">
+               <sp who="#villana-1">
                   <speaker rend="caps">VILLANA 1ª </speaker>
                   <lg>
                      <l>En este nácar, la orilla</l>
@@ -3546,7 +3552,7 @@
                      <l>el agua con perlas. Con la Música a 4 voces.</l>
                   </lg>
                </sp>
-               <sp who="#villana">
+               <sp who="#villana-2">
                   <speaker rend="caps">VILLANA 2ª </speaker>
                   <lg>
                      <l>Si aplaudió tus hechos graves</l>
@@ -3559,7 +3565,7 @@
                      <stage>Con la Música a 4 voces.</stage>
                   </lg>
                </sp>
-               <sp who="#villana">
+               <sp who="#villana-3">
                   <speaker rend="caps">VILLANA 3ª </speaker>
                   <lg>
                      <l>Todo a tu hermosa deidad</l>
@@ -3915,7 +3921,7 @@
                      <l>¡Qué confusión!</l>
                   </lg>
                </sp>
-               <sp who="#los-dos">
+               <sp who="#unos #otros">
                   <speaker rend="caps">Los Dos</speaker>
                   <lg>
                      <l>Ahora nos dice tu acento</l>
@@ -4467,7 +4473,7 @@
                      <l>y no sean a un fin...</l>
                   </lg>
                </sp>
-               <sp who="#los-tres">
+               <sp who="#apolo #minerva #palas">
                   <speaker rend="caps">Los Tres</speaker>
                   <lg>
                      <l>...la tierra la caja, el pífano el agua,</l>
@@ -5933,7 +5939,7 @@
                </sp>
                <stage>Sordinas y cajas destempladas y, las caras cubiertas, sacan a los dos, 
                   a una parte mujeres y a otra hombres, y salen todos los demás.</stage>
-               <sp who="#los-dos">
+               <sp who="#palas #discordia">
                   <speaker rend="caps">Los Dos</speaker>
                   <lg>
                      <l>¡Ay de quien vio...</l>
@@ -5945,7 +5951,7 @@
                      <l>¡Ay de quien vio...</l>
                   </lg>
                </sp>
-               <sp who="#los-dos">
+               <sp who="#palas #discordia">
                   <speaker rend="caps">Los Dos</speaker>
                   <lg>
                      <l>...el bien convertido en mal...</l>
@@ -5957,7 +5963,7 @@
                      <l>...el bien convertido en mal...</l>
                   </lg>
                </sp>
-               <sp who="#los-dos">
+               <sp who="#palas #discordia">
                   <speaker rend="caps">Los Dos</speaker>
                   <lg>
                      <l>...y el mal en peor!</l>
@@ -6009,7 +6015,7 @@
                      <l>lamento a un tiempo y canción...</l>
                   </lg>
                </sp>
-               <sp who="#los-dos #música">
+               <sp who="#palas #discordia #música">
                   <speaker rend="caps">Los Dos y Música</speaker>
                   <lg>
                      <l>¡Ay de quien vio</l>
@@ -6057,7 +6063,7 @@
                      <l>¡Qué lastima!</l>
                   </lg>
                </sp>
-               <sp who="#villanas">
+               <sp who="#villana-1 #villana-2 #villana-3">
                   <speaker rend="caps">Villanas</speaker>
                   <lg>
                      <l>¡Qué desdicha!</l>
