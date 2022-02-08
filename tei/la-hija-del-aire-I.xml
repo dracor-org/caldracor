@@ -90,6 +90,9 @@
                <person xml:id="libio" sex="MALE">
                   <persName>LIBIO</persName>
                </person>
+               <person xml:id="soldado-1" sex="MALE">
+                  <persName>UN SOLDADO</persName>
+               </person>
                <person xml:id="músicos" sex="MALE">
                   <persName>MÚSICOS</persName>
                </person>
@@ -4141,7 +4144,7 @@
                   <l part="F"> Todos </l>
                   <l> estamos acá, ¡pardiez! </l>
                </sp>
-               <sp who="#soldado-iº">
+               <sp who="#soldado-1">
                   <speaker>SOLDADO I.º</speaker>
                   <l n="10"> ¡Tonto! ¿Cómo de ese modo?... </l>
                </sp>
@@ -4173,7 +4176,7 @@
                   <l> Entra, Madroño, a vestirme </l>
                   <l part="I"> de soldado. </l>
                </sp>
-               <sp who="#soldado-iº">
+               <sp who="#soldado-1">
                   <speaker>SOLDADO I.º</speaker>
                   <l part="F"> De aquí a un poco. </l>
                   <stage>Dentro.</stage>
@@ -4302,7 +4305,7 @@
                   <l n="95"> Señor Madroño, ¿es ya hora </l>
                   <l> de que nos vamos nosotros? </l>
                </sp>
-               <sp who="#soldado-iº">
+               <sp who="#soldado-1">
                   <speaker>SOLDADO I.º</speaker>
                   <l part="I"> ¿Qué prisa? </l>
                </sp>
@@ -4930,7 +4933,7 @@
                   <speaker>SEMÍRAMIS</speaker>
                   <l part="M"> ...sufro... </l>
                </sp>
-               <sp who="#los-dos">
+               <sp who="#menón #semíramis">
                   <speaker>LOS DOS</speaker>
                   <l part="F"> ¿Qué oigo? </l>
                </sp>
@@ -5219,7 +5222,7 @@
                   <l part="F"> No le he menester </l>
                   <l> a lo que he de responder. </l>
                </sp>
-               <sp who="#los-dos">
+               <sp who="#menón #nino">
                   <speaker>LOS DOS</speaker>
                   <l part="I"> ¿Luego ya lo sabes? </l>
                </sp>
@@ -5729,7 +5732,7 @@
                   <l> para que nunca te quede </l>
                   <l> que pedirme más por él. </l>
                </sp>
-               <sp who="#soldado-iº">
+               <sp who="#soldado-1">
                   <speaker>SOLDADO I.º</speaker>
                   <l part="I"> ¿Qué me mandas? </l>
                </sp>
@@ -5766,7 +5769,7 @@
                   <speaker>NINO</speaker>
                   <l> ¿Habéisme entendido ya? </l>
                </sp>
-               <sp who="#soldado-iº">
+               <sp who="#soldado-1">
                   <speaker>SOLDADO I.º</speaker>
                   <l n="810"> Y se hará de aquesa suerte. </l>
                   <l part="I"> Vamos. </l>
@@ -5981,7 +5984,7 @@
                   <l n="910"> que, tiranos y crueles, </l>
                   <l> me habéis sacado los ojos? </l>
                </sp>
-               <sp who="#soldado-iº">
+               <sp who="#soldado-1">
                   <speaker>SOLDADO I.º</speaker>
                   <l> Mandato del Rey es éste. </l>
                   <l> Él nos dijo que en la parte </l>
