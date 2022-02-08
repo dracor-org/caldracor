@@ -98,7 +98,10 @@
                <person xml:id="caballero" sex="MALE">
                   <persName>UN CABALLERO</persName>
                </person>
-               <person xml:id="mujer-1" sex="MALE">
+               <person xml:id="dama-1" sex="FEMALE">
+                  <persName>UNA DAMA</persName>
+               </person>
+               <person xml:id="mujer-1" sex="FEMALE">
                   <persName>UNA MUJER</persName>
                </person>
                <person xml:id="música" sex="MALE">
