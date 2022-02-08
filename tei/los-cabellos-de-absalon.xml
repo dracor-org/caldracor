@@ -45,7 +45,7 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <person xml:id="rey-david" sex="MALE">
+               <person xml:id="david" sex="MALE">
                   <persName>EL REY DAVID</persName>
                </person>
                <person xml:id="joab" sex="MALE">
@@ -66,8 +66,8 @@
                <person xml:id="tamar" sex="FEMALE">
                   <persName>TAMAR</persName>
                </person>
-               <person xml:id="teuia" sex="FEMALE">
-                  <persName>TEUIA (sic)</persName>
+               <person xml:id="teuca" sex="FEMALE">
+                  <persName>TEUCA</persName>
                </person>
                <person xml:id="aquitofel" sex="MALE">
                   <persName>AQUITOFEL</persName>
@@ -81,8 +81,14 @@
                <person xml:id="ensay" sex="MALE">
                   <persName>ENSAY</persName>
                </person>
-               <person xml:id="pastores" sex="MALE">
-                  <persName>PASTORES</persName>
+               <person xml:id="pastor-1" sex="MALE">
+                  <persName>PASTOR PRIMERO</persName>
+               </person>
+               <person xml:id="pastor-2" sex="MALE">
+                  <persName>PASTOR SEGUNDO</persName>
+               </person>
+               <person xml:id="músicos" sex="MALE">
+                  <persName>MÚSICOS</persName>
                </person>
             </listPerson>
          </particDesc>
@@ -1840,7 +1846,7 @@
                   <speaker>AMÓN</speaker>
                   <l> En escuchar me divierto. </l>
                </sp>
-               <sp who="#él #músicos">
+               <sp who="#tamar #músicos">
                   <speaker>ÉL y MÚSICOS</speaker>
                   <l n="935"><emph>Que no tiene amor</emph>
                   </l>
@@ -1932,7 +1938,7 @@
                   <speaker>TAMAR</speaker>
                   <l part="M"> ¿Yo? </l>
                </sp>
-               <sp who="#músico-">
+               <sp who="#músicos">
                   <speaker>MÚSICO</speaker>
                   <l part="F"> Ya obedecemos. </l>
                   <stage>Vase.</stage>
@@ -1990,7 +1996,7 @@
                   <l n="985"> La he de seguir, ya una vez </l>
                   <l> declarado, pues es cierto... </l>
                </sp>
-               <sp who="#él #músicos">
+               <sp who="#amón #músicos">
                   <speaker>ÉL Y MÚSICOS</speaker>
                   <l><emph>Que no tiene amor</emph></l>
                   <l><emph>quien tiene silencio.</emph></l>
@@ -2092,7 +2098,7 @@
                   <l> ¿Qué desatino es aqueste? </l>
                </sp>
                <stage>Llegan ELIAZER y JONADAB.</stage>
-               <sp who="#-eliazer-">
+               <sp who="#eliazer">
                   <speaker>ELIAZ[ER]</speaker>
                   <l part="I">Señor... </l>
                </sp>
@@ -2858,7 +2864,7 @@
                <stage>Vanse.</stage>
                <stage>Salen TAMAR, y TEUCA cubiertos los rostros, y algunos PASTORES
                   cantando.</stage>
-               <sp who="#pastores-">
+               <sp who="#pastor-1 #pastor-2">
                   <speaker>PASTORES</speaker>
                   <l><emph>Al esquilmo ganaderos,</emph>
                   </l>
@@ -2869,7 +2875,7 @@
                   <l><emph>que llama a los pastores el mayoral.</emph>
                   </l>
                </sp>
-               <sp who="#pastor-1º-">
+               <sp who="#pastor-1">
                   <speaker>PASTOR 1.º</speaker>
                   <l n="550"> Dichosas serán desde hoy</l>
                   <l> las reses que en el Jordán</l>
@@ -2896,7 +2902,7 @@
                   <speaker>TAMAR</speaker>
                   <l n="570"> Temo de mirarme en ellas.</l>
                </sp>
-               <sp who="#pastor-1º">
+               <sp who="#pastor-1">
                   <speaker>PAST[OR] 1.º</speaker>
                   <l> Si es por no os enamorar</l>
                   <l> de vos misma, bien hacéis:</l>
@@ -2917,7 +2923,7 @@
                   <l> tengo una mancha afrentosa:</l>
                   <l n="585"> si la veo, he de llorar.</l>
                </sp>
-               <sp who="#pastor-1º">
+               <sp who="#pastor-1">
                   <speaker>PAST[OR] 1.º</speaker>
                   <l> ¿Mancha tenéis? Y aun por eso,</l>
                   <l> que aquí los espejos que hay,</l>
@@ -2939,7 +2945,7 @@
                   <l n="600"> sólo a borralla es bastante</l>
                   <l> la sangre de un desleal. </l>
                </sp>
-               <sp who="#pastor-1º">
+               <sp who="#pastor-1">
                   <speaker>PAST[OR] 1.º</speaker>
                   <l> No vi en mi vida tal muda:</l>
                   <l> miel virgen afeita acá;</l>
@@ -2952,7 +2958,7 @@
                   <stage>Aparte.</stage>
                   <l part="F"> Pecados son.</l>
                </sp>
-               <sp who="#pastor-1º">
+               <sp who="#pastor-1">
                   <speaker>PAST[OR] 1.º</speaker>
                   <l> Cubridlas con solimán.</l>
                </sp>
@@ -2961,7 +2967,7 @@
                   <l> No queda, pastor, por eso:</l>
                   <l> toda yo soy rejalgar.</l>
                </sp>
-               <sp who="#pastor-1º">
+               <sp who="#pastor-1">
                   <speaker>PAST[OR] 1.º</speaker>
                   <l n="610"> ¿Es algún lunar acaso</l>
                   <l> que con la toca tapáis?</l>
@@ -2972,7 +2978,7 @@
                   <l> No se muda cual la luna.</l>
                   <l> No es la deshonra lunar.</l>
                </sp>
-               <sp who="#pastor-1º">
+               <sp who="#pastor-1">
                   <speaker>PAST[OR] 1.º</speaker>
                   <l> Pues sea lo que se fuere,</l>
                   <l n="615"> pardiez, que hemos de cantar</l>
@@ -2987,7 +2993,7 @@
                   <l> Todo es tristeza y pesar.</l>
                </sp>
                <stage>Trae TEUCA unas flores en un cestillo.</stage>
-               <sp who="#-pastor-1º">
+               <sp who="#pastor-1">
                   <speaker>PAST[OR] 1.º</speaker>
                   <l>Teuca, aunque te descubras,</l>
                   <l> segura puedes estar</l>
@@ -3034,7 +3040,7 @@
                   <speaker>TEUCA</speaker>
                   <l> Bien te puedes consolar.</l>
                </sp>
-               <sp who="#pastor-1º">
+               <sp who="#pastor-1">
                   <speaker>PAST[OR] 1.º</speaker>
                   <l n="650"> Alegráos, ¿en qué pensáis?</l>
                </sp>
@@ -3044,7 +3050,7 @@
                   <l> los príncipes que han querido</l>
                   <l part="I"> honrarnos hoy.</l>
                </sp>
-               <sp who="#pastor-1º">
+               <sp who="#pastor-1">
                   <speaker>PAST[OR] 1.º</speaker>
                   <l part="F">¿Qué aguardáis?</l>
                   <l> Mientras el convite pasa,</l>
@@ -3052,7 +3058,7 @@
                   <l> y de flores, hierba y ramos</l>
                   <l> entapicemos la casa.</l>
                </sp>
-               <sp who="#pastor-2º">
+               <sp who="#pastor-2">
                   <speaker>PAST[OR] 2.º</speaker>
                   <l>Tiene Cardenio razón:</l>
                   <l> démonos prisa, pastores;</l>
@@ -3368,7 +3374,7 @@
                   <stage>Vase.</stage>
                </sp>
                <stage>Sale un PASTOR.</stage>
-               <sp who="#pastor">
+               <sp who="#pastor-1">
                   <speaker>PASTOR</speaker>
                   <l> La comida, que se enfría,</l>
                   <l> a Vuestras Altezas llama.</l>
@@ -4171,7 +4177,7 @@
                   <stage>Vase.</stage>
                </sp>
                <stage>Salenn ADONÍAS y SALOMÓN.</stage>
-               <sp who="#-adonías">
+               <sp who="#adonías">
                   <speaker>ADONÍAS</speaker>
                   <l>La merced que hoy a Absalón</l>
                   <l> has hecho, es bien que agradezca</l>
@@ -5083,7 +5089,7 @@
                   <l> Escucha, Ensay, aguarda.</l>
                </sp>
                <stage>Salen ADONÍAS y SEMEY.</stage>
-               <sp who="#-adonías">
+               <sp who="#adonías">
                   <speaker>ADONÍAS</speaker>
                   <l>Señor, un punto no esperes,</l>
                   <l n="755"> que es un volcán la ciudad</l>
