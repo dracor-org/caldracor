@@ -87,7 +87,7 @@
                <person xml:id="lesbia" sex="FEMALE">
                   <persName>LESBIA</persName>
                </person>
-               <person xml:id="criado" sex="MALE">
+               <person xml:id="criado-1" sex="MALE">
                   <persName>CRIADO</persName>
                </person>
                <person xml:id="músicos" sex="MALE">
@@ -5632,7 +5632,7 @@
                      <l>a pesar del cielo...</l>
                   </lg>
                </sp>
-               <sp who="#demonio-y-música">
+               <sp who="#demonio #músicos">
                   <speaker rend="caps">Demonio y Música</speaker>
                   <stage type="withText">Cantan</stage>
                   <lg>
