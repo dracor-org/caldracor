@@ -97,6 +97,9 @@
                <person xml:id="guarín" sex="MALE">
                   <persName>Guarín</persName>
                </person>
+               <person xml:id="criado" sex="MALE">
+                  <persName>CRIADO</persName>
+               </person>
                <person xml:id="músicos" sex="MALE">
                   <persName>Músicos</persName>
                </person>
