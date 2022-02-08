@@ -75,7 +75,7 @@
                <person xml:id="yole" sex="FEMALE">
                   <persName>YOLE</persName>
                </person>
-               <person xml:id="euristio" sex="MALE">
+               <person xml:id="rey" sex="MALE">
                   <persName>EURISTIO</persName>
                </person>
                <person xml:id="anteo" sex="MALE">
@@ -116,6 +116,27 @@
                </person>
                <person xml:id="cautivos" sex="MALE">
                   <persName>Cautivos</persName>
+               </person>
+               <person xml:id="coro-primero" sex="UNKNOWN">
+                  <persName>Coro primero</persName>
+               </person>
+               <person xml:id="coro-segundo" sex="UNKNOWN">
+                  <persName>Coro segundo</persName>
+               </person>
+               <person xml:id="voz-primera" sex="FEMALE">
+                  <persName>Voz primera</persName>
+               </person>
+               <person xml:id="voz-segunda" sex="FEMALE">
+                  <persName>Voz segunda</persName>
+               </person>
+               <person xml:id="voz-tercera" sex="FEMALE">
+                  <persName>Voz tercera</persName>
+               </person>
+               <person xml:id="hombre" sex="MALE">
+                  <persName>Un hombre</persName>
+               </person>
+               <person xml:id="mujer" sex="FEMALE">
+                  <persName>Una mujer</persName>
                </person>
             </listPerson>
          </particDesc>
@@ -161,7 +182,7 @@
             <div type="scene" n="1">
                <stage>Dentro VOCES, y salen atravesando el tablado por diversas partes VERUSA, EGLE y HESPERIA, 
                   seguidas de otras ninfas.</stage>
-               <sp who="#voces">
+               <sp who="#voz-primera #voz-segunda #voz-tercera">
                   <speaker rend="caps">Voces</speaker>
                   <lg>
                      <l>¡Pastores, huid! ¡La fiera!</l>
@@ -213,7 +234,7 @@
                   </lg>
                </sp>
                <stage>(Sale LICAS.) </stage>
-               <sp who="#[licas]">
+               <sp who="#licas">
                   <speaker rend="caps">[licas]</speaker>
                   <lg>
                      <l>¿Quién creerá que es mi miedo</l>
@@ -537,7 +558,7 @@
                      <l>Este es otro cantar.</l>
                   </lg>
                </sp>
-               <sp who="#[voz-primera]">
+               <sp who="#voz-primera">
                   <speaker rend="caps">[voz Primera]</speaker>
                   <lg>
                      <l>...si aquesta puerta</l>
@@ -1471,13 +1492,13 @@
                      <l>¡Vagos fantasmas del sueño!</l>
                   </lg>
                </sp>
-               <sp who="#coro-1">
+               <sp who="#coro-primero">
                   <speaker rend="caps">Coro 1</speaker>
                   <lg>
                      <l>¿Qué solicitas?</l>
                   </lg>
                </sp>
-               <sp who="#coro-2">
+               <sp who="#coro-segundo">
                   <speaker rend="caps">Coro 2</speaker>
                   <lg>
                      <l>¿Qué intentas?</l>
@@ -1578,7 +1599,7 @@
                   </lg>
                </sp>
                <stage>(Dentro EURISTIO.)</stage>
-               <sp who="#euristio">
+               <sp who="#rey">
                   <speaker rend="caps">Euristio</speaker>
                   <lg>
                      <l>Hagan salva</l>
@@ -1603,7 +1624,7 @@
                      <l>de las trompetas y cajas.</l>
                   </lg>
                </sp>
-               <sp who="#euristio">
+               <sp who="#rey">
                   <speaker rend="caps">Euristio</speaker>
                   <lg>
                      <l>¡Otra vez la salva vuelva!</l>
@@ -3135,7 +3156,7 @@
                      <l>¿Qué es aquesto?</l>
                   </lg>
                </sp>
-               <sp who="#voces">
+               <sp who="#voz-primera #voz-segunda #voz-tercera">
                   <speaker rend="caps">Voces</speaker>
                   <stage type="withText">(Dentro.) </stage>
                   <lg>
@@ -3158,7 +3179,7 @@
                      <l>el orbe diciendo...</l>
                   </lg>
                </sp>
-               <sp who="#[voces]">
+               <sp who="#voz-primera #voz-segunda #voz-tercera">
                   <speaker rend="caps">[voces]</speaker>
                   <stage type="withText">(Dentro.) </stage>
                   <lg>
@@ -3205,7 +3226,7 @@
                      <l>te presenta la batalla.</l>
                   </lg>
                </sp>
-               <sp who="#[voces]">
+               <sp who="#voz-primera #voz-segunda #voz-tercera">
                   <speaker rend="caps">[voces]</speaker>
                   <stage type="withText">(Dentro.) </stage>
                   <lg>
@@ -5741,7 +5762,7 @@
                   </lg>
                </sp>
                <stage>(Toda la MÚSICA y cajas.)</stage>
-               <sp who="#[música]">
+               <sp who="#música">
                   <speaker rend="caps">[música]</speaker>
                   <lg>
                      <l>¡Arma contra el Parnaso! ¡Guerra, guerra!</l>
@@ -7163,7 +7184,7 @@
                      <l>las mujeres.</l>
                   </lg>
                </sp>
-               <sp who="#[voces]">
+               <sp who="#voz-primera #voz-segunda #voz-tercera">
                   <speaker rend="caps">[voces]</speaker>
                   <stage type="withText">(Dentro.) </stage>
                   <lg>
