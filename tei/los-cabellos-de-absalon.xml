@@ -29,7 +29,7 @@
             <idno type="quadramaX">Los cabellos de Absalón</idno>
          </publicationStmt>
          <sourceDesc>
-            <bibl type="sourceText">
+            <bibl type="digitalSource">
                <name>Biblioteca Virtual Miguel de Cervantes</name>
                <idno type="URL"
                   >http://www.cervantesvirtual.com/obra-visor/los-cabellos-de-absalon--0/html/</idno>
@@ -53,6 +53,9 @@
                </person>
                <person xml:id="absalón" sex="FEMALE">
                   <persName>ABSALÓN</persName>
+               </person>
+               <person xml:id="salomón" sex="MALE">
+                  <persName>SALOMÓN</persName>
                </person>
                <person xml:id="adonías" sex="MALE">
                   <persName>ADONÍAS</persName>
@@ -86,6 +89,9 @@
                </person>
                <person xml:id="pastor-2" sex="MALE">
                   <persName>PASTOR SEGUNDO</persName>
+               </person>
+               <person xml:id="soldados" sex="MALE">
+                  <persName>SOLDADOS</persName>
                </person>
                <person xml:id="músicos" sex="MALE">
                   <persName>MÚSICOS</persName>
@@ -2098,7 +2104,7 @@
                   <l> ¿Qué desatino es aqueste? </l>
                </sp>
                <stage>Llegan ELIAZER y JONADAB.</stage>
-               <sp who="#eliazer">
+               <sp who="#eliazar">
                   <speaker>ELIAZ[ER]</speaker>
                   <l part="I">Señor... </l>
                </sp>
@@ -2107,7 +2113,7 @@
                   <l part="F"> Echadme de aquí </l>
                   <l n="70"> esta víbora, esta peste. </l>
                </sp>
-               <sp who="#eliazer-">
+               <sp who="#eliazar">
                   <speaker>ELIAZ[E]R</speaker>
                   <l> ¿Víbora y peste? ¿Qué es della? </l>
                </sp>
@@ -4168,7 +4174,7 @@
                   <l n="255">Pero yo en otra ocasión</l>
                   <l> premiaré las canas vuestras.</l>
                </sp>
-               <sp who="#ensay-">
+               <sp who="#ensay">
                   <speaker>ENSAY</speaker>
                   <l> ¿A Aquitofel la habéis dado?</l>
                   <l> ¡Plegue a Dios que no suceda</l>
@@ -4863,7 +4869,7 @@
                   <l> de mi persona ayudar</l>
                   <l> o yo os he de dar la muerte.</l>
                </sp>
-               <sp who="#ensay-">
+               <sp who="#ensay">
                   <speaker>ENSAY</speaker>
                   <stage>Aparte.</stage>
                   <l n="635"> (¿Quién en más dudas se vio?</l>
@@ -5474,7 +5480,7 @@
                   <l n="960"> que yo con alguna gente</l>
                   <l part="I"> le seguiré.</l>
                </sp>
-               <sp who="#ensay-">
+               <sp who="#ensay">
                   <speaker>ENSAY</speaker>
                   <stage>Aparte.</stage>
                   <l part="F"> (¡Oh si pudiera</l>
