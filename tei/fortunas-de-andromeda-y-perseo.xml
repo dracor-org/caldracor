@@ -81,10 +81,10 @@
                <person xml:id="lidoro" sex="MALE">
                   <persName>LIDORO. </persName>
                </person>
-               <person xml:id="medusa" sex="MALE">
+               <person xml:id="medusa" sex="FEMALE">
                   <persName>MEDUSA. </persName>
                </person>
-               <person xml:id="palas" sex="MALE">
+               <person xml:id="palas" sex="FEMALE">
                   <persName>PALAS. </persName>
                </person>
                <person xml:id="mercurio" sex="MALE">
@@ -99,7 +99,7 @@
                <person xml:id="júpiter" sex="MALE">
                   <persName>JÚPITER. </persName>
                </person>
-               <person xml:id="musicos" sex="MALE">
+               <person xml:id="música" sex="MALE">
                   <persName>MÚSICOS. </persName>
                </person>
                <person xml:id="dama-1" sex="FEMALE">
@@ -123,7 +123,7 @@
                <person xml:id="dueña" sex="FEMALE">
                   <persName>[DUEÑA.] </persName>
                </person>
-               <person xml:id="el-rey" sex="MALE">
+               <person xml:id="rey" sex="MALE">
                   <persName>[EL REY DE TRINACRIA.] </persName>
                </person>
                <person xml:id="discordia" sex="FEMALE">
@@ -144,14 +144,32 @@
                <person xml:id="libio" sex="MALE">
                   <persName>[LIBIO.] </persName>
                </person>
-               <person xml:id="furias" sex="FEMALE">
-                  <persName>[FURIAS.] </persName>
+               <person xml:id="furia-1ª" sex="FEMALE">
+                  <persName>[FURIA PRIMERA] </persName>
                </person>
-               <person xml:id="nereidas" sex="FEMALE">
+               <person xml:id="furia-2ª" sex="FEMALE">
+                  <persName>[FURIA SEGUNDA] </persName>
+               </person>
+               <person xml:id="furia-3ª" sex="FEMALE">
+                  <persName>[FURIA TERCERA] </persName>
+               </person>
+               <person xml:id="nereida-1ª" sex="FEMALE">
+                  <persName>[NEREIDAS.] </persName>
+               </person>
+               <person xml:id="nereida-2ª" sex="FEMALE">
+                  <persName>[NEREIDAS.] </persName>
+               </person>
+               <person xml:id="nereida-3ª" sex="FEMALE">
+                  <persName>[NEREIDAS.] </persName>
+               </person>
+               <person xml:id="nereida-4ª" sex="FEMALE">
                   <persName>[NEREIDAS.] </persName>
                </person>
                <person xml:id="villanos" sex="MALE">
                   <persName>[VILLANOS.]</persName>
+               </person>
+               <person xml:id="ecos" sex="MALE">
+                  <persName>[ECOS.]</persName>
                </person>
             </listPerson>
          </particDesc>
@@ -393,7 +411,7 @@
                   <speaker>BATO</speaker>
                   <l n="80" part="F">¿Y luego?</l>
                </sp>
-               <sp who="#los-tres">
+               <sp who="#gilote #ergasto #riselo">
                   <speaker>LOS TRES</speaker>
                   <l part="I">Luego seguro estás.</l>
                </sp>
@@ -505,7 +523,7 @@
                   <l part="I">¿qué historia es?</l>
                </sp>
                <stage>Abrázanse los tres con él.</stage>
-               <sp who="#los-tres">
+               <sp who="#gilote #ergasto #riselo">
                   <speaker>LOS TRES</speaker>
                   <l part="F">Agora es tiempo.</l>
                </sp>
@@ -537,7 +555,7 @@
                   <speaker>BATO</speaker>
                   <l part="I">¿Está bien tenido?</l>
                </sp>
-               <sp who="#los-tres">
+               <sp who="#gilote #ergasto #riselo">
                   <speaker>LOS TRES</speaker>
                   <l part="F">Sí.</l>
                </sp>
@@ -586,7 +604,7 @@
                   <l>ni ella es hija, ni tú nieto.</l>
                   <l part="I">¿Va bien?</l>
                </sp>
-               <sp who="#los-tres">
+               <sp who="#gilote #ergasto #riselo">
                   <speaker>LOS TRES</speaker>
                   <l n="155" part="F">Lindamente va.</l>
                </sp>
@@ -623,7 +641,7 @@
                   <l>favor pedía a los dioses.</l>
                   <l part="I">¿Va bien?</l>
                </sp>
-               <sp who="#los-dos">
+               <sp who="#gilote #ergasto">
                   <speaker>LOS DOS</speaker>
                   <l part="M">Muy bien.</l>
                </sp>
@@ -693,7 +711,7 @@
                   <l>las caras, siendo desde hoy</l>
                   <l>más humilde y más honesto.</l>
                </sp>
-               <sp who="#los-tres">
+               <sp who="#gilote #ergasto #riselo">
                   <speaker>LOS TRES</speaker>
                   <l part="I">¿Tienes más que decir?</l>
                </sp>
@@ -718,7 +736,7 @@
                   <l>¿Esto sufro, esto consiento,</l>
                   <l>sin haceros mil pedazos?</l>
                </sp>
-               <sp who="#los-tres">
+               <sp who="#gilote #ergasto #riselo">
                   <speaker>LOS TRES</speaker>
                   <l>Vamos de su furia huyendo.</l>
                   <stage>Vanse los tres.</stage>
@@ -1205,7 +1223,7 @@
                   <l>solicitar que me diga</l>
                   <l>mi hado antes que llegue el tiempo.</l>
                </sp>
-               <sp who="#él #música">
+               <sp who="#perseo #música">
                   <speaker>ÉL y MÚSICA</speaker>
                   <l>A decirlo, sin decirlo,</l>
                   <l>y a saberlo, sin saberlo.</l>
@@ -1379,7 +1397,7 @@
                   <l part="F">En paz parte,</l>
                   <l>porque llegue a un mismo tiempo.</l>
                </sp>
-               <sp who="#los-dos">
+               <sp who="#palas #mercurio">
                   <speaker>LOS DOS</speaker>
                   <l>A decirlo, sin decirlo,</l>
                   <l n="580">y a saberlo, sin saberlo.</l>
@@ -2542,7 +2560,7 @@
                   <l n="65">le aborrezco de manera,</l>
                   <l>que por no tenerle solo...</l>
                </sp>
-               <sp who="#ella #música">
+               <sp who="#dánae #música">
                   <speaker>ELLA y MÚSICA</speaker>
                   <l>Ya no les pienso pedir</l>
                   <l>más lágrimas a mis ojos.</l>
@@ -2564,7 +2582,7 @@
                   <l>Ved que quejosos de mí,</l>
                   <l>no quieren uno sin otro...</l>
                </sp>
-               <sp who="#ella #música">
+               <sp who="#dánae #música">
                   <speaker>ELLA y MÚSICA</speaker>
                   <l>Porque dicen que no pueden</l>
                   <l>llorar tanto y ver tan poco.</l>
@@ -2926,7 +2944,7 @@
                   <speaker>PERSEO</speaker>
                   <l part="F">¡Qué delirio!</l>
                </sp>
-               <sp who="#los-dos">
+               <sp who="#dánae #perseo">
                   <speaker>LOS DOS</speaker>
                   <l part="I">¡Qué pasmo!</l>
                </sp>
@@ -3030,7 +3048,7 @@
                   <l>los dos, y al uno y al otro</l>
                   <l part="I">Júpiter respondió.</l>
                </sp>
-               <sp who="#los-dos">
+               <sp who="#dánae #perseo">
                   <speaker>LOS DOS</speaker>
                   <l n="295" part="F">¿Qué?</l>
                </sp>
@@ -3038,7 +3056,7 @@
                   <speaker>BATO</speaker>
                   <l>Dos casos bien espantosos.</l>
                </sp>
-               <sp who="#los-dos">
+               <sp who="#dánae #perseo">
                   <speaker>LOS DOS</speaker>
                   <l part="I">¿Qué son?</l>
                </sp>
@@ -3054,7 +3072,7 @@
                   <l>a otros tintos y a otros tontos.</l>
                </sp>
                <stage>Sale FINEO y LIDORO, POLÍDITES, CARDENIO y VILLANOS.</stage>
-               <sp who="#los-dos">
+               <sp who="#dánae #perseo">
                   <speaker>LOS DOS</speaker>
                   <l n="305">¿Qué les habrá sucedido?</l>
                </sp>
@@ -3128,7 +3146,7 @@
                   <l>habiendo oído cada una</l>
                   <l>de por sí, que se hace una.</l>
                </sp>
-               <sp who="#los-dos">
+               <sp who="#dánae #perseo">
                   <speaker>LOS DOS</speaker>
                   <l part="I">¿Cómo?</l>
                </sp>
@@ -3485,7 +3503,7 @@
                   <l>finezas, que la primera</l>
                   <l part="I">su vida es.</l>
                </sp>
-               <sp who="#los-dos">
+               <sp who="#dánae #perseo">
                   <speaker>LOS DOS</speaker>
                   <l part="F">Beso tus plantas.</l>
                </sp>
@@ -3629,7 +3647,7 @@
                   <l part="F">Al arma,</l>
                   <l part="I">Discordia.</l>
                </sp>
-               <sp who="#los-dos">
+               <sp who="#discordia #mercurio">
                   <speaker>LOS DOS</speaker>
                   <l part="F">Y viva quien venza.</l>
                </sp>
@@ -3810,7 +3828,7 @@
                   <l n="665">a la de los dioses, oíd mi invocación.</l>
                </sp>
                <stage>Cantan dentro las tres FURIAS.</stage>
-               <sp who="#furias">
+               <sp who="#furia-1ª #furia-2ª #furia-3ª">
                   <speaker>FURIAS</speaker>
                   <l>¿Qué quieres, Discordia? Que ya a tu obediencia</l>
                   <l>nos mandan abrir Proserpina y Plutón.</l>
@@ -3950,7 +3968,7 @@
                   <l>adiós, veámonos mañana.</l>
                   <stage>  Vase.  </stage>
                </sp>
-               <sp who="#las-tres">
+               <sp who="#furia-1ª #furia-2ª #furia-3ª">
                   <speaker>LAS TRES</speaker>
                   <l>Ve segura, que a las tres</l>
                   <l>tendrá siempre tu esperanza</l>
@@ -3960,7 +3978,7 @@
                   <speaker>DISCORDIA</speaker>
                   <l part="I">Pues, Furias, al arma.</l>
                </sp>
-               <sp who="#las-tres">
+               <sp who="#furia-1ª #furia-2ª #furia-3ª">
                   <speaker>LAS TRES</speaker>
                   <l part="F">Al arma.</l>
                </sp>
@@ -4977,9 +4995,9 @@
                <sp who="#palas">
                   <speaker>PALAS</speaker>
                   <l part="F">Desta suerte:</l>
-                  <l>    Ama, espera [y confía;</l>
-                  <l>    porque no puede</l>
-                  <l>    el que vence sin riesgo,</l>
+                  <l>Ama, espera [y confía;</l>
+                  <l>porque no puede</l>
+                  <l>el que vence sin riesgo,</l>
                   <l n="1275">    decir que vence.]</l>
                   <l>Yo, que la deidad de Palas</l>
                   <l>soy, a quien también competen</l>
@@ -5032,7 +5050,7 @@
                   <l n="1310">que eres de Júpiter hijo,</l>
                   <l>diciéndote una y mil veces...</l>
                </sp>
-               <sp who="#los-dos">
+               <sp who="#perseo #mercurio">
                   <speaker>LOS DOS</speaker>
                   <l>   Ama, espera [y confía;</l>
                   <l>    porque no puede</l>
@@ -5088,7 +5106,7 @@
                   <l n="1330">como aquel escudo embrace</l>
                   <l>y este caduceo gobierne.</l>
                </sp>
-               <sp who="#los-dos">
+               <sp who="#perseo #mercurio">
                   <speaker>LOS DOS</speaker>
                   <l>Pues en esa confïanza,</l>
                   <l>digamos una y mil veces:</l>
@@ -5453,7 +5471,7 @@
                   <l> en cual dellas se esconden los celos;</l>
                   <l> y puesto que son de tus flores el áspid..</l>
                </sp>
-               <sp who="#las-dos">
+               <sp who="#libia #sirene">
                   <speaker>LAS DOS</speaker>
                   <l> No, no los despiertes;</l>
                   <l n="200"> duerman y callen.</l>
@@ -5512,7 +5530,7 @@
                   <l part="F">A pesar,</l>
                   <l>velamos, de efectos tales.</l>
                </sp>
-               <sp who="#las-dos">
+               <sp who="#libia #sirene">
                   <speaker>LAS DOS</speaker>
                   <l> No, no los despiertes,</l>
                   <l> duerman y callen.</l>
@@ -5540,7 +5558,7 @@
                   <l>diciendo una y otra vez,</l>
                   <l>para que el sueño se engañe...</l>
                </sp>
-               <sp who="#las-dos">
+               <sp who="#libia #sirene">
                   <speaker>LAS DOS</speaker>
                   <l> Pisa, pisa con tiento las flores.</l>
                   <stage>Duérmense.</stage>
@@ -6162,7 +6180,7 @@
                   <l>de ser la culpada siempre,</l>
                   <l>porque no llorara nunca.</l>
                </sp>
-               <sp who="#ella #música">
+               <sp who="#andrómeda #música">
                   <speaker>ELLA y MÚSICA</speaker>
                   <l>Que consolada con que</l>
                   <l>la que es desdicha, no es culpa,</l>
@@ -6955,7 +6973,7 @@
                   <speaker>JUNO y DISCORDIA</speaker>
                   <l part="I">¿Cómo?</l>
                </sp>
-               <sp who="#las-dos">
+               <sp who="#palas #juno">
                   <speaker>LAS DOS</speaker>
                   <l part="F">Dígalo el efecto.</l>
                </sp>
