@@ -90,7 +90,10 @@
                <person xml:id="flora" sex="FEMALE">
                   <persName>FLORA</persName>
                </person>
-               <person xml:id="músic0s" sex="MALE">
+               <person xml:id="enrique" sex="MALE">
+                  <persName>ENRIQUE</persName>
+               </person>
+               <person xml:id="músicos" sex="MALE">
                   <persName>MÚSICOS</persName>
                </person>
             </listPerson>
@@ -1231,7 +1234,7 @@
                      <l>¿Traéis instrumentos?</l>
                   </lg>
                </sp>
-               <sp who="#dama-1">
+               <sp who="#serafina">
                   <speaker rend="caps">Dama 1</speaker>
                   <lg>
                      <l>Sí.</l>
@@ -1248,13 +1251,13 @@
                      <l>sino el canto, le divierte.</l>
                   </lg>
                </sp>
-               <sp who="#dama-1">
+               <sp who="#serafina">
                   <speaker rend="caps">Dama 1</speaker>
                   <lg>
                      <l>¿Qué tono, Flora, diremos?</l>
                   </lg>
                </sp>
-               <sp who="#dama-2">
+               <sp who="#laura">
                   <speaker rend="caps">Dama 2</speaker>
                   <lg>
                      <l>El de Aquiles, cuando está</l>
@@ -1277,7 +1280,7 @@
                   </lg>
                </sp>
                <stage>Cantan</stage>
-               <sp who="#damas">
+               <sp who="#serafina #laura">
                   <speaker rend="caps">Damas</speaker>
                   <lg>
                      <l>"De Deidamia enamorado,</l>
@@ -1313,7 +1316,7 @@
                      <l>que mi vida estas voces me repiten!"</l>
                   </lg>
                </sp>
-               <sp who="#damas">
+               <sp who="#serafina #laura">
                   <speaker rend="caps">Damas</speaker>
                   <lg>
                      <l>"Tetis, su madre, temiendo</l>
@@ -5754,7 +5757,7 @@
                      <l>Vuestra aquesa elección fue.</l>
                   </lg>
                </sp>
-               <sp who="#[enrique]">
+               <sp who="#enrique">
                   <speaker rend="caps">[enrique]</speaker>
                   <lg>
                      <l>Ved dónde queréis que vamos.</l>
