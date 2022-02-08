@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">La Gran Cenobia</title>
+            <title type="main">La gran Cenobia</title>
             <title type="sub">Comedia Famosa</title>
             <author>
                <persName>
@@ -57,6 +57,9 @@
                <person xml:id="decio" sex="MALE">
                   <persName>Decio</persName>
                </person>
+               <person xml:id="persio" sex="MALE">
+                  <persName>Persio</persName>
+               </person>
                <person xml:id="soldados-aureliano" sex="MALE">
                   <persName>Persio soldado</persName>
                </person>
@@ -81,17 +84,20 @@
                <person xml:id="soldado-romano-2" sex="MALE">
                   <persName>Soldado Romano 2</persName>
                </person>
-               <person xml:id="soldados-cenobia-1" sex="MALE">
+               <person xml:id="soldado-cenobia-1" sex="MALE">
                   <persName>Soldado de Cenobia 1</persName>
                </person>
-               <person xml:id="soldados-cenobia-2" sex="MALE">
+               <person xml:id="soldado-cenobia-2" sex="MALE">
                   <persName>Soldado de Cenobia 2</persName>
                </person>
-               <person xml:id="soldados-cenobia-3" sex="MALE">
+               <person xml:id="soldado-cenobia-3" sex="MALE">
                   <persName>Soldado de Cenobia 3</persName>
                </person>
                <person xml:id="crotilda" sex="FEMALE">
                   <persName>Crotilda</persName>
+               </person>
+               <person xml:id="villano-1" sex="MALE">
+                  <persName>Un villano</persName>
                </person>
             </listPerson>
          </particDesc>
@@ -105,7 +111,7 @@
    <text xml:lang="es">
       <front>
          <docTitle>
-            <titlePart type="main">La Gran Cenobia</titlePart>
+            <titlePart type="main">La gran Cenobia</titlePart>
             <titlePart type="sub">Comedia Famosa</titlePart>
          </docTitle>
          <castList>
@@ -2139,8 +2145,8 @@
                      <l>Libio.</l>
                   </lg>
                </sp>
-               <sp who="#libo">
-                  <speaker rend="caps">Libo</speaker>
+               <sp who="#libio">
+                  <speaker rend="caps">Libio</speaker>
                   <lg>
                      <l>Sólo espero ver</l>
                      <l>qué mandas.</l>
