@@ -68,14 +68,17 @@
                <person xml:id="diana" sex="FEMALE">
                   <persName>Diana</persName>
                </person>
-               <person xml:id="conde-de-ruisellón" sex="MALE">
+               <person xml:id="conde" sex="MALE">
                   <persName>Conde de Ruisellón</persName>
                </person>
                <person xml:id="rugero" sex="MALE">
-                  <persName>Rugero Soldados</persName>
+                  <persName>Rugero</persName>
                </person>
-               <person xml:id="soldados" sex="MALE">
-                  <persName>Soldados</persName>
+               <person xml:id="paje" sex="MALE">
+                  <persName>Un paje</persName>
+               </person>
+               <person xml:id="soldado-1" sex="MALE">
+                  <persName>Un soldado</persName>
                </person>
             </listPerson>
          </particDesc>
@@ -445,7 +448,7 @@
                      <l>por tener más que quitarte.</l>
                   </lg>
                </sp>
-               <sp who="#ruisellón">
+               <sp who="#conde">
                   <speaker rend="caps">Ruisellón</speaker>
                   <lg>
                      <l>Aurora, no te parezca</l>
@@ -2475,8 +2478,8 @@
                   </lg>
                </sp>
                <stage>Vanse todos y queda Rugero solo y cantan.</stage>
-               <sp who="#cantan">
-                  <speaker rend="caps">Cantan</speaker>
+               <sp who="#rugero">
+                  <stage>Canta</stage>
                   <lg>
                      <l>En vano se atreve, en vano,</l>
                      <l>a quien la suerte no ayuda,</l>
@@ -4245,7 +4248,7 @@
                   </lg>
                </sp>
                <stage>Sale un soldado.</stage>
-               <sp who="#soldado">
+               <sp who="#soldado-1">
                   <speaker rend="caps">Soldado</speaker>
                   <lg>
                      <l>Antes que bese</l>
@@ -4264,7 +4267,7 @@
                      <l>Decid, ¿qué me mandáis?</l>
                   </lg>
                </sp>
-               <sp who="#soldado">
+               <sp who="#soldado-1">
                   <speaker rend="caps">Soldado</speaker>
                   <lg>
                      <l>Solo quisiera</l>
@@ -4287,7 +4290,7 @@
                   </lg>
                </sp>
                <stage>Vase.</stage>
-               <sp who="#soldado">
+               <sp who="#soldado-1">
                   <speaker rend="caps">Soldado</speaker>
                   <lg>
                      <l>Dijera los peligros que he pasado</l>
@@ -4304,7 +4307,7 @@
                      <l>¿Cúya es?</l>
                   </lg>
                </sp>
-               <sp who="#soldado">
+               <sp who="#soldado-1">
                   <speaker rend="caps">Soldado</speaker>
                   <lg>
                      <l>De Estela.</l>
@@ -4348,7 +4351,7 @@
                      <l>que os eche por la ventana.</l>
                   </lg>
                </sp>
-               <sp who="#soldado">
+               <sp who="#soldado-1">
                   <speaker rend="caps">Soldado</speaker>
                   <lg>
                      <l>Obligarte pensé así,</l>
