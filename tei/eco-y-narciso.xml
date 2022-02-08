@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Eco Y Narciso</title>
+            <title type="main">Eco y Narciso</title>
             <title type="sub">Comedia Famosa</title>
             <author>
                <persName>
@@ -38,7 +38,7 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <bibl type="sourceText">
+            <bibl type="digitalSource">
                <name>Biblioteca Virtual Miguel de Cervantes</name>
                <idno type="URL">http://www.cervantesvirtual.com/obra-visor/eco-y-narciso--0/html/</idno>
                <bibl type="originalSource">
