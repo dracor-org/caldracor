@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">La Púrpura De La Rosa</title>
+            <title type="main">La púrpura de la rosa</title>
             <title type="sub">Famosa Comedia. Fiesta de Zarzuela y representación música, que se hizo a sus Majestades en el Coliseo de Buen Retiro</title>
             <author>
                <persName>
@@ -3112,7 +3112,7 @@
                      <l>¿Pensaste, enemiga…?</l>
                   </lg>
                </sp>
-               <sp who="#ninfas">
+               <sp who="#flora #cintia #clori #libia">
                   <speaker rend="caps">Ninfas</speaker>
                   <lg>
                      <l>No al arma, celos, no al arma,</l>
@@ -3404,7 +3404,7 @@
                      <l>Yo lo sé.</l>
                   </lg>
                </sp>
-               <sp who="#voces-dentro">
+               <sp who="#voces">
                   <speaker rend="caps">Voces dentro</speaker>
                   <lg>
                      <l>¡Huid, pastores!</l>
