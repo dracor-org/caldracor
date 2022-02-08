@@ -96,6 +96,9 @@
                <person xml:id="moro-1" sex="MALE">
                   <persName>DOS MOROS</persName>
                </person>
+               <person xml:id="criado" sex="MALE">
+                  <persName>UN CRIADO</persName>
+               </person>
                <person xml:id="música" sex="MALE">
                   <persName>MÚSICA</persName>
                </person>
