@@ -28,7 +28,7 @@
             <idno type="quadramaX">El pintor de su deshonra</idno>
          </publicationStmt>
          <sourceDesc>
-            <bibl type="sourceText">
+            <bibl type="digitalSource">
                <name>Biblioteca Virtual Miguel de Cervantes</name>
                <idno type="URL"
                   >http://www.cervantesvirtual.com/obra-visor/el-pintor-de-su-deshonra-2/html/</idno>
@@ -47,7 +47,7 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <person xml:id="don-juan-roca" sex="MALE">
+               <person xml:id="don-juan" sex="MALE">
                   <persName>DON JUAN ROCA</persName>
                </person>
                <person xml:id="juanete" sex="MALE">
@@ -68,7 +68,7 @@
                <person xml:id="serafina" sex="FEMALE">
                   <persName>SERAFINA, su hija</persName>
                </person>
-               <person xml:id="príncipe-de-ursino" sex="MALE">
+               <person xml:id="príncipe" sex="MALE">
                   <persName>EL PRÍNCIPE DE URSINO</persName>
                </person>
                <person xml:id="flora" sex="FEMALE">
@@ -86,6 +86,24 @@
                <person xml:id="belardo" sex="MALE">
                   <persName>BELARDO, vejete</persName>
                </person>
+               <person xml:id="marinero-1" sex="MALE">
+                  <persName>MARINERO primero</persName>
+               </person>
+               <person xml:id="marinero-2" sex="MALE">
+                  <persName>MARINERO segundo</persName>
+               </person>
+               <person xml:id="hombre-1" sex="MALE">
+                  <persName>UN HOMBRE</persName>
+               </person>
+               <person xml:id="caballero" sex="MALE">
+                  <persName>UN CABALLERO</persName>
+               </person>
+               <person xml:id="mujer-1" sex="MALE">
+                  <persName>UNA MUJER</persName>
+               </person>
+               <person xml:id="música" sex="MALE">
+                  <persName>MÚSICOS</persName>
+               </person>
             </listPerson>
          </particDesc>
          <textClass>
@@ -100,12 +118,12 @@
          <castList>
             <head>Personas que hablan en ella:</head>
             <castItem>DON JUAN ROCA.</castItem>
-            <castItem> JUANETE, su criado. </castItem>
-            <castItem> DON LUIS, viejo. </castItem>
-            <castItem> PORCIA, su hija.</castItem>
+            <castItem>JUANETE, su criado. </castItem>
+            <castItem>DON LUIS, viejo. </castItem>
+            <castItem>PORCIA, su hija.</castItem>
             <castItem>DON ÁLVARO, su hermano. </castItem>
-            <castItem> DON PEDRO, viejo. </castItem>
-            <castItem> SERAFINA, su hija. </castItem>
+            <castItem>DON PEDRO, viejo. </castItem>
+            <castItem>SERAFINA, su hija. </castItem>
             <castItem>EL PRÍNCIPE DE URSINO. </castItem>
             <castItem>FLORA, criada.</castItem>
             <castItem>JULIA, criada. </castItem>
@@ -581,8 +599,8 @@
                   <l> daba un día en Barcelona </l>
                   <l part="I"> de comer su padre...» </l>
                </sp>
-               <sp who="#voces2">
-                  <speaker>[VOCES]2</speaker>
+               <sp who="#voces">
+                  <speaker>[VOCES]</speaker>
                   <stage>Dentro.</stage>
                   <l part="F"> ¡Para! </l>
                </sp>
@@ -597,8 +615,8 @@
                   <l part="I"> el cuento. </l>
                </sp>
                <stage>Sale JULIA.</stage>
-               <sp who="#julia3">
-                  <speaker>[JULIA]3</speaker>
+               <sp who="#julia">
+                  <speaker>[JULIA]</speaker>
                   <l n="265" part="F"> Señor, repara </l>
                   <l> en que ya el huésped que esperas </l>
                   <l part="I"> llega. </l>
@@ -3705,7 +3723,7 @@
                   <l> diciendo de ambos la voz. </l>
                </sp>
                <stage>Ella, dentro, canta y él representa.</stage>
-               <sp who="#los-dos">
+               <sp who="#porcia #príncipe">
                   <speaker>LOS DOS</speaker>
                   <l> ¡Ay mortal ausencia! </l>
                   <l n="700"> ¡Ay partida unión! </l>
@@ -3782,7 +3800,7 @@
                   <l> se disfraz Amor, </l>
                   <l> taratera. </l>
                </sp>
-               <sp who="#hombre1º&#xA;">
+               <sp who="#hombre-1">
                   <speaker>HOMBRE1.º</speaker>
                   <l n="745">Veniu los fadrines </l>
                   <l> al Clos a bailar, </l>
@@ -3820,11 +3838,11 @@
                   <speaker>MUJER 1.ª</speaker>
                   <l> Sonau, músicos, sonau. </l>
                </sp>
-               <sp who="#hombre-1º&#xA;">
+               <sp who="#hombre-1">
                   <speaker>HOMBRE 1.º</speaker>
                   <l>Prevenid las castañetas. </l>
                </sp>
-               <sp who="#músicos">
+               <sp who="#música">
                   <speaker>MÚSICOS</speaker>
                   <l n="765">Què voleu? </l>
                </sp>
@@ -3833,7 +3851,7 @@
                   <l> Las paraletas</l>
                   <l> digan tots10. </l>
                </sp>
-               <sp who="#músicos">
+               <sp who="#música">
                   <speaker>MÚSICOS</speaker>
                   <l> Que me pleu. </l>
                </sp>
@@ -4066,7 +4084,7 @@
                   <l> nos podremos divertir. </l>
                </sp>
                <stage>Vanse.</stage>
-               <sp who="#músico-1">
+               <sp who="#música">
                   <speaker>MÚSICO 1.º</speaker>
                   <l> Pues deja ya de venir </l>
                   <l> gente, los puestos dejad. </l>
@@ -4190,8 +4208,8 @@
                   <l> ¡Adiós, adiós esperanzas! </l>
                   <l part="I"> ¡Adiós, Serafina! </l>
                </sp>
-               <sp who="#gente11">
-                  <speaker>[GENTE]11</speaker>
+               <sp who="#gente">
+                  <speaker>[GENTE]</speaker>
                   <stage>Dentro.</stage>
                   <l part="F"> ¡Fuego, </l>
                   <l part="I"> fuego! </l>
@@ -4201,8 +4219,8 @@
                   <l part="F"> ¿Qué voces son varias </l>
                   <l part="I"> las que oigo? </l>
                </sp>
-               <sp who="#marinero-1º12">
-                  <speaker>MARINERO [1.º]12</speaker>
+               <sp who="#marinero-1">
+                  <speaker>MARINERO [1.º]</speaker>
                   <l part="F"> A lo que se ve, </l>
                   <l n="915"> toda la quinta se abrasa </l>
                   <l> de don Diego de Cardona. </l>
@@ -4226,8 +4244,8 @@
                   <l> que en un instante a ser pasa </l>
                   <l part="I"> volcán del mar. </l>
                </sp>
-               <sp who="#gente13">
-                  <speaker>[GENTE]13</speaker>
+               <sp who="#gente">
+                  <speaker>[GENTE]</speaker>
                   <stage>Dentro.</stage>
                   <l part="F"> ¡Fuego, fuego! </l>
                </sp>
@@ -4265,8 +4283,8 @@
                   <l> y obligaciones me llaman </l>
                   <l part="I"> a su empeño. </l>
                </sp>
-               <sp who="#gente14">
-                  <speaker>[GENTE]14</speaker>
+               <sp who="#gente">
+                  <speaker>[GENTE]</speaker>
                   <stage>Dentro.</stage>
                   <l part="F"> ¡Fuego, fuego! </l>
                </sp>
@@ -4318,8 +4336,8 @@
                   <l> Como la gente se salve, </l>
                   <l> la hacienda no importa nada. </l>
                </sp>
-               <sp who="#otro15">
-                  <speaker>[OTRO]15</speaker>
+               <sp who="#otro">
+                  <speaker>[OTRO]</speaker>
                   <l> De todos no ha perecido </l>
                   <l> sino sola una crïada </l>
                   <l part="I"> de Serafina. </l>
@@ -6087,8 +6105,8 @@
                   <l> os pondré que podáis verla, </l>
                   <l> sin ser sentido de nadie. </l>
                </sp>
-               <sp who="#don-juan17">
-                  <speaker>DON JUAN17</speaker>
+               <sp who="#don-juan">
+                  <speaker>DON JUAN</speaker>
                   <l n="835"> Guiad vós, que obedecer </l>
                   <l> nos toca, no hacer examen. </l>
                </sp>
@@ -6329,8 +6347,8 @@
                   <l> por entero la venganza... </l>
                   <stage>Despierta asustada y levántase.</stage>
                </sp>
-               <sp who="#serafina19">
-                  <speaker>[SERAFINA]19</speaker>
+               <sp who="#serafina">
+                  <speaker>[SERAFINA]</speaker>
                   <l n="965"> ¡Aguarda, espera! ¡No manches </l>
                   <l> tu noble acero en mi vida! </l>
                   <l> ¡No me mates! ¡No me mates! </l>
