@@ -92,6 +92,15 @@
                <person xml:id="anteo" sex="MALE">
                   <persName>ANTEO</persName>
                </person>
+               <person xml:id="flavio" sex="MALE">
+                  <persName>FLAVIO</persName>
+               </person>
+               <person xml:id="soldado-1" sex="MALE">
+                  <persName>UN SOLDADO</persName>
+               </person>
+               <person xml:id="músicos" sex="MALE">
+                  <persName>MÚSICOS</persName>
+               </person>
             </listPerson>
          </particDesc>
          <textClass>
@@ -760,7 +769,7 @@
                   <l>la posesión de esta tierra!</l>
                </sp>
                <stage>Salen soldados.</stage>
-               <sp who="#soldado-iº">
+               <sp who="#soldado-1">
                   <speaker>SOLDADO I.º</speaker>
                   <l>Ya de los muros salieron</l>
                   <l n="540">diversas tropas, y ya</l>
@@ -805,7 +814,7 @@
                   <l n="560">aunque me siga la suerte,</l>
                   <l>la espalda volví a la muerte.</l>
                </sp>
-               <sp who="#soldado-iº">
+               <sp who="#soldado-1">
                   <speaker>SOLDADO I.º</speaker>
                   <stage>Dentro.</stage>
                   <l>El Rey en la lid entró;</l>
@@ -2340,7 +2349,7 @@
                   <l part="F">¡Qué presto, Cielos,</l>
                   <l n="240">de mí su rigor me venga!</l>
                </sp>
-               <sp who="#soldado-iº">
+               <sp who="#soldado-1">
                   <speaker>SOLDADO I.º</speaker>
                   <l>Señor, yo soy el soldado</l>
                   <l>que, al advertir tu presencia,</l>
@@ -2356,7 +2365,7 @@
                   <l>de Menón se confiscaron,</l>
                   <l n="250">quiero que de sueldo tengas.</l>
                </sp>
-               <sp who="#soldado-iº">
+               <sp who="#soldado-1">
                   <speaker>SOLDADO I.º</speaker>
                   <l part="I">Beso tus plantas.</l>
                </sp>
@@ -4431,7 +4440,7 @@
                   <l>¡Oh, qué gran gusto es mirar</l>
                   <l>tantas gentes a mis plantas!</l>
                </sp>
-               <sp who="#soldado-iº">
+               <sp who="#soldado-1">
                   <speaker>SOLDADO I.º</speaker>
                   <l>Señor, Vuestra Majestad</l>
                   <l n="80">me hizo merced que gozara</l>
@@ -4454,7 +4463,7 @@
                   <l>Sí; mas ya no me acuerdo bien,</l>
                   <l>como acudo a cosas tantas.</l>
                </sp>
-               <sp who="#soldado-iº">
+               <sp who="#soldado-1">
                   <speaker>SOLDADO I.º</speaker>
                   <l>Yo, señor, lo diré. El día</l>
                   <l n="90">que por Babilonia entrabas</l>
@@ -4480,7 +4489,7 @@
                   <l part="F">¿Tú, en fin, fuiste</l>
                   <l>el primero que me aclama?</l>
                </sp>
-               <sp who="#soldado-iº">
+               <sp who="#soldado-1">
                   <speaker>SOLDADO I.º</speaker>
                   <l n="105">Sí, señor; y yo libré</l>
                   <l>de la injusta, la tirana</l>
@@ -4491,7 +4500,7 @@
                   <speaker>SEMÍRAMIS</speaker>
                   <l part="I">¿Todo esto te debo?</l>
                </sp>
-               <sp who="#soldado-iº">
+               <sp who="#soldado-1">
                   <speaker>SOLDADO I.º</speaker>
                   <l part="F">Y diera</l>
                   <l part="I">por ti la vida.</l>
@@ -4505,7 +4514,7 @@
                   <speaker>TODOS</speaker>
                   <l part="M">Señor.</l>
                </sp>
-               <sp who="#soldado-iº">
+               <sp who="#soldado-1">
                   <speaker>SOLDADO I.º</speaker>
                   <l part="F">Hoy</l>
                   <l>grandes venturas me aguardan.</l>
@@ -4518,7 +4527,7 @@
                   <l>de cuantos en Siria hagan</l>
                   <l>sediciones y alborotos.</l>
                </sp>
-               <sp who="#soldado-iº">
+               <sp who="#soldado-1">
                   <speaker>SOLDADO I.º</speaker>
                   <l>¿Pues, ayer, no me premiabas?</l>
                </sp>
