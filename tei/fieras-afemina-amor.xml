@@ -578,8 +578,8 @@
                      <l>dijeron si es que yo buen juicio hice.</l>
                   </lg>
                </sp>
-               <sp who="#todala-música">
-                  <speaker rend="caps">Todala Música</speaker>
+               <sp who="#música">
+                  <speaker rend="caps">Toda la Música</speaker>
                   <lg>
                      <l>¡Ay mísero de ti y ay infelice...</l>
                   </lg>
@@ -6743,7 +6743,7 @@
                      <l>su fama por su amor?</l>
                   </lg>
                </sp>
-               <sp who="#una-segunda">
+               <sp who="#otra">
                   <speaker rend="caps">Una Segunda</speaker>
                   <lg>
                      <l>Quien</l>
