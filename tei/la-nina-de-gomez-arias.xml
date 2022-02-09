@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">La Niña De Gómez Arias</title>
+            <title type="main">La diña de Gómez Arias</title>
             <title type="sub">Comedia Famosa</title>
             <author>
                <persName>
@@ -39,12 +39,12 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="originalSource">
-               <title>Pedro Calderón de la Barca, La Niña De Gómez Arias.  
+               <title>Pedro Calderón de la Barca, La niña de Gómez Arias.  
                   En: Comedias, Vol. 4. Dirección de Sebastian Neumeister y Luis Iglesias Feijoo.
                   Madrid : Fundación José Antonio de Castro, 2010</title>
                <idno type="ISBN">978-84-96452-89-3</idno>
                <date type="print" when="1672"/>
-               <date type="written"/>
+               <date type="written" when="1651"/>
             </bibl>
          </sourceDesc>
       </fileDesc>
