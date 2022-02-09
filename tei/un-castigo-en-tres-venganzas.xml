@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Un Castigo En Tres Venganzas</title>
+            <title type="main">Un castigo en tres venganzas</title>
             <title type="sub">Comedia Famosa</title>
             <author>
                <persName>
@@ -84,6 +84,12 @@
                </person>
                <person xml:id="criado" sex="MALE">
                   <persName>UN CRIADO DEL DUQUE</persName>
+               </person>
+               <person xml:id="valiente-1" sex="MALE">
+                  <persName>UN VALIENTE</persName>
+               </person>
+               <person xml:id="valiente-2" sex="MALE">
+                  <persName>OTRO VALIENTE</persName>
                </person>
             </listPerson>
          </particDesc>
@@ -234,8 +240,8 @@
                      <l>ver en vos tal afecto de tristeza.</l>
                   </lg>
                </sp>
-               <sp who="#manrique">
-                  <speaker rend="caps">Manrique</speaker>
+               <sp who="#manfredo">
+                  <speaker rend="caps">Manfredo</speaker>
                   <lg>
                      <l>¿Con lágrimas responde vuestra alteza?</l>
                   </lg>
@@ -6569,7 +6575,7 @@
                      <l>el Duque.</l>
                   </lg>
                </sp>
-               <sp who="#[valiente]-1">
+               <sp who="#valiente-1">
                   <speaker rend="caps">[valiente] 1</speaker>
                   <lg>
                      <l/>
@@ -6583,7 +6589,7 @@
                      <l>Retiraos, pues que ya viene.</l>
                   </lg>
                </sp>
-               <sp who="#[valiente]-2">
+               <sp who="#valiente-2">
                   <speaker rend="caps">[valiente] 2</speaker>
                   <lg>
                      <l/>
@@ -6661,7 +6667,7 @@
                      <l>tiempo!</l>
                   </lg>
                </sp>
-               <sp who="#[valiente]-1">
+               <sp who="#valiente-1">
                   <speaker rend="caps">[valiente] 1</speaker>
                   <lg>
                      <l/>
