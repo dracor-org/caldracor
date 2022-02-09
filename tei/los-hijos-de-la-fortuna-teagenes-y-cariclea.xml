@@ -2323,7 +2323,7 @@
                      <l>Y todos contentos…</l>
                   </lg>
                </sp>
-               <sp who="#ambos-coros">
+               <sp who="#coro-1 #coro-2">
                   <speaker rend="caps">Ambos Coros</speaker>
                   <lg>
                      <l>… se hagan salva iguales,</l>
@@ -5909,7 +5909,7 @@
                   </lg>
                </sp>
                <stage>Cajas.</stage>
-               <sp who="#dama-1">
+               <sp who="#damas-de-admeta">
                   <speaker rend="caps">1a Dama</speaker>
                   <lg>
                      <l>Ya a la duda</l>
@@ -7186,7 +7186,7 @@
                      <l>Pues no…) De aquí os id.</l>
                   </lg>
                </sp>
-               <sp who="#dama-1">
+               <sp who="#damas-de-admeta">
                   <speaker rend="caps">1a</speaker>
                   <lg>
                      <l>Advierte</l>
@@ -8438,7 +8438,7 @@
                      <l>y la otra Cariclea?)</l>
                   </lg>
                </sp>
-               <sp who="#todos-cinco">
+               <sp who="#jebnón #idaspes #tíamis #petosiris #admeta">
                   <speaker rend="caps">Todos Cinco</speaker>
                   <lg>
                      <l>(¡Qué confusión!)</l>
