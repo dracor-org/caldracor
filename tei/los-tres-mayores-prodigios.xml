@@ -99,8 +99,11 @@
                <person xml:id="dédalo" sex="MALE">
                   <persName>Dédalo</persName>
                </person>
-               <person xml:id="soldados" sex="MALE">
-                  <persName>Soldados</persName>
+               <person xml:id="soldado-1" sex="MALE">
+                  <persName>Un Soldado</persName>
+               </person>
+               <person xml:id="soldado-2" sex="MALE">
+                  <persName>Otro Soldado</persName>
                </person>
                <person xml:id="absinto" sex="MALE">
                   <persName>Absinto</persName>
@@ -777,7 +780,7 @@
                      <l>¡Qué otros que son mis estremos!</l>
                   </lg>
                </sp>
-               <sp who="#uno">
+               <sp who="#músicos">
                   <speaker rend="caps">Uno</speaker>
                   <lg>
                      <l>Cantemos todos.</l>
@@ -1337,7 +1340,7 @@
                   </lg>
                </sp>
                <stage>Vanse. Sacan mareado dos soldados a Sabañón.</stage>
-               <sp who="#uno">
+               <sp who="#soldado-1">
                   <speaker rend="caps">Uno</speaker>
                   <lg>
                      <l>Sacalde a tierra. Quizá</l>
@@ -1345,7 +1348,7 @@
                      <l>volverá en sí.</l>
                   </lg>
                </sp>
-               <sp who="#dos">
+               <sp who="#soldado-2">
                   <speaker rend="caps">Dos</speaker>
                   <lg>
                      <l>Desde el día</l>
@@ -1354,7 +1357,7 @@
                      <l>está, sin que hable ni sienta.</l>
                   </lg>
                </sp>
-               <sp who="#uno">
+               <sp who="#soldado-1">
                   <speaker rend="caps">Uno</speaker>
                   <lg>
                      <l>Aquí le echad, que no habemos</l>
@@ -1363,7 +1366,7 @@
                      <l>con Jasón.</l>
                   </lg>
                </sp>
-               <sp who="#dos">
+               <sp who="#soldado-2">
                   <speaker rend="caps">Dos</speaker>
                   <lg>
                      <l>Aquí le deja</l>
@@ -2982,7 +2985,7 @@
                      <l>pues aquí encerradas–</l>
                   </lg>
                </sp>
-               <sp who="#soldados">
+               <sp who="#soldado-1 #soldado-2">
                   <speaker rend="caps">Soldados</speaker>
                   <stage type="withText">dentro</stage>
                   <lg>
@@ -5284,7 +5287,7 @@
                      <l>a estrañas juridiciones.</l>
                   </lg>
                </sp>
-               <sp who="#uno">
+               <sp who="#soldado-1">
                   <speaker rend="caps">Uno</speaker>
                   <lg>
                      <l>Contigo venimos y hemos</l>
@@ -7289,7 +7292,7 @@
                      <l>yo te mato con ponzoña.</l>
                   </lg>
                </sp>
-               <stage>Tira adentro la flecha y luego vase. dentro</stage>
+               <stage>Tira adentro la flecha y luego vase.</stage>
                <sp who="#neso">
                   <speaker rend="caps">Neso</speaker>
                   <stage type="withText">dentro</stage>
@@ -7332,7 +7335,7 @@
                      <l>dejan.</l>
                   </lg>
                </sp>
-               <sp who="#dos">
+               <sp who="#otro">
                   <speaker rend="caps">Dos</speaker>
                   <lg>
                      <l>Y los troncos y hojas</l>
