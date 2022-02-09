@@ -84,6 +84,12 @@
                <person xml:id="soldado" sex="MALE">
                   <persName>UN SOLDADO</persName>
                </person>
+               <person xml:id="ángel" sex="MALE">
+                  <persName>UN ÁNGEL</persName>
+               </person>
+               <person xml:id="música" sex="MALE">
+                  <persName>MÚSICOS</persName>
+               </person>
                <person xml:id="voz-1" sex="MALE">
                   <persName>VOZ 1</persName>
                </person>
@@ -6618,7 +6624,7 @@
                      <l>que harto haré en guardarme yo.</l>
                   </lg>
                </sp>
-               <sp who="#uno">
+               <sp who="#voz-1">
                   <speaker rend="caps">Uno</speaker>
                   <stage type="withText">dentro</stage>
                   <lg>
@@ -6626,7 +6632,7 @@
                      <l>se ha entrado en la población.</l>
                   </lg>
                </sp>
-               <sp who="#dos">
+               <sp who="#voz-1">
                   <speaker rend="caps">Dos</speaker>
                   <stage type="withText">dentro</stage>
                   <lg>
@@ -7035,14 +7041,14 @@
                      <l>¡Al llano!</l>
                   </lg>
                </sp>
-               <sp who="#uno">
+               <sp who="#voz-1">
                   <speaker rend="caps">Uno</speaker>
                   <stage type="withText">dentro</stage>
                   <lg>
                      <l>¡Al monte!</l>
                   </lg>
                </sp>
-               <sp who="#dos">
+               <sp who="#voz-2">
                   <speaker rend="caps">Dos</speaker>
                   <stage type="withText">dentro</stage>
                   <lg>
