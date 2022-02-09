@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">La Cisma De Ingalaterra</title>
+            <title type="main">La cisma de Ingalaterra</title>
             <title type="sub">Gran Comedia</title>
             <author>
                <persName>
@@ -44,7 +44,7 @@
                   Kassel : Edition Reichenberger, 2001</title>
                <idno type="ISBN">3-935004-20-6</idno>
                <date type="print" when="1684"/>
-               <date type="written"/>
+               <date type="written" when="1627"/>
             </bibl>
          </sourceDesc>
       </fileDesc>
