@@ -29,7 +29,7 @@
             <idno type="quadramaX">El mayor monstruo del mundo</idno>
          </publicationStmt>
          <sourceDesc>
-            <bibl type="sourceText">
+            <bibl type="digitalSource">
                <name>Biblioteca Virtual Miguel de Cervantes</name>
                <idno type="URL"
                   >http://www.cervantesvirtual.com/obra-visor/el-mayor-monstruo-del-mundo--1/html/</idno>
@@ -39,7 +39,7 @@
                      partir de la 10º ed. de José María Ruano de la Haza, Madrid, Espasa-Calpe, 1989
                      (Colección Austral ; 81) </title>
                   <date type="print" when="1637"/>
-                  <date type="written"/>
+                  <date type="written" when="1637"/>
                </bibl>
             </bibl>
          </sourceDesc>
