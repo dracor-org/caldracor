@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">También Hay Duelo En Las Damas</title>
+            <title type="main">También hay duelo en las damas</title>
             <title type="sub">Famosa Comedia</title>
             <author>
                <persName>
@@ -39,7 +39,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="originalSource">
-               <title>Pedro Calderón de la Barca, Comedias. El maestro de danzar. Edición de Luis Iglesias Feijoo. 
+               <title>Pedro Calderón de la Barca, Comedias. También hay duelo en las damas. Edición de Luis Iglesias Feijoo. 
                   Tercera Parte de comedias. Dirección de Don William Cruickshank y Luis Iglesias Feijoo.
                   Madrid: Fundación José Antonio de Castro, 2007.</title>
                <date type="print" when="1664"/>
@@ -86,7 +86,7 @@
                <person xml:id="celio" sex="MALE">
                   <persName>Celio</persName>
                </person>
-               <person xml:id="alguaciles" sex="MALE">
+               <person xml:id="un-alguacil" sex="MALE">
                   <persName>Alguaciles</persName>
                </person>
                <person xml:id="criados" sex="MALE">
@@ -107,7 +107,7 @@
    <text xml:lang="es">
       <front>
          <docTitle>
-            <titlePart type="main">También Hay Duelo En Las Damas</titlePart>
+            <titlePart type="main">También hay duelo en las damas</titlePart>
             <titlePart type="sub">Famosa Comedia</titlePart>
          </docTitle>
          <castList>
@@ -3210,7 +3210,7 @@
                      <l>muerte a don Diego de Lara!</l>
                   </lg>
                </sp>
-               <sp who="#uno">
+               <sp who="#don-félix">
                   <speaker rend="caps">Uno</speaker>
                   <lg>
                      <l>¡Entrad todos!</l>
@@ -3241,7 +3241,7 @@
                      <l>¡Favor al rey!</l>
                   </lg>
                </sp>
-               <sp who="#uno">
+               <sp who="#don-juan">
                   <speaker rend="caps">Uno</speaker>
                   <lg>
                      <l>A prisión</l>
@@ -10118,7 +10118,7 @@
                      <l>tened.</l>
                   </lg>
                </sp>
-               <sp who="#los-dos">
+               <sp who="#don-félix #don-juan">
                   <speaker rend="caps">Los Dos</speaker>
                   <lg>
                      <l>Quita.</l>
@@ -10144,7 +10144,7 @@
                   </lg>
                </sp>
                <stage>Sale Leonor.</stage>
-               <sp who="#los-dos">
+               <sp who="#don-félix #don-juan">
                   <speaker rend="caps">Los Dos</speaker>
                   <lg>
                      <l>¿Qué es aquesto?</l>
@@ -10425,7 +10425,7 @@
                      <l>A mi vista…</l>
                   </lg>
                </sp>
-               <sp who="#los-dos">
+               <sp who="#don-félix #don-juan">
                   <speaker rend="caps">Los Dos</speaker>
                   <lg>
                      <l>…nadie ha de atreverse a eso,</l>
