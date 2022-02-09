@@ -1940,7 +1940,7 @@
                      <l>más generoso.</l>
                   </lg>
                </sp>
-               <sp who="#un-soldado">
+               <sp who="#soldados">
                   <speaker rend="caps">Un Soldado</speaker>
                   <stage type="withText">dentro</stage>
                   <lg>
@@ -3014,8 +3014,9 @@
                      <l>para quitarle su hacienda?</l>
                   </lg>
                </sp>
-               <sp who="#césar-lee">
-                  <speaker rend="caps">César Lee</speaker>
+               <sp who="#césar">
+                  <speaker rend="caps">César</speaker>
+                  <stage type="withText">Lee</stage>
                   <lg>
                      <l>«...Y así, os suplico –(¡qué dicha!)–</l>
                      <l>que en fe de dama merezca,</l>
