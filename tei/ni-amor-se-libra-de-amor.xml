@@ -87,6 +87,9 @@
                <person xml:id="flora" sex="FEMALE">
                   <persName>Flora</persName>
                </person>
+               <person xml:id="ninfa" sex="FEMALE">
+                  <persName>Ninfa</persName>
+               </person>
                <person xml:id="soldados" sex="MALE">
                   <persName>Soldados</persName>
                </person>
