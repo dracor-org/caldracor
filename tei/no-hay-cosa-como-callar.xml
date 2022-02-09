@@ -95,6 +95,9 @@
                <person xml:id="alguacil-2" sex="MALE">
                   <persName>ALGUACIL 2</persName>
                </person>
+               <person xml:id="escribano" sex="MALE">
+                  <persName>UN ESCRIBANO</persName>
+               </person>
                <person xml:id="voces-dentro" sex="FEMALE">
                   <persName>VOCES DENTRO</persName>
                </person>
@@ -5217,7 +5220,7 @@
                      <l>no lo que por perder resta.</l>
                   </lg>
                </sp>
-               <sp who="#los-dos">
+               <sp who="#marcela #don-diego">
                   <speaker rend="caps">Los Dos</speaker>
                   <lg>
                      <l>¿Qué elegís, pues?</l>
@@ -7645,7 +7648,7 @@
                      <l>Por aquí fue.</l>
                   </lg>
                </sp>
-               <sp who="#un-alguacil">
+               <sp who="#alguacil-1">
                   <speaker rend="caps">Un Alguacil</speaker>
                   <stage type="withText">[Ídem.] </stage>
                   <lg>
