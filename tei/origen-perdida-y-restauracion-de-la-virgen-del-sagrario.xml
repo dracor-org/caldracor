@@ -399,7 +399,7 @@
                   </lg>
                </sp>
                <stage>Salen huyendo Pelagio, hereje, y detrás algunos y Payo de gorrón.</stage>
-               <sp who="#uno">
+               <sp who="#paje-1">
                   <speaker rend="caps">Uno</speaker>
                   <lg>
                      <l>¡Viva Ildefonso!</l>
@@ -411,13 +411,13 @@
                      <l>¡Viva!</l>
                   </lg>
                </sp>
-               <sp who="#dos">
+               <sp who="#paje-2">
                   <speaker rend="caps">Dos</speaker>
                   <lg>
                      <l>¡Sacro laurel por tal honor reciba!</l>
                   </lg>
                </sp>
-               <sp who="#uno">
+               <sp who="#paje-1">
                   <speaker rend="caps">Uno</speaker>
                   <lg>
                      <l>¡Muera Pelagio!</l>
@@ -429,7 +429,7 @@
                      <l>¡Muera!</l>
                   </lg>
                </sp>
-               <sp who="#dos">
+               <sp who="#paje-2">
                   <speaker rend="caps">Dos</speaker>
                   <lg>
                      <l>Pues nuestra paz y religión altera.</l>
@@ -511,7 +511,7 @@
                      <l>Matadme, pues que yo rabiando muero.</l>
                   </lg>
                </sp>
-               <sp who="#uno">
+               <sp who="#paje-1">
                   <speaker rend="caps">Uno</speaker>
                   <lg>
                      <l>Déjale, porque sale</l>
@@ -542,7 +542,7 @@
                      <l>Aquí en mi llanto mi dolor anego.</l>
                   </lg>
                </sp>
-               <sp who="#dos">
+               <sp who="#paje-2">
                   <speaker rend="caps">Dos</speaker>
                   <lg>
                      <l>Causa tus penas tienen;</l>
@@ -1248,13 +1248,13 @@
                      <l>tanta gloria, gozo tanto.</l>
                   </lg>
                </sp>
-               <sp who="#uno">
+               <sp who="#paje-1">
                   <speaker rend="caps">Uno</speaker>
                   <lg>
                      <l>¡Qué maravilla!</l>
                   </lg>
                </sp>
-               <sp who="#dos">
+               <sp who="#paje-2">
                   <speaker rend="caps">Dos</speaker>
                   <lg>
                      <l>¡Qué espanto!</l>
@@ -2129,21 +2129,21 @@
                      <l>hasta llegar a la puente.</l>
                   </lg>
                </sp>
-               <sp who="#uno">
+               <sp who="#paje-1">
                   <speaker rend="caps">Uno</speaker>
                   <stage type="withText">dentro</stage>
                   <lg>
                      <l>¡Adiós, padres de la patria!</l>
                   </lg>
                </sp>
-               <sp who="#dos">
+               <sp who="#paje-2">
                   <speaker rend="caps">Dos</speaker>
                   <stage type="withText">dentro</stage>
                   <lg>
                      <l>¡Adiós, patrones valientes!</l>
                   </lg>
                </sp>
-               <sp who="#tres">
+               <sp who="#paje-3">
                   <speaker rend="caps">Tres</speaker>
                   <lg>
                      <l>¡Adiós, desterrados hijos!</l>
@@ -3718,8 +3718,8 @@
                      <l>de otras armas no me adorno.</l>
                   </lg>
                </sp>
-               <sp who="#donvela">
-                  <speaker rend="caps">Donvela</speaker>
+               <sp who="#don-vela">
+                  <speaker rend="caps">Don Vela</speaker>
                   <lg>
                      <l>Y esta es mi espada y mi pecho,</l>
                      <l>que, aunque retado, no tomo</l>
