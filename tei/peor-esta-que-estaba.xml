@@ -81,6 +81,9 @@
                <person xml:id="alcaide" sex="MALE">
                   <persName>Un alcaide</persName>
                </person>
+               <person xml:id="alguacil" sex="MALE">
+                  <persName>Un alguacil</persName>
+               </person>
                <person xml:id="lisarda" sex="FEMALE">
                   <persName>Lisarda</persName>
                </person>
