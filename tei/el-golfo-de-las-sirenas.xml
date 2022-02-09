@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">El Golfo de las Sirenas</title>
+            <title type="main">El golfo de las Sirenas</title>
             <title type="sub">Zarzuela Famosa</title>
             <title type="sub">Égloga Piscatoria</title>
             <author>
@@ -45,7 +45,7 @@
                   Madrid : Fundación José Antonio de Castro, 2010</title>
                <idno type="ISBN">978-84-96452-89-3</idno>
                <date type="print" when="1672"/>
-               <date type="written"/>
+               <date type="written" when="1657"/>
             </bibl>
          </sourceDesc>
       </fileDesc>
