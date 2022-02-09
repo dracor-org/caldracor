@@ -104,13 +104,13 @@
                   <persName>Musicos</persName>
                </person>
                <person xml:id="música-1" sex="MALE">
-                  <persName>Musicos</persName>
+                  <persName>Musicos 1</persName>
                </person>
                <person xml:id="música-2" sex="MALE">
-                  <persName>Musicos</persName>
+                  <persName>Musicos 2</persName>
                </person>
                <person xml:id="música-3" sex="MALE">
-                  <persName>Musicos</persName>
+                  <persName>Musicos 3</persName>
                </person>
                <person xml:id="coro-1" sex="MALE">
                   <persName>Coro 1</persName>
