@@ -42,11 +42,11 @@
                <name>Association for Hispanic Classical Theater</name>
                <idno type="URL">http://www.comedias.org/calderon/Nosiem.html</idno>
                <bibl type="originalSource">
-                  <title>exto basado en las COMEDIAS DE DON PEDRO CALDERÓN DE LA BARCA, ed. Juan Jorge Keil (Leipzig, 1830), tomo IV. 
+                  <title>Texto basado en las COMEDIAS DE DON PEDRO CALDERÓN DE LA BARCA, ed. Juan Jorge Keil (Leipzig, 1830), tomo IV. 
                      Fue editado en forma electrónica por David Hildner 
                      y luego pasado al HTML para ser presentado en esta colección por Vern Williamsen en 1998.</title>
                   <date type="print" when="1684"/>
-                  <date type="written"/>
+                  <date type="written" when="1648-1650"/>
                </bibl>
             </bibl>
          </sourceDesc>
