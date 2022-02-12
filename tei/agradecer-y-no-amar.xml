@@ -7611,7 +7611,8 @@
                   <speaker rend="caps">Laurencio</speaker>
                   <lg>
                      <l>Aguarda a ver lo que dice.</l>
-                     <l>Lee. “Así quien no ama agradece.”</l>
+                     <stage type="withText">Lee.</stage>
+                     <l>“Así quien no ama agradece.”</l>
                      <l>¿Qué querrá decir el mote?</l>
                   </lg>
                </sp>
