@@ -14,6 +14,8 @@
       <publicationStmt>
         <authority>University of Vienna,Institute of Romance Languages and Literatures</authority>
         <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <idno type="dracor" xml:base="https://dracor.org/id/">cal000180</idno>
         <date when="2022-02-07">
           <time when="17:38:46"/>
         </date>
