@@ -44,7 +44,7 @@
               El socorro general, ed. Ignacio Are-llano, Pamplona–Kassel,
               Universidad de Navarra–Reichenberger, 2001. ISBN: 3-935004-40-0.</title>
             <date type="print"/>
-            <date type="written"/>
+            <date type="written" when="1644"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -100,6 +100,7 @@
         <keywords>
           <term type="genreTitle">auto sacramental</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q4877154</classCode>
       </textClass>
     </profileDesc>
   </teiHeader>
