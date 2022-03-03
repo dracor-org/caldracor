@@ -44,7 +44,7 @@
                   Madrid : Fundación José Antonio de Castro, 2007</title>
                <idno type="ISBN">978-84-96452-36-7</idno>
                <date type="print" when="1637"/>
-               <date type="written"/>
+               <date type="written" notBefore="1616" notAfter="1629"/>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -163,7 +163,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term type="genreTitle">Comedia Famosa</term>
+               <term type="genreTitle">Comedia religiosa</term>
             </keywords>
          </textClass>
       </profileDesc>

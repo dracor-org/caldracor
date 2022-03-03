@@ -44,7 +44,8 @@
               Parte Primera, Madrid, En la Imprenta de Manuel Ruiz de Murga, 1717.
               Localización: Base de Datos de Teatro Español del Siglo de Oro (TESO). Autorizada por Evangelina Rodríguez Cuadros </title>
             <date type="print" when="1717"/>
-            <date type="written"/>
+            <date type="written" when="1665"/>
+            <date type="premiere" when="1665"/>
           </bibl>
         </bibl>
       </sourceDesc>

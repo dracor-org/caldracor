@@ -43,8 +43,9 @@
                   En: Comedias, Vol. 5. Dirección de Luis Iglesias Feijoo y José María Ruano de la Haza.
                   Madrid : Fundación José Antonio de Castro, 2010</title>
                <idno type="ISBN">978-84-96452-94-7</idno>
-               <date type="print" when="1682"/>
-               <date type="written"/>
+               <date type="print" when="1650"/>
+               <date type="written" when="1635"/>
+               <date type="premiere" when="1635"/>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -82,7 +83,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term type="genreTitle">Gran Comedia</term>
+               <term type="genreTitle">Comedia de capa y espada</term>
             </keywords>
          </textClass>
       </profileDesc>

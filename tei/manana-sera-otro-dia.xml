@@ -38,8 +38,8 @@
      <idno type="URL"/>
      <bibl type="originalSource">
       <title> Edición digital a partir de la edición Ignacio Arellano (sin publicar) </title>
-      <date type="print" when="1635"/>
-      <date type="written"/>
+      <date type="print" when="1653"/>
+      <date type="written" when="1635"/>
      </bibl>
     </bibl>
    </sourceDesc>
@@ -111,7 +111,7 @@
    </particDesc>
    <textClass>
     <keywords>
-     <term type="genreTitle"> Comedia </term>
+     <term type="genreTitle">Comedia de capa y espada</term>
     </keywords>
    </textClass>
   </profileDesc>

@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Peor Está Que Estaba</title>
+            <title type="main">Peor está que estaba</title>
             <title type="sub">Comedia Famosa</title>
             <author>
                <persName>
@@ -39,12 +39,12 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="originalSource">
-               <title>Pedro Calderón de la Barca, Peor Está Que Estaba.  
+               <title>Pedro Calderón de la Barca, Peor está que estaba.  
                   En: Comedias, Vol. 1. Dirección de Luis Iglesias Feijoo.
                   Madrid : Fundación José Antonio de Castro, 2006</title>
                <idno type="ISBN">978-84-96452-28-2</idno>
-               <date type="print" when="1640"/>
-               <date type="written"/>
+               <date type="print" when="1636"/>
+               <date type="written" notBefore="1620" notAfter="1636"/>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -97,7 +97,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term type="genreTitle">Comedia Famosa</term>
+               <term type="genreTitle">Comedia de capa y espada</term>
             </keywords>
          </textClass>
       </profileDesc>
@@ -105,7 +105,7 @@
    <text xml:lang="es">
       <front>
          <docTitle>
-            <titlePart type="main">Peor Está Que Estaba</titlePart>
+            <titlePart type="main">Peor está que estaba</titlePart>
             <titlePart type="sub">Comedia Famosa</titlePart>
          </docTitle>
          <castList>

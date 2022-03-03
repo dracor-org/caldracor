@@ -44,7 +44,7 @@
                   Madrid : Fundación José Antonio de Castro, 2007</title>
                <idno type="ISBN">978-84-96452-32-9</idno>
                <date type="print" when="1664"/>
-               <date type="written"/>
+               <date type="written" notBefore="1649" notAfter="1651"/>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -148,7 +148,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term type="genreTitle">Famosa Comedia</term>
+               <term type="genreTitle">Comedia novelesca</term>
             </keywords>
          </textClass>
       </profileDesc>

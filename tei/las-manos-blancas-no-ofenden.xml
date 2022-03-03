@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Las Manos Blancas No Ofenden</title>
+            <title type="main">Las manos blancas no ofenden</title>
             <title type="sub">Comedia Famosa</title>
             <author>
                <persName>
@@ -100,7 +100,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term type="genreTitle">Comedia Famosa</term>
+               <term type="genreTitle">Comedia de capa y espada</term>
             </keywords>
          </textClass>
       </profileDesc>

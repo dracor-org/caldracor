@@ -42,8 +42,9 @@
             <title>Texto crítico preparado por Ignacio Arellano y Luis Galván procedente de la edición
               Calderón de la Barca, Pedro, ¿Quién hallará mujer fuerte?, ed. Ignacio Arellano y Luis Galván,
               Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2001. ISBN: 3-935004-42-7.</title>
-            <date type="print" when="1760"/>
-            <date type="written"/>
+            <date type="print" when="1677"/>
+            <date type="written" when="1672"/>
+            <date type="premiere" when="1672/>"
           </bibl>
         </bibl>
       </sourceDesc>

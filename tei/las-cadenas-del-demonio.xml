@@ -46,7 +46,7 @@
                      Fue editado en forma electrónica por David Hildner 
                      y luego pasado al HTML para ser presentado en esta colección por Vern Williamsen en 2000.</title>
                   <date type="print" when="1684"/>
-                  <date type="written"/>
+                  <date type="written" when="1644"/>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -97,7 +97,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term type="genreTitle">Gran Comedia</term>
+               <term type="genreTitle">Comedia religiosa</term>
             </keywords>
          </textClass>
       </profileDesc>

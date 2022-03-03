@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Los Lances De Amor Y Fortuna</title>
+            <title type="main">Lances de amor y fortuna</title>
             <title type="sub">Comedia Famosa</title>
             <author>
                <persName>
@@ -42,8 +42,8 @@
                <title>Pedro Calderón de la Barca, Comedias. Lances de amor y fortuna. Edición de Luis Iglesias Feijoo. 
                   Primera Parte de comedias. Dirección de Luis Iglesias Feijoo.
                   Madrid: Fundación José Antonio de Castro, 2006.</title>
-               <date type="print" when="1640"/>
-               <date type="written"/>
+               <date type="print" when="1636"/>
+               <date type="written" when="1625"/>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -84,7 +84,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term type="genreTitle">comedia</term>
+               <term type="genreTitle">Comedia de capa y espada</term>
             </keywords>
          </textClass>
       </profileDesc>

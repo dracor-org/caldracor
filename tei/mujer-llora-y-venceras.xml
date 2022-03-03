@@ -45,7 +45,7 @@
                   Madrid : Fundación José Antonio de Castro, 2010</title>
                <idno type="ISBN">978-84-96452-94-7</idno>
                <date type="print" when="1662"/>
-               <date type="written"/>
+               <date type="written" notBefore="1659" notAfter="1660"/>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -101,7 +101,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term type="genreTitle">Gran Comedia</term>
+               <term type="genreTitle">Comedia palatina</term>
             </keywords>
          </textClass>
       </profileDesc>

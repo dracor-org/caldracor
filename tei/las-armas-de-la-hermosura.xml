@@ -46,7 +46,8 @@
                      de la edición de las Comedias de don Pedro Calderón de la Barca, ed. Juan Jorge Keil
                      (Leipzig, 1830), tomo IV.</title>
                   <date type="print" when="1679"/>
-                  <date type="written"/>
+                  <date type="written" when="1678"/>
+                  <date type="premiere" when="1678"/>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -133,7 +134,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term type="genreTitle">Gran Comedia</term>
+               <term type="genreTitle">Comedias históricas</term>
             </keywords>
          </textClass>
       </profileDesc>

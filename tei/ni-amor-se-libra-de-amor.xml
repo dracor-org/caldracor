@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Ni amor se libra de amor</title>
+            <title type="main">Ni Amor se libra de amor</title>
             <title type="sub">Famosa Comedia</title>
             <author>
                <persName>
@@ -39,7 +39,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="originalSource">
-               <title>Pedro Calderón de la Barca, Ni amor se libra de amor.  
+               <title>Pedro Calderón de la Barca, Ni Amor se libra de amor.  
                   En: Comedias, Vol. 3. Dirección de Luis Iglesias Feijoo y Don William Cruickshank.
                   Madrid : Fundación José Antonio de Castro, 2007</title>
                <idno type="ISBN">978-84-96452-32-9</idno>
@@ -115,7 +115,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term type="genreTitle">Famosa Comedia</term>
+               <term type="genreTitle">Comedia mitológica</term>
             </keywords>
          </textClass>
       </profileDesc>

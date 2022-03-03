@@ -45,7 +45,7 @@
               Nicolás González Ruiz, Piezas maestras del teatro teológico español,
               4ª ed., Madrid, Biblioteca de Autores Cristianos, 1997, t. I, pp. 455-478.</title>
             <date type="print" when="1717"/>
-            <date type="written"/>
+            <date type="written" notBefore="1636" notAfter="1645"/>
           </bibl>
         </bibl>
       </sourceDesc>

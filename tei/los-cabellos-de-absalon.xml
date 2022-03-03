@@ -36,8 +36,9 @@
                <bibl type="originalSource">
                   <title>Edición digital a partir de la edición de Evangelina Rodríguez Cuadros,
                      Madrid, Espasa-Calpe, 1989.</title>
-                  <date type="print" when="1684"/>
-                  <date type="written"/>
+                  <date type="print" when="1670"/>
+                  <date type="written" when="1640"/>
+                  <date type="premiere" when="1640"/>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -100,7 +101,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term type="genreTitle">comedia</term>
+               <term type="genreTitle">comedia religiosa</term>
             </keywords>
          </textClass>
       </profileDesc>

@@ -32,9 +32,10 @@
           <name/>
           <idno type="URL"/>
           <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de J. E. Duarte, Pam- plona– Kassel, Universidad de Navarra–Reichenberger, 2007. ISBN: 9783937734316.</title>
-            <date type="print" when="1640"/>
-            <date type="written"/>
+            <title>Edición digital a partir de la edición de J. E. Duarte, Pamplona– Kassel, Universidad de Navarra–Reichenberger, 2007. ISBN: 9783937734316.</title>
+            <date type="print" when="1701"/>
+            <date type="written" when="1640"/>
+            <date type="premiere" when="1640"/>
           </bibl>
         </bibl>
       </sourceDesc>

@@ -43,9 +43,9 @@
                <idno type="URL">http://www.cervantesvirtual.com/obra-visor/no-hay-cosa-como-callar--2/html/</idno>
                <bibl type="originalSource">
                   <title>Edición digital a partir de Parte diez y siete de comedias nuevas y escogidas de los mejores ingenios de España, 
-                     Madrid, Melchor Sánchez, 1622.</title>
-                  <date type="print" when="1622"/>
-                  <date type="written"/>
+                     Madrid, Melchor Sánchez, 1662.</title>
+                  <date type="print" when="1662"/>
+                  <date type="written" notBefore="1638" notAfter="1639"/>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -105,7 +105,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term type="genreTitle">Comedia Famosa</term>
+               <term type="genreTitle">Tragedia de capa y espada</term>
             </keywords>
          </textClass>
       </profileDesc>
