@@ -40,7 +40,7 @@
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de V. García Ruiz,
               Pamplona, Universidad de Navarra ; Kassel, Reichenberger, 1993. ISBN: 3-928064-48-7</title>
-            <date type="print"/>
+            <date type="print" when="1759"/>
             <date type="written" when="1648"/>
           </bibl>
         </bibl>
@@ -94,6 +94,7 @@
         <keywords>
           <term type="genreTitle">auto sacramental</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q4877154</classCode>
       </textClass>
     </profileDesc>
   </teiHeader>
