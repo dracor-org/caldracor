@@ -45,7 +45,7 @@
                   Biblioteca Áurea Hispánica 122, Comedias completas de Calderón 20</title>
                <idno type="URL">https://doi.org/10.31819/9783954879366</idno>
                <date type="print" when="1634"/>
-               <date type="written"/>
+               <date type="written" notBefore="1628" notAfter="1634"/>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -95,7 +95,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term type="genreTitle">Comedia Famosa</term>
+               <term type="genreTitle">Tragedia</term>
             </keywords>
          </textClass>
       </profileDesc>

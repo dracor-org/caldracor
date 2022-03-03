@@ -43,8 +43,9 @@
                   En: Comedias, Vol. 6. Dirección de Luis Iglesias Feijoo.
                   Madrid : Fundación José Antonio de Castro, 2010</title>
                <idno type="ISBN">978-84-96452-96-1</idno>
-               <date type="print" when="1715"/>
-               <date type="written"/>
+               <date type="print" when="1652"/>
+               <date type="written" when="1633/>
+               <date type= "premiere" when="1633"/>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -85,7 +86,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term type="genreTitle">Comedia Famosa</term>
+               <term type="genreTitle">Comedia de capa y espada</term>
             </keywords>
          </textClass>
       </profileDesc>
