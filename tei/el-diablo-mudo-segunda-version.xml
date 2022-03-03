@@ -41,7 +41,7 @@
             <title>Edición digital a partir de la edición de C.C. García Valdés,
               Pamplona, Universidad de Navarra ; Kassel, Reichenberger, 1999.</title>
             <date type="print"/>
-            <date type="written"/>
+            <date type="written" notBefore="1660" notAfter="1681">1660–1681</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -97,6 +97,7 @@
         <keywords>
           <term type="genreTitle">auto sacramental</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q4877154</classCode>
       </textClass>
     </profileDesc>
   </teiHeader>
