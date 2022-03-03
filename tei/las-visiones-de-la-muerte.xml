@@ -43,7 +43,7 @@
               Madrid, Castalia, 1983, pp. 371-384. Edición, introducción y notas
               de Evangelina Rodríguez y Antonio Tordera</title>
             <date type="print"/>
-            <date type="written"/>
+            <date type="written" notBefore="1672" notAfter="1673">1672–1673</date> 
           </bibl>
         </bibl>
       </sourceDesc>
@@ -88,8 +88,9 @@
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle">teatro cómico breve</term>
+          <term type="genreTitle">mojiganga</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q11693331</classCode>
       </textClass>
     </profileDesc>
   </teiHeader>
