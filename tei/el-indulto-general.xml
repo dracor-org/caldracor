@@ -41,7 +41,7 @@
             <title>Texto crítico preparado por Ignacio Arellano y Juan Manuel Escudero procedente de la edición
               Calderón de la Barca, Pedro, El indulto general , ed. Ignacio Arellano y Juan Manuel Escudero,
               Pamplona–Kassel, Universidad de Navarra–Reichenberger, 1996. ISBN: 3-930700-64-6.</title>
-            <date type="print"/>
+            <date type="print" when="1759"/>
             <date type="written"/>
           </bibl>
         </bibl>
@@ -106,6 +106,7 @@
       <textClass>
         <keywords>
           <term type="genreTitle">auto sacramental</term>
+          <classCode scheme="http://www.wikidata.org/entity/">Q4877154</classCode>
         </keywords>
       </textClass>
     </profileDesc>
