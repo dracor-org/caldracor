@@ -44,7 +44,7 @@
               Calderón de la Barca, Pedro, La viña del Señor,
               ed. Ignacio Arellano, Ángel L. Cilveti, Blanca Oteiza y Mª Carmen Pinillos,
               Pamplona–Kassel, Universidad de Navarra–Reichenberger, 1996. ISBN: 3-930700-87-5.</title>
-            <date type="print"/>
+            <date type="print" when="1759"/>
             <date type="written"/>
           </bibl>
         </bibl>
@@ -110,6 +110,7 @@
         <keywords>
           <term type="genreTitle">auto sacramental</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q4877154</classCode>
       </textClass>
     </profileDesc>
   </teiHeader>
