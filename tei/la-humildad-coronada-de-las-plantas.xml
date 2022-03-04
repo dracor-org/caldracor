@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>La humildad coronada de las plantas</title>
+        <title>La humildad coronada</title>
         <title type="sub">Auto sacramental alegórico</title>
         <author>
           <persName>
@@ -24,7 +24,7 @@
         <date when="2019-05-02">
           <time when="13:22:09"/>
         </date>
-        <idno type="quadramaX">La humildad coronada de las plantas</idno>
+        <idno type="quadramaX">La humildad coronada</idno>
         <idno type="dracor" xml:base="https://dracor.org/id/">cal000030</idno>
         <availability>
           <licence>
@@ -45,7 +45,8 @@
               Localización: Base de Datos de Teatro Español del Siglo de Oro (TESO).
               Autorizada por Evangelina Rodríguez Cuadros</title>
             <date type="print" when="1717"/>
-            <date type="written"/>
+	    <date type="written" when="1644"/>
+	    <date type="premiere" when="1644"/>
           </bibl>
         </bibl>
       </sourceDesc>

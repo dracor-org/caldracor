@@ -33,8 +33,8 @@
           <idno type="URL"/>
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de Antonio Sánchez Jiménez y Adrián J. Sáez, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2013. ISBN: 978-3-944244-17-4.</title>
-            <date type="print" when="1634?"/>
-            <date type="written"/>
+	    <date type="print" when="1717"/>
+            <date type="written" when="1634"/>
           </bibl>
         </bibl>
       </sourceDesc>

@@ -38,8 +38,9 @@
      <idno type="URL"/>
      <bibl type="originalSource">
       <title> Edición digital a partir de la edición de Ignacio Arellano, (sin publicar). </title>
-      <date type="print" when="1648"/>
-      <date type="written"/>
+      <date type="print" when="1652"/>
+      <date type="written" notBefore="1620" notAfter="1648"/>
+     <date type="premiere" when="1648"/>
      </bibl>
     </bibl>
    </sourceDesc>

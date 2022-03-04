@@ -42,8 +42,9 @@
               procedente de la edición Calderón de la Barca, Pedro, La inmunidad  del sagrado,
               ed. José María Ruano de la Haza, Delia Gavela y Rafael Martín,
               Pamplona–Kassel, Universidad de Navarra–Reichenberger, 1997. ISBN: 3-931887-09-x.</title>
-            <date type="print" when="1759"/>
-            <date type="written"/>
+            <date type="print" when="1701"/>
+	    <date type="written" when="1664"/>
+	    <date type="premiere" when="1664"/>
           </bibl>
         </bibl>
       </sourceDesc>

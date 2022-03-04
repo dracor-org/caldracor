@@ -40,7 +40,8 @@
                      Teatro Español del Siglo de Oro (TESO). Autorizada por Evangelina Rodríguez
                      Cuadros. </title>
                   <date type="print" when="1683"/>
-                  <date type="written"/>
+		  <date type="written" when="1653"/>
+		  <date type="premiere" when="1653"/>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -175,7 +176,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term type="genreTitle">comedia</term>
+               <term type="genreTitle">comedia mitológica</term>
             </keywords>
          </textClass>
       </profileDesc>

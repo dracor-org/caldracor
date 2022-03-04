@@ -43,7 +43,8 @@
               Calderón de la Barca, Pedro, La protestación de la fe, ed. Gregory Peter Andrachuk,
               Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2001. ISBN: 3-935004-19-2.</title>
             <date type="print" when="1717"/>
-            <date type="written"/>
+	    <date type="written" when="1656"/>
+	    <date type="premiere" when="1656"/>
           </bibl>
         </bibl>
       </sourceDesc>

@@ -33,8 +33,9 @@
           <idno type="URL">https://dadun.unav.edu/handle/10171/37449</idno>
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de Davinia Rodríguez, Pamplona– Kassel, Universidad de Navarra–Reichenberger, 2014. ISBN: 978-3-944244-20-4.</title>
-            <date type="print" when="1651"/>
-            <date type="written"/>
+            <date type="print" when="1717"/>
+	    <date type="written" when="1651"/>
+	    <date type="premiere" when="1651"/>
           </bibl>
         </bibl>
       </sourceDesc>
