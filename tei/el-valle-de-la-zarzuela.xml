@@ -81,12 +81,7 @@
           <person sex="FEMALE" xml:id="simplicidad">
             <persName>SIMPLICIDAD</persName>
           </person>
-          <personGrp sex="MALE" xml:id="acompanamiento">
-            <persName>UNOS</persName>
-          </personGrp>
-          <personGrp sex="MALE" xml:id="acompanamiento">
-            <persName>OTROS</persName>
-          </personGrp>
+ 
         </listPerson>
       </particDesc>
       <textClass>

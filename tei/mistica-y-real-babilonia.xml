@@ -55,12 +55,6 @@
           <person sex="MALE" xml:id="zabulon">
             <persName>ZABULÓN</persName>
           </person>
-          <personGrp sex="UNKNOWN" xml:id="acompanamiento">
-            <persName>UNOS</persName>
-          </personGrp>
-          <personGrp sex="UNKNOWN" xml:id="acompanamiento">
-            <persName>OTROS</persName>
-          </personGrp>
           <person sex="MALE" xml:id="azarias">
             <persName>AZARÍAS</persName>
           </person>
@@ -90,9 +84,6 @@
           </person>
           <person sex="MALE" xml:id="gabriel">
             <persName>GABRIEL</persName>
-          </person>
-          <person sex="UNKOWN" xml:id="acompanamiento">
-            <persName>UNO</persName>
           </person>
         </listPerson>
       </particDesc>

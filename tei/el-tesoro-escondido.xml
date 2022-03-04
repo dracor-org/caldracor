@@ -78,12 +78,7 @@
           <person sex="MALE" xml:id="villano-2">
             <persName>VILLANO 2.º</persName>
           </person>
-          <personGrp sex="MALE" xml:id="acompanamiento">
-            <persName>UNOS</persName>
-          </personGrp>
-          <personGrp sex="MALE" xml:id="acompanamiento">
-            <persName>OTROS</persName>
-          </personGrp>
+
           <person sex="MALE" xml:id="pastor-1">
             <persName>PASTOR 1.º</persName>
           </person>

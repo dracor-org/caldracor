@@ -87,20 +87,8 @@
           <person sex="UNKNOWN" xml:id="musicos">
             <persName>CANTAN</persName>
           </person>
-          <personGrp sex="UNKNOWN" xml:id="musicos">
-            <persName>MÚSICOS</persName>
-          </personGrp>
           <person sex="MALE" xml:id="eco">
             <persName>ECO</persName>
-          </person>
-          <personGrp sex="UNKNOWN" xml:id="acompanamiento">
-            <persName>UNOS</persName>
-          </personGrp>
-          <personGrp sex="UNKNOWN" xml:id="acompanamiento">
-            <persName>OTROS</persName>
-          </personGrp>
-          <person sex="UNKNOWN" xml:id="acompanamiento">
-            <persName>UNA VOZ</persName>
           </person>
         </listPerson>
       </particDesc>

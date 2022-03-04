@@ -48,12 +48,6 @@
           <person sex="MALE" xml:id="ingenio">
             <persName>INGENIO</persName>
           </person>
-          <person sex="UNKNOWN" xml:id="acompanamiento">
-            <persName>VOZ 1.ª</persName>
-          </person>
-          <person sex="UNKNOWN" xml:id="acompanamiento">
-            <persName>VOZ 2.ª</persName>
-          </person>
           <person sex="MALE" xml:id="pensamiento">
             <persName>PENSAMIENTO</persName>
           </person>

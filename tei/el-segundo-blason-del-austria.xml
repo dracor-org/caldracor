@@ -81,15 +81,6 @@
           <person sex="FEMALE" xml:id="virtudes">
             <persName>VIRTUDES</persName>
           </person>
-          <personGrp sex="UNKNOWN" xml:id="acompanamiento">
-            <persName>UNOS</persName>
-          </personGrp>
-          <personGrp sex="UNKNOWN" xml:id="acompanamiento">
-            <persName>OTROS</persName>
-          </personGrp>
-          <personGrp sex="UNKNOWN" xml:id="acompanamiento">
-            <persName>VOCES</persName>
-          </personGrp>
           <person sex="MALE" xml:id="federico">
             <persName>FEDERICO</persName>
           </person>

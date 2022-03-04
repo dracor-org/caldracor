@@ -34,7 +34,7 @@
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de V. Nider, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2008. ISBN: 978-3-937734-49-1.</title>
             <date type="print" when="1717"/>
-            <date type="written" when="1637?"/>
+            <date type="written" when="1637"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -98,15 +98,6 @@
           </person>
           <person sex="MALE" xml:id="salvaje-4">
             <persName>SALVAJE 4.º</persName>
-          </person>
-          <personGrp sex="MALE" xml:id="acompanamiento">
-            <persName>UNOS</persName>
-          </personGrp>
-          <personGrp sex="MALE" xml:id="acompanamiento">
-            <persName>OTROS</persName>
-          </personGrp>
-          <person sex="MALE" xml:id="acompanamiento">
-            <persName>DENTRO</persName>
           </person>
         </listPerson>
       </particDesc>

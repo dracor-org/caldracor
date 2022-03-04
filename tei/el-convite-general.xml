@@ -63,12 +63,6 @@
           <person sex="FEMALE" xml:id="idolatria">
             <persName>IDOLATRÍA</persName>
           </person>
-          <person sex="MALE" xml:id="acompanamiento">
-            <persName>UNO</persName>
-          </person>
-          <person sex="MALE" xml:id="acompanamiento">
-            <persName>OTRO</persName>
-          </person>
           <person sex="FEMALE" xml:id="apostasia">
             <persName>APOSTASÍA</persName>
           </person>
@@ -78,26 +72,11 @@
           <person sex="MALE" xml:id="judaismo">
             <persName>JUDAÍSMO</persName>
           </person>
-          <personGrp sex="UNKNOWN" xml:id="acompanamiento">
-            <persName>UNOS</persName>
-          </personGrp>
-          <personGrp sex="UNKNOWN" xml:id="acompanamiento">
-            <persName>OTROS</persName>
-          </personGrp>
           <person sex="MALE" xml:id="hombre">
             <persName>HOMBRE</persName>
           </person>
           <person sex="MALE" xml:id="albedrio">
             <persName>ALBEDRÍO</persName>
-          </person>
-          <personGrp sex="UNKNOWN" xml:id="musicos">
-            <persName>MÚSICOS</persName>
-          </personGrp>
-          <person sex="FEMALE" xml:id="acompanamiento">
-            <persName>UNA</persName>
-          </person>
-          <person sex="FEMALE" xml:id="acompanamiento">
-            <persName>OTRA</persName>
           </person>
           <person sex="MALE" xml:id="principe">
             <persName>PRÍNCIPE</persName>

@@ -33,8 +33,8 @@
           <idno type="URL">https://dadun.unav.edu/handle/10171/19079</idno>
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de M. Roig, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2011. ISBN: 978-3-937734-80-4.</title>
-            <date type="print" when="1631-1646"/>
-            <date type="written"/>
+            <date type="print" when="1717"/>
+            <date type="written" notBefore="1631" notAfter="1646"/>/>
           </bibl>
         </bibl>
       </sourceDesc>

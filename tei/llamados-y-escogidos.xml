@@ -55,9 +55,7 @@
           <personGrp sex="UNKNOWN" xml:id="musicos">
             <persName>MÚSICOS</persName>
           </personGrp>
-          <person sex="UNKNOWN" xml:id="acompanamiento">
-            <persName>OTRA VOZ</persName>
-          </person>
+
           <person sex="MALE" xml:id="rey">
             <persName>REY</persName>
           </person>
@@ -73,9 +71,7 @@
           <person sex="FEMALE" xml:id="esposa">
             <persName>ESPOSA</persName>
           </person>
-          <person sex="UNKNOWN" xml:id="acompanamiento">
-            <persName>VOZ</persName>
-          </person>
+
           <person sex="FEMALE" xml:id="fe">
             <persName>FE</persName>
           </person>
@@ -88,26 +84,9 @@
           <person sex="FEMALE" xml:id="gentilidad">
             <persName>GENTILIDAD</persName>
           </person>
-          <person sex="MALE" xml:id="acompanamiento">
-            <persName>UNO</persName>
-          </person>
-          <person sex="UNKNOWN" xml:id="acompanamiento">
-            <persName>VOZ 2</persName>
-          </person>
-          <person sex="UNKNOWN" xml:id="acompanamiento">
-            <persName>VOZ 3</persName>
-          </person>
-          <person sex="UNKNOWN" xml:id="acompanamiento">
-            <persName>VOZ 4</persName>
-          </person>
-          <person sex="UNKNOWN" xml:id="acompanamiento">
-            <persName>VOZ 1</persName>
-          </person>
+
           <person sex="FEMALE" xml:id="sinagoga">
             <persName>SINAGOGA</persName>
-          </person>
-          <person sex="MALE" xml:id="acompanamiento">
-            <persName>OTRO</persName>
           </person>
           <person sex="FEMALE" xml:id="persia">
             <persName>PERSIA</persName>

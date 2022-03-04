@@ -91,12 +91,6 @@
           <person sex="FEMALE" xml:id="idolatria">
             <persName>IDOLATRÍA</persName>
           </person>
-          <personGrp sex="MALE" xml:id="acompanamiento">
-            <persName>UNOS</persName>
-          </personGrp>
-          <personGrp sex="MALE" xml:id="acompanamiento">
-            <persName>OTROS</persName>
-          </personGrp>
           <personGrp sex="UNKNOWN" xml:id="musicos">
             <persName>MÚSICOS</persName>
           </personGrp>

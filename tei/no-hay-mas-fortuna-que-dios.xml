@@ -33,7 +33,7 @@
           <idno type="URL"/>
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de Ignacio Arellano, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2013. ISBN: 978-3-944244-05-1.</title>
-            <date type="print" when= />
+            <date type="print" when="1717"/>
             <date type="written" notBefore="1652" notAfter="1653"/>
           </bibl>
         </bibl>
@@ -90,9 +90,6 @@
           <person sex="MALE" xml:id="esqueleto">
             <persName>ESQUELETO</persName>
           </person>
-          <personGrp sex="UNKNOWN" xml:id="acompanamiento">
-            <persName>UNOS</persName>
-          </personGrp>
           <personGrp sex="UNKNOWN" xml:id="acompanamiento">
             <persName>OTROS</persName>
           </personGrp>

@@ -34,7 +34,7 @@
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de L. Galván y R. Arana Caballero, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2008. ISBN: 978-3-937734-48-4.</title>
             <date type="print" when="1717"/>
-            <date type="written" notBefore="1647" notAfter="1657/>
+            <date type="written" notBefore="1647" notAfter="1657"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -42,12 +42,6 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <personGrp sex="MALE" xml:id="acompanamiento">
-            <persName>UNOS</persName>
-          </personGrp>
-          <personGrp sex="MALE" xml:id="acompanamiento">
-            <persName>OTROS</persName>
-          </personGrp>
           <person sex="MALE" xml:id="silvestre">
             <persName>SILVESTRE</persName>
           </person>
@@ -63,7 +57,7 @@
           <person sex="FEMALE" xml:id="fe">
             <persName>FE</persName>
           </person>
-          <personGrp sex="UNKNOWN" xml:id="musicos">"
+          <personGrp sex="UNKNOWN" xml:id="musicos">
             <persName>MÚSICOS</persName>
           </personGrp>
           <person sex="MALE" xml:id="angel">
@@ -84,9 +78,6 @@
           <person sex="MALE" xml:id="nino">
             <persName>NIÑO</persName>
           </person>
-          <person sex="FEMALE" xml:id="mujer-1">
-            <persName>MUJER 1.ª</persName>
-          </person>
           <person sex="FEMALE" xml:id="mujer-2">
             <persName>MUJER 2.ª</persName>
           </person>
@@ -105,9 +96,7 @@
           <personGrp sex="MALE" xml:id="coro-2">
             <persName>CORO 2.º</persName>
           </personGrp>
-          <person sex="MALE" xml:id="acompanamiento">
-            <persName>UNO</persName>
-          </person>
+     
           <person sex="MALE" xml:id="san-pedro">
             <persName>SAN PEDRO</persName>
           </person>

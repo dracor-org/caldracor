@@ -48,12 +48,6 @@
           <person sex="MALE" xml:id="abenyucef">
             <persName>ABENYUCEF</persName>
           </person>
-          <personGrp sex="UNKNOWN" xml:id="acompanamiento">
-            <persName>UNOS</persName>
-          </personGrp>
-          <personGrp sex="UNKNOWN" xml:id="acompanamiento">
-            <persName>OTROS</persName>
-          </personGrp>
           <person sex="MALE" xml:id="rey">
             <persName>REY</persName>
           </person>
@@ -93,9 +87,6 @@
           <person sex="FEMALE" xml:id="nina">
             <persName>NIÑA</persName>
           </person>
-          <person sex="MALE" xml:id="acompanamiento">
-            <persName>DENTRO</persName>
-          </person>
           <person sex="MALE" xml:id="almirante">
             <persName>ALMIRANTE</persName>
           </person>
@@ -110,12 +101,6 @@
           </person>
           <person sex="MALE" xml:id="san-juan">
             <persName>SAN JUAN</persName>
-          </person>
-          <personGrp sex="UNKNOWN" xml:id="acompanamiento">
-            <persName>VOCES</persName>
-          </personGrp>
-          <person sex="UNKNOWN" xml:id="acompanamiento">
-            <persName>VOZ</persName>
           </person>
         </listPerson>
       </particDesc>

@@ -99,9 +99,6 @@
           <person sex="MALE" xml:id="ecos">
             <persName>ECOS</persName>
           </person>
-          <personGrp sex="UNKNOWN" xml:id="acompanamiento">
-            <persName>UNOS</persName>
-          </personGrp>
           <person sex="MALE" xml:id="sentidos">
             <persName>SENTIDOS</persName>
           </person>
@@ -117,9 +114,6 @@
           <person sex="MALE" xml:id="tacto">
             <persName>TACTO</persName>
           </person>
-          <personGrp sex="UNKNOWN" xml:id="acompanamiento">
-            <persName>OTROS</persName>
-          </personGrp>
           <person sex="MALE" xml:id="nino">
             <persName>NIÑO</persName>
           </person>

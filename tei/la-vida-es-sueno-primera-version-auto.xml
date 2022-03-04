@@ -75,18 +75,6 @@
           <personGrp sex="UNKNOWN" xml:id="musicos">
             <persName>MÚSICOS</persName>
           </personGrp>
-          <person sex="FEMALE" xml:id="acompanamiento">
-            <persName>PRIMERA</persName>
-          </person>
-          <person sex="FEMALE" xml:id="acompanamiento">
-            <persName>SEGUNDA</persName>
-          </person>
-          <person sex="FEMALE" xml:id="acompanamiento">
-            <persName>TERCERA</persName>
-          </person>
-          <person sex="FEMALE" xml:id="acompanamiento">
-            <persName>CUARTA</persName>
-          </person>
         </listPerson>
       </particDesc>
       <textClass>

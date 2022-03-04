@@ -105,12 +105,7 @@
           <person sex="MALE" xml:id="pastor-4">
             <persName>PASTOR 4.º</persName>
           </person>
-          <personGrp sex="UNKNOWN" xml:id="acompanamiento">
-            <persName>UNOS</persName>
-          </personGrp>
-          <personGrp sex="UNKNOWN" xml:id="acompanamiento">
-            <persName>OTROS</persName>
-          </personGrp>
+    
         </listPerson>
       </particDesc>
       <textClass>

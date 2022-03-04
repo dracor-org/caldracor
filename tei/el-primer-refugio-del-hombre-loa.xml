@@ -33,8 +33,8 @@
           <idno type="URL"/>
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de Rafael Zafra, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 1997. ISBN:978-3-944244-66-2</title>
-            <date type="print" when="16 de junio 1661"/>
-            <date type="written"/>
+            <date type="print" when="1717"/>
+            <date type="written" when="1661"/>
           </bibl>
         </bibl>
       </sourceDesc>

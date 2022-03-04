@@ -72,12 +72,6 @@
           <person sex="FEMALE" xml:id="simplicidad">
             <persName>SIMPLICIDAD</persName>
           </person>
-          <person sex="UNKOWN" xml:id="acompanamiento">
-            <persName>UNO</persName>
-          </person>
-          <person sex="UNKOWN" xml:id="acompanamiento">
-            <persName>OTRO</persName>
-          </person>
           <person sex="FEMALE" xml:id="sinagoga">
             <persName>SINAGOGA</persName>
           </person>

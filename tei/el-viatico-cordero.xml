@@ -54,20 +54,11 @@
           <person sex="MALE" xml:id="baal">
             <persName>BAAL</persName>
           </person>
-          <personGrp sex="UNKNOWN" xml:id="acompanamiento">
-            <persName>UNOS</persName>
-          </personGrp>
-          <personGrp sex="UNKNOWN" xml:id="acompanamiento">
-            <persName>OTROS</persName>
-          </personGrp>
           <personGrp sex="UNKNOWN" xml:id="musicos">
             <persName>MÚSICOS</persName>
           </personGrp>
           <person sex="MALE" xml:id="moises">
             <persName>MOISÉS</persName>
-          </person>
-          <person sex="UNKNOWN" xml:id="acompanamiento">
-            <persName>DENTRO</persName>
           </person>
           <person sex="MALE" xml:id="libio">
             <persName>LIBIO</persName>
@@ -89,9 +80,6 @@
           </person>
           <person sex="MALE" xml:id="nacor">
             <persName>NACOR</persName>
-          </person>
-          <person sex="FEMALE" xml:id="acompanamiento">
-            <persName>UNA MUJER</persName>
           </person>
           <person sex="MALE" xml:id="nino-1">
             <persName>NIÑO 1.º</persName>
