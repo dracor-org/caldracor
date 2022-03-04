@@ -16,7 +16,7 @@
           </persName>
           <idno type="wikidata">Q170800</idno>
           <idno type="pnd">118518399</idno>
-        </author>        
+        </author>
       </titleStmt>
       <publicationStmt>
         <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
@@ -81,8 +81,8 @@
       <textClass>
         <keywords>
           <term type="genreTitle">auto sacramental</term>
-          <classCode scheme="http://www.wikidata.org/entity/">Q4877154</classCode>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q4877154</classCode>
       </textClass>
     </profileDesc>
   </teiHeader>

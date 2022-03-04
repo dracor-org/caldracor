@@ -63,7 +63,7 @@
           <person sex="FEMALE" xml:id="fe">
             <persName>FE</persName>
           </person>
-          <personGrp sex="UNKNOWN" xml:id="musicos">"
+          <personGrp sex="UNKNOWN" xml:id="musicos">
             <persName>MÚSICOS</persName>
           </personGrp>
           <person sex="MALE" xml:id="angel">
