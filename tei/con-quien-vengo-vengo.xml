@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Con Quien Vengo Vengo</title>
+            <title type="main">Con quien vengo vengo</title>
             <title type="sub">Gran Comedia</title>
             <author>
                <persName>
@@ -88,7 +88,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term type="genreTitle">Gran Comedia</term>
+               <term type="genreTitle">Comedia de capa y espada</term>
             </keywords>
          </textClass>
       </profileDesc>

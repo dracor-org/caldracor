@@ -40,7 +40,7 @@
      <bibl type="originalSource">
       <title> Edición digital a partir de la edición de Ignacio Arellano, (sin publicar). </title>
       <date type="print" when="1676"/>
-      <date type="written"/>
+      <date type="written" when="1683"/>
      </bibl>
     </bibl>
    </sourceDesc>
@@ -145,7 +145,7 @@
    </particDesc>
    <textClass>
     <keywords>
-     <term type="genreTitle"> Comedia Famosa </term>
+     <term type="genreTitle"> Comedia histórica </term>
     </keywords>
    </textClass>
   </profileDesc>

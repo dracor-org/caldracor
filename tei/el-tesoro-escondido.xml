@@ -33,8 +33,8 @@
           <idno type="URL">https://dadun.unav.edu/handle/10171/37389</idno>
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de A. Robert Lauer, Pamplona– Kassel, Universidad de Navarra–Reichenberger, 2012. ISBN: 978-3-937734-95-8.</title>
-            <date type="print" when="1679"/>
-            <date type="written"/>
+            <date type="print" when="1717"/>
+            <date type="written" when="1679"/>
           </bibl>
         </bibl>
       </sourceDesc>

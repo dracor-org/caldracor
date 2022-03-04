@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Dicha Y Desdicha Del Nombre</title>
+            <title type="main">Dicha y desdicha del nombre</title>
             <title type="sub">Comedia Famosa</title>
             <author>
                <persName>
@@ -100,7 +100,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term type="genreTitle">Comedia Famosa</term>
+               <term type="genreTitle">Comedia de capa y espada</term>
             </keywords>
          </textClass>
       </profileDesc>

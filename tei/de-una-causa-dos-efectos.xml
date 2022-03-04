@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">De Una Causa, Dos Efectos</title>
+            <title type="main">De una causa, dos efectos</title>
             <title type="sub">Comedia Famosa</title>
             <author>
                <persName>
@@ -97,7 +97,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term type="genreTitle">Comedia Famosa</term>
+               <term type="genreTitle">Comedia de capa y espada</term>
             </keywords>
          </textClass>
       </profileDesc>

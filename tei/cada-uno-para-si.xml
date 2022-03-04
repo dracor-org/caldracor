@@ -39,8 +39,8 @@
      <bibl type="originalSource">
       <title> Edición digital a partir de la edición de José M. Ruano de la Haza, Kassel,
        Reichenberger, 1982. </title>
-      <date type="print" when="1653"/>
-      <date type="written"/>
+      <date type="print" when="1661"/>
+      <date type="written" when="1653"/>
      </bibl>
     </bibl>
    </sourceDesc>
@@ -91,7 +91,7 @@
    </particDesc>
    <textClass>
     <keywords>
-     <term type="genreTitle"> Comedia </term>
+     <term type="genreTitle"> Comedia de capa y espada </term>
     </keywords>
    </textClass>
   </profileDesc>

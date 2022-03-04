@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Auristela Y Lisidante</title>
+            <title type="main">Auristela y Lisidante</title>
             <title type="sub">La Gran Comedia. Fiesta Que Se Representó A Sus Majestades En El Coliseo De Buen Retiro</title>
             <author>
                <persName>
@@ -110,7 +110,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term type="genreTitle">Gran Comedia</term>
+               <term type="genreTitle">Comedia novelesca</term>
             </keywords>
          </textClass>
       </profileDesc>

@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Darlo Todo, Y No Dar Nada</title>
+            <title type="main">Darlo todo, y no dar nada</title>
             <title type="sub">Comedia Famosa</title>
             <author>
                <persName>
@@ -42,8 +42,8 @@
                <bibl type="originalSource">
                   <title>Edición digital a partir de la edición de Ignacio Arellano, 
                      Séptima parte de comedias, VII, Madrid, Biblioteca Castro, en prensa.</title>
-                  <date type="print" when="1657"/>
-                  <date type="written"/>
+                  <date type="print" when="1683"/>
+                  <date type="written" when="1657"/>
                </bibl>
             </bibl>
          </sourceDesc>
@@ -115,7 +115,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term type="genreTitle">Comedia Famosa</term>
+               <term type="genreTitle">Comedia histórica</term>
             </keywords>
          </textClass>
       </profileDesc>

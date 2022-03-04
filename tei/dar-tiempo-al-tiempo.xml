@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Dar Tiempo Al Tiempo</title>
+            <title type="main">Dar tiempo al tiempo</title>
             <title type="sub">Gran Comedia</title>
             <author>
                <persName>
@@ -112,7 +112,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term type="genreTitle">Gran Comedia</term>
+               <term type="genreTitle">Comedia de capa y espada</term>
             </keywords>
          </textClass>
       </profileDesc>

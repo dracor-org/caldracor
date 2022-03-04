@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Amado y Aborrecido</title>
+            <title type="main">Amado y aborrecido</title>
             <title type="sub">Comedia nueva</title>
             <author>
                <persName>
@@ -107,7 +107,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term type="genreTitle">Comedia</term>
+               <term type="genreTitle">Comedia mitológica</term>
             </keywords>
          </textClass>
       </profileDesc>
