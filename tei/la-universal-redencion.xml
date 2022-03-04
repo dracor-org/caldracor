@@ -34,7 +34,7 @@
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de M. Roig, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2009. ISBN: 978-3-937734-55-2.</title>
             <date type="print" when="1717"/>
-            <date type="written" notBefore="1620"notAfter="1647"/>
+            <date type="written" notBefore="1620" notAfter="1647"/>
           </bibl>
         </bibl>
       </sourceDesc>
