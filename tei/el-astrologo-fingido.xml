@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">El Astrólogo Fingido</title>
+            <title type="main">El astrólogo fingido</title>
             <title type="sub">Comedia Famosa</title>
             <author>
                <persName>
@@ -44,8 +44,8 @@
                   Universidad de Navarra / Iberoamericana / Vervuert 2011
                   Biblioteca Áurea Hispánica 73, Comedias completas de Calderón 6</title>
                <idno type="URL">https://doi.org/10.31819/9783865279835</idno>
-               <date type="print" when="1632"/>
-               <date type="written"/>
+               <date type="print" when="1637"/>
+               <date type="written" when="1632"/>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -92,7 +92,7 @@
          </particDesc>
          <textClass>
             <keywords>
-               <term type="genreTitle">Comedia Famosa</term>
+               <term type="genreTitle">Comedia de capa y espada</term>
             </keywords>
          </textClass>
       </profileDesc>

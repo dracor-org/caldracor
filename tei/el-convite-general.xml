@@ -33,8 +33,8 @@
           <idno type="URL">https://dadun.unav.edu/handle/10171/18224</idno>
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de E. Galar Irurre, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2010. ISBN: 978-3-937734-71-1.</title>
-            <date type="print" when="Antes de 1648"/>
-            <date type="written"/>
+            <date type="print" when="1701"/>
+            <date type="written" notBefore="1620" notAfter="1648"/>
           </bibl>
         </bibl>
       </sourceDesc>
