@@ -145,25 +145,25 @@
                <person xml:id="libio" sex="MALE">
                   <persName>[LIBIO.] </persName>
                </person>
-               <person xml:id="furia-1ª" sex="FEMALE">
+               <person xml:id="furia-1" sex="FEMALE">
                   <persName>[FURIA PRIMERA] </persName>
                </person>
-               <person xml:id="furia-2ª" sex="FEMALE">
+               <person xml:id="furia-2" sex="FEMALE">
                   <persName>[FURIA SEGUNDA] </persName>
                </person>
-               <person xml:id="furia-3ª" sex="FEMALE">
+               <person xml:id="furia-3" sex="FEMALE">
                   <persName>[FURIA TERCERA] </persName>
                </person>
-               <person xml:id="nereida-1ª" sex="FEMALE">
+               <person xml:id="nereida-1" sex="FEMALE">
                   <persName>[NEREIDAS.] </persName>
                </person>
-               <person xml:id="nereida-2ª" sex="FEMALE">
+               <person xml:id="nereida-2" sex="FEMALE">
                   <persName>[NEREIDAS.] </persName>
                </person>
-               <person xml:id="nereida-3ª" sex="FEMALE">
+               <person xml:id="nereida-3" sex="FEMALE">
                   <persName>[NEREIDAS.] </persName>
                </person>
-               <person xml:id="nereida-4ª" sex="FEMALE">
+               <person xml:id="nereida-4" sex="FEMALE">
                   <persName>[NEREIDAS.] </persName>
                </person>
                <person xml:id="villanos" sex="MALE">
@@ -3829,7 +3829,7 @@
                   <l n="665">a la de los dioses, oíd mi invocación.</l>
                </sp>
                <stage>Cantan dentro las tres FURIAS.</stage>
-               <sp who="#furia-1ª #furia-2ª #furia-3ª">
+               <sp who="#furia-1 #furia-2 #furia-3">
                   <speaker>FURIAS</speaker>
                   <l>¿Qué quieres, Discordia? Que ya a tu obediencia</l>
                   <l>nos mandan abrir Proserpina y Plutón.</l>
@@ -3916,15 +3916,15 @@
                   <l>oh Furias, que encarceladas</l>
                   <l part="I">yacéis.</l>
                </sp>
-               <sp who="#furia-1ª">
+               <sp who="#furia-1">
                   <speaker>FURIA 1.ª</speaker>
                   <l part="F">¿Qué nos atormentas?</l>
                </sp>
-               <sp who="#furia-2ª">
+               <sp who="#furia-2">
                   <speaker>FURIA 2.ª</speaker>
                   <l part="I">¿Qué nos quieres?</l>
                </sp>
-               <sp who="#furia-3ª">
+               <sp who="#furia-3">
                   <speaker>FURIA 3.ª</speaker>
                   <l n="695" part="F">¿Qué nos mandas?</l>
                </sp>
@@ -3933,21 +3933,21 @@
                   <l>Que de Perseo las fortunas</l>
                   <l>me ayudéis a que deshaga.</l>
                </sp>
-               <sp who="#furia-1ª">
+               <sp who="#furia-1">
                   <speaker>[FURIA] 1.ª</speaker>
                   <l>Yo ofrezco alterar las ondas</l>
                   <l>de suerte que sus armadas</l>
                   <l n="700">al primer paso que den,</l>
                   <l>corran el mar borrasca.</l>
                </sp>
-               <sp who="#furia-2ª">
+               <sp who="#furia-2">
                   <speaker>[FURIA] 2.ª</speaker>
                   <l>Yo, donde fuere perdido,</l>
                   <l>furias le sembraré tantas</l>
                   <l>que la menor será amor</l>
                   <l n="705">con celos sin esperanza.</l>
                </sp>
-               <sp who="#furia-3ª">
+               <sp who="#furia-3">
                   <speaker>[FURIA] 3.ª</speaker>
                   <l>Yo, ese amor y esa tormenta</l>
                   <l>creceré a penas tan raras,</l>
@@ -3969,7 +3969,7 @@
                   <l>adiós, veámonos mañana.</l>
                   <stage>  Vase.  </stage>
                </sp>
-               <sp who="#furia-1ª #furia-2ª #furia-3ª">
+               <sp who="#furia-1 #furia-2 #furia-3">
                   <speaker>LAS TRES</speaker>
                   <l>Ve segura, que a las tres</l>
                   <l>tendrá siempre tu esperanza</l>
@@ -3979,7 +3979,7 @@
                   <speaker>DISCORDIA</speaker>
                   <l part="I">Pues, Furias, al arma.</l>
                </sp>
-               <sp who="#furia-1ª #furia-2ª #furia-3ª">
+               <sp who="#furia-1 #furia-2 #furia-3">
                   <speaker>LAS TRES</speaker>
                   <l part="F">Al arma.</l>
                </sp>
@@ -6260,27 +6260,27 @@
                </sp>
                <stage>Salen seis Nereidas, vestidas de azul y oro, cantando y bailando
                   todas.</stage>
-               <sp who="#nereida-1ª">
+               <sp who="#nereida-1">
                   <speaker>[NEREIDA] 1.ª</speaker>
                   <l n="585">Ya la que es soberbia.</l>
                </sp>
-               <sp who="#nereida-2ª">
+               <sp who="#nereida-2">
                   <speaker>[NEREIDA] 2.ª</speaker>
                   <l>Quiso que presuman.</l>
                </sp>
-               <sp who="#nereida-3ª">
+               <sp who="#nereida-3">
                   <speaker>[NEREIDA] 3.ª</speaker>
                   <l>Que reina podía.</l>
                </sp>
-               <sp who="#nereida-1ª">
+               <sp who="#nereida-1">
                   <speaker>[NEREIDA] 1.ª</speaker>
                   <l>Ser de la hermosura.</l>
                </sp>
-               <sp who="#nereida-2ª">
+               <sp who="#nereida-2">
                   <speaker>[NEREIDA] 2.ª</speaker>
                   <l>Víctima es sagrada.</l>
                </sp>
-               <sp who="#nereida-3ª">
+               <sp who="#nereida-3">
                   <speaker>[NEREIDA] 3.ª</speaker>
                   <l n="590">A las aras tuyas.</l>
                   <l>¡Albricias, hermosa</l>
@@ -6381,23 +6381,23 @@
                   <l>no vengativas, no fieras,</l>
                   <l>no crüeles, no sañudas...</l>
                </sp>
-               <sp who="#nereida-1ª">
+               <sp who="#nereida-1">
                   <speaker>[NEREIDA] 1.ª</speaker>
                   <l n="685">No prosigas, calla, calla.</l>
                </sp>
-               <sp who="#nereida-2ª">
+               <sp who="#nereida-2">
                   <speaker>[NEREIDA] 2.ª</speaker>
                   <l>No con piedad nos arguyas.</l>
                </sp>
-               <sp who="#nereida-3ª">
+               <sp who="#nereida-3">
                   <speaker>[NEREIDA] 3.ª</speaker>
                   <l>Sin tiempo nos lisonjeas.</l>
                </sp>
-               <sp who="#nereida-2ª">
+               <sp who="#nereida-2">
                   <speaker>[NEREIDA] 2.ª</speaker>
                   <l>Sin ocasión nos adulas.</l>
                </sp>
-               <sp who="#nereida-1ª">
+               <sp who="#nereida-1">
                   <speaker>[NEREIDA] 1.ª</speaker>
                   <l>Y pues ya echada la suerte</l>
                   <l n="690">a vista de la fortuna,</l>
@@ -6405,7 +6405,7 @@
                   <l>más que virtud, son industria;</l>
                   <l>de tus ropas te despoja.</l>
                </sp>
-               <sp who="#nereida-2ª">
+               <sp who="#nereida-2">
                   <speaker>[NEREIDA] 2.ª</speaker>
                   <l>De tu adorno te desnuda.</l>
                </sp>
@@ -6413,7 +6413,7 @@
                   <speaker>ANDRÓMEDA</speaker>
                   <l part="I">Amigas.</l>
                </sp>
-               <sp who="#nereida-3ª">
+               <sp who="#nereida-3">
                   <speaker>[NEREIDA] 3.ª</speaker>
                   <l n="695" part="F">En competencia</l>
                   <l>de discreción y hermosura,</l>
@@ -6424,7 +6424,7 @@
                   <speaker>ANDRÓMEDA</speaker>
                   <l part="F">¡Suerte injusta!</l>
                </sp>
-               <sp who="#nereida-1ª">
+               <sp who="#nereida-1">
                   <speaker>[NEREIDA] 1.ª</speaker>
                   <l>En ese elevado escollo</l>
                   <l n="700">están las cadenas rudas</l>
@@ -6476,23 +6476,23 @@
                   <l n="735">son las que ostentan el serlo,</l>
                   <l>que las que lo disimulan.</l>
                </sp>
-               <sp who="#nereida-1ª">
+               <sp who="#nereida-1">
                   <speaker>[NEREIDA] 1.ª</speaker>
                   <l>Llega esas argollas, ata.</l>
                </sp>
-               <sp who="#nereida-2ª">
+               <sp who="#nereida-2">
                   <speaker>[NEREIDA] 2.ª</speaker>
                   <l>Ve, y esa cadena añuda.</l>
                </sp>
-               <sp who="#nereida-3ª">
+               <sp who="#nereida-3">
                   <speaker>[NEREIDA] 3.ª</speaker>
                   <l part="I">Sí haré.</l>
                </sp>
-               <sp who="#nereida-4ª">
+               <sp who="#nereida-4">
                   <speaker>[NEREIDA] 4.ª</speaker>
                   <l part="M">Yo también.</l>
                </sp>
-               <sp who="#nereida-2ª">
+               <sp who="#nereida-2">
                   <speaker>[NEREIDA] 2.ª</speaker>
                   <l part="F">Ahora</l>
                   <l n="740">verás si el viento te escucha.</l>
