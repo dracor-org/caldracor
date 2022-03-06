@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">El Acaso Y El Error</title>
+            <title type="main">El acaso y el error</title>
             <title type="sub">Comedia</title>
             <author>
                <persName>
@@ -46,7 +46,7 @@
                   Tomo Noveno, Comedias de Don Pedro Calderón de la Barca, hecha é ilustrada pro Don Juan Eugenio Hartzenbusch,
                   Tomo Segundo, Madrid: Rivadeneyra 1849.</title>
                <date type="print" when="1849"/>
-               <date type="written"/>
+               <date type="written" notBefore="1650" notAfter="1660"/>   
             </bibl>
          </sourceDesc>
       </fileDesc>
