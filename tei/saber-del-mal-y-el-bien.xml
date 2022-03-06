@@ -46,11 +46,6 @@
                   127, Comedias completas de Calderón 21</title>
                <idno type="URL">https://doi.org/10.31819/9783964568342</idno>
                <date type="print" when="1636"/>
-<<<<<<< HEAD
-       
-=======
-               <date type="written" when="1628"/>
->>>>>>> 70477a7c93a768daf005051e5b3cafa0f4d41fcc
                <date type="written" notBefore="1624" notAfter="1627"/>
             </bibl>
          </sourceDesc>
