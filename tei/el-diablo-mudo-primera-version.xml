@@ -95,12 +95,8 @@
         <keywords>
           <term type="genreTitle">auto sacramental</term>
         </keywords>
-<<<<<<< HEAD
           <classCode scheme="http://www.wikidata.org/entity/">Q4877154</classCode>
-        
-=======
-        <classCode scheme="http://www.wikidata.org/entity/">Q4877154</classCode>
->>>>>>> 70477a7c93a768daf005051e5b3cafa0f4d41fcc
+    
       </textClass>
     </profileDesc>
   </teiHeader>
