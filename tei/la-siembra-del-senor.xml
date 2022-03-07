@@ -2659,7 +2659,7 @@
         <speaker>ADÁN</speaker>
         <l>Tarde habemos despertado.</l>
       </sp>
-      <sp who="#labrador-1 labrador-2 labrador-3 labrador-4">
+      <sp who="#labrador-1 #labrador-2 #labrador-3 #labrador-4">
         <speaker>LOS CUATRO</speaker>
         <l>Bien tenemos que temer</l>
         <l part="I">de dar la cuenta.</l>

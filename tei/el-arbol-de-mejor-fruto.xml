@@ -159,7 +159,7 @@
         <l n="15">a quien tan alto favor</l>
         <l part="I">el cielo concede.</l>
       </sp>
-      <sp who="ninfa-1 ninfa-2">
+      <sp who="#ninfa-1 #ninfa-2">
         <speaker>LAS DOS</speaker>
         <stage>Cantan</stage>
         <l part="F">Sí,</l>

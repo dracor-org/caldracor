@@ -1289,7 +1289,7 @@
         <l part="F">(No me va</l>
         <l>saliendo la industria mala.)</l>
       </sp>
-      <sp who="#afecto-1 afecto-2 afecto-3">
+      <sp who="#afecto-1 #afecto-2 #afecto-3">
         <speaker>LOS TRES</speaker>
         <l part="I">¡Qué hermosura!</l>
       </sp>
