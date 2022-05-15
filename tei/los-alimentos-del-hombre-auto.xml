@@ -38,9 +38,6 @@
           <idno type="URL">http://www.cervantesvirtual.com/obra/los-alimentos-del-hombre-auto/</idno>
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de Miguel Zugasti, Pamplona / Kassel, Universidad de Navarra / Reichenberger, 2009. ISBN: 978-3-937734-75-0.</title>
-            <date type="print" when="1717"/>
-            <date type="written" when="1676"/>
-            <date type="premiere" when="1676"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -113,6 +110,19 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1717">
+        <label/>
+      </event>
+      <event type="written" when="1676">
+        <label/>
+      </event>
+      <event type="premiere" when="1676">
+        <label/>
+      </event>
+    </listEvent>
+  </standOff>
   <text xml:lang="es">
     <front>
       <castList>

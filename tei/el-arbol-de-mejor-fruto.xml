@@ -38,8 +38,6 @@
           <idno type="URL">https://dadun.unav.edu/handle/10171/18220</idno>
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de I. Arellano, Pamplona–Kassel, Universidad de Navarra– Reichenberger, 2009. ISBN: 978-3-937734-65-1.</title>
-            <date type="print" when="1717"/>
-            <date type="written" when="1677"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -121,6 +119,16 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1717">
+        <label/>
+      </event>
+      <event type="written" when="1677">
+        <label/>
+      </event>
+    </listEvent>
+  </standOff>
   <text xml:lang="es">
     <front>
       <castList>

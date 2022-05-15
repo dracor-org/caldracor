@@ -38,8 +38,6 @@
           <idno type="URL"/>
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de Catalina Buezo, Pamplona–Kassel, Universidad de Navarra– Reichenberger, 2002. ISBN: 3-935004-39-7.</title>
-            <date type="print" when="1717"/>
-            <date type="written" when="1673"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -142,6 +140,16 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1717">
+        <label/>
+      </event>
+      <event type="written" when="1673">
+        <label/>
+      </event>
+    </listEvent>
+  </standOff>
   <text xml:lang="es">
     <front>
       <castList>

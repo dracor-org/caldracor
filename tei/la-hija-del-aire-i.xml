@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://relaxng.org/ns/structure/1.0?>
 <?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://purl.oclc.org/dsdl/schematron?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="esp">
@@ -45,9 +45,6 @@
                      Asimismo, hemos utilizado distintos criterios en algunos de los apartes. 
                      Modernizamos la ortografía, la acentuación y la puntuación. 
                      Las acotaciones que no figuran en las ediciones de 1664 y 1678 van entre corchetes.</title>
-            <date type="print" when="1664"/>
-            <date type="written" notBefore="1637" notAfter="1642"/>
-            <date type="premiere" when="1643"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -109,6 +106,19 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1664">
+        <label/>
+      </event>
+      <event type="written" notBefore="1637" notAfter="1642">
+        <label/>
+      </event>
+      <event type="premiere" when="1643">
+        <label/>
+      </event>
+    </listEvent>
+  </standOff>
   <text xml:lang="es">
     <front>
       <castList>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="esp">
@@ -45,8 +45,6 @@
             <title>Texto basado en las COMEDIAS DE DON PEDRO CALDERÓN DE LA BARCA, ed. Juan Jorge Keil (Leipzig, 1830), tomo IV. 
                      Fue editado en forma electrónica por David Hildner 
                      y luego pasado al HTML para ser presentado en esta colección por Vern Williamsen en 2000.</title>
-            <date type="print" when="1684"/>
-            <date type="written" when="1644"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -102,6 +100,16 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1684">
+        <label/>
+      </event>
+      <event type="written" when="1644">
+        <label/>
+      </event>
+    </listEvent>
+  </standOff>
   <text xml:lang="es">
     <front>
       <docTitle>

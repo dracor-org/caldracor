@@ -37,8 +37,6 @@
           <idno type="URL"/>
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de Ignacio Arellano y Ángel L. Cilveti, Pamplona–Kassel, Universidad de Navarra– Reichenberger, 1992. ISBN: 3-928064-34-7.</title>
-            <date type="print" when="1717"/>
-            <date type="written" notBefore="1620" notAfter="1644"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -84,6 +82,16 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1717">
+        <label/>
+      </event>
+      <event type="written" notBefore="1620" notAfter="1644">
+        <label/>
+      </event>
+    </listEvent>
+  </standOff>
   <text xml:lang="es">
     <front>
       <castList>

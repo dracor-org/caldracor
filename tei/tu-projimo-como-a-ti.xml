@@ -38,9 +38,6 @@
           <idno type="URL">https://dadun.unav.edu/handle/10171/18218</idno>
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de E. Illescas, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2008. ISBN: 978-3-937734-54-5.</title>
-            <date type="print" when="1717"/>
-            <date type="written" when="1653"/>
-            <date type="premiere" when="1653"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -116,6 +113,19 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1717">
+        <label/>
+      </event>
+      <event type="written" when="1653">
+        <label/>
+      </event>
+      <event type="premiere" when="1653">
+        <label/>
+      </event>
+    </listEvent>
+  </standOff>
   <text xml:lang="es">
     <front>
       <castList>

@@ -38,8 +38,6 @@
           <idno type="URL"/>
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de Ignacio Arellano, Pamplona– Kassel, Universidad de Navarra–Reichenberger, 2013. ISBN: 978-3-944244-16-7.</title>
-            <date type="print" when="1717"/>
-            <date type="written" notBefore="1648" notAfter="1657"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -97,6 +95,16 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1717">
+        <label/>
+      </event>
+      <event type="written" notBefore="1648" notAfter="1657">
+        <label/>
+      </event>
+    </listEvent>
+  </standOff>
   <text xml:lang="es">
     <front>
       <castList>

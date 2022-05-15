@@ -38,8 +38,6 @@
           <idno type="URL">https://dadun.unav.edu/handle/10171/18196</idno>
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de Fernando Plata Parga, Pamplona–Kassel, Universidad de Navarra– Reichenberger, 2003. ISBN: 3-935004-60-5.</title>
-            <date type="print" when="1717"/>
-            <date type="written" when="1678"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -100,6 +98,16 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1717">
+        <label/>
+      </event>
+      <event type="written" when="1678">
+        <label/>
+      </event>
+    </listEvent>
+  </standOff>
   <text xml:lang="es">
     <front>
       <castList>
@@ -2558,8 +2566,7 @@
         <l>por más que ahora, indiscretos,</l>
         <l>falsos digan sus afectos...</l>
       </sp>
-      <sp who="
-    #deseo #voluntad #pastor #naturaleza #gracia #mundo #obediencia #apetito #acompanamiento #luzbel #culpa #musicos">
+      <sp who="     #deseo #voluntad #pastor #naturaleza #gracia #mundo #obediencia #apetito #acompanamiento #luzbel #culpa #musicos">
         <speaker>TODOS Y MÚSICA</speaker>
         <l>¡Viva el Fido Pastor, viva!</l>
       </sp>

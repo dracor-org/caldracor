@@ -38,8 +38,6 @@
           <idno type="URL"/>
           <bibl type="originalSource">
             <title> Edición digital a partir de la edición de Ignacio Arellano, (sin publicar). </title>
-            <date type="print" when="1683"/>
-            <date type="written" when="1649"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -89,6 +87,16 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1683">
+        <label/>
+      </event>
+      <event type="written" when="1649">
+        <label/>
+      </event>
+    </listEvent>
+  </standOff>
   <text xml:lang="es">
     <front>
       <castList>

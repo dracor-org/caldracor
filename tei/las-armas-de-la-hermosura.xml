@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="esp">
@@ -45,9 +45,6 @@
             <title>El texto electrónico, preparado y anotado por David Hildner, proviene
                      de la edición de las Comedias de don Pedro Calderón de la Barca, ed. Juan Jorge Keil
                      (Leipzig, 1830), tomo IV.</title>
-            <date type="print" when="1679"/>
-            <date type="written" when="1678"/>
-            <date type="premiere" when="1678"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -139,6 +136,19 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1679">
+        <label/>
+      </event>
+      <event type="written" when="1678">
+        <label/>
+      </event>
+      <event type="premiere" when="1678">
+        <label/>
+      </event>
+    </listEvent>
+  </standOff>
   <text xml:lang="es">
     <front>
       <docTitle>

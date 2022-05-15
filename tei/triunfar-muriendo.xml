@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://relaxng.org/ns/structure/1.0?>
 <?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://purl.oclc.org/dsdl/schematron?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="esp">
@@ -25,7 +25,6 @@
           <time when="08:00:48"/>
         </date>
         <idno type="quadramaX">Triunfar muriendo</idno>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q69031968</idno>
         <idno type="dracor" xml:base="https://dracor.org/id/">cal000054</idno>
         <availability>
           <licence>
@@ -44,8 +43,6 @@
               El auto Triunfar muriendo ocupa los folios 208r-235v
               del tomo de autógrafos calderonianos de la
               Biblioteca Municipal de Madrid (BMM 1255, 8).</title>
-            <date type="print" when="1759"/>
-            <date type="written"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -102,6 +99,14 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1759">
+        <label/>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q69031968"/>
+  </standOff>
   <text xml:lang="es">
     <front>
       <docAuthor>Pedro Calderón de la Barca</docAuthor>

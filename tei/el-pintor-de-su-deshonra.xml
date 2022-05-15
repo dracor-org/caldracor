@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://relaxng.org/ns/structure/1.0?>
 <?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://purl.oclc.org/dsdl/schematron?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="esp">
@@ -30,16 +30,13 @@
       <sourceDesc>
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
-          <idno type="URL"
-                  >http://www.cervantesvirtual.com/obra-visor/el-pintor-de-su-deshonra-2/html/</idno>
+          <idno type="URL">http://www.cervantesvirtual.com/obra-visor/el-pintor-de-su-deshonra-2/html/</idno>
           <bibl type="originalSource">
             <title>Edición digital a partir de Séptima parte de Comedias de Don Pedro Calderón
                      de la Barca que nuevamente corregidas, publica Don Juan de Vera Tassis y
                      Villarroel, Madrid, Por Francisco Sanz, 1683. Localización: Base de Datos
                      Teatro Español del Siglo de Oro (TESO). Autorizada por Evangelina Rodríguez
                      Cuadros. </title>
-            <date type="print" when="1683"/>
-            <date type="written" when="1648"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -116,6 +113,16 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1683">
+        <label/>
+      </event>
+      <event type="written" when="1648">
+        <label/>
+      </event>
+    </listEvent>
+  </standOff>
   <text xml:lang="es">
     <front>
       <castList>

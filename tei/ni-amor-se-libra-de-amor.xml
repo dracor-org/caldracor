@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="esp">
@@ -43,8 +43,6 @@
                   En: Comedias, Vol. 3. Dirección de Luis Iglesias Feijoo y Don William Cruickshank.
                   Madrid : Fundación José Antonio de Castro, 2007</title>
           <idno type="ISBN">978-84-96452-32-9</idno>
-          <date type="print" when="1664"/>
-          <date type="written"/>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -120,6 +118,13 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1664">
+        <label/>
+      </event>
+    </listEvent>
+  </standOff>
   <text xml:lang="es">
     <front>
       <docTitle>

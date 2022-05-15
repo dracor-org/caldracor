@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://relaxng.org/ns/structure/1.0?>
 <?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://purl.oclc.org/dsdl/schematron?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="esp">
@@ -25,7 +25,6 @@
           <time when="16:09:35"/>
         </date>
         <idno type="quadramaX">Psiquis y Cupido, que escribió para esta villa de Madrid</idno>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q68906979</idno>
         <idno type="dracor" xml:base="https://dracor.org/id/">cal000051</idno>
         <availability>
           <licence>
@@ -43,9 +42,6 @@
               Don Pedro Calderón de la Barca, Obras posthumas, que saca a luz don Pedro de Pando y Mier,
               Parte Primera, Madrid, En la Imprenta de Manuel Ruiz de Murga, 1717.
               Localización: Base de Datos de Teatro Español del Siglo de Oro (TESO). Autorizada por Evangelina Rodríguez Cuadros </title>
-            <date type="print" when="1717"/>
-            <date type="written" when="1665"/>
-            <date type="premiere" when="1665"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -114,6 +110,20 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1717">
+        <label/>
+      </event>
+      <event type="written" when="1665">
+        <label/>
+      </event>
+      <event type="premiere" when="1665">
+        <label/>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q68906979"/>
+  </standOff>
   <text xml:lang="es">
     <front>
       <docAuthor>Pedro Calderón de la Barca</docAuthor>

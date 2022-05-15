@@ -38,9 +38,6 @@
           <idno type="URL">https://dadun.unav.edu/handle/10171/62324</idno>
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de Ignacio Arellano y Luis Galván, Pamplona/Kassel, Universidad de Navarra/Reichenberger, 2002. ISBN: 3-935004-55-9</title>
-            <date type="print" when="1717"/>
-            <date type="written" when="1643"/>
-            <date type="premiere" when="1643"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -119,6 +116,19 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1717">
+        <label/>
+      </event>
+      <event type="written" when="1643">
+        <label/>
+      </event>
+      <event type="premiere" when="1643">
+        <label/>
+      </event>
+    </listEvent>
+  </standOff>
   <text xml:lang="es">
     <front>
       <castList>

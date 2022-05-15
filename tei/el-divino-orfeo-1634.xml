@@ -38,8 +38,6 @@
           <idno type="URL"/>
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de J. Enrique Duarte, Pamplona–Kassel, Universidad de Navarra– Reichenberger, 1999. ISBN: 3-931887-51-0.</title>
-            <date type="print" when="1677"/>
-            <date type="written" when="1634"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -79,6 +77,16 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1677">
+        <label/>
+      </event>
+      <event type="written" when="1634">
+        <label/>
+      </event>
+    </listEvent>
+  </standOff>
   <text xml:lang="es">
     <front>
       <castList>

@@ -38,8 +38,6 @@
           <idno type="URL"/>
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de Carlos Castellano Gasch, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2014. ISBN: 978-3-944244-21-1.</title>
-            <date type="print" when="1659"/>
-            <date type="written"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -109,6 +107,13 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1659">
+        <label/>
+      </event>
+    </listEvent>
+  </standOff>
   <text xml:lang="es">
     <front>
       <castList>

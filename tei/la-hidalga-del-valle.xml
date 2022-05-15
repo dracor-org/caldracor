@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://relaxng.org/ns/structure/1.0?>
 <?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://purl.oclc.org/dsdl/schematron?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="esp">
@@ -25,7 +25,6 @@
           <time when="09:15:59"/>
         </date>
         <idno type="quadramaX">La hidalga del valle</idno>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q69034004</idno>
         <idno type="dracor" xml:base="https://dracor.org/id/">cal000029</idno>
         <availability>
           <licence>
@@ -45,8 +44,6 @@
               Nicolás González Ruiz (Piezas maestras del teatro teológico español,
               Madrid, Biblioteca de Autores Cristianos, 1997,
               4ª ed., t. I, pp. 403-425; 1ª ed. 1946).</title>
-            <date type="print" when="1717"/>
-            <date type="written"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -100,6 +97,14 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1717">
+        <label/>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q69034004"/>
+  </standOff>
   <text xml:lang="es">
     <front>
       <castList>

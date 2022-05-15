@@ -38,8 +38,6 @@
           <idno type="URL"/>
           <bibl type="originalSource">
             <title> Edición digital a partir de la edición de Ignacio Arellano, (sin publicar). </title>
-            <date type="print" when="1683"/>
-            <date type="written" notBefore="1640" notAfter="1642"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -95,6 +93,16 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1683">
+        <label/>
+      </event>
+      <event type="written" notBefore="1640" notAfter="1642">
+        <label/>
+      </event>
+    </listEvent>
+  </standOff>
   <text xml:lang="es">
     <front>
       <castList>
@@ -5007,8 +5015,7 @@
           <speaker> ÁNGELA </speaker>
           <l part="F"> ¿Esto querer? </l>
         </sp>
-        <sp
-     who="#angela #luisa #beatriz #don-diego #alvaro #don-pedro #don-juan #dentro #hernando #escribano #alguacil #ines">
+        <sp who="#angela #luisa #beatriz #don-diego #alvaro #don-pedro #don-juan #dentro #hernando #escribano #alguacil #ines">
           <speaker> TODOS </speaker>
           <l> Fuego de Dios en el querer bien. </l>
           <l> Amén, amén. </l>
@@ -7159,8 +7166,7 @@
           <speaker> ÁNGELA </speaker>
           <l> ¿Esto, cielos, es querer? </l>
         </sp>
-        <sp
-      who="#angela #luisa #beatriz #don-diego #alvaro #don-pedro #don-juan #dentro #hernando #escribano #alguacil #ines">
+        <sp who="#angela #luisa #beatriz #don-diego #alvaro #don-pedro #don-juan #dentro #hernando #escribano #alguacil #ines">
           <speaker> TODOS </speaker>
           <l> ¡Fuego de Dios en el querer bien! </l>
         </sp>
@@ -7606,8 +7612,7 @@
           <l> escarmentando en mis penas: </l>
           <l> ¡Fuego de Dios en el querer bien! </l>
         </sp>
-        <sp
-      who="#angela #luisa #beatriz #don-diego #alvaro #don-pedro #don-juan #dentro #hernando #escribano #alguacil #ines">
+        <sp who="#angela #luisa #beatriz #don-diego #alvaro #don-pedro #don-juan #dentro #hernando #escribano #alguacil #ines">
           <speaker> TODOS </speaker>
           <l> ¡Amén, amén, amén, amén! </l>
         </sp>

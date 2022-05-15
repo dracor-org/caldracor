@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://relaxng.org/ns/structure/1.0?>
 <?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://purl.oclc.org/dsdl/schematron?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="esp">
@@ -24,7 +24,6 @@
           <time when="16:30:42"/>
         </date>
         <idno type="quadramaX">La vida es sueño</idno>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q138174</idno>
         <idno type="dracor" xml:base="https://dracor.org/id/">cal000037</idno>
         <availability>
           <licence>
@@ -40,8 +39,6 @@
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de
               Evangelina Rodríguez Cuadros, Madrid, Espasa-Calpe, 1997, 18ª ed.</title>
-            <date type="print" when="1636"/>
-            <date type="written" when="1635"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -100,6 +97,17 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1636">
+        <label/>
+      </event>
+      <event type="written" when="1635">
+        <label/>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q138174"/>
+  </standOff>
   <text xml:lang="es">
     <front>
       <docAuthor>Pedro Calderón de la Barca</docAuthor>

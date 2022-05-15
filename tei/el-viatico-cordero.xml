@@ -38,8 +38,6 @@
           <idno type="URL"/>
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de J. M. Escudero, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2007. ISBN: 978-3-937734-17-0.</title>
-            <date type="print" when="1717"/>
-            <date type="written" when="1665"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -103,6 +101,16 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1717">
+        <label/>
+      </event>
+      <event type="written" when="1665">
+        <label/>
+      </event>
+    </listEvent>
+  </standOff>
   <text xml:lang="es">
     <front>
       <castList>

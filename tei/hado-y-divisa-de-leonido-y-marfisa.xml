@@ -40,8 +40,6 @@
       María Ruano de la Haza. En: Comedias, Vol. 5. Dirección de Luis Iglesias Feijoo y José María
       Ruano de la Haza. Madrid : Fundación José Antonio de Castro, 2010, pp. 85-231.</title>
           <idno type="ISBN">978-84-96452-94-7</idno>
-          <date type="print" when="1682"/>
-          <date type="written" when="1680"/>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -117,6 +115,16 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1682">
+        <label/>
+      </event>
+      <event type="written" when="1680">
+        <label/>
+      </event>
+    </listEvent>
+  </standOff>
   <text xml:lang="es">
     <front>
       <castList>
@@ -2534,8 +2542,7 @@
           <speaker> OTROS </speaker>
           <l part="F"> Qué espanto! </l>
         </sp>
-        <sp
-     who="#todos">
+        <sp who="#todos">
           <speaker> TODOS </speaker>
           <l n="1375"> Qué es esto, cielos, qué es esto? </l>
         </sp>
@@ -4982,8 +4989,7 @@
           <l> vaya avanzando la gente. </l>
         </sp>
         <stage> Vanse y tocan cajas y trompetas. </stage>
-        <sp
-     who="#todos">
+        <sp who="#todos">
           <speaker> TODOS </speaker>
           <stage> Dentro. </stage>
           <l part="I"> ¡Arma, arma! </l>
@@ -5031,8 +5037,7 @@
           <l> delante, porque conozca </l>
           <l n="2720"> mi divisa Mitilene! </l>
         </sp>
-        <sp
-     who="#todos">
+        <sp who="#todos">
           <speaker> TODOS </speaker>
           <stage> Dentro. </stage>
           <l> ¡Arma, arma! ¡Guerra, guerra! </l>
@@ -5115,8 +5120,7 @@
           <speaker> OTROS </speaker>
           <l part="M"> ¡Al mar! </l>
         </sp>
-        <sp
-     who="#todos">
+        <sp who="#todos">
           <speaker> TODOS </speaker>
           <l part="F"> ¡Fuego, fuego! </l>
         </sp>
@@ -5131,8 +5135,7 @@
           <l> el fuego, con sus ardientes </l>
           <l part="I"> iras. </l>
         </sp>
-        <sp
-     who="#todos">
+        <sp who="#todos">
           <speaker> TODOS </speaker>
           <stage> Dentro. </stage>
           <l part="F"> ¡Socorro, piedad! </l>
@@ -5155,8 +5158,7 @@
           <stage> Dentro. </stage>
           <l> ¡Ay, infelice de mí! </l>
         </sp>
-        <sp
-     who="#todos">
+        <sp who="#todos">
           <speaker> TODOS </speaker>
           <stage> Dentro. </stage>
           <l> El monte en que el fuego prende </l>
@@ -6487,8 +6489,7 @@
           <stage> A Alfreda. </stage>
           <l part="I"> el soldado.) </l>
         </sp>
-        <sp
-     who="#todos">
+        <sp who="#todos">
           <speaker> TODOS </speaker>
           <l part="F"> El baile vuelve. </l>
         </sp>
@@ -6532,8 +6533,7 @@
           <l> que tan vil traición no cabe </l>
           <l n="3555"> en tan generoso pecho.) </l>
         </sp>
-        <sp
-     who="#todos">
+        <sp who="#todos">
           <speaker> TODOS </speaker>
           <l> ¿Quién este alboroto causa? </l>
         </sp>
@@ -7371,8 +7371,7 @@
           <l> vaya el cadáver al mar </l>
           <l n="4105"> y todos al bergantín. </l>
         </sp>
-        <sp
-     who="#todos">
+        <sp who="#todos">
           <speaker> TODOS </speaker>
           <stage> Dentro. </stage>
           <l> Vaya el cadáver al mar </l>
@@ -7749,8 +7748,7 @@
           <l> ajustadas conveniencias </l>
           <l> se publicaron diciendo... </l>
         </sp>
-        <sp
-     who="#todos">
+        <sp who="#todos">
           <speaker> TODOS </speaker>
           <l> ¡Viva el valiente alemán </l>
           <l n="4345"> que restaura el honor nuestro! </l>
@@ -8184,8 +8182,7 @@
           <stage> Dentro. </stage>
           <l part="I"> ¡Silencio todos! </l>
         </sp>
-        <sp
-     who="#todos">
+        <sp who="#todos">
           <speaker> TODOS </speaker>
           <stage> Dentro. </stage>
           <l part="F"> ¡Silencio! </l>
@@ -8499,8 +8496,7 @@
           <speaker> LOS DOS </speaker>
           <l> ¡Cielos! ¿Es verdad o es sueño? </l>
         </sp>
-        <sp
-     who="#todos">
+        <sp who="#todos">
           <speaker> TODOS </speaker>
           <l> ¡Vivan Leonido y Marfisa, </l>
           <l> de Tinacria heroicos dueños! </l>
@@ -8575,8 +8571,7 @@
           <speaker> CASIMIRO </speaker>
           <l n="4835"> Y repita ufano el pueblo... </l>
         </sp>
-        <sp
-     who="#todos">
+        <sp who="#todos">
           <speaker> TODOS </speaker>
           <l> ¡Vivan Leonido y Marfisa, </l>
           <l> de Tinacria heroicos dueños! </l>

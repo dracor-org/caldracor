@@ -38,8 +38,6 @@
           <idno type="URL"/>
           <bibl type="originalSource">
             <title> Edición digital a partir de la edición Ignacio Arellano (sin publicar) </title>
-            <date type="print" when="1653"/>
-            <date type="written" when="1635"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -116,6 +114,16 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1653">
+        <label/>
+      </event>
+      <event type="written" when="1635">
+        <label/>
+      </event>
+    </listEvent>
+  </standOff>
   <text xml:lang="es">
     <front>
       <castList>
@@ -1325,8 +1333,7 @@
           <l n="705"> yo, que viendo esa ventaja, </l>
           <l part="I"> le defenderé. </l>
         </sp>
-        <sp
-     who="#don-luis #juana #elvira #don-juan #leonor #capitan #dentro #don-diego #fabio #otro #don-fernando #roque #alguacil #pedro #isabel #escudero #juan #ines #uno">
+        <sp who="#don-luis #juana #elvira #don-juan #leonor #capitan #dentro #don-diego #fabio #otro #don-fernando #roque #alguacil #pedro #isabel #escudero #juan #ines #uno">
           <speaker> TODOS </speaker>
           <l part="F"> ¿Qué es esto? </l>
         </sp>
@@ -1351,8 +1358,7 @@
           <l> ¡Vive Dios que he de morir </l>
           <l part="I"> en venganza! </l>
         </sp>
-        <sp
-     who="#don-luis #juana #elvira #don-juan #leonor #capitan #dentro #don-diego #fabio #otro #don-fernando #roque #alguacil #pedro #isabel #escudero #juan #ines #uno">
+        <sp who="#don-luis #juana #elvira #don-juan #leonor #capitan #dentro #don-diego #fabio #otro #don-fernando #roque #alguacil #pedro #isabel #escudero #juan #ines #uno">
           <speaker> TODOS </speaker>
           <l part="F"> Deteneos </l>
           <l part="I"> a la justicia. </l>
@@ -6782,8 +6788,7 @@
           <l> Pues en nada nos metamos. </l>
         </sp>
         <stage> Salen todos los que pudieren. </stage>
-        <sp
-     who="#don-luis #juana #elvira #don-juan #leonor #capitan #dentro #don-diego #fabio #otro #don-fernando #roque #alguacil #pedro #isabel #escudero #juan #ines #uno">
+        <sp who="#don-luis #juana #elvira #don-juan #leonor #capitan #dentro #don-diego #fabio #otro #don-fernando #roque #alguacil #pedro #isabel #escudero #juan #ines #uno">
           <speaker> TODOS </speaker>
           <l part="I"> Estos son. </l>
         </sp>

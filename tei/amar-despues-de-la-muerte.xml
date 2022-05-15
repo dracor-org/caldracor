@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://relaxng.org/ns/structure/1.0?>
 <?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://purl.oclc.org/dsdl/schematron?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="esp">
@@ -34,8 +34,6 @@
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/amar-despues-de-la-muerte-o-el-tuzani-de-las-alpujarras--0/html/</idno>
           <bibl type="originalSource">
             <title>Edición digital basada en la de Madrid, Espasa Calpe, 1970, pp.135-244. </title>
-            <date type="print" when="1691"/>
-            <date type="written" when="1659"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -127,6 +125,16 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1691">
+        <label/>
+      </event>
+      <event type="written" when="1659">
+        <label/>
+      </event>
+    </listEvent>
+  </standOff>
   <text xml:lang="es">
     <front>
       <castList>

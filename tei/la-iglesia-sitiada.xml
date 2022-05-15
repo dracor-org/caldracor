@@ -37,8 +37,6 @@
           <idno type="URL">https://dadun.unav.edu/handle/10171/18223</idno>
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de B. Baczynska, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2009. ISBN: 978-3-937734-76-7.</title>
-            <date type="print" when="1717"/>
-            <date type="written" notBefore="1635" notAfter="1636"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -90,6 +88,16 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1717">
+        <label/>
+      </event>
+      <event type="written" notBefore="1635" notAfter="1636">
+        <label/>
+      </event>
+    </listEvent>
+  </standOff>
   <text xml:lang="es">
     <front>
       <castList>

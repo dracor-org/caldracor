@@ -38,9 +38,6 @@
           <idno type="URL"/>
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de Marcella Trambaioli, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2013. ISBN: 978-3-944244-11-2.</title>
-            <date type="print" when="1717"/>
-            <date type="written" notBefore="1670" notAfter="1677"/>
-            <date type="premiere" when="1677"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -101,6 +98,19 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1717">
+        <label/>
+      </event>
+      <event type="written" notBefore="1670" notAfter="1677">
+        <label/>
+      </event>
+      <event type="premiere" when="1677">
+        <label/>
+      </event>
+    </listEvent>
+  </standOff>
   <text xml:lang="es">
     <front>
       <castList>

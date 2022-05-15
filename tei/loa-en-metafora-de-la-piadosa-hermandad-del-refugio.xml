@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://relaxng.org/ns/structure/1.0?>
 <?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://purl.oclc.org/dsdl/schematron?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="esp">
@@ -42,8 +42,6 @@
               piadosa Hermandad del Refugio, ed. Ignacio Arellano, Blanca Oteiza y
               Mª Carmen Pinillos, Pamplona–Kassel,
               Universidad de Navarra–Reichenberger, 1998. ISBN: 3-931887-50-2.</title>
-            <date type="print" when="1759"/>
-            <date type="written"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -84,6 +82,13 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1759">
+        <label/>
+      </event>
+    </listEvent>
+  </standOff>
   <text xml:lang="es">
     <front>
       <docAuthor>Pedro Calderón de la Barca</docAuthor>
