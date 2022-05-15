@@ -15,7 +15,7 @@
           </persName>
           <idno type="wikidata">Q170800</idno>
           <idno type="pnd">118518399</idno>
-        </author>        
+        </author>
       </titleStmt>
       <publicationStmt>
         <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
@@ -2449,19 +2449,13 @@
           <sp who="#david">
             <speaker>DAVID</speaker>
             <l part="F"> Que <emph>et in peccato</emph></l>
-            <l>
-              <emph>concepit me mater mea.</emph>
-            </l>
+            <l><emph>concepit me mater mea.</emph></l>
           </sp>
           <sp who="#música">
             <speaker>MÚSICA</speaker>
             <stage>Dentro.</stage>
-            <l>
-              <emph>Et in peccato</emph>
-            </l>
-            <l>
-              <emph>concepit me mater mea.</emph>
-            </l>
+            <l><emph>Et in peccato</emph></l>
+            <l><emph>concepit me mater mea.</emph></l>
           </sp>
           <sp who="#naturaleza">
             <speaker>NATURALEZA</speaker>

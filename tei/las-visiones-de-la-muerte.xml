@@ -16,7 +16,7 @@
           </persName>
           <idno type="wikidata">Q170800</idno>
           <idno type="pnd">118518399</idno>
-        </author>        
+        </author>
       </titleStmt>
       <publicationStmt>
         <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
@@ -43,7 +43,7 @@
               Madrid, Castalia, 1983, pp. 371-384. Edición, introducción y notas
               de Evangelina Rodríguez y Antonio Tordera</title>
             <date type="print"/>
-            <date type="written" notBefore="1672" notAfter="1673">1672–1673</date> 
+            <date type="written" notBefore="1672" notAfter="1673">1672–1673</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -732,9 +732,7 @@
           </sp>
           <sp who="#demonio #alma">
             <speaker>DEMONIO Y ALMA</speaker>
-            <l n="230" part="F">
-              <emph>¡Corred!</emph>
-            </l>
+            <l n="230" part="F"><emph>¡Corred!</emph></l>
             <stage>Dentro.</stage>
           </sp>
           <sp who="#gallegos">
@@ -782,15 +780,13 @@
           <sp who="#caminante">
             <speaker>CAMINANTE</speaker>
             <l part="F"> No es bueno </l>
-            <l> que <emph>desde que se lo oí</emph>
-                  </l>
+            <l> que <emph>desde que se lo oí</emph></l>
             <l><emph>he estado por dar</emph> en ello? </l>
           </sp>
           <sp who="#gitanos">
             <speaker>GITANOS</speaker>
             <l> En albricias de no ser </l>
-            <l n="250"> verdad el susto, <emph>troquemos</emph>
-                  </l>
+            <l n="250"> verdad el susto, <emph>troquemos</emph></l>
             <l><emph>en regocijo el espanto</emph>. </l>
           </sp>
           <sp who="#gallegos">
@@ -811,8 +807,7 @@
           </sp>
           <sp who="#gallegos">
             <speaker>GALLEGA</speaker>
-            <l> Si <emph>es así</emph>, <emph>va una cantiña</emph>
-                  </l>
+            <l> Si <emph>es así</emph>, <emph>va una cantiña</emph></l>
             <l n="260"> de gitanos y galegos. </l>
             <stage>Canta.</stage>
             <l> ¡Ay por aquí, por aquí galegos! </l>

@@ -16,7 +16,7 @@
           </persName>
           <idno type="wikidata">Q170800</idno>
           <idno type="pnd">118518399</idno>
-        </author>        
+        </author>
       </titleStmt>
       <publicationStmt>
         <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
@@ -2733,9 +2733,7 @@
             <l part="F"> Como la razón </l>
             <l>publica en mis desempeños</l>
             <l n="1525">que aunque los sueños son sueños,</l>
-            <l>
-              <emph>sueños hay que verdad son.</emph>
-            </l>
+            <l><emph>sueños hay que verdad son.</emph></l>
           </sp>
           <sp who="#asenet">
             <speaker>ASENET</speaker>

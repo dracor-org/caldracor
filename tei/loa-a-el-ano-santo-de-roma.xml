@@ -17,7 +17,7 @@
           </persName>
           <idno type="wikidata">Q170800</idno>
           <idno type="pnd">118518399</idno>
-        </author>        
+        </author>
       </titleStmt>
       <publicationStmt>
         <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
@@ -497,9 +497,7 @@
             <l>dando el año de cincuenta</l>
             <l>alegórico motivo</l>
             <l>a que su título sea</l>
-            <l n="260">
-              <emph>El Año Santo de Roma.</emph>
-            </l>
+            <l n="260"><emph>El Año Santo de Roma.</emph></l>
           </sp>
           <sp who="#la-gracia">
             <speaker>GRACIA</speaker>

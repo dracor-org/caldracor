@@ -16,7 +16,7 @@
           </persName>
           <idno type="wikidata">Q170800</idno>
           <idno type="pnd">118518399</idno>
-        </author>        
+        </author>
       </titleStmt>
       <publicationStmt>
         <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
@@ -45,8 +45,8 @@
               Localización: Base de Datos de Teatro Español del Siglo de Oro (TESO).
               Autorizada por Evangelina Rodríguez Cuadros</title>
             <date type="print" when="1717"/>
-	    <date type="written" when="1644"/>
-	    <date type="premiere" when="1644"/>
+            <date type="written" when="1644"/>
+            <date type="premiere" when="1644"/>
           </bibl>
         </bibl>
       </sourceDesc>

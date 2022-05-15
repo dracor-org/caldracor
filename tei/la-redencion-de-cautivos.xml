@@ -6,7 +6,12 @@
         <title type="main">La redención de cautivos</title>
         <title type="sub"/>
         <author>
-          <persName><forename>Pedro</forename> <surname sort="1">Calderón</surname> <nameLink>de la</nameLink> <surname>Barca</surname></persName>
+          <persName>
+            <forename>Pedro</forename>
+            <surname sort="1">Calderón</surname>
+            <nameLink>de la</nameLink>
+            <surname>Barca</surname>
+          </persName>
           <idno type="wikidata">Q170800</idno>
           <idno type="pnd">118518399</idno>
         </author>
@@ -34,8 +39,8 @@
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de Marcella Trambaioli, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2013. ISBN: 978-3-944244-11-2.</title>
             <date type="print" when="1717"/>
-	    <date type="written" notBefore="1670" notAfter="1677"/>
-	    <date type="premiere" when="1677"/>
+            <date type="written" notBefore="1670" notAfter="1677"/>
+            <date type="premiere" when="1677"/>
           </bibl>
         </bibl>
       </sourceDesc>

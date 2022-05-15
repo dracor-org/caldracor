@@ -16,7 +16,7 @@
           </persName>
           <idno type="wikidata">Q170800</idno>
           <idno type="pnd">118518399</idno>
-        </author>        
+        </author>
       </titleStmt>
       <publicationStmt>
         <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
@@ -82,7 +82,7 @@
       </particDesc>
       <textClass>
         <keywords>
-		<term type="genreTitle">comedia de capa y espada</term>
+          <term type="genreTitle">comedia de capa y espada</term>
         </keywords>
       </textClass>
     </profileDesc>
@@ -2191,7 +2191,8 @@
       <div type="act" n="2">
         <div type="scene">
           <head>Jornada II</head>
-          <stage>de<emph>La dama duende</emph></stage>
+          <stage>de<emph>La dama duende</emph>
+          </stage>
           <stage>Salen DOÑA ÁNGELA, DOÑA BEATRIZ y ISABEL.</stage>
           <sp who="#doña-beatriz">
             <speaker>BEATRIZ</speaker>
@@ -4275,7 +4276,8 @@
       <div type="act" n="3">
         <div type="scene">
           <head>Jornada III</head>
-          <stage>de <emph>La dama duende</emph></stage>
+          <stage>de <emph>La dama duende</emph>
+          </stage>
           <stage>Sale DON MANUEL como a escuras, guiándole ISABEL.</stage>
           <sp who="#isabel">
             <speaker>ISABEL</speaker>

@@ -6,7 +6,12 @@
         <title type="main">El laberinto del mundo</title>
         <title type="sub"/>
         <author>
-          <persName><forename>Pedro</forename> <surname sort="1">Calderón</surname> <nameLink>de la</nameLink> <surname>Barca</surname></persName>
+          <persName>
+            <forename>Pedro</forename>
+            <surname sort="1">Calderón</surname>
+            <nameLink>de la</nameLink>
+            <surname>Barca</surname>
+          </persName>
           <idno type="wikidata">Q170800</idno>
           <idno type="pnd">118518399</idno>
         </author>
@@ -72,7 +77,6 @@
           <personGrp sex="MALE" xml:id="coro-2">
             <persName>CORO 2.º</persName>
           </personGrp>
-
           <personGrp sex="UNKNOWN" xml:id="musicos">
             <persName>MÚSICOS</persName>
           </personGrp>

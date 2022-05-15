@@ -6,7 +6,12 @@
         <title type="main">El árbol de mejor fruto</title>
         <title type="sub"/>
         <author>
-          <persName><forename>Pedro</forename> <surname sort="1">Calderón</surname> <nameLink>de la</nameLink> <surname>Barca</surname></persName>
+          <persName>
+            <forename>Pedro</forename>
+            <surname sort="1">Calderón</surname>
+            <nameLink>de la</nameLink>
+            <surname>Barca</surname>
+          </persName>
           <idno type="wikidata">Q170800</idno>
           <idno type="pnd">118518399</idno>
         </author>
@@ -105,7 +110,6 @@
           <person sex="MALE" xml:id="pastor-4">
             <persName>PASTOR 4.º</persName>
           </person>
-    
         </listPerson>
       </particDesc>
       <textClass>

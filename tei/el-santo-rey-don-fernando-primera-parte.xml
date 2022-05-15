@@ -16,7 +16,7 @@
           </persName>
           <idno type="wikidata">Q170800</idno>
           <idno type="pnd">118518399</idno>
-        </author>        
+        </author>
       </titleStmt>
       <publicationStmt>
         <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
@@ -188,9 +188,7 @@
             <speaker>RÚSTICO</speaker>
             <l n="25">Sí haré; y si mal no me salen</l>
             <l>los versos de cierta traza,</l>
-            <l>
-              <emph>los bien vengados cachetes</emph>
-            </l>
+            <l><emph>los bien vengados cachetes</emph></l>
             <l>se ha de intitular mi farsa.</l>
           </sp>
           <stage>Vase, y ellos vuelven a trabajar.</stage>

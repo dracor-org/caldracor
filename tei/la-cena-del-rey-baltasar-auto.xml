@@ -6,7 +6,12 @@
         <title type="main">La cena del rey Baltasar</title>
         <title type="sub"/>
         <author>
-          <persName><forename>Pedro</forename> <surname sort="1">Calderón</surname> <nameLink>de la</nameLink> <surname>Barca</surname></persName>
+          <persName>
+            <forename>Pedro</forename>
+            <surname sort="1">Calderón</surname>
+            <nameLink>de la</nameLink>
+            <surname>Barca</surname>
+          </persName>
           <idno type="wikidata">Q170800</idno>
           <idno type="pnd">118518399</idno>
         </author>
@@ -33,7 +38,7 @@
           <idno type="URL"/>
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de Antonio Sánchez Jiménez y Adrián J. Sáez, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2013. ISBN: 978-3-944244-17-4.</title>
-	    <date type="print" when="1717"/>
+            <date type="print" when="1717"/>
             <date type="written" when="1634"/>
           </bibl>
         </bibl>

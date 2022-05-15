@@ -112,7 +112,7 @@
         <keywords>
           <term type="genreTitle">auto sacramental</term>
         </keywords>
-          <classCode scheme="http://www.wikidata.org/entity/">Q4877154</classCode>
+        <classCode scheme="http://www.wikidata.org/entity/">Q4877154</classCode>
       </textClass>
     </profileDesc>
   </teiHeader>
@@ -1836,9 +1836,7 @@
           </sp>
           <sp who="#dama-1">
             <speaker>DAMA 1.ª</speaker>
-            <l part="F">
-              <emph>Lamentación</emph>
-            </l>
+            <l part="F"><emph>Lamentación</emph></l>
             <l>se llama, de Jeremías.</l>
           </sp>
           <sp who="#candaces">

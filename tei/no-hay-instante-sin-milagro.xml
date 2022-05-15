@@ -16,7 +16,7 @@
           </persName>
           <idno type="wikidata">Q170800</idno>
           <idno type="pnd">118518399</idno>
-        </author>        
+        </author>
       </titleStmt>
       <publicationStmt>
         <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
@@ -2729,9 +2729,7 @@
             <speaker>éL, TODOS y MÚSICOS</speaker>
             <l n="1640">...que el siempre felice día</l>
             <l>que al cielo ofrece la tierra,</l>
-            <l>
-              <emph>No hay instante sin milagro</emph>
-            </l>
+            <l><emph>No hay instante sin milagro</emph></l>
             <l>en los triunfos de la Iglesia.</l>
           </sp>
           <sp who="#fe">
@@ -2844,9 +2842,7 @@
             <l>donde todos sepan,</l>
             <l>que el siempre felice día</l>
             <l n="1695">que al cielo ofrece la tierra,</l>
-            <l>
-              <emph>No hay instante sin milagro</emph>
-            </l>
+            <l><emph>No hay instante sin milagro</emph></l>
             <l>en los triunfos de la Iglesia.</l>
           </sp>
         </div>

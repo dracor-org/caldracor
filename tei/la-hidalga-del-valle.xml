@@ -16,7 +16,7 @@
           </persName>
           <idno type="wikidata">Q170800</idno>
           <idno type="pnd">118518399</idno>
-        </author>        
+        </author>
       </titleStmt>
       <publicationStmt>
         <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
@@ -929,12 +929,8 @@
             <speaker>MÚSICA</speaker>
             <l>Por que de Gracia y de Fe</l>
             <l n="630">eterno tu aplauso sea,</l>
-            <l>
-              <emph>tota pulchra, amica mea;</emph>
-            </l>
-            <l>
-              <emph>macula non est in te.</emph>
-            </l>
+            <l><emph>tota pulchra, amica mea;</emph></l>
+            <l><emph>macula non est in te.</emph></l>
           </sp>
           <sp who="#placer">
             <speaker>PLACER</speaker>
@@ -965,12 +961,8 @@
           </sp>
           <sp who="#música">
             <speaker>MÚSICA</speaker>
-            <l>
-              <emph>Tota pulchra, amica mea;</emph>
-            </l>
-            <l>
-              <emph>macula non est in te.</emph>
-            </l>
+            <l><emph>Tota pulchra, amica mea;</emph></l>
+            <l><emph>macula non est in te.</emph></l>
           </sp>
           <sp who="#placer">
             <speaker>PLACER</speaker>
@@ -1144,9 +1136,7 @@
           <sp who="#gracia">
             <speaker>GRACIA</speaker>
             <stage>Cantando.</stage>
-            <l n="800">
-              <emph>Tota pulchra, amica mea.</emph>
-            </l>
+            <l n="800"><emph>Tota pulchra, amica mea.</emph></l>
           </sp>
           <sp who="#placer">
             <speaker>PLACER</speaker>
@@ -1166,12 +1156,8 @@
           <sp who="#culpa">
             <speaker>CULPA</speaker>
             <stage>Cantando.</stage>
-            <l part="F">
-              <emph>Pereat</emph>
-            </l>
-            <l>
-              <emph>dies, in qua natus sum.</emph>
-            </l>
+            <l part="F"><emph>Pereat</emph></l>
+            <l><emph>dies, in qua natus sum.</emph></l>
           </sp>
           <sp who="#placer">
             <speaker>PLACER</speaker>
@@ -1190,9 +1176,7 @@
           </sp>
           <sp who="#gracia">
             <speaker>GRACIA</speaker>
-            <l>
-              <emph>Macula non est in te.</emph>
-            </l>
+            <l><emph>Macula non est in te.</emph></l>
           </sp>
           <sp who="#naturaleza">
             <speaker>NATURALEZA</speaker>
@@ -1207,12 +1191,8 @@
           <sp who="#culpa">
             <speaker>CULPA</speaker>
             <stage>Cantando.</stage>
-            <l part="F">
-              <emph>Et in peccatis</emph>
-            </l>
-            <l>
-              <emph>concepit me mater mea.</emph>
-            </l>
+            <l part="F"><emph>Et in peccatis</emph></l>
+            <l><emph>concepit me mater mea.</emph></l>
           </sp>
           <sp who="#naturaleza">
             <speaker>NATURALEZA</speaker>

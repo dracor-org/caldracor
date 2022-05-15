@@ -16,7 +16,7 @@
           </persName>
           <idno type="wikidata">Q170800</idno>
           <idno type="pnd">118518399</idno>
-        </author>        
+        </author>
       </titleStmt>
       <publicationStmt>
         <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
@@ -764,9 +764,7 @@
             <l n="390">Abigail, que en sí encierra</l>
             <l>sentidos que decir quieren,</l>
             <l>en la tradición más cierta,</l>
-            <l>
-              <emph>La madre de la alegría.</emph>
-            </l>
+            <l><emph>La madre de la alegría.</emph></l>
             <l>Pues si ya sentado queda</l>
             <l n="395">que el Mesías que se aguarda</l>
             <l>en sombras se manifiesta,</l>
@@ -2290,8 +2288,7 @@
           <sp who="#simplicio">
             <speaker>SIMPLICIO</speaker>
             <l part="F">...Tremola al viento,</l>
-            <l>desechando la <emph>tristeza</emph>
-            </l>
+            <l>desechando la <emph>tristeza</emph></l>
             <l n="1040">entre los tapidos velos.</l>
             <l>Vos sí que otra vez erraste.</l>
           </sp>

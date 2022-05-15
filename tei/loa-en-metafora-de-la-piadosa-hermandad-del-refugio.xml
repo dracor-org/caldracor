@@ -16,7 +16,7 @@
           </persName>
           <idno type="wikidata">Q170800</idno>
           <idno type="pnd">118518399</idno>
-        </author>        
+        </author>
       </titleStmt>
       <publicationStmt>
         <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
@@ -814,9 +814,7 @@
             <l> Mostrar que está repartido </l>
             <l> a cada uno lo mejor </l>
             <l n="370"> y lo que más le convino: </l>
-            <l>
-              <emph>No hay más fortuna que Dios</emph>
-            </l>
+            <l><emph>No hay más fortuna que Dios</emph></l>
             <l part="I"> se intitula. </l>
           </sp>
           <sp who="#caridad">

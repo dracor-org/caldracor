@@ -15,7 +15,7 @@
           </persName>
           <idno type="wikidata">Q170800</idno>
           <idno type="pnd">118518399</idno>
-        </author>        
+        </author>
       </titleStmt>
       <publicationStmt>
         <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
@@ -1793,12 +1793,8 @@
             <l n="230"> y podrá ser, si me deja </l>
             <l> el silencio de su mano, </l>
             <l> se cante por mí esta letra: </l>
-            <l>
-              <emph>Clarín que rompe el albor</emph>
-            </l>
-            <l>
-              <emph>no suena mejor.</emph>
-            </l>
+            <l><emph>Clarín que rompe el albor</emph></l>
+            <l><emph>no suena mejor.</emph></l>
           </sp>
           <sp who="#clotaldo">
             <speaker>CLOTALDO</speaker>
