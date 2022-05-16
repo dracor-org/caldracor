@@ -6,7 +6,12 @@
         <title type="main">El orden de Melquisedec</title>
         <title type="sub"/>
         <author>
-          <persName><forename>Pedro</forename> <surname sort="1">Calderón</surname> <nameLink>de la</nameLink> <surname>Barca</surname></persName>
+          <persName>
+            <forename>Pedro</forename>
+            <surname sort="1">Calderón</surname>
+            <nameLink>de la</nameLink>
+            <surname>Barca</surname>
+          </persName>
           <idno type="wikidata">Q170800</idno>
           <idno type="pnd">118518399</idno>
         </author>
@@ -33,8 +38,8 @@
           <idno type="URL">https://dadun.unav.edu/handle/10171/18208</idno>
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de I. Pérez Ibáñez, Pamplona–Kassel, Universidad de Navarra– Reichenberger, 2005. ISBN: 3-937734-02-3.</title>
-            <date type="print" when="1717"/>
-            <date type="written" notBefore="1652" notAfter="1657"/>/>
+            
+            /&gt;
           </bibl>
         </bibl>
       </sourceDesc>
@@ -95,6 +100,16 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1717">
+        <label/>
+      </event>
+      <event type="written" notBefore="1652" notAfter="1657">
+        <label/>
+      </event>
+    </listEvent>
+  </standOff>
   <text xml:lang="es">
     <front>
       <castList>

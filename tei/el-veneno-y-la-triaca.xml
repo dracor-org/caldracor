@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://relaxng.org/ns/structure/1.0?>
 <?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://purl.oclc.org/dsdl/schematron?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="esp">
@@ -16,7 +16,7 @@
           </persName>
           <idno type="wikidata">Q170800</idno>
           <idno type="pnd">118518399</idno>
-        </author>        
+        </author>
       </titleStmt>
       <publicationStmt>
         <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
@@ -42,8 +42,6 @@
               procedente de la edición Calderón de la Barca, Pedro,
               El veneno y la triaca, ed. Juan Manuel Escudero, Pamplona–Kassel,
               Universidad de Navarra–Reichenberger, 2000. ISBN: 3-931887-94-4.</title>
-            <date type="print" when="1717"/>
-            <date type="written"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -94,6 +92,13 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1717">
+        <label/>
+      </event>
+    </listEvent>
+  </standOff>
   <text xml:lang="es">
     <front>
       <docAuthor>Pedro Calderón de la Barca</docAuthor>

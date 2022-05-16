@@ -6,7 +6,12 @@
         <title type="main">No hay más Fortuna que Dios</title>
         <title type="sub"/>
         <author>
-          <persName><forename>Pedro</forename> <surname sort="1">Calderón</surname> <nameLink>de la</nameLink> <surname>Barca</surname></persName>
+          <persName>
+            <forename>Pedro</forename>
+            <surname sort="1">Calderón</surname>
+            <nameLink>de la</nameLink>
+            <surname>Barca</surname>
+          </persName>
           <idno type="wikidata">Q170800</idno>
           <idno type="pnd">118518399</idno>
         </author>
@@ -33,9 +38,6 @@
           <idno type="URL"/>
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de Ignacio Arellano, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2013. ISBN: 978-3-944244-05-1.</title>
-            <date type="print" when="1717"/>
-
-            <date type="written" notBefore="1652" notAfter="1653"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -105,6 +107,16 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1717">
+        <label/>
+      </event>
+      <event type="written" notBefore="1652" notAfter="1653">
+        <label/>
+      </event>
+    </listEvent>
+  </standOff>
   <text xml:lang="es">
     <front>
       <castList>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://relaxng.org/ns/structure/1.0?>
 <?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://purl.oclc.org/dsdl/schematron?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="esp">
@@ -16,7 +16,7 @@
           </persName>
           <idno type="wikidata">Q170800</idno>
           <idno type="pnd">118518399</idno>
-        </author>        
+        </author>
       </titleStmt>
       <publicationStmt>
         <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
@@ -25,7 +25,6 @@
           <time when="20:41:55"/>
         </date>
         <idno type="quadramaX">La dama duende</idno>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q4154359</idno>
         <idno type="dracor" xml:base="https://dracor.org/id/">cal000025</idno>
         <availability>
           <licence>
@@ -42,8 +41,6 @@
             <title>Edición de Luis Iglesias Feijoo. Esta obra pertenece a la Colección
               Teatro clásico español. Canon 60. La colección esencial del TC/12.
               Grupo de investigación Calderón</title>
-            <date type="print" when="1636"/>
-            <date type="written" when="1629"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -82,11 +79,22 @@
       </particDesc>
       <textClass>
         <keywords>
-		<term type="genreTitle">comedia de capa y espada</term>
+          <term type="genreTitle">comedia de capa y espada</term>
         </keywords>
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1636">
+        <label/>
+      </event>
+      <event type="written" when="1629">
+        <label/>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q4154359"/>
+  </standOff>
   <text xml:lang="es">
     <front>
       <docAuthor>Pedro Calderón de la Barca</docAuthor>
@@ -2191,7 +2199,8 @@
       <div type="act" n="2">
         <div type="scene">
           <head>Jornada II</head>
-          <stage>de<emph>La dama duende</emph></stage>
+          <stage>de<emph>La dama duende</emph>
+          </stage>
           <stage>Salen DOÑA ÁNGELA, DOÑA BEATRIZ y ISABEL.</stage>
           <sp who="#doña-beatriz">
             <speaker>BEATRIZ</speaker>
@@ -4275,7 +4284,8 @@
       <div type="act" n="3">
         <div type="scene">
           <head>Jornada III</head>
-          <stage>de <emph>La dama duende</emph></stage>
+          <stage>de <emph>La dama duende</emph>
+          </stage>
           <stage>Sale DON MANUEL como a escuras, guiándole ISABEL.</stage>
           <sp who="#isabel">
             <speaker>ISABEL</speaker>

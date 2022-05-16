@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://relaxng.org/ns/structure/1.0?>
 <?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://purl.oclc.org/dsdl/schematron?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="esp">
@@ -17,7 +17,7 @@
           </persName>
           <idno type="wikidata">Q170800</idno>
           <idno type="pnd">118518399</idno>
-        </author>        
+        </author>
       </titleStmt>
       <publicationStmt>
         <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
@@ -41,8 +41,6 @@
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de I. Arellano y A.L. Cilveti,
               Pamplona, Universidad de Navarra ; Kassel, Reichenberger, 1995.</title>
-            <date type="print" when="1759"/>
-            <date type="written"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -95,6 +93,13 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1759">
+        <label/>
+      </event>
+    </listEvent>
+  </standOff>
   <text xml:lang="es">
     <front>
       <docAuthor>Pedro Calderón de la Barca</docAuthor>
@@ -497,9 +502,7 @@
             <l>dando el año de cincuenta</l>
             <l>alegórico motivo</l>
             <l>a que su título sea</l>
-            <l n="260">
-              <emph>El Año Santo de Roma.</emph>
-            </l>
+            <l n="260"><emph>El Año Santo de Roma.</emph></l>
           </sp>
           <sp who="#la-gracia">
             <speaker>GRACIA</speaker>

@@ -6,7 +6,12 @@
         <title type="main">El nuevo palacio del Retiro</title>
         <title type="sub"/>
         <author>
-          <persName><forename>Pedro</forename> <surname sort="1">Calderón</surname> <nameLink>de la</nameLink> <surname>Barca</surname></persName>
+          <persName>
+            <forename>Pedro</forename>
+            <surname sort="1">Calderón</surname>
+            <nameLink>de la</nameLink>
+            <surname>Barca</surname>
+          </persName>
           <idno type="wikidata">Q170800</idno>
           <idno type="pnd">118518399</idno>
         </author>
@@ -33,8 +38,6 @@
           <idno type="URL">http://www.cervantesvirtual.com/obra/el-nuevo-palacio-del-retiro--0/</idno>
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de Alan K.G. Paterson, Pamplona–Kassel, Universidad de Navarra– Reichenberger, 1998. ISBN: 3-931887-31-6.</title>
-            <date type="print" when="1717"/>
-            <date type="written" when="1634"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -92,6 +95,16 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1717">
+        <label/>
+      </event>
+      <event type="written" when="1634">
+        <label/>
+      </event>
+    </listEvent>
+  </standOff>
   <text xml:lang="es">
     <front>
       <castList>

@@ -6,7 +6,12 @@
         <title type="main">Llamados y escogidos.</title>
         <title type="sub">Para la imperial ciudad de Toledo en las fiestas del santísimo sacramento.</title>
         <author>
-          <persName><forename>Pedro</forename> <surname sort="1">Calderón</surname> <nameLink>de la</nameLink> <surname>Barca</surname></persName>
+          <persName>
+            <forename>Pedro</forename>
+            <surname sort="1">Calderón</surname>
+            <nameLink>de la</nameLink>
+            <surname>Barca</surname>
+          </persName>
           <idno type="wikidata">Q170800</idno>
           <idno type="pnd">118518399</idno>
         </author>
@@ -33,9 +38,6 @@
           <idno type="URL">https://dadun.unav.edu/handle/10171/62324</idno>
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de Ignacio Arellano y Luis Galván, Pamplona/Kassel, Universidad de Navarra/Reichenberger, 2002. ISBN: 3-935004-55-9</title>
-            <date type="print" when="1717"/>
-            <date type="written" when="1643"/>
-            <date type="premiere" when="1643"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -55,7 +57,6 @@
           <personGrp sex="UNKNOWN" xml:id="musicos">
             <persName>MÚSICOS</persName>
           </personGrp>
-
           <person sex="MALE" xml:id="rey">
             <persName>REY</persName>
           </person>
@@ -71,7 +72,6 @@
           <person sex="FEMALE" xml:id="esposa">
             <persName>ESPOSA</persName>
           </person>
-
           <person sex="FEMALE" xml:id="fe">
             <persName>FE</persName>
           </person>
@@ -84,7 +84,6 @@
           <person sex="FEMALE" xml:id="gentilidad">
             <persName>GENTILIDAD</persName>
           </person>
-
           <person sex="FEMALE" xml:id="sinagoga">
             <persName>SINAGOGA</persName>
           </person>
@@ -117,6 +116,19 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1717">
+        <label/>
+      </event>
+      <event type="written" when="1643">
+        <label/>
+      </event>
+      <event type="premiere" when="1643">
+        <label/>
+      </event>
+    </listEvent>
+  </standOff>
   <text xml:lang="es">
     <front>
       <castList>

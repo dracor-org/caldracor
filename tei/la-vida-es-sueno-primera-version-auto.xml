@@ -6,7 +6,12 @@
         <title type="main">La vida es sueño, primera versión</title>
         <title type="sub"/>
         <author>
-          <persName><forename>Pedro</forename> <surname sort="1">Calderón</surname> <nameLink>de la</nameLink> <surname>Barca</surname></persName>
+          <persName>
+            <forename>Pedro</forename>
+            <surname sort="1">Calderón</surname>
+            <nameLink>de la</nameLink>
+            <surname>Barca</surname>
+          </persName>
           <idno type="wikidata">Q170800</idno>
           <idno type="pnd">118518399</idno>
         </author>
@@ -33,8 +38,6 @@
           <idno type="URL">https://dadun.unav.edu/handle/10171/37387</idno>
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de ed. Fernando Plata Parga, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2012. ISBN: 978-3-944244-01-3.</title>
-            <date type="print" when="1677"/>
-            <date type="written" when="1636"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -86,6 +89,16 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1677">
+        <label/>
+      </event>
+      <event type="written" when="1636">
+        <label/>
+      </event>
+    </listEvent>
+  </standOff>
   <text xml:lang="es">
     <front>
       <castList>

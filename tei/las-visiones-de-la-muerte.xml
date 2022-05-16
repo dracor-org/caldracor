@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://relaxng.org/ns/structure/1.0?>
 <?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://purl.oclc.org/dsdl/schematron?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="esp">
@@ -16,7 +16,7 @@
           </persName>
           <idno type="wikidata">Q170800</idno>
           <idno type="pnd">118518399</idno>
-        </author>        
+        </author>
       </titleStmt>
       <publicationStmt>
         <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
@@ -25,7 +25,6 @@
           <time when="07:57:42"/>
         </date>
         <idno type="quadramaX">Las visiones de la muerte</idno>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q69032190</idno>
         <idno type="dracor" xml:base="https://dracor.org/id/">cal000040</idno>
         <availability>
           <licence>
@@ -42,8 +41,6 @@
             <title>Edición digital a partir de Entremeses, jácaras y mojigangas,
               Madrid, Castalia, 1983, pp. 371-384. Edición, introducción y notas
               de Evangelina Rodríguez y Antonio Tordera</title>
-            <date type="print"/>
-            <date type="written" notBefore="1672" notAfter="1673">1672–1673</date> 
           </bibl>
         </bibl>
       </sourceDesc>
@@ -94,6 +91,14 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="written" notBefore="1672" notAfter="1673">
+        <label>1672–1673</label>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q69032190"/>
+  </standOff>
   <text xml:lang="es">
     <front>
       <docAuthor>Pedro Calderón de la Barca</docAuthor>
@@ -732,9 +737,7 @@
           </sp>
           <sp who="#demonio #alma">
             <speaker>DEMONIO Y ALMA</speaker>
-            <l n="230" part="F">
-              <emph>¡Corred!</emph>
-            </l>
+            <l n="230" part="F"><emph>¡Corred!</emph></l>
             <stage>Dentro.</stage>
           </sp>
           <sp who="#gallegos">
@@ -782,15 +785,13 @@
           <sp who="#caminante">
             <speaker>CAMINANTE</speaker>
             <l part="F"> No es bueno </l>
-            <l> que <emph>desde que se lo oí</emph>
-                  </l>
+            <l> que <emph>desde que se lo oí</emph></l>
             <l><emph>he estado por dar</emph> en ello? </l>
           </sp>
           <sp who="#gitanos">
             <speaker>GITANOS</speaker>
             <l> En albricias de no ser </l>
-            <l n="250"> verdad el susto, <emph>troquemos</emph>
-                  </l>
+            <l n="250"> verdad el susto, <emph>troquemos</emph></l>
             <l><emph>en regocijo el espanto</emph>. </l>
           </sp>
           <sp who="#gallegos">
@@ -811,8 +812,7 @@
           </sp>
           <sp who="#gallegos">
             <speaker>GALLEGA</speaker>
-            <l> Si <emph>es así</emph>, <emph>va una cantiña</emph>
-                  </l>
+            <l> Si <emph>es así</emph>, <emph>va una cantiña</emph></l>
             <l n="260"> de gitanos y galegos. </l>
             <stage>Canta.</stage>
             <l> ¡Ay por aquí, por aquí galegos! </l>

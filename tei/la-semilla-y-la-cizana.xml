@@ -6,7 +6,12 @@
         <title type="main">La semilla y la cizaña</title>
         <title type="sub"/>
         <author>
-          <persName><forename>Pedro</forename> <surname sort="1">Calderón</surname> <nameLink>de la</nameLink> <surname>Barca</surname></persName>
+          <persName>
+            <forename>Pedro</forename>
+            <surname sort="1">Calderón</surname>
+            <nameLink>de la</nameLink>
+            <surname>Barca</surname>
+          </persName>
           <idno type="wikidata">Q170800</idno>
           <idno type="pnd">118518399</idno>
         </author>
@@ -33,9 +38,6 @@
           <idno type="URL">https://dadun.unav.edu/handle/10171/37449</idno>
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de Davinia Rodríguez, Pamplona– Kassel, Universidad de Navarra–Reichenberger, 2014. ISBN: 978-3-944244-20-4.</title>
-            <date type="print" when="1717"/>
-	    <date type="written" when="1651"/>
-	    <date type="premiere" when="1651"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -105,6 +107,19 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1717">
+        <label/>
+      </event>
+      <event type="written" when="1651">
+        <label/>
+      </event>
+      <event type="premiere" when="1651">
+        <label/>
+      </event>
+    </listEvent>
+  </standOff>
   <text xml:lang="es">
     <front>
       <castList>

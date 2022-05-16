@@ -6,7 +6,12 @@
         <title type="main">El Maestrazgo del Tusón</title>
         <title type="sub"/>
         <author>
-          <persName><forename>Pedro</forename> <surname sort="1">Calderón</surname> <nameLink>de la</nameLink> <surname>Barca</surname></persName>
+          <persName>
+            <forename>Pedro</forename>
+            <surname sort="1">Calderón</surname>
+            <nameLink>de la</nameLink>
+            <surname>Barca</surname>
+          </persName>
           <idno type="wikidata">Q170800</idno>
           <idno type="pnd">118518399</idno>
         </author>
@@ -33,8 +38,6 @@
           <idno type="URL"/>
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de Carlos Castellano Gasch, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2014. ISBN: 978-3-944244-21-1.</title>
-            <date type="print" when="1659"/>
-            <date type="written"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -104,6 +107,13 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1659">
+        <label/>
+      </event>
+    </listEvent>
+  </standOff>
   <text xml:lang="es">
     <front>
       <castList>
