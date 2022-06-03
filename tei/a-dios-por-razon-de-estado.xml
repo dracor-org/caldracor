@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://relaxng.org/ns/structure/1.0?>
 <?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://purl.oclc.org/dsdl/schematron?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="esp">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cal000001" xml:lang="esp">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,7 +24,6 @@
           <time when="13:08:14"/>
         </date>
         <idno type="quadramaX">A Dios por razón de estado</idno>
-        <idno type="dracor" xml:base="https://dracor.org/id/">cal000001</idno>
         <availability>
           <licence>
             <ab>CC0 1.0</ab>
@@ -119,7 +118,9 @@
         <label/>
       </event>
     </listEvent>
-    <link type="wikidata" target="http://www.wikidata.org/entity/Q5654107"/>
+    <listRelation>
+      <relation name="wikidata" active="https://dracor.org/entity/cal000001" passive="http://www.wikidata.org/entity/Q5654107"/>
+    </listRelation>
   </standOff>
   <text xml:lang="es">
     <front>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://relaxng.org/ns/structure/1.0?>
 <?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://purl.oclc.org/dsdl/schematron?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="esp">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cal000007" xml:lang="esp">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,7 +25,6 @@
           <time when="08:43:01"/>
         </date>
         <idno type="quadramaX">El año sancto de Roma</idno>
-        <idno type="dracor" xml:base="https://dracor.org/id/">cal000007</idno>
         <availability>
           <licence>
             <ab>CC0 1.0</ab>
@@ -118,7 +117,9 @@
         <label/>
       </event>
     </listEvent>
-    <link type="wikidata" target="http://www.wikidata.org/entity/Q68898905"/>
+    <listRelation>
+      <relation name="wikidata" active="https://dracor.org/entity/cal000007" passive="http://www.wikidata.org/entity/Q68898905"/>
+    </listRelation>
   </standOff>
   <text xml:lang="es">
     <front>

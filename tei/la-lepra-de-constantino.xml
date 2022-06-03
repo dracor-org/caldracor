@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="esp">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cal000183" xml:lang="esp">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,7 +20,6 @@
         <authority>University of Vienna,Institute of Romance Languages and Literatures</authority>
         <publisher xml:id="dracor">DraCor</publisher>
         <idno type="URL">https://dracor.org</idno>
-        <idno type="dracor" xml:base="https://dracor.org/id/">cal000183</idno>
         <date when="2022-02-04">
           <time when="16:29:54"/>
         </date>

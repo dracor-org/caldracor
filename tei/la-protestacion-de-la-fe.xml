@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://relaxng.org/ns/structure/1.0?>
 <?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://purl.oclc.org/dsdl/schematron?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="esp">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cal000035" xml:lang="esp">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,7 +25,6 @@
           <time when="13:51:51"/>
         </date>
         <idno type="quadramaX">La protestación de la fe</idno>
-        <idno type="dracor" xml:base="https://dracor.org/id/">cal000035</idno>
         <availability>
           <licence>
             <ab>CC0 1.0</ab>
@@ -115,7 +114,9 @@
         <label/>
       </event>
     </listEvent>
-    <link type="wikidata" target="http://www.wikidata.org/entity/Q69033505"/>
+    <listRelation>
+      <relation name="wikidata" active="https://dracor.org/entity/cal000035" passive="http://www.wikidata.org/entity/Q69033505"/>
+    </listRelation>
   </standOff>
   <text xml:lang="es">
     <front>

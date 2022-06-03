@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="esp">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cal000081" xml:lang="esp">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -26,7 +26,6 @@
         <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
         <publisher xml:id="dracor">DraCor</publisher>
         <idno type="URL">https://dracor.org</idno>
-        <idno type="dracor" xml:base="https://dracor.org/id/">cal000081</idno>
         <date when="2021-12-17">
           <time when="16:57:54"/>
         </date>
