@@ -112,8 +112,10 @@
       <event type="premiere" when="1640">
         <label/>
       </event>
-      <link type="wikidata" target="http://www.wikidata.org/entity/Q16493952"/>
     </listEvent>
+    <listRelation>
+      <relation name="wikidata" active="https://dracor.org/entity/cal000129" passive="http://www.wikidata.org/entity/Q16493952"/>
+    </listRelation>
   </standOff>
   <text xml:lang="es">
     <front>
@@ -138,7 +140,7 @@
       <div type="act" n="1">
         <div type="scene" n="1">
           <head>Jornada I</head>
-          <stage>Tocan cajas, sale DAVID por una puerta, 
+          <stage>Tocan cajas, sale DAVID por una puerta,
                   y por la otra ABSALÓN, SALOMÓN, TAMAR y AQUITOFEL.</stage>
           <sp who="#salomón">
             <speaker>SALOMÓN</speaker>
@@ -173,7 +175,7 @@
             <l> Queridas prendas mías,</l>
             <l> báculos vivos de mis luengos días,</l>
             <l> dadme todos los brazos.</l>
-            <stage>Abraza DAVID primero a SALOMÓN, después a ABSALÓN, 
+            <stage>Abraza DAVID primero a SALOMÓN, después a ABSALÓN,
                      después a ADONÍAS y a TAMAR.</stage>
             <l n="20"> Renuévese mi edad entre los lazos</l>
             <l> de dichas tan amadas, </l>

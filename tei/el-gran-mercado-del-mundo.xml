@@ -123,8 +123,10 @@
       <event type="written" notBefore="1636" notAfter="1638">
         <label/>
       </event>
-      <link type="wikidata" target="http://www.wikidata.org/entity/Q5492719"/>
     </listEvent>
+    <listRelation>
+      <relation name="wikidata" active="https://dracor.org/entity/cal000163" passive="http://www.wikidata.org/entity/Q5492719"/>
+    </listRelation>
   </standOff>
   <text xml:lang="es">
     <front>

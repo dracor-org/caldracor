@@ -32,10 +32,12 @@
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/el-magico-prodigioso/html/</idno>
           <bibl type="originalSource">
-            <title> Edición digital a partir de la Sexta parte de Comedias de don Pedro Calderón de la Barca 
-                     que nuevamente corregidas por sus originales publica don Juan de Vera Tassis y Villarroel, Madrid, 
-                     Por Francisco Sanz, 1683. Localización: Base de Datos Teatro Español del Siglo de Oro (TESO). 
-                     Autorizada por Evangelina Rodríguez Cuadros.</title>
+            <title>
+              Edición digital a partir de la Sexta parte de Comedias de don Pedro Calderón de la Barca
+              que nuevamente corregidas por sus originales publica don Juan de Vera Tassis y Villarroel, Madrid,
+              Por Francisco Sanz, 1683. Localización: Base de Datos Teatro Español del Siglo de Oro (TESO).
+              Autorizada por Evangelina Rodríguez Cuadros.
+            </title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -102,8 +104,10 @@
       <event type="written" when="1637">
         <label/>
       </event>
-      <link type="wikidata" target="http://www.wikidata.org/entity/Q5825879"/>
     </listEvent>
+    <listRelation>
+      <relation name="wikidata" active="https://dracor.org/entity/cal000092" passive="http://www.wikidata.org/entity/Q5825879"/>
+    </listRelation>
   </standOff>
   <text xml:lang="es">
     <front>
