@@ -4,17 +4,23 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cal000207" xml:lang="esp">
   <teiHeader>
     <fileDesc>
-      <titleStmt><title>La selva confusa</title><author cert="high">
-    <persName>
-      <forename>Pedro</forename>
-      <surname sort="1">Calderón</surname>
-      <nameLink>de la</nameLink>
-      <surname>Barca</surname>
-    </persName>
-    <idno type="wikidata">Q170800</idno>
-    <idno type="pnd">118518399</idno>
-  </author>
-  <respStmt><resp>Automatic generation of the XML/TEI by</resp><persName>Fernando Sanz-Lázaro</persName></respStmt></titleStmt>
+      <titleStmt>
+        <title>La selva confusa</title>
+        <author cert="high">
+          <persName>
+            <forename>Pedro</forename>
+            <surname sort="1">Calderón</surname>
+            <nameLink>de la</nameLink>
+            <surname>Barca</surname>
+          </persName>
+          <idno type="wikidata">Q170800</idno>
+          <idno type="pnd">118518399</idno>
+        </author>
+        <respStmt>
+          <resp>Automatic generation of the XML/TEI by</resp>
+          <persName>Fernando Sanz-Lázaro</persName>
+        </respStmt>
+      </titleStmt>
       <publicationStmt>
         <authority>University of Vienna, Institute of Romance Languages and Literatures</authority>
         <publisher xml:id="DraCor">dracor</publisher>
@@ -29,8 +35,8 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name></name>
-          <idno type="URL"></idno>
+          <name/>
+          <idno type="URL"/>
         </bibl>
         <bibl type="originalSource">
           <title>Edición digital a partir de la edición de Erik Coenen, Kassel, Reichenberger, 2011.</title>
@@ -69,9 +75,7 @@
   <text>
     <front>
       <castList>
-        <castItem>
-          <role>1623</role>
-        </castItem>
+        <castItem><role>1623</role></castItem>
       </castList>
     </front>
     <body>
