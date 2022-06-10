@@ -39,8 +39,6 @@
           <idno type="URL">http://www.cervantesvirtual.com/obra/el-primer-blason-del-austria--0/</idno>
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de Victoriano Roncero, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 1997. ISBN: 3-931887-04-9.</title>
-            <date type="print" when="1717"/>
-            <date type="written" notBefore="1634" notAfter="1635"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -98,6 +96,16 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1717">
+        <desc/>
+      </event>
+      <event type="written" notBefore="1634" notAfter="1635">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
   <text xml:lang="es">
     <front>
       <castList>

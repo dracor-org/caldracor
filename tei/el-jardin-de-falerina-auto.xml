@@ -38,8 +38,6 @@
           <idno type="URL">https://dadun.unav.edu/handle/10171/53064</idno>
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de L Galván y C. Mata, Pamplona– Kassel, Universidad de Navarra–Reichenberger, 2007.ISBN: 9783937734330.</title>
-            <date type="print" when="1717"/>
-            <date type="written" when="1675"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -109,6 +107,16 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1717">
+        <desc/>
+      </event>
+      <event type="written" when="1675">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
   <text xml:lang="es">
     <front>
       <castList>

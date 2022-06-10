@@ -40,8 +40,6 @@
         </bibl>
         <bibl type="originalSource">
           <title>Edición digital a partir de la edición de Erik Coenen, Kassel, Reichenberger, 2011.</title>
-          <date when="1623" type="print"/>
-          <date when="1623" type="written"/>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -98,6 +96,16 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1623">
+        <desc/>
+      </event>
+      <event type="written" when="1623">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
   <text>
     <front>
       <castList>

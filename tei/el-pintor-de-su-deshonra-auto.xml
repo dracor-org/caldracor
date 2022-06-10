@@ -38,8 +38,6 @@
           <idno type="URL">https://dadun.unav.edu/handle/10171/19077</idno>
           <bibl type="originalSource">
             <title>Edición digital a partir de la edición de A. K. G. Paterson, Pamplona– Kassel, Universidad de Navarra–Reichenberger, 2011. ISBN: 978-3-937734-77-4.</title>
-            <date type="print" when="1717"/>
-            <date type="written" notBefore="1644" notAfter="1646"/>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -94,6 +92,16 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1717">
+        <desc/>
+      </event>
+      <event type="written" notBefore="1644" notAfter="1646">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
   <text xml:lang="es">
     <front>
       <castList>

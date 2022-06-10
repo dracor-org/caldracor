@@ -40,8 +40,6 @@
         </bibl>
         <bibl type="originalSource">
           <title>Edición digital a partir de la edición de Erik Coenen, Alicante : Biblioteca Virtual Miguel de Cervantes, 2014.</title>
-          <date notBefore="1620" notAfter="1630" type="written"/>
-          <date when="1677" type="print"/>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -107,6 +105,16 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="written" notBefore="1620" notAfter="1630">
+        <desc/>
+      </event>
+      <event type="print" when="1677">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
   <text>
     <front/>
     <body>
