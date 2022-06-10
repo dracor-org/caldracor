@@ -25,7 +25,7 @@
         <authority>University of Vienna, Institute of Romance Languages and Literatures</authority>
         <publisher xml:id="DraCor">dracor</publisher>
         <idno type="URL">https://dracor.org</idno>
-        <date when="2022-06-07 17:07:18"/>
+        <date when="2022-06-07T17:07:18"/>
         <availability>
           <licence>
             <ab>CC0 1.0</ab>
@@ -40,7 +40,7 @@
         </bibl>
         <bibl type="originalSource">
           <title>Edición digital a partir de la edición de Erik Coenen, Alicante : Biblioteca Virtual Miguel de Cervantes, 2014.</title>
-          <date when="1620-1630?" type="written"/>
+          <date notBefore="1620" notAfter="1630" type="written"/>
           <date when="1677" type="print"/>
         </bibl>
       </sourceDesc>
@@ -48,32 +48,64 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person sex="MALE" xml:id="celandio">CELANDIO</person>
-          <person sex="MALE" xml:id="lisardo">LISARDO</person>
-          <personGrp sex="DIVERSE" xml:id="musicos">MÚSICOS</personGrp>
-          <person sex="FEMALE" xml:id="dominga">DOMINGA</person>
-          <person sex="UNKNOWN" xml:id="dona-sol">DOÑA SOL</person>
-          <person sex="MALE" xml:id="belardo">BELARDO</person>
-          <person sex="MALE" xml:id="mendo">MENDO</person>
-          <person sex="UNKNOWN" xml:id="jaques">JAQUES</person>
-          <person sex="FEMALE" xml:id="don-garcia">DON GARCÍA</person>
-          <person sex="FEMALE" xml:id="don-vela">DON VELA</person>
-          <person sex="MALE" xml:id="ramiro">RAMIRO</person>
-          <person sex="FEMALE" xml:id="dona-elvira">DOÑA ELVIRA</person>
-          <person sex="MALE" xml:id="nuno">NUÑO</person>
-          <person sex="MALE" xml:id="uno">UNO</person>
-          <person sex="FEMALE" xml:id="don-arias">DON ARIAS</person>
+          <person sex="MALE" xml:id="celandio">
+            <persName>CELANDIO</persName>
+          </person>
+          <person sex="MALE" xml:id="lisardo">
+            <persName>LISARDO</persName>
+          </person>
+          <personGrp sex="DIVERSE" xml:id="musicos">
+            <name>MÚSICOS</name>
+          </personGrp>
+          <person sex="FEMALE" xml:id="dominga">
+            <persName>DOMINGA</persName>
+          </person>
+          <person sex="UNKNOWN" xml:id="dona-sol">
+            <persName>DOÑA SOL</persName>
+          </person>
+          <person sex="MALE" xml:id="belardo">
+            <persName>BELARDO</persName>
+          </person>
+          <person sex="MALE" xml:id="mendo">
+            <persName>MENDO</persName>
+          </person>
+          <person sex="UNKNOWN" xml:id="jaques">
+            <persName>JAQUES</persName>
+          </person>
+          <person sex="FEMALE" xml:id="don-garcia">
+            <persName>DON GARCÍA</persName>
+          </person>
+          <person sex="FEMALE" xml:id="don-vela">
+            <persName>DON VELA</persName>
+          </person>
+          <person sex="MALE" xml:id="ramiro">
+            <persName>RAMIRO</persName>
+          </person>
+          <person sex="FEMALE" xml:id="dona-elvira">
+            <persName>DOÑA ELVIRA</persName>
+          </person>
+          <person sex="MALE" xml:id="nuno">
+            <persName>NUÑO</persName>
+          </person>
+          <person sex="MALE" xml:id="uno">
+            <persName>UNO</persName>
+          </person>
+          <person sex="FEMALE" xml:id="don-arias">
+            <persName>DON ARIAS</persName>
+          </person>
         </listPerson>
       </particDesc>
-      <keywords>
-        <term type="genreTitle">Comedia de capa y espada</term>
-      </keywords>
+      <textClass>
+        <keywords>
+          <term type="genreTitle">Comedia de capa y espada</term>
+        </keywords>
+      </textClass>
     </profileDesc>
-    <RevisionDesc>
+    <revisionDesc>
       <listChange>
-        <change when="2022-06-07 17:07:18">Converted with txt2tei&lt;https://github.com/fsanzl/txt2tei&gt;</change>
+        <change when="2022-06-07T17:07:18">Converted with txt2tei&lt;https://github.com/fsanzl/txt2tei&gt;</change>
       </listChange>
-    </RevisionDesc>
+    </revisionDesc>
   </teiHeader>
   <text>
     <front/>

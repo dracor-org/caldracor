@@ -25,7 +25,7 @@
         <authority>University of Vienna, Institute of Romance Languages and Literatures</authority>
         <publisher xml:id="DraCor">dracor</publisher>
         <idno type="URL">https://dracor.org</idno>
-        <date when="2022-06-09 13:03:17"/>
+        <date when="2022-06-09T13:03:17"/>
         <availability>
           <licence>
             <ab>CC0 1.0</ab>
@@ -48,29 +48,55 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person sex="MALE" xml:id="filipo">FILIPO</person>
-          <person sex="UNKNOWN" xml:id="fadrique">FADRIQUE</person>
-          <person sex="MALE" xml:id="carlos">CARLOS</person>
-          <person sex="MALE" xml:id="leonelo">LEONELO</person>
-          <person sex="UNKNOWN" xml:id="marcial">MARCIAL</person>
-          <person sex="FEMALE" xml:id="celia">CELIA</person>
-          <person sex="FEMALE" xml:id="flora">FLORA</person>
-          <person sex="MALE" xml:id="otavio">OTAVIO</person>
-          <person sex="MALE" xml:id="duque">DUQUE</person>
-          <person sex="MALE" xml:id="fabricio">FABRICIO</person>
-          <person sex="UNKNOWN" xml:id="oton">OTÓN</person>
-          <person sex="FEMALE" xml:id="jacinta">JACINTA</person>
+          <person sex="MALE" xml:id="filipo">
+            <persName>FILIPO</persName>
+          </person>
+          <person sex="UNKNOWN" xml:id="fadrique">
+            <persName>FADRIQUE</persName>
+          </person>
+          <person sex="MALE" xml:id="carlos">
+            <persName>CARLOS</persName>
+          </person>
+          <person sex="MALE" xml:id="leonelo">
+            <persName>LEONELO</persName>
+          </person>
+          <person sex="UNKNOWN" xml:id="marcial">
+            <persName>MARCIAL</persName>
+          </person>
+          <person sex="FEMALE" xml:id="celia">
+            <persName>CELIA</persName>
+          </person>
+          <person sex="FEMALE" xml:id="flora">
+            <persName>FLORA</persName>
+          </person>
+          <person sex="MALE" xml:id="otavio">
+            <persName>OTAVIO</persName>
+          </person>
+          <person sex="MALE" xml:id="duque">
+            <persName>DUQUE</persName>
+          </person>
+          <person sex="MALE" xml:id="fabricio">
+            <persName>FABRICIO</persName>
+          </person>
+          <person sex="UNKNOWN" xml:id="oton">
+            <persName>OTÓN</persName>
+          </person>
+          <person sex="FEMALE" xml:id="jacinta">
+            <persName>JACINTA</persName>
+          </person>
         </listPerson>
       </particDesc>
-      <keywords>
-        <term type="genreTitle">Comedia</term>
-      </keywords>
+      <textClass>
+        <keywords>
+          <term type="genreTitle">Comedia</term>
+        </keywords>
+      </textClass>
     </profileDesc>
-    <RevisionDesc>
+    <revisionDesc>
       <listChange>
-        <change when="2022-06-09 13:03:17">Converted with txt2tei&lt;https://github.com/fsanzl/txt2tei&gt;</change>
+        <change when="2022-06-09T13:03:17">Converted with txt2tei&lt;https://github.com/fsanzl/txt2tei&gt;</change>
       </listChange>
-    </RevisionDesc>
+    </revisionDesc>
   </teiHeader>
   <text>
     <front>
