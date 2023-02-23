@@ -84,9 +84,9 @@
           <personGrp xml:id="guardas" sex="MALE">
             <persName>Guardas</persName>
           </personGrp>
-          <person xml:id="músicos" sex="MALE">
+          <personGrp xml:id="músicos" sex="MALE">
             <persName>Músicos</persName>
-          </person>
+          </personGrp>
         </listPerson>
       </particDesc>
       <textClass>
