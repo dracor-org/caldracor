@@ -66,9 +66,9 @@
           <person xml:id="astolfo" sex="MALE">
             <persName>ASTOLFO, príncipe</persName>
           </person>
-          <person xml:id="soldados" sex="MALE">
+          <personGrp xml:id="soldados" sex="MALE">
             <persName>Soldados</persName>
-          </person>
+          </personGrp>
           <person xml:id="soldado-1" sex="MALE">
             <persName>Soldado 1</persName>
           </person>
@@ -81,9 +81,9 @@
           <person xml:id="criado-2" sex="MALE">
             <persName>CRIADO 2</persName>
           </person>
-          <person xml:id="guardas" sex="MALE">
+          <personGrp xml:id="guardas" sex="MALE">
             <persName>Guardas</persName>
-          </person>
+          </personGrp>
           <person xml:id="músicos" sex="MALE">
             <persName>Músicos</persName>
           </person>
