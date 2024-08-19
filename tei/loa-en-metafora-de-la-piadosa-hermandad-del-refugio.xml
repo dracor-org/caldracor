@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://relaxng.org/ns/structure/1.0?>
-<?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://purl.oclc.org/dsdl/schematron?>
+<?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://relaxng.org/ns/structure/1.0?><?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://purl.oclc.org/dsdl/schematron?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cal000044" xml:lang="esp">
   <teiHeader>
     <fileDesc>
@@ -17,6 +15,10 @@
           <idno type="wikidata">Q170800</idno>
           <idno type="pnd">118518399</idno>
         </author>
+        <respStmt>
+          <resp>Data curation (cleaning, normalization and scene division)</resp>
+          <persName xml:id="rojas">Rojas Castro, Antonio</persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
@@ -37,10 +39,7 @@
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/loa-en-metafora-de-la-piadosa-hermandad-del-refugio--0/html/</idno>
           <bibl type="originalSource">
-            <title>Calderón de la Barca, Pedro, Loa en metáfora de la
-              piadosa Hermandad del Refugio, ed. Ignacio Arellano, Blanca Oteiza y
-              Mª Carmen Pinillos, Pamplona–Kassel,
-              Universidad de Navarra–Reichenberger, 1998. ISBN: 3-931887-50-2.</title>
+            <title>Calderón de la Barca, Pedro, Loa en metáfora de la piadosa Hermandad del Refugio, ed. Ignacio Arellano, Blanca Oteiza y Mª Carmen Pinillos, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 1998. ISBN: 3-931887-50-2.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -49,37 +48,50 @@
       <particDesc>
         <listPerson>
           <person xml:id="caridad" sex="FEMALE">
-            <persName>LA CARIDAD</persName>
+            <persName>La Caridad</persName>
           </person>
           <person xml:id="fee" sex="FEMALE">
-            <persName>LA FEE</persName>
+            <persName>La Fee</persName>
           </person>
           <person xml:id="esperanza" sex="FEMALE">
-            <persName>LA ESPERANZA</persName>
+            <persName>La Esperanza</persName>
           </person>
-          <person xml:id="música" sex="FEMALE">
-            <persName>LA MÚSICA</persName>
+          <person sex="UNKNOWN" xml:id="música">
+            <persName>La Música</persName>
           </person>
           <person xml:id="uno" sex="MALE">
-            <persName>EL UNO</persName>
+            <persName>El Uno</persName>
           </person>
           <person xml:id="segundo" sex="MALE">
-            <persName>EL SEGUNDO</persName>
+            <persName>El Segundo</persName>
           </person>
           <person xml:id="tercero" sex="MALE">
-            <persName>EL TERCERO</persName>
+            <persName>El Tercero</persName>
           </person>
           <person xml:id="cuarto" sex="MALE">
-            <persName>EL CUARTO</persName>
+            <persName>El Cuarto</persName>
           </person>
         </listPerson>
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle">auto sacramental - loa</term>
+          <term source="dracor" type="genreTitle">auto sacramental</term>
+          <term source="#kroll" type="main">sin datos</term>
         </keywords>
       </textClass>
     </profileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="kroll">
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+        </taxonomy>
+      </classDecl>
+      <classDecl>
+        <taxonomy xml:id="calderondigital">
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
   </teiHeader>
   <standOff>
     <listEvent>
@@ -108,11 +120,8 @@
     </front>
     <body>
       <div type="act">
-        <div type="scene">
-          <stage>Salen los MÚSICOS y mientras se canta
-                  la primera copla van saliendo los más que puedan con memoriales,
-                  detrás la CARIDAD en medio de la FEE y la ESPERANZA y como los
-                  va recibiendo los va remitiendo uno a una y otro a otra.</stage>
+        <div type="scene" resp="#rojas" n="1">
+          <stage>Salen los MÚSICOS y mientras se canta la primera copla van saliendo los más que puedan con memoriales, detrás la CARIDAD en medio de la FEE y la ESPERANZA y como los va recibiendo los va remitiendo uno a una y otro a otra.</stage>
           <sp who="#música">
             <speaker>MÚSICA</speaker>
             <l> Venid, mortales, venid, </l>
@@ -234,8 +243,11 @@
             <l> al amparo, al favor, al refugio, </l>
             <l> con que hoy en Madrid, que es la corte del siglo, </l>
             <l> la gran Caridad os ofrece su auxilio. </l>
-            <stage>Vanse.</stage>
+
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="2">
+          <stage>Vanse.</stage>
           <sp who="#caridad">
             <speaker>CARIDAD</speaker>
             <l n="75"> Ya, Esperanza y Fee, que solas </l>
@@ -738,7 +750,7 @@
             <l> por estatuto, en la casa </l>
             <l> de mi segundo Francisco </l>
             <l n="325"> (que por blasón a las puertas </l>
-            <l> tiene <emph>caridad</emph> escrito) </l>
+            <l> tiene escrito) caridad</l>
             <l> enterrar ajusticiados, </l>
             <l> como han tardado remisos </l>
             <l> sus congregantes, dirás </l>
@@ -818,7 +830,7 @@
             <l> Mostrar que está repartido </l>
             <l> a cada uno lo mejor </l>
             <l n="370"> y lo que más le convino: </l>
-            <l><emph>No hay más fortuna que Dios</emph></l>
+            <l>No hay más fortuna que Dios</l>
             <l part="I"> se intitula. </l>
           </sp>
           <sp who="#caridad">
@@ -834,9 +846,12 @@
           <sp who="#uno">
             <speaker>UNO</speaker>
             <l> Y todos agradecidos </l>
-            <stage>Salen todos.</stage>
+
             <l part="I"> la ayudaremos. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="3">
+          <stage>Salen todos.</stage>
           <sp who="#fee">
             <speaker>FEE</speaker>
             <l part="F"> Pues sea, </l>
@@ -865,6 +880,7 @@
             <l> merezca el perdón no quiere más vítor. </l>
           </sp>
         </div>
+
       </div>
     </body>
   </text>

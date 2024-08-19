@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://relaxng.org/ns/structure/1.0?>
-<?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://purl.oclc.org/dsdl/schematron?>
+<?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://relaxng.org/ns/structure/1.0?><?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://purl.oclc.org/dsdl/schematron?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cal000001" xml:lang="esp">
   <teiHeader>
     <fileDesc>
@@ -16,6 +14,10 @@
           <idno type="wikidata">Q170800</idno>
           <idno type="pnd">118518399</idno>
         </author>
+        <respStmt>
+          <resp>Data curation (cleaning, normalization and scene division)</resp>
+          <persName xml:id="rojas">Rojas Castro, Antonio</persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
@@ -36,11 +38,7 @@
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/a-dios-por-razon-de-estado--0/html/</idno>
           <bibl type="originalSource">
-            <title>Edición digital a partir de la de Pedro Pando y Mier,
-              Autos Sacramentales, alegóricos y historiales..., Madrid,
-              Manuel Ruiz de Murga, 1717 y cotejada con la edición de
-              Nicolás González Ruiz, Piezas maestras del teatro teológico español,
-              4ª ed., Madrid, Biblioteca de Autores Cristianos, 1997, t. I, pp. 618-651.</title>
+            <title>Edición digital a partir de la de Pedro Pando y Mier, Autos Sacramentales, alegóricos y historiales..., Madrid, Manuel Ruiz de Murga, 1717 y cotejada con la edición de Nicolás González Ruiz, Piezas maestras del teatro teológico español, 4ª ed., Madrid, Biblioteca de Autores Cristianos, 1997, t. I, pp. 618-651.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -49,68 +47,87 @@
       <particDesc>
         <listPerson>
           <person xml:id="ingenio" sex="MALE">
-            <persName>EL INGENIO, galán.</persName>
+            <persName>El Ingenio</persName>
+            <trait source="castlist">
+              <desc>galán</desc>
+            </trait>
           </person>
           <person xml:id="pensamiento" sex="MALE">
-            <persName>EL PENSAMIENTO, loco.</persName>
+            <persName>El Pensamiento</persName>
+            <trait source="castlist">
+              <desc>loco</desc>
+            </trait>
           </person>
           <person xml:id="gentilidad" sex="FEMALE">
-            <persName>LA GENTILIDAD.</persName>
+            <persName>La Gentilidad</persName>
           </person>
           <person xml:id="sinagoga" sex="FEMALE">
-            <persName>LA SINAGOGA.</persName>
+            <persName>La Sinagoga</persName>
           </person>
           <person xml:id="áfrica" sex="FEMALE">
-            <persName>ÁFRICA.</persName>
+            <persName>África</persName>
           </person>
           <person xml:id="ateísmo" sex="MALE">
-            <persName>EL ATEÍSMO.</persName>
+            <persName>El Ateísmo</persName>
           </person>
           <person xml:id="pablo" sex="MALE">
-            <persName>SAN PABLO.</persName>
+            <persName>San Pablo</persName>
           </person>
           <person xml:id="bautismo" sex="MALE">
-            <persName>EL BAUTISMO.</persName>
+            <persName>El Bautismo</persName>
           </person>
           <person xml:id="confirmación" sex="FEMALE">
-            <persName>LA CONFIRMACIÓN.</persName>
+            <persName>La Confirmación</persName>
           </person>
           <person xml:id="penitencia" sex="FEMALE">
-            <persName>LA PENITENCIA.</persName>
+            <persName>La Penitencia</persName>
           </person>
           <person xml:id="extremaunción" sex="FEMALE">
-            <persName>LA EXTREMAUNCIÓN.</persName>
+            <persName>La Extremaunción</persName>
           </person>
           <person xml:id="orden-sacerdotal" sex="MALE">
-            <persName>EL ORDEN SACERDOTAL.</persName>
+            <persName>El Orden Sacerdotal</persName>
           </person>
           <person xml:id="matrimonio" sex="MALE">
-            <persName>EL MATRIMONIO.</persName>
+            <persName>El Matrimonio</persName>
           </person>
           <person xml:id="ley-natural" sex="FEMALE">
-            <persName>LA LEY NATURAL.</persName>
+            <persName>La Ley Natural</persName>
           </person>
           <person xml:id="ley-escrita" sex="FEMALE">
-            <persName>LA LEY ESCRITA.</persName>
+            <persName>La Ley Escrita</persName>
           </person>
           <person xml:id="ley-de-gracia" sex="FEMALE">
-            <persName>LA LEY DE GRACIA.</persName>
+            <persName>La Ley de Gracia</persName>
           </person>
-          <person xml:id="tres-mujeres-que-cantan" sex="FEMALE">
-            <persName>Tres mujeres que cantan.</persName>
-          </person>
-          <person xml:id="músicos" sex="MALE">
-            <persName>Coros de música.</persName>
-          </person>
+          <personGrp xml:id="tres-mujeres-que-cantan" sex="FEMALE">
+            <persName>Tres mujeres que cantan</persName>
+          </personGrp>
+          <personGrp sex="UNKNOWN" xml:id="músicos">
+            <persName>Coros de Música</persName>
+          </personGrp>
         </listPerson>
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle">auto sacramental</term>
+          <term source="dracor" type="genreTitle">auto sacramental</term>
+          <term source="#kroll" type="main">auto sacramental</term>
         </keywords>
         <classCode scheme="http://www.wikidata.org/entity/">Q4877154</classCode>
       </textClass>
     </profileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="kroll">
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+        </taxonomy>
+      </classDecl>
+      <classDecl>
+        <taxonomy xml:id="calderondigital">
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
   </teiHeader>
   <standOff>
     <listEvent>
@@ -152,10 +169,8 @@
     </front>
     <body>
       <div type="act">
-        <div type="scene">
-          <stage/>
-          <stage>Suenan instrumentos, y mientras se canta la primera copla sale al tablado EL
-            PENSAMIENTO, vestido de loco, como huyendo del INGENIO, que procura detenerlo.</stage>
+        <div type="scene" resp="#rojas" n="1">
+          <stage>Suenan instrumentos, y mientras se canta la primera copla sale al tablado EL PENSAMIENTO, vestido de loco, como huyendo del INGENIO, que procura detenerlo.</stage>
           <sp who="#músicos">
             <speaker>MÚSICA</speaker>
             <l>Gran Dios, que ignoramos,</l>
@@ -328,8 +343,7 @@
             <l>de esa bárbara montaña,</l>
             <l>un edificio soberbio.</l>
           </sp>
-          <stage>Descúbrese una montaña y vese la fábrica de un templo abierto a todas partes, y en
-            el frontispicio esta letra: «Ignoto Deo».</stage>
+          <stage type="object">Descúbrese una montaña y vese la fábrica de un templo abierto a todas partes, y en el frontispicio esta letra: «Ignoto Deo».</stage>
           <sp who="#ingenio">
             <speaker>INGENIO</speaker>
             <l>Rústica casa, sus riscos</l>
@@ -408,10 +422,11 @@
             <l>dicen cantando y tañendo.</l>
             <l>Dios no sabido hasta ahora,</l>
             <l>pues solamente por Fe.</l>
-            <stage>Sale la MÚSICA cantando y los hombres que puedan y mujeres vestidas a lo romano,
-              bailando, y detrás LA GENTILIDAD, con corona de laurel, manto imperial, espada y
-              bengala, y mientras cantan va hacia el templo.;Cantando.;</stage>
+
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="2">
+          <stage>Sale la MÚSICA cantando y los hombres que puedan y mujeres vestidas a lo romano, bailando, y detrás LA GENTILIDAD, con corona de laurel, manto imperial, espada y bengala, y mientras cantan va hacia el templo.;Cantando.;</stage>
           <sp who="#músicos">
             <speaker>MÚSICA</speaker>
             <l>Gran Dios, que ignoramos,</l>
@@ -745,8 +760,7 @@
             <l part="F">Esto sólo</l>
             <l n="420">es seguir mi Pensamiento.</l>
           </sp>
-          <stage>Empieza la Máscara, guiando LA GENTILIDAD y EL INGENIO, y luego EL PENSAMIENTO y
-            los demás.</stage>
+          <stage>Empieza la Máscara, guiando LA GENTILIDAD y EL INGENIO, y luego EL PENSAMIENTO y los demás.</stage>
           <sp who="#músicos">
             <speaker>MÚSICA</speaker>
             <l>Al sacrificio de Dios ignorado</l>
@@ -834,6 +848,8 @@
             <l n="445">A las grutas de los montes</l>
             <l>vamos todos a escondernos.</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="3">
           <stage>Vanse, y quedan LA GENTILIDAD, EL INGENIO y EL PENSAMIENTO.</stage>
           <sp who="#pensamiento">
             <speaker>PENSAMIENTO</speaker>
@@ -1427,8 +1443,9 @@
             <l>indio bozal y grosero</l>
             <l>se muestra, es el Ateísmo.</l>
           </sp>
-          <stage>Descúbrese un peñasco, y se ve en él EL ATEÍSMO en el traje que dicen los
-            versos.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="4">
+          <stage>Descúbrese un peñasco, y se ve en él EL ATEÍSMO en el traje que dicen los versos.</stage>
           <sp who="#ingenio">
             <speaker>INGENIO</speaker>
             <l>¿Qué hace?</l>
@@ -1821,8 +1838,9 @@
             <l>Atiende a su zambra ahora,</l>
             <l>que de eso hablarás después.</l>
           </sp>
-          <stage>Sale ÁFRICA de mora, y en el mismo traje músicos, hombres y mujeres, bailando todos
-            los que pudieren.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="5">
+          <stage>Sale ÁFRICA de mora, y en el mismo traje músicos, hombres y mujeres, bailando todos los que pudieren.</stage>
           <sp who="#músicos">
             <speaker>MÚSICA</speaker>
             <l n="885">Bailad, africanos, bailad,</l>
@@ -2275,6 +2293,8 @@
             <l n="1115">No es bueno lo que hablan, pues</l>
             <l>el Ingenio se retira.</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="6">
           <stage>Sale LA SINAGOGA a lo judío y SAN PABLO a lo romano.</stage>
           <sp who="#sinagoga">
             <speaker>SINAGOGA</speaker>
@@ -2624,8 +2644,11 @@
             <l>otra saña, otra esquivez,</l>
             <l>otro azote u otro acero,</l>
             <l n="1350">otra cruz u otro cordel.</l>
-            <stage>;Vase. ;</stage>
+
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="7">
+          <stage>;Vase. ;</stage>
           <sp who="#ingenio">
             <speaker>INGENIO</speaker>
             <l part="I">¿Pensamiento?</l>
@@ -2737,8 +2760,9 @@
             <speaker>PENSAMIENTO</speaker>
             <l>Sí haré, por si cae en mí.</l>
           </sp>
-          <stage>Descúbrese a PABLO a caballo y vase cayendo, y recíbele EL PENSAMIENTO, y le pasa,
-            según los versos, al INGENIO.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="8">
+          <stage>Descúbrese a PABLO a caballo y vase cayendo, y recíbele EL PENSAMIENTO, y le pasa, según los versos, al INGENIO.</stage>
           <sp who="#pablo">
             <speaker>PABLO</speaker>
             <l>El rayo, señor, detén;</l>
@@ -2754,6 +2778,8 @@
             <speaker>INGENIO</speaker>
             <l part="F">Sí haré.</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="9">
           <stage>Sale LA SINAGOGA.</stage>
           <sp who="#sinagoga">
             <speaker>SINAGOGA</speaker>
@@ -3299,6 +3325,8 @@
             <l>por América Ateísmo,</l>
             <l n="1650">que vives sin Dios ni Ley.</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="10">
           <stage>Salen LOS CUATRO.</stage>
           <sp who="#gentilidad #áfrica #ateísmo">
             <speaker>LOS CUATRO</speaker>
@@ -3424,8 +3452,9 @@
             <l>yace lamentando el siglo</l>
             <l>que tan sin ella se ve.</l>
           </sp>
-          <stage>Descúbrese LA LEY NATURAL al pie de un árbol, el cual ha de tener revuelta una
-            serpiente.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="11">
+          <stage>Descúbrese LA LEY NATURAL al pie de un árbol, el cual ha de tener revuelta una serpiente.</stage>
           <sp who="#gentilidad">
             <speaker>GENTILIDAD</speaker>
             <l>Ah, de la Ley natural,</l>
@@ -3479,15 +3508,15 @@
             <l n="1740">seas, el ajeno bien</l>
             <l>no envidies, ni quieras de otro</l>
             <l>la hacienda, ni la mujer.</l>
-            <stage>Ábrese el segundo carro, y en otro peñasco LA LEY ESCRITA, con las Tablas en la
-              mano y la serpiente de metal, como pintan a Moisés.</stage>
+            <stage>Ábrese el segundo carro, y en otro peñasco LA LEY ESCRITA, con las Tablas en la mano y la serpiente de metal, como pintan a Moisés.</stage>
           </sp>
           <sp who="#gentilidad">
             <speaker>GENTILIDAD</speaker>
             <l>¿Qué quitó o añadió a esto?</l>
           </sp>
-          <stage>Descúbrese LA LEY DE GRACIA con una cruz en la mano, como pintan a la FE, con los
-            ojos vendados.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="12">
+          <stage>Descúbrese LA LEY DE GRACIA con una cruz en la mano, como pintan a la FE, con los ojos vendados.</stage>
           <sp who="#ley-de-gracia">
             <speaker>LEY DE GRACIA</speaker>
             <l>Eso yo lo explicaré,</l>
@@ -3502,9 +3531,7 @@
             <l>de la fuente de la gracia</l>
             <l>perennemente correr.</l>
           </sp>
-          <stage>Descúbrese una fuente, cuyo remate será hostia y cáliz, y alrededor los siete
-            sacramentos, teniendo cada uno en la mano una cinta blanca, como caños que salen de la
-            hostia.</stage>
+          <stage type="object">Descúbrese una fuente, cuyo remate será hostia y cáliz, y alrededor los siete sacramentos, teniendo cada uno en la mano una cinta blanca, como caños que salen de la hostia.</stage>
           <sp who="#sinagoga">
             <speaker>SINAGOGA</speaker>
             <l n="1755">¿Y cuándo lo estableció?</l>
@@ -3629,6 +3656,7 @@
             <l n="1830">faltara la de la fe.</l>
           </sp>
         </div>
+
       </div>
     </body>
   </text>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://relaxng.org/ns/structure/1.0?>
-<?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://purl.oclc.org/dsdl/schematron?>
+<?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://relaxng.org/ns/structure/1.0?><?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://purl.oclc.org/dsdl/schematron?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cal000042" xml:lang="esp">
   <teiHeader>
     <fileDesc>
@@ -17,6 +15,10 @@
           <idno type="wikidata">Q170800</idno>
           <idno type="pnd">118518399</idno>
         </author>
+        <respStmt>
+          <resp>Data curation (cleaning, normalization and scene division)</resp>
+          <persName xml:id="rojas">Rojas Castro, Antonio</persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
@@ -37,8 +39,7 @@
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/loa-a-el-divino-orfeo--0/html/</idno>
           <bibl type="originalSource">
-            <title> Edición digital a partir de la edición de E. Duarte,
-              Pamplona, Universidad de Navarra ; Kassel, Reichenberger, 1999.</title>
+            <title> Edición digital a partir de la edición de E. Duarte, Pamplona, Universidad de Navarra ; Kassel, Reichenberger, 1999.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -47,52 +48,83 @@
       <particDesc>
         <listPerson>
           <person xml:id="placer" sex="MALE">
-            <persName>EL PLACER, villano.</persName>
+            <persName>El Placer</persName>
+            <trait source="castlist">
+              <desc>villano</desc>
+            </trait>
           </person>
           <person xml:id="galán-1" sex="MALE">
-            <persName>GALÁN 1º.</persName>
+            <persName>Galán 1º</persName>
           </person>
           <person xml:id="galán-2" sex="MALE">
-            <persName>GALÁN 2º.</persName>
+            <persName>Galán 2º</persName>
           </person>
           <person xml:id="galán-3" sex="MALE">
-            <persName>GALÁN 3º.</persName>
+            <persName>Galán 3º</persName>
           </person>
           <person xml:id="galán-4" sex="MALE">
-            <persName>GALÁN 4º.</persName>
+            <persName>Galán 4º</persName>
           </person>
           <person xml:id="galán-5" sex="MALE">
-            <persName>GALÁN 5º.</persName>
+            <persName>Galán 5º</persName>
           </person>
           <person xml:id="dama-1" sex="FEMALE">
-            <persName>DAMA 1ª.</persName>
+            <persName>Dama 1ª</persName>
+            <trait resp="#rojas">
+              <desc>dama</desc>
+            </trait>
           </person>
           <person xml:id="dama-2" sex="FEMALE">
-            <persName>DAMA 2ª.</persName>
+            <persName>Dama 2ª</persName>
+            <trait resp="#rojas">
+              <desc>dama</desc>
+            </trait>
           </person>
           <person xml:id="dama-3" sex="FEMALE">
-            <persName>DAMA 3ª.</persName>
+            <persName>Dama 3ª</persName>
+            <trait resp="#rojas">
+              <desc>dama</desc>
+            </trait>
           </person>
           <person xml:id="dama-4" sex="FEMALE">
-            <persName>DAMA 4ª.</persName>
+            <persName>Dama 4ª</persName>
+            <trait resp="#rojas">
+              <desc>dama</desc>
+            </trait>
           </person>
           <person xml:id="dama-5" sex="FEMALE">
-            <persName>DAMA 5ª.</persName>
+            <persName>Dama 5ª</persName>
+            <trait resp="#rojas">
+              <desc>dama</desc>
+            </trait>
           </person>
           <person xml:id="viejo-venerable" sex="MALE">
-            <persName>UN VIEJO VENERABLE.</persName>
+            <persName>Un Viejo Venerable</persName>
           </person>
-          <person xml:id="música" sex="MALE">
-            <persName>MÚSICOS.</persName>
-          </person>
+          <personGrp sex="UNKNOWN" xml:id="música">
+            <persName>Músicos</persName>
+          </personGrp>
         </listPerson>
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle">auto sacramental - loa</term>
+          <term source="dracor" type="genreTitle">auto sacramental</term>
+          <term source="#kroll" type="main">auto sacramental</term>
         </keywords>
       </textClass>
     </profileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="kroll">
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+        </taxonomy>
+      </classDecl>
+      <classDecl>
+        <taxonomy xml:id="calderondigital">
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
   </teiHeader>
   <standOff>
     <listEvent>
@@ -126,7 +158,7 @@
     </front>
     <body>
       <div type="act">
-        <div type="scene">
+        <div type="scene" resp="#rojas" n="1">
           <stage>Salen los MÚSICOS y, oyendo lo que cantan el PLACER, vestido de villano.</stage>
           <sp who="#música">
             <speaker>MÚSICA</speaker>
@@ -162,6 +194,8 @@
             <l>Eso no es satisfacer</l>
             <l part="I">a mis dudas.</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="2">
           <stage>Sale la DAMA 1ª con un escudo y en él pintada una E.</stage>
           <sp who="#dama-1">
             <speaker>DAMA 1ª</speaker>
@@ -246,6 +280,8 @@
             <speaker>MÚSICA</speaker>
             <l n="85">Incluye feliz su mayor excelencia.</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="3">
           <stage>Sale el GALÁN 1º y en su escudo una A.</stage>
           <sp who="#galán-1">
             <speaker>GALÁN 1º</speaker>
@@ -266,6 +302,8 @@
             <speaker>MÚSICA</speaker>
             <l>Incluye feliz su mayor excelencia.</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="4">
           <stage>Sale el GALÁN 2º y en su escudo una V.</stage>
           <sp who="#galán-2">
             <speaker>GALÁN 2º</speaker>
@@ -288,6 +326,8 @@
             <speaker>MÚSICA</speaker>
             <l>Incluye feliz su mayor excelencia.</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="5">
           <stage>Sale la DAMA 2ª y en su escudo una I.</stage>
           <sp who="#dama-2">
             <speaker>DAMA 2ª</speaker>
@@ -306,6 +346,8 @@
             <speaker>MÚSICA</speaker>
             <l>Incluye feliz su mayor excelencia.</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="6">
           <stage>Sale la DAMA 3ª y en su escudo una C.</stage>
           <sp who="#dama-3">
             <speaker>DAMA 3ª</speaker>
@@ -320,6 +362,8 @@
             <l>tiene en la C su mejor</l>
             <l part="I">atributo.</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="7">
           <stage>Sale el GALÁN 3º y en su escudo una T.</stage>
           <sp who="#galán-3">
             <speaker>GALÁN 3º</speaker>
@@ -361,6 +405,8 @@
             <speaker>MÚSICA</speaker>
             <l>Incluye feliz su mayor excelencia.</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="8">
           <stage>Sale el GALÁN 4º y en su escudo una H.</stage>
           <sp who="#galán-4">
             <speaker>GALÁN 4º</speaker>
@@ -374,6 +420,8 @@
             <l>¿quién duda que el lugar tenga</l>
             <l part="I">preeminente a todos?</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="9">
           <stage>Sale la DAMA 4ª y en su escudo una S.</stage>
           <sp who="#dama-4">
             <speaker>DAMA 4ª</speaker>
@@ -414,6 +462,8 @@
             <speaker>MÚSICA</speaker>
             <l>Incluye feliz su mayor excelencia.</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="10">
           <stage>Sale la DAMA 5ª y en su escudo otra A.</stage>
           <sp who="#dama-5">
             <speaker>DAMA 5ª</speaker>
@@ -431,6 +481,8 @@
             <l n="190">su definición encierra</l>
             <l>en ser aumento de Gracia.</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="11">
           <stage>Sale el GALÁN 5º y en su escudo una I.</stage>
           <sp who="#galán-5">
             <speaker>GALÁN 5º</speaker>
@@ -482,6 +534,8 @@
             <speaker>MÚSICA</speaker>
             <l>Incluye feliz su mayor excelencia.</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="12">
           <stage>Sale un VIEJO VENERABLE y en su escudo una R.</stage>
           <sp who="#viejo-venerable">
             <speaker>VIEJO</speaker>
@@ -541,9 +595,7 @@
             <speaker>TODOS</speaker>
             <l part="F">Norabuena.</l>
           </sp>
-          <stage>Canta la MÚSICA y a su compás bailando todos hacen una mudanza, de cuyo lazo
-                  resulte que al impedirlos el PLACER queden en ala, en tal orden que juntos los
-                  escudos formen un renglón que diga EUCHARISTIA.</stage>
+          <stage>Canta la MÚSICA y a su compás bailando todos hacen una mudanza, de cuyo lazo resulte que al impedirlos el PLACER queden en ala, en tal orden que juntos los escudos formen un renglón que diga EUCHARISTIA.</stage>
           <sp who="#música">
             <speaker>MÚSICA</speaker>
             <l n="240">Ya que el día del Señor</l>
@@ -648,8 +700,7 @@
             <l>¡Viva la que de ellas</l>
             <l n="275">incluye feliz su mayor excelencia!</l>
           </sp>
-          <stage>Con esta repetición vuelven a bailar y trocándose de lugares hacen segundo
-                  renglón que diga al impedirlos el PLACER: CITHARA IESU.</stage>
+          <stage>Con esta repetición vuelven a bailar y trocándose de lugares hacen segundo renglón que diga al impedirlos el PLACER: CITHARA IESU.</stage>
           <sp who="#placer">
             <speaker>PLACER</speaker>
             <l>No, no prosigáis, oíd</l>
@@ -830,6 +881,7 @@
             <l>en vez de perdón, aplauso y licencia.</l>
           </sp>
         </div>
+
       </div>
     </body>
   </text>
