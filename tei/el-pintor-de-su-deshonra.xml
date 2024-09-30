@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://relaxng.org/ns/structure/1.0?>
-<?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://purl.oclc.org/dsdl/schematron?>
+<?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://relaxng.org/ns/structure/1.0?><?xml-model http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng application/xml http://purl.oclc.org/dsdl/schematron?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cal000096" xml:lang="esp">
   <teiHeader>
     <fileDesc>
@@ -16,6 +14,10 @@
           <idno type="wikidata">Q170800</idno>
           <idno type="pnd">118518399</idno>
         </author>
+        <respStmt>
+          <resp>Data curation (cleaning, normalization and scene division)</resp>
+          <persName xml:id="rojas">Rojas Castro, Antonio</persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <authority>Automatisch generiertes XML/TEI</authority>
@@ -31,11 +33,7 @@
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/el-pintor-de-su-deshonra-2/html/</idno>
           <bibl type="originalSource">
-            <title>Edición digital a partir de Séptima parte de Comedias de Don Pedro Calderón
-                     de la Barca que nuevamente corregidas, publica Don Juan de Vera Tassis y
-                     Villarroel, Madrid, Por Francisco Sanz, 1683. Localización: Base de Datos
-                     Teatro Español del Siglo de Oro (TESO). Autorizada por Evangelina Rodríguez
-                     Cuadros. </title>
+            <title>Edición digital a partir de Séptima parte de Comedias de Don Pedro Calderón de la Barca que nuevamente corregidas, publica Don Juan de Vera Tassis y Villarroel, Madrid, Por Francisco Sanz, 1683. Localización: Base de Datos Teatro Español del Siglo de Oro (TESO). Autorizada por Evangelina Rodríguez Cuadros. </title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -44,73 +42,119 @@
       <particDesc>
         <listPerson>
           <person xml:id="don-juan" sex="MALE">
-            <persName>DON JUAN ROCA</persName>
+            <persName>Don Juan Roca</persName>
           </person>
           <person xml:id="juanete" sex="MALE">
-            <persName>JUANETE, su criado</persName>
+            <persName>Juanete</persName>
+            <trait source="castlist">
+              <desc>criado</desc>
+            </trait>
           </person>
           <person xml:id="don-luis" sex="MALE">
-            <persName>DON LUIS, viejo</persName>
+            <persName>Don Luis</persName>
+            <trait source="castlist">
+              <desc>viejo</desc>
+            </trait>
           </person>
           <person xml:id="porcia" sex="FEMALE">
-            <persName>PORCIA, su hija</persName>
+            <persName>Porcia</persName>
+            <trait source="castlist">
+              <desc>hija</desc>
+            </trait>
           </person>
           <person xml:id="don-álvaro" sex="MALE">
-            <persName>DON ÁLVARO, su hermano</persName>
+            <persName>Don Álvaro</persName>
+            <trait source="castlist">
+              <desc>hermano</desc>
+            </trait>
           </person>
           <person xml:id="don-pedro" sex="MALE">
-            <persName>DON PEDRO, viejo</persName>
+            <persName>Don Pedro</persName>
+            <trait source="castlist">
+              <desc>viejo</desc>
+            </trait>
           </person>
           <person xml:id="serafina" sex="FEMALE">
-            <persName>SERAFINA, su hija</persName>
+            <persName>Serafina</persName>
+            <trait source="castlist">
+              <desc>hija</desc>
+            </trait>
           </person>
           <person xml:id="príncipe" sex="MALE">
-            <persName>EL PRÍNCIPE DE URSINO</persName>
+            <persName>El Príncipe de Ursino</persName>
+            <trait resp="#rojas">
+              <desc>príncipe</desc>
+            </trait>
           </person>
           <person xml:id="flora" sex="FEMALE">
-            <persName>FLORA, criada</persName>
+            <persName>Flora</persName>
+            <trait source="castlist">
+              <desc>criada</desc>
+            </trait>
           </person>
           <person xml:id="julia" sex="FEMALE">
-            <persName>JULIA, criada</persName>
+            <persName>Julia</persName>
+            <trait source="castlist">
+              <desc>criada</desc>
+            </trait>
           </person>
           <person xml:id="celio" sex="MALE">
-            <persName>CELIO</persName>
+            <persName>Celio</persName>
           </person>
           <person xml:id="fabio" sex="MALE">
-            <persName>FABIO</persName>
+            <persName>Fabio</persName>
           </person>
           <person xml:id="belardo" sex="MALE">
-            <persName>BELARDO, vejete</persName>
+            <persName>Belardo</persName>
+            <trait source="castlist">
+              <desc>vejete</desc>
+            </trait>
           </person>
           <person xml:id="marinero-1" sex="MALE">
-            <persName>MARINERO primero</persName>
+            <persName>Marinero Primero</persName>
           </person>
           <person xml:id="marinero-2" sex="MALE">
-            <persName>MARINERO segundo</persName>
+            <persName>Marinero Segundo</persName>
           </person>
           <person xml:id="hombre-1" sex="MALE">
-            <persName>UN HOMBRE</persName>
+            <persName>Un Hombre</persName>
           </person>
           <person xml:id="caballero" sex="MALE">
-            <persName>UN CABALLERO</persName>
+            <persName>Un Caballero</persName>
           </person>
           <person xml:id="dama-1" sex="FEMALE">
-            <persName>UNA DAMA</persName>
+            <persName>Una Dama</persName>
+            <trait resp="#rojas">
+              <desc>dama</desc>
+            </trait>
           </person>
           <person xml:id="mujer-1" sex="FEMALE">
-            <persName>UNA MUJER</persName>
+            <persName>Una Mujer</persName>
           </person>
-          <person xml:id="música" sex="MALE">
-            <persName>MÚSICOS</persName>
-          </person>
+          <personGrp sex="UNKNOWN" xml:id="música">
+            <persName>Músicos</persName>
+          </personGrp>
         </listPerson>
       </particDesc>
       <textClass>
         <keywords>
-          <term type="genreTitle">comedia</term>
+          <term source="dracor" type="genreTitle">comedia</term>
+          <term source="#kroll" type="main">tragedia y drama de honor</term>
         </keywords>
       </textClass>
     </profileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="kroll">
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+        </taxonomy>
+      </classDecl>
+      <classDecl>
+        <taxonomy xml:id="calderondigital">
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
   </teiHeader>
   <standOff>
     <listEvent>
@@ -143,7 +187,7 @@
     </front>
     <body>
       <div type="act" n="1">
-        <div type="scene" n="1">
+        <div type="scene" resp="#rojas" n="1">
           <head>Jornada I</head>
           <stage>Sale DON JUAN vestido de camino por una puerta y DON LUIS por otra.</stage>
           <sp who="#don-luis">
@@ -154,9 +198,6 @@
           <sp who="#don-juan">
             <speaker>DON JUAN</speaker>
             <l> Otra y otras mil sean lazos </l>
-          </sp>
-          <sp who="#">
-            <speaker/>
             <l> de nuestra antigua amistad. </l>
           </sp>
           <sp who="#don-luis">
@@ -423,9 +464,12 @@
           <sp who="#don-luis">
             <speaker>DON LUIS</speaker>
             <l part="F"> No me digáis más. </l>
-            <stage>Vase, y sale PORCIA.</stage>
+
             <l part="I"> ¿Porcia? </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="2">
+          <stage>Vase, y sale PORCIA.</stage>
           <sp who="#porcia">
             <speaker>PORCIA</speaker>
             <l part="M"> ¿Señor? </l>
@@ -497,6 +541,8 @@
             <l n="190" part="F"> Mi contento </l>
             <l> es festejar a quien pasa. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="3">
           <stage>Sale JUANETE de camino.</stage>
           <sp who="#juanete">
             <speaker>JUANETE</speaker>
@@ -623,6 +669,8 @@
             <l> De la boca me han quitado </l>
             <l part="I"> el cuento. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="4">
           <stage>Sale JULIA.</stage>
           <sp who="#julia">
             <speaker>[JULIA]</speaker>
@@ -643,8 +691,9 @@
             <l> Ya suben las escaleras </l>
             <l n="270"> y llegan hacia esta parte. </l>
           </sp>
-          <stage>Sale DON JUAN, que trae de la mano a SERAFINA vestida de camino, 
-                  DON PEDRO y FLORA.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="5">
+          <stage>Sale DON JUAN, que trae de la mano a SERAFINA vestida de camino, DON PEDRO y FLORA.</stage>
           <sp who="#don-luis">
             <speaker>DON LUIS</speaker>
             <l> Dadme, ¡oh bella Serafina, </l>
@@ -706,6 +755,8 @@
             <speaker>DON JUAN</speaker>
             <l n="305"> Vamos. Mas, ¿qué salva es esta? </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="6">
           <stage>Sale FABIO.</stage>
           <sp who="#fabio">
             <speaker>FABIO</speaker>
@@ -777,6 +828,8 @@
             <l part="F"> Para acabar </l>
             <l> el cuento de los chiquillos. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="7">
           <stage>Vanse, y quedan PORCIA, SERAFINA y las criadas.</stage>
           <sp who="#serafina">
             <speaker>SERAFINA</speaker>
@@ -839,6 +892,8 @@
             <l> Eso es echarme a galeras, </l>
             <l> y a dormir fuera mejor. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="8">
           <stage>Vanse las criadas.</stage>
           <sp who="#serafina">
             <speaker>SERAFINA</speaker>
@@ -1063,6 +1118,8 @@
             <l> las galeras en el puerto. </l>
             <l part="I"> ¿Flora? ¿Julia? </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="9">
           <stage>Sale JUANETE.</stage>
           <sp who="#juanete">
             <speaker>JUANETE</speaker>
@@ -1123,8 +1180,11 @@
             <l n="560"> por eso no me asustaba: </l>
             <l> asústome ahora y vuelvo </l>
             <l> a decirlo a mi señor. </l>
-            <stage>Vase.</stage>
+
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="10">
+          <stage>Vase.</stage>
           <sp who="#porcia">
             <speaker>PORCIA</speaker>
             <stage>Aparte.</stage>
@@ -1134,8 +1194,9 @@
             <l> pues Serafina no ha vuelto.) </l>
             <l> ¡Hola! ¿No hay quien me responda? </l>
           </sp>
-          <stage>Deja a SERAFINA en una silla desmayada, vase, y sale DON ÁLVARO por otro
-                  lado.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="11">
+          <stage>Deja a SERAFINA en una silla desmayada, vase, y sale DON ÁLVARO por otro lado.</stage>
           <sp who="#don-álvaro">
             <speaker>DON ÁLVARO</speaker>
             <l> No me ha sufrido el deseo </l>
@@ -1287,6 +1348,8 @@
             <speaker>DON ÁLVARO</speaker>
             <l> ¡Pues cómo, ingrata, pues cómo! </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="12">
           <stage>Salen PORCIA, FLORA y JULIA.</stage>
           <sp who="#porcia">
             <speaker>PORCIA</speaker>
@@ -1315,6 +1378,8 @@
             <l> si es cierto que se ha casado </l>
             <l part="I"> Serafina. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="13">
           <stage>Apártanse a un lado y salen DON JUAN, DON PEDRO y JUANETE.</stage>
           <sp who="#don-juan">
             <speaker>DON JUAN</speaker>
@@ -1404,6 +1469,8 @@
             <l> de ir con ella. Aguarda aquí, </l>
             <l> Álvaro, que al punto vuelvo. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="14">
           <stage>Vanse, quedando DON ÁLVARO a una parte y JUANETE a otra.</stage>
           <sp who="#juanete">
             <speaker>JUANETE</speaker>
@@ -1418,6 +1485,8 @@
             <l> y viéndola yo en ajenos </l>
             <l> brazos, ¿no pierdo la vida? </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="15">
           <stage>Salen EL PRÍNCIPE, DON LUIS, CELIO y acompañamiento.</stage>
           <sp who="#príncipe">
             <speaker>PRÍNCIPE</speaker>
@@ -1489,8 +1558,11 @@
             <stage>Aparte.</stage>
             <l> No es sino enemigo, pues </l>
             <l> voy a buscarme a mí mesmo. </l>
-            <stage>Vase.</stage>
+
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="16">
+          <stage>Vase.</stage>
           <sp who="#príncipe">
             <speaker>PRÍNCIPE</speaker>
             <l n="720"> Celio, que hemos malogrado </l>
@@ -1582,6 +1654,8 @@
             <l> Pero no es tiempo, pues vi </l>
             <l> que a verte Porcia salió. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="17">
           <stage>Sale PORCIA.</stage>
           <sp who="#porcia">
             <speaker>PORCIA</speaker>
@@ -1636,6 +1710,8 @@
             <l> ¿Cuánto diera Vuexcelencia </l>
             <l part="I"> por el estorbo? </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="18">
           <stage>Sale SERAFINA.</stage>
           <sp who="#serafina">
             <speaker>SERAFINA</speaker>
@@ -1668,8 +1744,11 @@
             <l n="805"> reconocemos estar, </l>
             <l> poco tenemos que hablar: </l>
             <l> ¡mil años os guarde Dios! </l>
-            <stage>Vase.</stage>
+
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="19">
+          <stage>Vase.</stage>
           <sp who="#príncipe">
             <speaker>PRÍNCIPE</speaker>
             <l> En toda mi vida vi </l>
@@ -1683,10 +1762,13 @@
           <sp who="#príncipe">
             <speaker>PRÍNCIPE</speaker>
             <l part="F"> Sí. </l>
-            <stage>Vase PORCIA.</stage>
+
             <l> ¿Has visto, Celio, en tu vida </l>
             <l> plática más bien cortada? </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="20">
+          <stage>Vase PORCIA.</stage>
           <sp who="#celio">
             <speaker>CELIO</speaker>
             <l> Si tan en sí está turbada, </l>
@@ -1716,6 +1798,8 @@
             <l> no más, quién será mujer </l>
             <l> que tanta hermosura tiene. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="21">
           <stage>Sale DON ÁLVARO.</stage>
           <sp who="#don-álvaro">
             <speaker>DON ÁLVARO</speaker>
@@ -1818,6 +1902,8 @@
             <l> y aun si otra vez le viera, </l>
             <l> no sé si le conociera. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="22">
           <stage>Sale DON LUIS.</stage>
           <sp who="#don-luis">
             <speaker>DON LUIS</speaker>
@@ -1872,6 +1958,8 @@
             <l> idolatrar hermosura </l>
             <l> antes perdida que hallada.) </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="23">
           <stage>Vase con CELIO.</stage>
           <sp who="#don-luis">
             <speaker>DON LUIS</speaker>
@@ -1933,8 +2021,11 @@
           <sp who="#don-luis">
             <speaker>DON LUIS</speaker>
             <l> ...por lo menos, por ahora. </l>
-            <stage>Vase.</stage>
+
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="24">
+          <stage>Vase.</stage>
           <sp who="#don-álvaro">
             <speaker>DON ÁLVARO</speaker>
             <l n="915"> ¡En qué confusión me veo! </l>
@@ -1975,6 +2066,8 @@
             <l n="950"> que decir! Pero al mirarla </l>
             <l> ya no encuentro con ninguna. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="25">
           <stage>Salen PORCIA y SERAFINA.</stage>
           <sp who="#porcia">
             <speaker>PORCIA</speaker>
@@ -2097,8 +2190,11 @@
             <l> Mi cuidado te asegura; </l>
             <l> quéjate, suspira, llora, </l>
             <l n="1015"> pues no tienes más fortuna. </l>
-            <stage>Vase.</stage>
+
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="26">
+          <stage>Vase.</stage>
           <sp who="#serafina">
             <speaker>SERAFINA</speaker>
             <l> Pues si he de escuchar por fuerza, </l>
@@ -2300,6 +2396,8 @@
             <l n="1070"> que el aire ejecute el trueno </l>
             <l> cuando tú el rayo pronuncias! </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="27">
           <stage>Sale PORCIA.</stage>
           <sp who="#porcia">
             <speaker>PORCIA</speaker>
@@ -2348,12 +2446,14 @@
             <l> ...que yo no he de amarte nunca. </l>
           </sp>
         </div>
+
+
+
       </div>
       <div type="act" n="2">
-        <div type="scene" n="1">
+        <div type="scene" resp="#rojas" n="1">
           <head>Jornada II</head>
-          <stage>Córrese una cortina, y véese SERAFINA sentada en una silla 
-                  y DON JUAN retratándola.</stage>
+          <stage>Córrese una cortina, y véese SERAFINA sentada en una silla y DON JUAN retratándola.</stage>
           <sp who="#don-juan">
             <speaker>DON JUAN</speaker>
             <l>¿Cánsaste de estar así? </l>
@@ -2502,6 +2602,8 @@
             <l> que tengo de la pintura; </l>
             <l> mas culpa es de tu hermosura. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="2">
           <stage>Sale JUANETE.</stage>
           <sp who="#juanete">
             <speaker>JUANETE</speaker>
@@ -2640,6 +2742,8 @@
             <l> Quédate, mi bien, adiós, </l>
             <l n="160"> que al instante volveré. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="3">
           <stage>Vanse.</stage>
           <sp who="#serafina">
             <speaker>SERAFINA</speaker>
@@ -2655,6 +2759,8 @@
             <l n="170"> domesticado se ve </l>
             <l part="I"> que no es posible... </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="4">
           <stage>Sale FLORA alborotada.</stage>
           <sp who="#flora">
             <speaker>FLORA</speaker>
@@ -2755,6 +2861,8 @@
             <speaker>FLORA</speaker>
             <l part="I"> Yo lo haré así. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="5">
           <stage>Sale DON ÁLVARO de marinero.</stage>
           <sp who="#don-álvaro">
             <speaker>DON ÁLVARO</speaker>
@@ -2974,6 +3082,8 @@
             <l n="335"> no por mi peligro tanto, </l>
             <l> como, ¡ay Dios!, por tu peligro. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="6">
           <stage>Escóndese, y sale DON JUAN.</stage>
           <sp who="#serafina">
             <speaker>SERAFINA</speaker>
@@ -2989,6 +3099,8 @@
             <l n="340"> Descuido, señor, ha sido </l>
             <l part="I"> de las crïadas. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="7">
           <stage>Sale FLORA con luces.</stage>
           <sp who="#flora">
             <speaker>FLORA</speaker>
@@ -3110,6 +3222,8 @@
             <stage>Hace SERAFINA señas a FLORA.</stage>
             <l> en ver cómo yo te sirvo. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="8">
           <stage>Vanse los dos.</stage>
           <sp who="#flora">
             <speaker>FLORA</speaker>
@@ -3154,6 +3268,8 @@
             <l> que yo tomaré la puerta </l>
             <l part="I"> sin que me vea. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="9">
           <stage>Cae FLORA, mata la luz y sale JUANETE.</stage>
           <sp who="#flora">
             <speaker>FLORA</speaker>
@@ -3201,8 +3317,11 @@
             <stage>Aparte.</stage>
             <l> ¡Que hubiese de dar conmigo! </l>
             <l n="425"> Pero ya hallé con la puerta. </l>
-            <stage>Vase.8</stage>
+
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="10">
+          <stage>Vase.8</stage>
           <sp who="#flora">
             <speaker>FLORA</speaker>
             <l part="I"> ¿Estás loco? </l>
@@ -3213,6 +3332,8 @@
             <l> es cierto, aquí anda más gente. </l>
             <l part="I"> ¿Señor? </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="11">
           <stage>Sale DON JUAN con luz.</stage>
           <sp who="#don-juan">
             <speaker>DON JUAN</speaker>
@@ -3291,6 +3412,8 @@
             <l> Eso, bien podrás no hallarlo; </l>
             <l> mas, señor, lo dicho, dicho. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="12">
           <stage>Saca la espada, y éntrase DON JUAN y JUANETE con luz, y sale SERAFINA.</stage>
           <sp who="#serafina">
             <speaker>SERAFINA</speaker>
@@ -3310,6 +3433,8 @@
             <speaker>SERAFINA</speaker>
             <l> ¿Sabes si él ya9 habrá salido? </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="13">
           <stage>Sale DON JUAN.</stage>
           <sp who="#don-juan">
             <speaker>DON JUAN</speaker>
@@ -3340,6 +3465,8 @@
             <speaker>JUANETE</speaker>
             <l> Pícara, lo dicho, dicho. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="14">
           <stage>Vanse todos.</stage>
           <stage>Salen EL PRÍNCIPE y CELIO de noche.</stage>
           <sp who="#celio">
@@ -3457,6 +3584,8 @@
             <l> tanta munición de rayos </l>
             <l> y tanto severo arpón? </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="15">
           <stage>Sale PORCIA a la reja cantando.</stage>
           <sp who="#príncipe">
             <speaker>PRÍNCIPE</speaker>
@@ -3575,6 +3704,8 @@
             <speaker>PORCIA</speaker>
             <l> ¿Quién más que yo deseara...? </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="16">
           <stage>Sale JULIA.</stage>
           <sp who="#julia">
             <speaker>JULIA</speaker>
@@ -3714,12 +3845,15 @@
           <sp who="#porcia">
             <speaker>PORCIA</speaker>
             <l> Eso lo dirá mi voz. </l>
-            <stage>Vase y canta dentro.</stage>
+
             <l> ¡Ay mortal ausencia! </l>
             <l> ¡Ay partida unión! </l>
             <l> ¡Ay noche sin día! </l>
             <l n="690"> ¡Ay día sin sol! </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="17">
+          <stage>Vase y canta dentro.</stage>
           <sp who="#príncipe">
             <speaker>PRÍNCIPE</speaker>
             <l> Ya que de amor y de celos </l>
@@ -3739,6 +3873,8 @@
             <l> ¡Ay noche sin día! </l>
             <l> ¡Ay día sin sol! </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="18">
           <stage>Vanse los dos.</stage>
           <stage>Sale DON ÁLVARO y FABIO de gala, con máscaras.</stage>
           <sp who="#don-álvaro">
@@ -3797,9 +3933,9 @@
             <l> Verlos podrás desde aquí </l>
             <l> pasar tañendo y cantando. </l>
           </sp>
-          <stage>Dentro suena grita, córrese una cortina y están en un tabladillo los músicos,
-                  y salen las mujeres que pudieren por una parte bailando con máscaras, y por otra
-                  los hombres con trajes diferentes.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="19">
+          <stage>Dentro suena grita, córrese una cortina y están en un tabladillo los músicos, y salen las mujeres que pudieren por una parte bailando con máscaras, y por otra los hombres con trajes diferentes.</stage>
           <sp who="#mujer-1">
             <speaker>MUJER 1.ª</speaker>
             <l> Veniu las miñonas, </l>
@@ -3864,8 +4000,7 @@
             <speaker>MÚSICOS</speaker>
             <l> Que me pleu. </l>
           </sp>
-          <stage>Bailan todos juntos, los unos quedan a una parte, y DON ÁLVARO y FABIO a
-                  otra.</stage>
+          <stage>Bailan todos juntos, los unos quedan a una parte, y DON ÁLVARO y FABIO a otra.</stage>
           <sp who="#hombre-1">
             <speaker>HOMBRE 1.º</speaker>
             <l>Aven per tot el llogar. </l>
@@ -3999,8 +4134,9 @@
             <l> Porque, a vuestra vista atento, </l>
             <l> decir pueda en esta calma... </l>
           </sp>
-          <stage>Tocan, y mientras danzan, representan, y la música responde, todo a compás,
-                  sin pararse nunca los instrumentos.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="20">
+          <stage>Tocan, y mientras danzan, representan, y la música responde, todo a compás, sin pararse nunca los instrumentos.</stage>
           <sp who="#música">
             <speaker>MÚSICA</speaker>
             <l n="815"> Reverencia os hace el alma, </l>
@@ -4092,6 +4228,8 @@
             <l n="845"> que allá, sin publicidad, </l>
             <l> nos podremos divertir. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="21">
           <stage>Vanse.</stage>
           <sp who="#música">
             <speaker>MÚSICO 1.º</speaker>
@@ -4103,8 +4241,11 @@
             <l> Juanete: saber procura, </l>
             <l n="850"> siguiéndole hasta después, </l>
             <l> ese máscara quién es. </l>
-            <stage>Vase.</stage>
+
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="22">
+          <stage>Vase.</stage>
           <sp who="#juanete">
             <speaker>JUANETE</speaker>
             <l> Mi cuidado te asegura </l>
@@ -4196,6 +4337,8 @@
             <speaker>DON ÁLVARO</speaker>
             <l part="I"> ¡Ha del mar! </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="23">
           <stage>Salen algunos marineros.</stage>
           <sp who="#marinero-1">
             <speaker>MARINERO 1.º</speaker>
@@ -4265,6 +4408,8 @@
             <l> un caballero a una dama </l>
             <l part="I"> saca en los brazos! </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="24">
           <stage>Sale DON JUAN con SERAFINA.</stage>
           <sp who="#don-juan">
             <speaker>DON JUAN</speaker>
@@ -4333,6 +4478,8 @@
             <l> que siempre la propria dicha </l>
             <l> está en la ajena desgracia. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="25">
           <stage>Vanse llevándola.</stage>
           <sp who="#juanete">
             <speaker>JUANETE</speaker>
@@ -4351,6 +4498,8 @@
             <l> sino sola una crïada </l>
             <l part="I"> de Serafina. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="26">
           <stage>Sale DON JUAN.</stage>
           <sp who="#don-juan">
             <speaker>DON JUAN</speaker>
@@ -4413,6 +4562,8 @@
             <l> me arrojo al mar en venganza </l>
             <l part="I"> de mi honor? </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="27">
           <stage>Salen todos los de la máscara.</stage>
           <sp who="#todos">
             <speaker>TODOS</speaker>
@@ -4460,29 +4611,16 @@
             <l n="1015" part="F"> Él te valga.</l>
           </sp>
         </div>
+
+
       </div>
       <div type="act" n="3">
-        <div type="scene" n="1">
+        <div type="scene" resp="#rojas" n="1">
           <head>Jornada III</head>
           <stage>Sale DON LUIS, leyendo una carta.</stage>
           <sp who="#don-luis">
             <speaker>DON LUIS</speaker>
-            <l>«Mandaisme que os avise de qué causa pudo tener 
-                     a don Juan Roca tantos días sin escribiros. 
-                     Y aunque quisiera excusarme de hablar en esto, 
-                     no puedo dejar de obedeceros. 
-                     Las carnestolendas pasadas, 
-                     estando en la quinta de don Diego de Cardona, 
-                     se prendió en ella tan grande fuego que, 
-                     no sin peligro, pudieron escapar la vida. 
-                     Don Juan sacó a su esposa desmayada y dejándola, 
-                     por acudir a las demás, en poder de unos marineros, 
-                     que no falta quien diga que eran cosarios disfrazados, 
-                     se hicieron a la mar con ella, 
-                     arrojándose don Juan desesperado al agua, 
-                     de donde le sacaron casi muerto algunos que acudieron a favorecerle; 
-                     y apenas se hubo reparado cuando faltó de su casa sin llevar consigo más que un criado; 
-                     y hasta hoy no se ha sabido dél ni de su esposa».</l>
+            <l>«Mandaisme que os avise de qué causa pudo tener a don Juan Roca tantos días sin escribiros. Y aunque quisiera excusarme de hablar en esto, no puedo dejar de obedeceros. Las carnestolendas pasadas, estando en la quinta de don Diego de Cardona, se prendió en ella tan grande fuego que, no sin peligro, pudieron escapar la vida. Don Juan sacó a su esposa desmayada y dejándola, por acudir a las demás, en poder de unos marineros, que no falta quien diga que eran cosarios disfrazados, se hicieron a la mar con ella, arrojándose don Juan desesperado al agua, de donde le sacaron casi muerto algunos que acudieron a favorecerle; y apenas se hubo reparado cuando faltó de su casa sin llevar consigo más que un criado; y hasta hoy no se ha sabido dél ni de su esposa».</l>
             <l> No leo más, que no es posible </l>
             <l> que rendido, que postrado </l>
             <l> el corazón, a los ojos </l>
@@ -4507,6 +4645,8 @@
             <l> pirata, asombros y espantos </l>
             <l part="I"> al mundo. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="2">
           <stage>Sale PORCIA y JULIA.</stage>
           <sp who="#porcia">
             <speaker>PORCIA</speaker>
@@ -4637,6 +4777,8 @@
             <l> en mí el ejemplo más raro </l>
             <l> de amistad que ha visto el mundo. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="3">
           <stage>Vase DON LUIS.</stage>
           <sp who="#julia">
             <speaker>JULIA</speaker>
@@ -4689,6 +4831,8 @@
             <l> contra ti, me vences solo </l>
             <l> con una flecha y un arco? </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="4">
           <stage>Vanse.</stage>
           <stage>Salen DON ÁLVARO y FABIO.</stage>
           <sp who="#don-álvaro">
@@ -4730,11 +4874,13 @@
             <l> que aun tiempo para pensarlo </l>
             <l> no tuve, que Serafina... </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="5">
           <stage>Sale SERAFINA.</stage>
           <sp who="#serafina">
             <speaker>SERAFINA</speaker>
             <l n="140"> Espérate fuera, Fabio. </l>
-            <stage>Vase FABIO.</stage>
+
             <l> Y tú, escuchame, porque </l>
             <l> mi nombre oyendo en tus labios, </l>
             <l> y oyendo mi mal, del nombre </l>
@@ -4758,6 +4904,9 @@
             <l> vencida de tus traiciones, </l>
             <l> forzada de tus agravios? </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="6">
+          <stage>Vase FABIO.</stage>
           <sp who="#don-álvaro">
             <speaker>DON ÁLVARO</speaker>
             <l> No pensé, pero pensé... </l>
@@ -4859,6 +5008,8 @@
             <l> me asusto, no me acobardo. </l>
             <l part="I"> ¡Hola! ¿Qué es eso? </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="7">
           <stage>Sale BELARDO, vejete.</stage>
           <sp who="#belardo">
             <speaker>BELARDO</speaker>
@@ -4888,6 +5039,8 @@
             <speaker>SERAFINA</speaker>
             <l n="250"> ¡Cielo, tu favor aguardo! </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="8">
           <stage>Escóndese, y sale PORCIA de caza.</stage>
           <sp who="#don-álvaro">
             <speaker>DON ÁLVARO</speaker>
@@ -4954,6 +5107,8 @@
             <l> yo de aquí a Porcia, retira </l>
             <l> a esa dama de ese cuarto. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="9">
           <stage>Vanse los dos hermanos.</stage>
           <sp who="#belardo">
             <speaker>BELARDO</speaker>
@@ -4966,6 +5121,8 @@
             <l> y al cabo del año no </l>
             <l n="290"> me dan sino sobresaltos. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="10">
           <stage>Sale SERAFINA.</stage>
           <sp who="#serafina">
             <speaker>SERAFINA</speaker>
@@ -4998,6 +5155,8 @@
             <l n="300"> Porque hasta aquí viene entrando </l>
             <l part="I"> un hombre. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="11">
           <stage>Sale EL PRÍNCIPE.</stage>
           <sp who="#serafina">
             <speaker>SERAFINA</speaker>
@@ -5027,6 +5186,8 @@
             <l> Con él salió ahora al campo, </l>
             <l> mas dijo que aquí la esperes. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="12">
           <stage>Sale PORCIA.</stage>
           <sp who="#porcia">
             <speaker>PORCIA</speaker>
@@ -5170,6 +5331,8 @@
             <l part="F"> ¡San Hilario! </l>
             <l part="I"> ¡Zas, entrose ya! </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="13">
           <stage>Éntrase donde está SERAFINA y sale DON ÁLVARO.</stage>
           <sp who="#don-álvaro">
             <speaker>DON ÁLVARO</speaker>
@@ -5307,6 +5470,8 @@
             <stage>Aparte.</stage>
             <l> Pues no le ha visto mi hermano. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="14">
           <stage>Vanse los dos.</stage>
           <sp who="#belardo">
             <speaker>BELARDO</speaker>
@@ -5316,6 +5481,8 @@
             <l n="400"> ¡Ha, señores encerrados, </l>
             <l> si no estorbo, salir pueden! </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="15">
           <stage>Sale EL PRÍNCIPE y SERAFINA, puesta la mano en el rostro.</stage>
           <sp who="#serafina">
             <speaker>SERAFINA</speaker>
@@ -5444,6 +5611,8 @@
             <l> Que ya, sabiendo quién soy, </l>
             <l n="460"> por puntos mi muerte aguardo. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="16">
           <stage>Vanse, y salen DON JUAN, con vestido de pobre, y CELIO.</stage>
           <sp who="#celio">
             <speaker>CELIO</speaker>
@@ -5468,8 +5637,11 @@
           <sp who="#celio">
             <speaker>CELIO</speaker>
             <l part="F"> No lo sé. </l>
-            <stage>Vase.</stage>
+
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="17">
+          <stage>Vase.</stage>
           <sp who="#don-juan">
             <speaker>DON JUAN</speaker>
             <l> ¿Qué es lo que pasa por mí, </l>
@@ -5521,6 +5693,8 @@
             <l> infelices, ¡ay de mí!, </l>
             <l part="I"> ¿habrá otro más que yo? </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="18">
           <stage>Sale JUANETE, mal vestido.</stage>
           <sp who="#juanete">
             <speaker>JUANETE</speaker>
@@ -5629,6 +5803,8 @@
             <l> una vez sola te vio. </l>
             <l> Pero este el Príncipe es. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="19">
           <stage>Sale EL PRÍNCIPE.</stage>
           <sp who="#don-juan">
             <speaker>DON JUAN</speaker>
@@ -5782,8 +5958,11 @@
             <l n="665" part="F"> De ti lo creo; </l>
             <l> cree de mí que, agradecido, </l>
             <l> verás tu deseo cumplido. </l>
-            <stage>Vase.</stage>
+
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="20">
+          <stage>Vase.</stage>
           <sp who="#don-juan">
             <speaker>DON JUAN</speaker>
             <l> No sabes tú mi deseo. </l>
@@ -5815,6 +5994,8 @@
             <l> hasta que con sangre sea </l>
             <l n="680"> el pintor de mi deshonra. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="21">
           <stage>Vanse, y salen DON ÁLVARO y DON LUIS.</stage>
           <sp who="#don-álvaro">
             <speaker>DON ÁLVARO</speaker>
@@ -5962,12 +6143,17 @@
             <stage>Aparte.</stage>
             <l> No es sino por prevenir </l>
             <l> que Serafina se guarde. </l>
-            <stage>Vase.</stage>
+
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="22">
+          <stage>Vase.</stage>
           <sp who="#don-luis">
             <speaker>DON LUIS</speaker>
             <l part="I"> Paréceme bien. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="23">
           <stage>Sale JULIA.</stage>
           <sp who="#julia">
             <speaker>JULIA</speaker>
@@ -5981,6 +6167,8 @@
             <l> sin duda, el mismo cuidado </l>
             <l n="770"> que tengo es el que le trae. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="24">
           <stage>Sale DON PEDRO.</stage>
           <sp who="#don-pedro">
             <speaker>DON PEDRO</speaker>
@@ -6048,6 +6236,8 @@
             <speaker>DON PEDRO</speaker>
             <l part="F"> Pues yo... </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="25">
           <stage>Sale PORCIA.</stage>
           <sp who="#porcia">
             <speaker>PORCIA</speaker>
@@ -6089,12 +6279,16 @@
             <l> Ven tú en la carroza, pues </l>
             <l n="820"> ya va tu hermano delante. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="26">
           <stage>Vanse.</stage>
           <sp who="#porcia">
             <speaker>PORCIA</speaker>
             <l> Con más gusto fuera sola, </l>
             <l> si fuera a ver a mi amante. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="27">
           <stage>Vase, y sale EL PRÍNCIPE y DON JUAN, JUANETE y BELARDO.</stage>
           <sp who="#príncipe">
             <speaker>PRÍNCIPE</speaker>
@@ -6139,14 +6333,20 @@
             <l> Mal, señor, mi valor, sabes; </l>
             <l> que no acobardan peligros </l>
             <l> a quien no matan pesares. </l>
-            <stage>Vase.</stage>
+
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="28">
+          <stage>Vase.</stage>
           <sp who="#belardo">
             <speaker>BELARDO</speaker>
             <l n="845"> Adiós; y para otra vez </l>
             <l> doblones y no diamantes. </l>
-            <stage>Vase.</stage>
+
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="29">
+          <stage>Vase.</stage>
           <sp who="#juanete">
             <speaker>JUANETE</speaker>
             <l> ¿De qué se queja el vejete? </l>
@@ -6192,6 +6392,8 @@
             <l n="875"> aunque solo oír el cuento </l>
             <l> para mí es paga bastante. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="30">
           <stage>Vanse los dos, y salen por otra puerta DON JUAN y BELARDO.</stage>
           <sp who="#don-juan">
             <speaker>DON JUAN</speaker>
@@ -6207,8 +6409,9 @@
             <l> a divertirse las tardes; </l>
             <l> entrad dentro y no hagáis ruido. </l>
           </sp>
-          <stage>Abre una puerta, entra DON JUAN por ella, y BELARDO cierra con llave, y él se
-                  asoma a una reja.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="31">
+          <stage>Abre una puerta, entra DON JUAN por ella, y BELARDO cierra con llave, y él se asoma a una reja.</stage>
           <sp who="#don-juan">
             <speaker>DON JUAN</speaker>
             <l> No haré; mas, ¿qué es lo que haces? </l>
@@ -6242,6 +6445,8 @@
             <l> Pues ya es tiempo de que saque </l>
             <l> la lámina y los matices. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="32">
           <stage>Sale SERAFINA.</stage>
           <sp who="#serafina">
             <speaker>SERAFINA</speaker>
@@ -6302,8 +6507,9 @@
             <l> Dices bien. ¡Oh sueño, ven </l>
             <l n="920"> a dar alivio a mis males! </l>
           </sp>
-          <stage>Vuélvese de cara a la reja y quédase dormida. Vase BELARDO, dejándola
-                  descubierta, y DON JUAN, al verla, se suspende.18</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="33">
+          <stage>Vuélvese de cara a la reja y quédase dormida. Vase BELARDO, dejándola descubierta, y DON JUAN, al verla, se suspende.18</stage>
           <sp who="#belardo">
             <speaker>BELARDO</speaker>
             <l part="I"> ¡Ce, la dama es esta! </l>
@@ -6362,6 +6568,8 @@
             <l> tu noble acero en mi vida! </l>
             <l> ¡No me mates! ¡No me mates! </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="34">
           <stage>Sale DON ÁLVARO.</stage>
           <sp who="#don-álvaro">
             <speaker>DON ÁLVARO</speaker>
@@ -6402,9 +6610,9 @@
             <l> ¡Muere traidor! ¡Y contigo </l>
             <l n="985"> muera esa hermosura infame! </l>
           </sp>
-          <stage>Dispara una pistola a él y otra a ella; y cayendo los dos, vienen a parar,
-                  ella en los brazos de DON PEDRO, y él en los de DON LUIS, que salen al ruido, y
-                  PORCIA.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="35">
+          <stage>Dispara una pistola a él y otra a ella; y cayendo los dos, vienen a parar, ella en los brazos de DON PEDRO, y él en los de DON LUIS, que salen al ruido, y PORCIA.</stage>
           <sp who="#don-álvaro">
             <speaker>DON ÁLVARO</speaker>
             <l part="I"> ¡Ay de mí! </l>
@@ -6454,6 +6662,8 @@
             <l part="F"> ¡Cielos! </l>
             <l> ¿Quién vio tragedia tan grande? </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="36">
           <stage>Sale EL PRÍNCIPE y JUANETE.</stage>
           <sp who="#juanete">
             <speaker>JUANETE</speaker>
@@ -6533,6 +6743,7 @@
             <l> perdonad yerros tan grandes. </l>
           </sp>
         </div>
+
       </div>
     </body>
   </text>
