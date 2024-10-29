@@ -713,6 +713,9 @@
 
             <l>Adiós.</l>
           </sp>
+          <stage>Vase Don Juan.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="2">
           <sp who="#rodrigo">
             <speaker rend="caps">Rodrigo</speaker>
 
@@ -765,7 +768,7 @@
             <l>Sí.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="2">
+        <div type="scene" resp="#rojas" n="3">
           <stage>Salen doña Clara y Isabel.</stage>
           <sp who="#rodrigo">
             <speaker rend="caps">Rodrigo</speaker>
@@ -1005,7 +1008,7 @@
             <l>calle, reja, coche y Prado.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="3">
+        <div type="scene" resp="#rojas" n="4">
           <stage>Vanse los dos.</stage>
           <sp who="#rodrigo">
             <speaker rend="caps">Rodrigo</speaker>
@@ -1064,7 +1067,7 @@
             <l>el rato que huele mal.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="4">
+        <div type="scene" resp="#rojas" n="5">
           <stage>Vanse. Sale doña Beatriz y Inés y don Félix.</stage>
           <sp who="#félix">
             <speaker rend="caps">Félix</speaker>
@@ -1198,7 +1201,7 @@
             <l>todo lo demás ignoro.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="5">
+        <div type="scene" resp="#rojas" n="6">
           <stage>Al irse sale Leonelo y detiénele.</stage>
           <sp who="#beatriz">
             <speaker rend="caps">Beatriz</speaker>
@@ -1337,7 +1340,7 @@
             <l>rinda belleza a belleza.)</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="6">
+        <div type="scene" resp="#rojas" n="7">
           <stage>Sale don Juan.</stage>
           <sp who="#don-juan">
             <speaker rend="caps">Don Juan</speaker>
@@ -1394,7 +1397,7 @@
             <l>entre a besaros las manos.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="7">
+        <div type="scene" resp="#rojas" n="8">
           <stage>Vase don Juan.</stage>
           <sp who="#beatriz">
             <speaker rend="caps">Beatriz</speaker>
@@ -1429,7 +1432,7 @@
             <l>más alegre su semblante?)</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="8">
+        <div type="scene" resp="#rojas" n="9">
           <stage>Salen don Juan y Rodrigo y trae puesta la cadena y al verle Beatriz hace como que le pesa.</stage>
           <sp who="#rodrigo">
             <speaker rend="caps">Rodrigo</speaker>
@@ -1489,7 +1492,7 @@
             <l>Aquí, Leonelo, te asienta.)</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="9">
+        <div type="scene" resp="#rojas" n="10">
           <stage>Vanse sentando y sale don Diego.</stage>
           <sp who="#don-diego">
             <speaker rend="caps">Don Diego</speaker>
@@ -1852,7 +1855,7 @@
             <l>necedades de discretas.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="10">
+        <div type="scene" resp="#rojas" n="11">
           <stage>Vanse los dos y Leonelo dice al irse.</stage>
           <sp who="#leonelo">
             <speaker rend="caps">Leonelo</speaker>
@@ -1898,7 +1901,7 @@
             <l>para un moro? No hay paciencia.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="11">
+        <div type="scene" resp="#rojas" n="12">
           <stage>Vase.</stage>
           <sp who="#inés">
             <speaker rend="caps">Inés</speaker>
@@ -1974,7 +1977,7 @@
             <l>¡Qué bien engañada queda!)</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="12">
+        <div type="scene" resp="#rojas" n="13">
           <stage>Vanse los dos.</stage>
           <sp who="#beatriz">
             <speaker rend="caps">Beatriz</speaker>
@@ -1992,7 +1995,7 @@
             <l>para que le alabes.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="13">
+        <div type="scene" resp="#rojas" n="14">
           <stage>Vase.</stage>
           <sp who="#beatriz">
             <speaker rend="caps">Beatriz</speaker>
