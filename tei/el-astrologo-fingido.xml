@@ -679,9 +679,21 @@
             <l>y otra en la boca, advirtiendo</l>
             <l>que soy vigilante y fiel.</l>
             <stage>Vase.</stage>
-            <l>María Deste concertado amor</l>
+          </sp>
+          </div>
+        <div type="scene" resp="#rojas" n="4">
+          <sp who="#maría">
+            <speaker rend="caps">María</speaker>
+
+
+            <l>Deste concertado amor</l>
             <l>di, Beatriz, ¿qué te parece?</l>
-            <l>Beatriz Que justamente merece</l>
+          </sp>
+          <sp who="#beatriz">
+            <speaker rend="caps">Beatriz</speaker>
+
+
+            <l>Que justamente merece</l>
             <l>tanta fineza y favor</l>
             <l>don Juan, que es noble y discreto</l>
             <l>como galán.</l>
@@ -704,7 +716,7 @@
             <l>que ofendes el amor mío.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="4">
+        <div type="scene" resp="#rojas" n="5">
           <stage>Salen don Diego y Morón.</stage>
           <sp who="#morón">
             <speaker rend="caps">Morón</speaker>
@@ -753,7 +765,7 @@
             <l>y os querré por no quereros.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="5">
+        <div type="scene" resp="#rojas" n="6">
           <stage>Vase.</stage>
           <sp who="#morón">
             <speaker rend="caps">Morón</speaker>
@@ -853,7 +865,7 @@
             <l>que hoy morís con la esperanza.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="6">
+        <div type="scene" resp="#rojas" n="7">
           <stage>Vase.</stage>
           <sp who="#morón">
             <speaker rend="caps">Morón</speaker>
@@ -976,7 +988,7 @@
             <l>Pues tú me lo dirás.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="7">
+        <div type="scene" resp="#rojas" n="8">
           <stage>Vanse. Salen don Juan y don Carlos, de noche.</stage>
           <sp who="#juan">
             <speaker rend="caps">Juan</speaker>
@@ -1056,7 +1068,7 @@
             <l>Adiós.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="8">
+        <div type="scene" resp="#rojas" n="9">
           <stage>Vase don Juan.</stage>
           <sp who="#carlos">
             <speaker rend="caps">Carlos</speaker>
@@ -1182,7 +1194,7 @@
             <l>la amistad y la belleza).</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="9">
+        <div type="scene" resp="#rojas" n="10">
           <stage>Vase.</stage>
           <sp who="#violante">
             <speaker rend="caps">Violante</speaker>
@@ -1216,7 +1228,7 @@
             <l>la lealtad y la nobleza.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="10">
+        <div type="scene" resp="#rojas" n="11">
           <stage>Vanse. Salen don Juan y Beatriz.</stage>
           <sp who="#beatriz">
             <speaker rend="caps">Beatriz</speaker>
@@ -1269,7 +1281,7 @@
             <l>deja singularidades.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="11">
+        <div type="scene" resp="#rojas" n="12">
           <stage>Sale Morón y don Diego.</stage>
           <sp who="#morón">
             <speaker rend="caps">Morón</speaker>
@@ -1327,7 +1339,7 @@
             <l>mientras voy.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="12">
+        <div type="scene" resp="#rojas" n="13">
           <stage>Vase don Diego.</stage>
           <sp who="#beatriz">
             <speaker rend="caps">Beatriz</speaker>
@@ -1476,7 +1488,7 @@
             <l>Esto para entre los dos.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="13">
+        <div type="scene" resp="#rojas" n="14">
           <stage>Vase.</stage>
           <sp who="#morón">
             <speaker rend="caps">Morón</speaker>
@@ -1492,7 +1504,7 @@
             <l>no se contare en Madrid.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="14">
+        <div type="scene" resp="#rojas" n="15">
           <stage>Sale don Diego.</stage>
           <sp who="#don-diego">
             <speaker rend="caps">Don Diego</speaker>
@@ -1619,7 +1631,7 @@
             <l>Aquí volveré a buscarte.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="15">
+        <div type="scene" resp="#rojas" n="16">
           <stage>Vase Morón. Sale don Antonio.</stage>
           <sp who="#antonio">
             <speaker rend="caps">Antonio</speaker>
@@ -1743,7 +1755,7 @@
             <l>a esta parte retirado.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="16">
+        <div type="scene" resp="#rojas" n="17">
           <stage>Retírase. Entra Carlos.</stage>
           <sp who="#antonio">
             <speaker rend="caps">Antonio</speaker>
@@ -1802,7 +1814,7 @@
             <l>Él os guarde.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="17">
+        <div type="scene" resp="#rojas" n="18">
           <stage>Vase. Sale don Diego.</stage>
           <sp who="#antonio">
             <speaker rend="caps">Antonio</speaker>
@@ -1813,7 +1825,7 @@
             <l>todo su amor.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="18">
+        <div type="scene" resp="#rojas" n="19">
           <stage>Sale Morón.</stage>
           <sp who="#morón">
             <speaker rend="caps">Morón</speaker>
