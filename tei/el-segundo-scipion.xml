@@ -879,10 +879,10 @@
             <l> seáis los dos y pues los fuertes </l>
             <l n="375"> atlantes de Roma a un tiempo </l>
             <l> fama y fortuna os ofrece, </l>
-            <l> a uno en la tierra el bastón, </l>
             <stage> a Lelio </stage>
-            <l> a otro en el mar el tridente, </l>
+            <l> a uno en la tierra el bastón, </l>
             <stage> a Egidio </stage>
+            <l> a otro en el mar el tridente, </l>
             <l> sepa de vuestra arribada </l>
             <l n="380"> qué nuevo bajel es ese, </l>
             <l> y de vuestra marcha qué </l>
@@ -1051,9 +1051,9 @@
           </sp>
           <sp who="#lelio">
             <speaker> LELIO </speaker>
+            <stage> a Luceyo. </stage>
             <l part="I"> Llega, ¿qué esperas? </l>
           </sp>
-          <stage> a Luceyo. </stage>
           <sp who="#luceyo">
             <speaker> LUCEYO </speaker>
             <l part="F"> (Hoy sin duda muero </l>
@@ -1061,9 +1061,9 @@
           </sp>
           <sp who="#egidio">
             <speaker> EGIDIO </speaker>
+            <stage> a Arminda. </stage>
             <l part="F"> Llega, ¿qué aguardas? </l>
           </sp>
-          <stage> a Arminda. </stage>
           <sp who="#arminda">
             <speaker> ARMINDA </speaker>
             <l> ¿Por qué en llegar, fortuna, me acobardas, </l>
