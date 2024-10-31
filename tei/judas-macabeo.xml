@@ -4640,9 +4640,9 @@
             <l>respondiendo a sus voces.</l>
             <l>¡Lisías!</l>
           </sp>
+          <stage>Dentro Lisías.</stage>
           <sp who="#lisías">
             <speaker rend="caps">Lisías</speaker>
-            <stage type="withText">dentro.</stage>
 
 
             <l>¡Cloriquea!</l>
