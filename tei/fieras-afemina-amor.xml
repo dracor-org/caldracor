@@ -283,8 +283,10 @@
 
             <l>¡Ay de aquella que tímida tropieza</l>
             <l>aun en su mesma sombra!</l>
-            <stage>(Vase.) </stage>
           </sp>
+          <stage>(Vase.) </stage>
+        </div>
+        <div type="scene" resp="#rojas" n="4">
           <stage>(Dentro HÉRCULES.) </stage>
           <sp who="#hércules">
             <speaker rend="caps">Hércules</speaker>
@@ -295,7 +297,7 @@
             <l>que si él es el Nemeo, yo el Tebano.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="4">
+        <div type="scene" resp="#rojas" n="5">
           <stage>(Sale LICAS.) </stage>
           <sp who="#licas">
             <speaker rend="caps">[licas]</speaker>
@@ -305,7 +307,7 @@
             <l>tan al revés del otro que huir no puedo?</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="5">
+        <div type="scene" resp="#rojas" n="6">
           <stage>(Sale HÉRCULES, luchando con un león.) </stage>
           <sp who="#hércules">
             <speaker rend="caps">Hércules</speaker>
@@ -608,9 +610,9 @@
             <l>que en sus montes vencí; que en tal tributo</l>
             <l>a su culto, el obsequio no desdice.</l>
           </sp>
+          <stage type="withText">(Dentro voz primera. Hala de cantar EGLE.)</stage>
           <sp who="#voz-primera">
-            <speaker rend="caps">Voz Primera</speaker>
-            <stage type="withText">(Dentro. Hala de cantar EGLE.)</stage>
+            <speaker rend="caps">[Voz Primera]</speaker>
 
 
             <l/>
@@ -734,7 +736,7 @@
             <l>que averiguar una ilusión.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="6">
+        <div type="scene" resp="#rojas" n="7">
           <stage>(Vase.) </stage>
           <sp who="#licas">
             <speaker rend="caps">Licas</speaker>
@@ -1076,7 +1078,6 @@
             <stage type="withText">[Aparte.] </stage>
 
 
-            <l/>
             <l>¿Dragón, dijo?</l>
             <l>¿Qué va que tenemos fiesta</l>
             <l>dragonicina?</l>
@@ -1295,7 +1296,7 @@
             <l>¿Qué importará cuándo salga?</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="7">
+        <div type="scene" resp="#rojas" n="8">
           <stage>(Vase.) </stage>
           <sp who="#licas">
             <speaker rend="caps">Licas</speaker>
@@ -1305,7 +1306,7 @@
             <l>conmigo, antes que contigo.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="8">
+        <div type="scene" resp="#rojas" n="9">
           <stage>(Vase.) </stage>
           <sp who="#hesperia">
             <speaker rend="caps">Hesperia</speaker>
@@ -1376,7 +1377,7 @@
             <l>... no vengue en ti sus ofensas!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="9">
+        <div type="scene" resp="#rojas" n="10">
           <stage>(Éntrase cerrando la puerta y cubriéndose el palacio con los mismos bastidores del bosque. Vuelven por otra parte HÉRCULES y LICAS.)</stage>
           <sp who="#hércules">
             <speaker rend="caps">Hércules</speaker>
@@ -1409,7 +1410,7 @@
             <l>andarán en busca nuestra.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="10">
+        <div type="scene" resp="#rojas" n="11">
           <stage>(Vase.) </stage>
           <sp who="#licas">
             <speaker rend="caps">Licas</speaker>
@@ -1722,7 +1723,7 @@
             <l>es este.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="11">
+        <div type="scene" resp="#rojas" n="12">
           <stage>(Salen LICAS y, por otra parte, soldados que traían una piel del león.)</stage>
           <sp who="#licas">
             <speaker rend="caps">Licas</speaker>
@@ -1779,7 +1780,7 @@
             <l>Aqueloo su amigo.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="12">
+        <div type="scene" resp="#rojas" n="13">
           <stage>(Salen el REY, ANTEO y soldados.)</stage>
           <sp who="#anteo">
             <speaker rend="caps">Anteo</speaker>
@@ -2062,7 +2063,7 @@
             <l>van siguiendo su dulzura.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="13">
+        <div type="scene" resp="#rojas" n="14">
           <stage>(Las cajas, y sale YOLE con sus damas.)</stage>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
@@ -2399,7 +2400,7 @@
             <l>dado a entender su tormento!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="14">
+        <div type="scene" resp="#rojas" n="15">
           <stage>(Vanse.)</stage>
           <sp who="#dama-1">
             <speaker rend="caps">Dama 1</speaker>
@@ -2415,7 +2416,7 @@
             <l>Anteo.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="15">
+        <div type="scene" resp="#rojas" n="16">
           <stage>(Vanse.)</stage>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
