@@ -1190,7 +1190,7 @@
             <l>Y déjame, no me aflijas,</l>
             <l>que no puedo, que no puedo</l>
             <l>decir más ni callar más.</l>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>Grande Júpiter supremo,</l>
             <l n="365">ya que ocasionaste el daño</l>
             <l>acude con el remedio.</l>
@@ -1327,21 +1327,21 @@
           <sp who="#voces">
             <speaker>VOCES</speaker>
             <stage>Dentro.</stage>
-            <l n="445" part="F">To, to,</l>
             <stage>A una parte.</stage>
+            <l n="445" part="F">To, to,</l>
             <l part="I">Barcino.</l>
           </sp>
           <sp who="#lidoro">
             <speaker>LIDORO</speaker>
             <stage>Dentro.</stage>
-            <l part="M">A la cumbre.</l>
             <stage>A otra.</stage>
+            <l part="M">A la cumbre.</l>
           </sp>
           <sp who="#fineo">
             <speaker>FINEO</speaker>
             <stage>Dentro.</stage>
-            <l part="F">Al puerto.</l>
             <stage>A otra.</stage>
+            <l part="F">Al puerto.</l>
           </sp>
           <sp who="#perseo">
             <speaker>PERSEO</speaker>
@@ -1597,7 +1597,7 @@
           <stage>Sale DÁNAE.</stage>
           <sp who="#dánae">
             <speaker>DÁNAE</speaker>
-            <stage>  Aparte. </stage>
+            <stage>[Aparte.]</stage>
             <l part="F">Aquí a Perseo</l>
             <l>en las dudas dejé de mi fortuna;</l>
             <l>vuelvo a buscarle, por si acaso alguna</l>
@@ -1801,7 +1801,7 @@
           </sp>
           <sp who="#perseo">
             <speaker>PERSEO</speaker>
-            <stage>  Aparte. </stage>
+            <stage>[Aparte.]</stage>
             <l part="F">¿Este es el Rey? Sin duda hoy muero.</l>
           </sp>
         </div>
@@ -5250,6 +5250,8 @@
             <l n="1270">sin que a lo lejos su vista</l>
             <l part="I">me mate antes?</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="35">
           <stage>PALAS en una apariencia en alto.</stage>
           <sp who="#palas">
             <speaker>PALAS</speaker>
@@ -7141,6 +7143,8 @@
             <l>¿Y habrá algún bobo después,</l>
             <l>que piense que es verdad esto?</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="20">
           <stage>JUNO en su carroza.</stage>
           <sp who="#juno">
             <speaker>JUNO</speaker>
@@ -7196,7 +7200,7 @@
             <l>dale a Andrómeda la mano.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="20">
+        <div type="scene" resp="#rojas" n="21">
           <stage>Sale FINEO, y vale a dar a PERSEO, y LIDORO le tira una flecha.</stage>
           <sp who="#fineo">
             <speaker>FINEO</speaker>
@@ -7312,6 +7316,8 @@
             <l>¡Viva, viva la gala del gran Perseo,</l>
             <l>que de Júpiter hijo, merece serlo!</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="22">
           <stage>Aparécese JÚPITER en un sol.</stage>
           <sp who="#júpiter">
             <speaker>JÚPITER</speaker>
@@ -7339,7 +7345,6 @@
             <l n="1045"> con dos monstruos vencidos</l>
             <l> en paz dos reinos!</l>
           </sp>
-          <stage>FIN</stage>
         </div>
 
       </div>
