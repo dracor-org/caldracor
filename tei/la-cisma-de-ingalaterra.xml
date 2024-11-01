@@ -193,8 +193,10 @@
 
 
             <l>Yo tengo de borrar cuanto tú escribes.</l>
-            <stage>Vase.</stage>
           </sp>
+          <stage>Vase.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="2">
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
 
@@ -206,7 +208,7 @@
             <l>Oye...</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="2">
+        <div type="scene" resp="#rojas" n="3">
           <stage>Sale el cardenal Volseo.</stage>
           <sp who="#volseo">
             <speaker rend="caps">Volseo</speaker>
@@ -499,7 +501,7 @@
             <l>Triste estoy.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="3">
+        <div type="scene" resp="#rojas" n="4">
           <stage>Vase.</stage>
           <sp who="#volseo">
             <speaker rend="caps">Volseo</speaker>
@@ -547,7 +549,7 @@
             <l>quien Pontífice me hiciere.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="4">
+        <div type="scene" resp="#rojas" n="5">
           <stage>Salen Tomás Boleno, Carlos, francés y Dionís, criado.</stage>
           <sp who="#tomás">
             <speaker rend="caps">Tomás</speaker>
@@ -567,7 +569,7 @@
             <l>no se puede hablar.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="5">
+        <div type="scene" resp="#rojas" n="6">
           <stage>Vase.</stage>
           <sp who="#carlos">
             <speaker rend="caps">Carlos</speaker>
@@ -660,11 +662,11 @@
             <l>lo que es necesario. Adiós.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="6">
+        <div type="scene" resp="#rojas" n="7">
           <stage>Vase.</stage>
           <sp who="#dionís">
             <speaker rend="caps">Dionís</speaker>
-            <stage type="withText">(Aparte.)</stage>
+            <stage type="withText">[Aparte.]</stage>
 
 
             <l>¡Qué triste mi amo está!</l>
@@ -890,7 +892,7 @@
             <l>el resplandor que me ciega.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="7">
+        <div type="scene" resp="#rojas" n="8">
           <stage>Sale Pasquín, vestido ridículamente.</stage>
           <sp who="#pasquín">
             <speaker rend="caps">Pasquín</speaker>
@@ -962,7 +964,7 @@
             <l>¡Notable favor ha sido!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="8">
+        <div type="scene" resp="#rojas" n="9">
           <stage>Salen Ana Bolena, su padre un capitán y acompañamiento por un lado; y por otro la reina la infanta María y Margarita Polo.</stage>
           <sp who="#ana">
             <speaker rend="caps">Ana</speaker>
@@ -972,7 +974,7 @@
             <l>hoy merece mi humildad,</l>
             <l>deme vuestra majestad</l>
             <l>a besar su blanca mano.</l>
-            <stage>Arrodíllase.</stage>
+            <stage>[Arrodíllase.]</stage>
             <l>Llegará mi aliento ufano</l>
             <l>a la esfera de la luna</l>
             <l>y no habrá pena ninguna</l>
@@ -1200,8 +1202,6 @@
             <l>Entrar en su cuarto intento</l>
             <l>a saber de su salud.</l>
           </sp>
-        </div>
-        <div type="scene" resp="#rojas" n="9">
           <stage>Va a entrar.</stage>
           <sp who="#carlos">
             <speaker rend="caps">Carlos</speaker>
@@ -1377,9 +1377,10 @@
             <l>asombro de Ingalaterra</l>
             <l>el hijo del carnicero.</l>
           </sp>
+          <stage>Vase.</stage>
         </div>
         <div type="scene" resp="#rojas" n="15">
-          <stage>Vase. Salen Tomás Boleno y Ana Bolena.</stage>
+           <stage>Salen Tomás Boleno y Ana Bolena.</stage>
           <sp who="#tomás">
             <speaker rend="caps">Tomás</speaker>
 
@@ -1447,9 +1448,10 @@
             <l>la sangre por el honor,</l>
             <l>y no rehusaré tu muerte.</l>
           </sp>
+          <stage>Vase.</stage>
         </div>
         <div type="scene" resp="#rojas" n="16">
-          <stage>Vase. Salen Carlos y Dionís.</stage>
+          <stage>Salen Carlos y Dionís.</stage>
           <sp who="#carlos">
             <speaker rend="caps">Carlos</speaker>
 
@@ -1703,15 +1705,16 @@
             <l>Pues hasta que me dé audiencia,</l>
             <l>que no me vea conviene. Adiós, señora.</l>
           </sp>
+          <stage>Vase.</stage>
         </div>
         <div type="scene" resp="#rojas" n="17">
-          <stage>Vase. Salen el rey, Volseo, la reina, la infanta y damas, y el rey, en viendo a Ana Bolena, se turba.</stage>
+          <stage>Salen el rey, Volseo, la reina, la infanta y damas, y el rey, en viendo a Ana Bolena, se turba.</stage>
           <sp who="#ana">
             <speaker rend="caps">Ana</speaker>
 
 
             <l>Él te guarde.</l>
-            <stage>(Aparte.)</stage>
+            <stage>[Aparte.]</stage>
             <l>Ya será fuerza que llegue</l>
             <l>a pedir la mano al rey.</l>
             <l>¡Otra vez tengo de verme</l>
@@ -1723,7 +1726,7 @@
           <stage>De rodillas.</stage>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
-            <stage type="withText">(Aparte.)</stage>
+            <stage type="withText">Aparte.</stage>
 
 
             <l>¡Qué miro,</l>
@@ -1761,7 +1764,7 @@
           </sp>
           <sp who="#reina">
             <speaker rend="caps">Reina</speaker>
-            <stage type="withText">(Aparte.)</stage>
+            <stage type="withText">Aparte.</stage>
 
 
             <l>¡Qué elevado</l>
@@ -1789,7 +1792,7 @@
           </sp>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
-            <stage type="withText">(Aparte.)</stage>
+            <stage type="withText">[Aparte.]</stage>
 
 
             <l>¿Otra vez, alma, os turbáis?</l>
@@ -1797,6 +1800,7 @@
             <l>sombras en el aire vano?</l>
             <l>¿Otra vez, prodigio humano,</l>
             <l>rendido a tu vista estoy?</l>
+            <stage>A Volseo</stage>
             <l>Ésta es la misma que hoy</l>
             <l>alma de mi sueño ha sido.</l>
             <l>Pues ahora no estoy dormido;</l>
@@ -1813,14 +1817,14 @@
           </sp>
           <sp who="#volseo">
             <speaker rend="caps">Volseo</speaker>
-            <stage type="withText">(Al rey.)</stage>
+            <stage type="withText">[Al rey.]</stage>
 
 
             <l>Disimula.</l>
           </sp>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
-            <stage type="withText">(A Volseo.)</stage>
+            <stage type="withText">[A Volseo.]</stage>
 
 
             <l>A tanta pena</l>
@@ -1848,7 +1852,7 @@
             <l>del sol, mas no será bien</l>
             <l>que vuele más alto quien</l>
             <l>está, señor, a tus plantas.</l>
-            <stage>(Aparte.)</stage>
+            <stage>Aparte.</stage>
             <l>En ellas vivo dichosa</l>
             <l>y en ellas ¡rabiando muero!,</l>
             <l>mayor esfera no quiero.</l>
@@ -1946,7 +1950,7 @@
           <stage>Sale Pasquín.</stage>
           <sp who="#pasquín">
             <speaker rend="caps">Pasquín</speaker>
-            <stage type="withText">(Aparte.)</stage>
+            <stage type="withText">Aparte.</stage>
 
 
             <l>Triste está el rey. ¿De qué sirve</l>
@@ -2050,7 +2054,7 @@
 
             <l>Tengo de ver en qué para</l>
             <l>aquesta nueva locura.</l>
-            <stage>(Aparte.)</stage>
+            <stage>Aparte.</stage>
             <l>Pasquín, yo te hago la gracia.</l>
           </sp>
           <sp who="#pasquín">
@@ -2200,7 +2204,7 @@
           </sp>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
-            <stage type="withText">(Aparte.)</stage>
+            <stage type="withText">Aparte.</stage>
 
 
             <l>¡Qué prolija!</l>
@@ -2213,7 +2217,7 @@
           </sp>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
-            <stage type="withText">(Aparte.)</stage>
+            <stage type="withText">Aparte.</stage>
 
 
             <l>¡Qué cansada!</l>
@@ -2241,7 +2245,7 @@
           </sp>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
-            <stage type="withText">(Aparte.)</stage>
+            <stage type="withText">[Aparte.]</stage>
 
 
             <l>¡Ay de mí!</l>
@@ -2261,7 +2265,7 @@
           </sp>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
-            <stage type="withText">(Aparte a Volseo.)</stage>
+            <stage type="withText">Aparte [a Volseo].</stage>
 
 
             <l>Ya</l>
@@ -2270,7 +2274,7 @@
           </sp>
           <sp who="#volseo">
             <speaker rend="caps">Volseo</speaker>
-            <stage type="withText">(Aparte.)</stage>
+            <stage type="withText">Aparte.</stage>
 
 
             <l>Pues para que no se haga</l>
@@ -2304,7 +2308,7 @@
           </sp>
           <sp who="#volseo">
             <speaker rend="caps">Volseo</speaker>
-            <stage type="withText">(Aparte.)</stage>
+            <stage type="withText">Aparte.</stage>
 
 
             <l>Yo me iré donde dé traza del modo que ha de tener</l>
@@ -2383,10 +2387,9 @@
           </sp>
           <sp who="#pasquín">
             <speaker rend="caps">Pasquín</speaker>
-            <stage type="withText">Vaya.</stage>
 
 
-            <l/>
+            <l>Vaya.</l>
           </sp>
           <sp who="#reina">
             <speaker rend="caps">Reina</speaker>
@@ -2479,7 +2482,7 @@
           </sp>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
-            <stage type="withText">(Aparte.)</stage>
+            <stage type="withText">[Aparte.]</stage>
 
 
             <l>Disimulemos, amor.</l>
@@ -2580,6 +2583,8 @@
 
             <l>Entre.</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="7">
           <stage>Vuelve Tomás Boleno con Carlos.</stage>
           <sp who="#carlos">
             <speaker rend="caps">Carlos</speaker>
@@ -2610,7 +2615,7 @@
             <l>Pues ya, señor, que he llegado</l>
             <l>a verte, en pocas palabras</l>
             <l>diré el fin a que he venido.</l>
-            <stage>(Aparte.)</stage>
+            <stage>Aparte.</stage>
             <l>Si puede decirlo el alma.</l>
             <l>Francisco, de Francia rey,</l>
             <l>para lograr la esperanza</l>
@@ -2661,7 +2666,7 @@
           </sp>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
-            <stage type="withText">(Aparte.)</stage>
+            <stage type="withText">Aparte.</stage>
 
 
             <l>Sí hace;</l>
@@ -2670,7 +2675,7 @@
             <l>cierto es que vivo sin alma.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="7">
+        <div type="scene" resp="#rojas" n="8">
           <stage>Vanse todos y sale Volseo.</stage>
           <sp who="#volseo">
             <speaker rend="caps">Volseo</speaker>
@@ -2725,6 +2730,8 @@
             <l>y mi turbación abone</l>
             <l>el descuido.</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="9">
           <sp who="#ana">
             <speaker rend="caps">Ana</speaker>
 
@@ -2745,12 +2752,12 @@
             <l>y costárame la vida!</l>
             <l>¿A quién le pesa de oír</l>
             <l>nombre tan dulce y suave?</l>
-            <stage>(Aparte.)</stage>
+            <stage>Aparte.</stage>
             <l>¡Ay, dolor! ¡Ay, pena grave!</l>
           </sp>
           <sp who="#volseo">
             <speaker rend="caps">Volseo</speaker>
-            <stage type="withText">(Aparte.)</stage>
+            <stage type="withText">Aparte.</stage>
 
 
             <l>No dices mal. Proseguir puedo.</l>
@@ -2764,8 +2771,8 @@
             <l>que aquestas cosas no son</l>
             <l>para tratadas así.</l>
             <l>El cielo te guarde. Adiós.</l>
-            <l>Hace que se va.</l>
           </sp>
+          <stage>Hace que se va.</stage>
           <sp who="#ana">
             <speaker rend="caps">Ana</speaker>
 
@@ -2920,7 +2927,7 @@
             <l>Él viene.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="8">
+        <div type="scene" resp="#rojas" n="10">
           <stage>Vase.</stage>
           <sp who="#ana">
             <speaker rend="caps">Ana</speaker>
@@ -2940,7 +2947,7 @@
             <l>todo cabe en ser mujer.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="9">
+        <div type="scene" resp="#rojas" n="11">
           <stage>Sale el rey.</stage>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
@@ -2999,8 +3006,8 @@
             <l>Pues aunque merecerte</l>
             <l>como reina pudiera,</l>
             <l>más vale que tú reines y yo muera.</l>
-            <l>Hace que se va.</l>
           </sp>
+          <stage>Hace que se va.</stage>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
 
@@ -3120,7 +3127,7 @@
             <l>Sabe el cielo si quiero.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="10">
+        <div type="scene" resp="#rojas" n="12">
           <stage>Vase.</stage>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
@@ -3129,11 +3136,11 @@
             <l>Y el cielo sabe si rabiando muero.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="11">
+        <div type="scene" resp="#rojas" n="13">
           <stage>Sale Volseo.</stage>
           <sp who="#volseo">
             <speaker rend="caps">Volseo</speaker>
-            <stage type="withText">(Aparte.)</stage>
+            <stage type="withText">Aparte.</stage>
 
 
             <l>¡Con qué grave tristeza</l>
@@ -3192,7 +3199,7 @@
 
 
             <l>Señor, pena tan fiera...</l>
-            <stage>(Aparte.)</stage>
+            <stage>Aparte.</stage>
             <l>Valor, mi lengua mueve;</l>
             <l>aquésta es la ocasión, al sol te atreve.</l>
             <l>... fiero remedio pide.</l>
@@ -3308,13 +3315,13 @@
             <l>Junta los consejeros de mi estado,</l>
             <l>porque las confusiones con que lucho</l>
             <l>nunca permiten que se piense mucho.</l>
-            <stage>(Aparte.)</stage>
+            <stage>Aparte.</stage>
             <l>Que en cosas graves siempre las disculpa</l>
             <l>la prisa con que se hacen.</l>
           </sp>
           <sp who="#volseo">
             <speaker rend="caps">Volseo</speaker>
-            <stage type="withText">(Aparte.)</stage>
+            <stage type="withText">Aparte.</stage>
 
 
             <l>Ya me culpa</l>
@@ -3326,7 +3333,7 @@
             <l>cuando se quiera arrepentir no pueda.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="12">
+        <div type="scene" resp="#rojas" n="14">
           <stage>Vase.</stage>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
@@ -3384,7 +3391,7 @@
             <l>Ésta fue mi desdicha, ésta mi estrella.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="13">
+        <div type="scene" resp="#rojas" n="15">
           <stage>Sale Pasquín.</stage>
           <sp who="#pasquín">
             <speaker rend="caps">Pasquín</speaker>
@@ -3411,7 +3418,7 @@
             <l>voy pisando las sombras de la muerte.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="14">
+        <div type="scene" resp="#rojas" n="16">
           <stage>Vase.</stage>
           <sp who="#pasquín">
             <speaker rend="caps">Pasquín</speaker>
@@ -3427,7 +3434,7 @@
             <l>del que fuere figura iré cobrando.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="15">
+        <div type="scene" resp="#rojas" n="17">
           <stage>Sale por una parte Tomás Boleno y el Capitán, y por otra Carlos y Dionís.</stage>
           <sp who="#tomás">
             <speaker rend="caps">Tomás</speaker>
@@ -3477,7 +3484,7 @@
             <l>Pero ¿cuándo no hay soplo por ser bellas?</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="16">
+        <div type="scene" resp="#rojas" n="18">
           <stage>Salen las damas, córrese una cortina y estarán sentados el rey y la reina con coronas y cetros y la infanta sentada junto a la reina, y Volseo detrás del rey, en pie.</stage>
           <sp who="#carlos">
             <speaker rend="caps">Carlos</speaker>
@@ -3716,7 +3723,7 @@
             <l>¡Qué tiranía!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="17">
+        <div type="scene" resp="#rojas" n="19">
           <stage>Vase.</stage>
           <sp who="#tomás">
             <speaker rend="caps">Tomás</speaker>
@@ -3745,7 +3752,7 @@
             <l>celebre mi desposorio.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="18">
+        <div type="scene" resp="#rojas" n="20">
           <stage>Vanse Carlos y Dionís.</stage>
           <sp who="#reina">
             <speaker rend="caps">Reina</speaker>
@@ -3775,7 +3782,7 @@
             <l>Sirvan de lengua los ojos.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="19">
+        <div type="scene" resp="#rojas" n="21">
           <stage>Estando abrazadas sale Volseo y aparta a la infanta.</stage>
           <sp who="#volseo">
             <speaker rend="caps">Volseo</speaker>
@@ -3814,17 +3821,16 @@
           </sp>
           <sp who="#volseo">
             <speaker rend="caps">Volseo</speaker>
-            <stage type="withText">El rey es docto.</stage>
 
 
-            <l/>
+            <l>El rey es docto.</l>
             <l>Él se aconseja consigo</l>
             <l>y con él yo puedo poco.</l>
             <l>Perdonadme que este gusto</l>
             <l>os quito.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="20">
+        <div type="scene" resp="#rojas" n="22">
           <stage>Vase con la infanta.</stage>
           <sp who="#reina">
             <speaker rend="caps">Reina</speaker>
@@ -3848,7 +3854,7 @@
             <l>a riesgo mi vida pongo.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="21">
+        <div type="scene" resp="#rojas" n="23">
           <stage>Vase.</stage>
           <sp who="#reina">
             <speaker rend="caps">Reina</speaker>
@@ -3871,6 +3877,8 @@
             <l>que es el consuelo que sólo</l>
             <l>a un desdichado le queda?</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="24">
           <sp who="#margarita">
             <speaker rend="caps">Margarita</speaker>
 
@@ -4121,9 +4129,10 @@
 
             <l>Esto es hecho.</l>
           </sp>
+          <stage>Vase.</stage>
         </div>
         <div type="scene" resp="#rojas" n="5">
-          <stage>Vase. Sale Ana Bolena.</stage>
+          <stage>Sale Ana Bolena.</stage>
           <sp who="#volseo">
             <speaker rend="caps">Volseo</speaker>
 
@@ -4305,7 +4314,7 @@
           </sp>
           <sp who="#ana">
             <speaker rend="caps">Ana</speaker>
-            <stage type="withText">(Aparte.)</stage>
+            <stage type="withText">Aparte.</stage>
 
 
             <l>Yo veré</l>
@@ -4383,7 +4392,7 @@
           </sp>
           <sp who="#ana">
             <speaker rend="caps">Ana</speaker>
-            <stage type="withText">(Aparte.)</stage>
+            <stage type="withText">Aparte.</stage>
 
 
             <l>Beso tus pies. Si consigo</l>
@@ -4452,7 +4461,7 @@
           </sp>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
-            <stage type="withText">(Muy severo.)</stage>
+            <stage type="withText">Muy severo.</stage>
 
 
             <l>Bien está,</l>
@@ -4479,7 +4488,7 @@
             <l>con codicia y ambición,</l>
             <l>no los gozaréis, que son</l>
             <l>de aquesos pobres soldados.</l>
-            <stage>(A los soldados.)</stage>
+            <stage>A los soldados.</stage>
             <l>A saquear podréis ir</l>
             <l>sus casas.</l>
           </sp>
@@ -4504,10 +4513,18 @@
             <l>un avaro sin poder</l>
             <l>y sin mando un ambicioso.</l>
           </sp>
+          <stage>Vase.</stage>
         </div>
         <div type="scene" resp="#rojas" n="11">
-          <stage>Vase. S oldado 1º Llegó el deseado efeto que mi suerte pretendió.</stage>
+          <sp who="#soldado-1">
+            <speaker rend="caps">Soldado 1</speaker>
+
+
+            <l>Llegó el deseado efeto que mi suerte pretendió.</l>
+          </sp> 
           <stage>Vase haciendo burla.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="11">
           <sp who="#volseo">
             <speaker rend="caps">Volseo</speaker>
 
@@ -4647,7 +4664,7 @@
           </sp>
           <sp who="#margarita">
             <speaker rend="caps">Margarita</speaker>
-            <stage type="withText">(Canta.)</stage>
+            <stage type="withText">Canta.</stage>
 
 
             <l>Aprended flores de mí</l>
@@ -4733,7 +4750,7 @@
           </sp>
           <sp who="#reina">
             <speaker rend="caps">Reina</speaker>
-            <stage type="withText">(Aparte.)</stage>
+            <stage type="withText">Aparte.</stage>
 
 
             <l>Disimula, Margarita.</l>
@@ -4853,7 +4870,7 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="16">
-          <stage>(Descúbrese.)</stage>
+          <stage>Descúbrese.</stage>
           <sp who="#volseo">
             <speaker rend="caps">Volseo</speaker>
 
@@ -5001,9 +5018,9 @@
             <speaker rend="caps">Dionís</speaker>
 
 
+            <stage>Aparte.</stage>
             <l>¡Oh, qué bien la causa finge</l>
             <l>de haber vuelto!</l>
-            <stage>(Aparte.)</stage>
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="20">
@@ -5030,7 +5047,7 @@
           </sp>
           <sp who="#dionís">
             <speaker rend="caps">Dionís</speaker>
-            <stage type="withText">(Aparte.)</stage>
+            <stage type="withText">[Aparte.]</stage>
 
 
             <l>¡Qué bien finge!</l>
@@ -5062,7 +5079,7 @@
           </sp>
           <sp who="#ana">
             <speaker rend="caps">Ana</speaker>
-            <stage type="withText">(Aparte.)</stage>
+            <stage type="withText">Aparte.</stage>
 
 
             <l>Ya sé que por mí lo dice.</l>
@@ -5185,7 +5202,7 @@
           </sp>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
-            <stage type="withText">(Aparte.)</stage>
+            <stage type="withText">Aparte.</stage>
 
 
             <l>¡Qué oigo!</l>
@@ -5222,9 +5239,10 @@
             <l>entre el amor y el respeto</l>
             <l>el alma dudosa vive.</l>
           </sp>
+          <stage>Vase.</stage>
         </div>
         <div type="scene" resp="#rojas" n="22">
-          <stage>Vase. Sale el rey de donde estaba escondido.</stage>
+          <stage>Sale el rey de donde estaba escondido.</stage>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
 
@@ -5631,6 +5649,7 @@
             <l>a su período mire</l>
             <l>en todo el globo inferior</l>
             <l>el sol, de sus orbes lince?</l>
+            <stage>Tocan dentro.</stage>
             <l>Ya la seña de la jura</l>
             <l>hacen. Quiero prevenirme</l>
             <l>a disimularme afable,</l>
@@ -5644,9 +5663,10 @@
             <l>¡En qué piélagos navega</l>
             <l>de confusiones Enrique!</l>
           </sp>
+          <stage>Vase.</stage>
         </div>
         <div type="scene" resp="#rojas" n="31">
-          <stage>Vase. Tocan chirimías y clarines y salen a la jura los que pudieren y el rey y la infanta, que suben en un trono a cuyos pies en lugar de al-mohada ha de estar el cuerpo de Ana Bolena, cubierto con un tafetán y en estando sentados la descubren.</stage>
+          <stage>Tocan chirimías y clarines y salen a la jura los que pudieren y el rey y la infanta, que suben en un trono a cuyos pies en lugar de almohada ha de estar el cuerpo de Ana Bolena, cubierto con un tafetán y en estando sentados la descubren.</stage>
           <sp who="#infanta">
             <speaker rend="caps">Infanta</speaker>
 
@@ -5767,7 +5787,7 @@
 
             <l>Dices verdad; mas ya es fuerza</l>
             <l>por mi opinión.</l>
-            <stage>(Aparte.)</stage>
+            <stage>Aparte.</stage>
             <l>¡Pobre Enrique!</l>
             <l>¡Qué de daños que te esperan!</l>
             <l>María, moza y mujer</l>
@@ -5840,7 +5860,7 @@
             <l>y si, cuando llegue a reina,</l>
             <l>no fuere del reino a gusto,</l>
             <l>depóngala Ingalaterra.</l>
-            <stage>(A la infanta.)</stage>
+            <stage>A la infanta.</stage>
             <l>Callad y disimulad,</l>
             <l>que tiempo vendrá en que pueda</l>
             <l>ese celo ejecutarse,</l>
@@ -5867,10 +5887,8 @@
           <sp who="#infanta">
             <speaker rend="caps">Infanta</speaker>
 
-
-            <l>Yo la recibo.</l>
             <stage>(Aparte.)</stage>
-            <l>Sin ellas.</l>
+            <l>Yo la recibo sin ellas.</l>
           </sp>
           <stage>Tocan chirimías y bésanla la mano con las ceremonias ordinarias.</stage>
           <sp who="#rey">
@@ -5901,8 +5919,8 @@
             <l>Y aquí acaba la comedia</l>
             <l>del docto ignorante Enrique</l>
             <l>y muerte de Ana Bolena.</l>
-            <stage>FIN</stage>
           </sp>
+          <trailer>FIN</trailer>
         </div>
 
       </div>
