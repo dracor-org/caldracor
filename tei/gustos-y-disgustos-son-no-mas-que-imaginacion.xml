@@ -197,8 +197,11 @@
             <l>entré hasta aquí; pero ya</l>
             <l>que con vos, señora, queda,</l>
             <l>me iré envidiando sus dichas.</l>
-            <l>Caballeros, vamos fuera. Vanse.</l>
+            <l>Caballeros, vamos fuera.</l>
           </sp>
+          <stage>Vanse</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="2">
           <sp who="#violante">
             <speaker rend="caps">Violante</speaker>
 
@@ -383,10 +386,10 @@
             <l>Pues ¿cómo quieres que crea</l>
             <l>en sueños?</l>
           </sp>
-          <stage>Hay ruido dentro.</stage>
+          <stage>Hay ruido dentro, y dice el Rey.</stage>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
-            <stage type="withText">dentro</stage>
+            <stage type="withText">[dentro]</stage>
 
 
             <l>¡Jesús mil veces!</l>
@@ -404,18 +407,18 @@
             <l>En este cercano bosque...</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="2">
+        <div type="scene" resp="#rojas" n="3">
           <stage>Dentro voces y sale Chocolate.</stage>
           <sp who="#vicente">
             <speaker rend="caps">Vicente</speaker>
-            <stage type="withText">dentro</stage>
+            <stage type="withText">[dentro]</stage>
 
 
             <l>¡Qué desdicha!</l>
           </sp>
           <sp who="#guillén">
             <speaker rend="caps">Guillén</speaker>
-            <stage type="withText">dentro</stage>
+            <stage type="withText">[dentro]</stage>
 
 
             <l>¡Qué tragedia!</l>
@@ -506,7 +509,7 @@
             <l>villano, que...</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="3">
+        <div type="scene" resp="#rojas" n="4">
           <stage>Salen don Guillén, don Vicente y el Conde, Traen al Rey desmayado y siéntanle en una silla.</stage>
           <sp who="#guillén">
             <speaker rend="caps">Guillén</speaker>
@@ -561,14 +564,14 @@
           </sp>
           <sp who="#vicente">
             <speaker rend="caps">Vicente</speaker>
-            <stage type="withText">A Violante.</stage>
+            <stage type="withText">[A Violante.]</stage>
 
 
             <l>(¡Qué piadosa estás, Violante!)</l>
           </sp>
           <sp who="#violante">
             <speaker rend="caps">Violante</speaker>
-            <stage type="withText">A Vicente.</stage>
+            <stage type="withText">[A Vicente.]</stage>
 
 
             <l>(Piadosa no, sino cuerda.)</l>
@@ -630,7 +633,7 @@
           </sp>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
-            <stage type="withText">A Violante.</stage>
+            <stage type="withText">[A Violante.]</stage>
 
 
             <l>(Ya no puede ser desdicha</l>
@@ -680,7 +683,7 @@
           </sp>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
-            <stage type="withText">A Violante.</stage>
+            <stage type="withText">[A Violante.]</stage>
 
 
             <l>(No me he de quedar, Violante,</l>
@@ -832,7 +835,7 @@
           </sp>
           <sp who="#guillén">
             <speaker rend="caps">Guillén</speaker>
-            <stage type="withText">Al Rey.</stage>
+            <stage type="withText">[Al Rey.]</stage>
 
 
             <l>(Bien has hecho, porque tengo</l>
@@ -843,13 +846,15 @@
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
 
-
+            <stage>Aparte</stage>
             <l>(¡Ah, bellísima Violante,</l>
             <l>qué de pesares me cuestas!</l>
             <l>Pero, pues mi amor no basta,</l>
             <l>yo me valdré de la fuerza.)</l>
-            <stage>Vanse.</stage>
           </sp>
+          <stage>Vanse.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="5">
           <stage>Todos vuelven con la Reina.</stage>
           <sp who="#reina">
             <speaker rend="caps">Reina</speaker>
@@ -861,11 +866,11 @@
             <l>¡Denme los cielos paciencia!)</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="4">
+        <div type="scene" resp="#rojas" n="6">
           <stage>Vase con Elvira.</stage>
           <sp who="#vicente">
             <speaker rend="caps">Vicente</speaker>
-            <stage type="withText">A Violante.</stage>
+            <stage type="withText">[A Violante.]</stage>
 
 
             <l>(Estarás con los estremos</l>
@@ -873,7 +878,7 @@
           </sp>
           <sp who="#violante">
             <speaker rend="caps">Violante</speaker>
-            <stage type="withText">A Vicente.</stage>
+            <stage type="withText">[A Vicente.]</stage>
 
 
             <l>(Quien no me ve cuando puede,</l>
@@ -938,7 +943,7 @@
             <l>lo sean y lo parezcan.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="5">
+        <div type="scene" resp="#rojas" n="7">
           <stage>Vase con Violante.</stage>
           <sp who="#vicente">
             <speaker rend="caps">Vicente</speaker>
@@ -1123,7 +1128,7 @@
             <stage>Vanse.</stage>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="6">
+        <div type="scene" resp="#rojas" n="8">
           <stage>Sale Leonor, dueña.</stage>
           <sp who="#leonor">
             <speaker rend="caps">Leonor</speaker>
@@ -1180,7 +1185,7 @@
             <l>y venga lo que viniere.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="7">
+        <div type="scene" resp="#rojas" n="9">
           <stage>Salen Violante y el Conde.</stage>
           <sp who="#conde">
             <speaker rend="caps">Conde</speaker>
@@ -1267,7 +1272,7 @@
             <l>conmigo en él cenarás.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="8">
+        <div type="scene" resp="#rojas" n="10">
           <stage>Vase.</stage>
           <sp who="#violante">
             <speaker rend="caps">Violante</speaker>
@@ -1305,7 +1310,7 @@
             <l>por aquesta calle?</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="9">
+        <div type="scene" resp="#rojas" n="11">
           <stage>Salen don Vicente y Chocolate, como escuchando.</stage>
           <sp who="#vicente">
             <speaker rend="caps">Vicente</speaker>
@@ -1346,7 +1351,7 @@
           <sp who="#leonor">
             <speaker rend="caps">Leonor</speaker>
 
-
+            <stage>Aparte</stage>
             <l>(¿Hay pena más inhumana?)</l>
           </sp>
           <sp who="#violante">
@@ -1358,7 +1363,7 @@
           <sp who="#leonor">
             <speaker rend="caps">Leonor</speaker>
 
-
+            <stage>Aparte</stage>
             <l>(¡Ay Dios! ¿Quién quitar pudiera</l>
             <l>la cuerda de la ventana?)</l>
           </sp>
@@ -1500,9 +1505,11 @@
             <l>sin dejar de ser mi dama;</l>
             <l>luego...</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="12">
+          <stage>Dentro el Conde.</stage>
           <sp who="#conde">
             <speaker rend="caps">Conde</speaker>
-            <stage type="withText">dentro</stage>
 
 
             <l>¿Violante?</l>
@@ -1557,8 +1564,8 @@
             <l>marido que da temores.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="10">
-          <stage>Vanse Violante y Leonor y llévanse las luces.</stage>
+        <div type="scene" resp="#rojas" n="13">
+          <stage>Vanse [Violante y Leonor ]y llévanse las luces.</stage>
           <sp who="#chocolate">
             <speaker rend="caps">Chocolate</speaker>
 
@@ -1659,7 +1666,7 @@
             <l>Callar y hablar es error.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="11">
+        <div type="scene" resp="#rojas" n="14">
           <stage>Sale el rey don Pedro.</stage>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
@@ -1670,7 +1677,7 @@
           </sp>
           <sp who="#vicente">
             <speaker rend="caps">Vicente</speaker>
-            <stage type="withText">A Chocolate.</stage>
+            <stage type="withText">[A Chocolate.]</stage>
 
 
             <l>(Pero ¿tendré sufrimiento</l>
@@ -1680,7 +1687,7 @@
           </sp>
           <sp who="#chocolate">
             <speaker rend="caps">Chocolate</speaker>
-            <stage type="withText">A Vicente.</stage>
+            <stage type="withText">[A Vicente.]</stage>
 
 
             <l>(¡Detente!)</l>
@@ -1697,7 +1704,7 @@
           </sp>
           <sp who="#chocolate">
             <speaker rend="caps">Chocolate</speaker>
-            <stage type="withText">A Vicente.</stage>
+            <stage type="withText">[A Vicente.]</stage>
 
 
             <l>(No te despeñes así</l>
@@ -1720,7 +1727,7 @@
           </sp>
           <sp who="#vicente">
             <speaker rend="caps">Vicente</speaker>
-            <stage type="withText">A Chocolate.</stage>
+            <stage type="withText">[A Chocolate.]</stage>
 
 
             <l>(No detiene mi furor</l>
@@ -1740,7 +1747,7 @@
           </sp>
           <sp who="#chocolate">
             <speaker rend="caps">Chocolate</speaker>
-            <stage type="withText">A Vicente.</stage>
+            <stage type="withText">[A Vicente.]</stage>
 
 
             <l>(Ya en escondernos tardamos,</l>
@@ -1758,7 +1765,7 @@
             <l>de haberlo visto primero.)</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="12">
+        <div type="scene" resp="#rojas" n="15">
           <stage>Escóndense; y salen Leonor y Violante con luz.</stage>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
@@ -1901,7 +1908,7 @@
             <l>mi ventura y tu pesar?</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="13">
+        <div type="scene" resp="#rojas" n="16">
           <stage>Sale Vicente.</stage>
           <sp who="#vicente">
             <speaker rend="caps">Vicente</speaker>
@@ -1969,7 +1976,7 @@
             <l>Es amor.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="14">
+        <div type="scene" resp="#rojas" n="17">
           <stage>Sale el Conde y cúbrense los rostros.</stage>
           <sp who="#conde">
             <speaker rend="caps">Conde</speaker>
@@ -2025,7 +2032,7 @@
             <l>Su Majestad lo dirá.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="15">
+        <div type="scene" resp="#rojas" n="18">
           <stage>Vase y descúbrese el Rey.</stage>
           <sp who="#conde">
             <speaker rend="caps">Conde</speaker>
@@ -2048,7 +2055,7 @@
             <l>Don Vicente os lo dirá.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="16">
+        <div type="scene" resp="#rojas" n="19">
           <stage>Vase.</stage>
           <sp who="#conde">
             <speaker rend="caps">Conde</speaker>
@@ -2157,7 +2164,7 @@
             <l>se hablan mejor sin testigos.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="17">
+        <div type="scene" resp="#rojas" n="20">
           <stage>Vase.</stage>
           <sp who="#vicente">
             <speaker rend="caps">Vicente</speaker>
@@ -2234,7 +2241,7 @@
           <sp who="#conde">
             <speaker rend="caps">Conde</speaker>
 
-
+            <stage>Aparte</stage>
             <l>(Pendiente de un hilo</l>
             <l>el alma tengo.)</l>
           </sp>
@@ -2250,7 +2257,7 @@
           <sp who="#conde">
             <speaker rend="caps">Conde</speaker>
 
-
+            <stage>Aparte</stage>
             <l>(No sé cómo vivo.)</l>
           </sp>
           <sp who="#vicente">
@@ -2398,6 +2405,7 @@
             <l>y ya el daño sucedido,</l>
             <l>solicito deshacerle,</l>
             <l>no aumentarle solicito.</l>
+            <stage>Aparte</stage>
             <l>(Pues aunque sienta casarla</l>
             <l>con el que fue mi enemigo,</l>
             <l>sintiera más ver mi honor</l>
@@ -2510,6 +2518,8 @@
             <l>Juntos vienen los dos, de que confio</l>
             <l>que paz habrán ya hecho.</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="2">
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
 
@@ -2518,7 +2528,7 @@
           </sp>
           <sp who="#vicente">
             <speaker rend="caps">Vicente</speaker>
-            <stage type="withText">Al Conde.</stage>
+            <stage type="withText">[Al Conde.]</stage>
 
 
             <l>(Esperando en aquesta</l>
@@ -2528,7 +2538,7 @@
           </sp>
           <sp who="#conde">
             <speaker rend="caps">Conde</speaker>
-            <stage type="withText">A Vicente.</stage>
+            <stage type="withText">[A Vicente.]</stage>
 
 
             <l>(Muy bien hicisteis</l>
@@ -2539,7 +2549,7 @@
           </sp>
           <sp who="#vicente">
             <speaker rend="caps">Vicente</speaker>
-            <stage type="withText">Al Conde.</stage>
+            <stage type="withText">[Al Conde.]</stage>
 
 
             <l>(Aunque prevengas</l>
@@ -2563,14 +2573,14 @@
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
 
-
+            <stage>Aparte</stage>
             <l>(De nada me daré por entendido</l>
             <l>mientras no se declare.)</l>
           </sp>
           <sp who="#vicente">
             <speaker rend="caps">Vicente</speaker>
 
-
+            <stage>Aparte</stage>
             <l>(¡Piedad, cielo,</l>
             <l>en tanta confusión!)</l>
           </sp>
@@ -2644,6 +2654,7 @@
 
 
             <l>Bien dices. Está bien. Sea norabuena.</l>
+            <stage>Aparte</stage>
             <l>(¡Que dé yo parabienes de mi pena!</l>
             <l>Mas, reportaos, desvelos;</l>
             <l>no reventéis la mina de mis celos.)</l>
@@ -2682,7 +2693,7 @@
             <l>que nada os doy, pues todo era ya vuestro.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="2">
+        <div type="scene" resp="#rojas" n="3">
           <stage>Vanse.</stage>
           <sp who="#guillén">
             <speaker rend="caps">Guillén</speaker>
@@ -2867,7 +2878,7 @@
             <stage>Vanse.</stage>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="3">
+        <div type="scene" resp="#rojas" n="4">
           <stage>Salen Violante y Leonor.</stage>
           <sp who="#leonor">
             <speaker rend="caps">Leonor</speaker>
@@ -2937,7 +2948,7 @@
             <l>es que trata de vengarle.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="4">
+        <div type="scene" resp="#rojas" n="5">
           <stage>Sale Chocolate.</stage>
           <sp who="#chocolate">
             <speaker rend="caps">Chocolate</speaker>
@@ -3041,9 +3052,10 @@
             <l>Di a don Vicente que yo</l>
             <l>estoy...</l>
           </sp>
+          <stage>Dentro el Conde</stage>
           <sp who="#conde">
             <speaker rend="caps">Conde</speaker>
-            <stage type="withText">dentro</stage>
+            <stage type="withText">[dentro]</stage>
 
 
             <l>Esperad; que antes</l>
@@ -3073,7 +3085,7 @@
             <l>mi fortuna!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="5">
+        <div type="scene" resp="#rojas" n="6">
           <stage>Sale el Conde.</stage>
           <sp who="#chocolate">
             <speaker rend="caps">Chocolate</speaker>
@@ -3215,7 +3227,7 @@
             <l>Que me place.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="6">
+        <div type="scene" resp="#rojas" n="7">
           <stage>Vase.</stage>
           <sp who="#violante">
             <speaker rend="caps">Violante</speaker>
@@ -3252,7 +3264,7 @@
             <l>(Aquí es “requiescat in pace”.)</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="7">
+        <div type="scene" resp="#rojas" n="8">
           <stage>Vase y sale don Vicente al paño.</stage>
           <sp who="#vicente">
             <speaker rend="caps">Vicente</speaker>
@@ -3309,6 +3321,7 @@
             <speaker rend="caps">Violante</speaker>
 
 
+            <stage>Aparte</stage>
             <l>(Mis infelicidades</l>
             <l>¿qué esperan? Pues no serán</l>
             <l>bodas que su gusto hace</l>
@@ -3344,6 +3357,7 @@
             <speaker rend="caps">Violante</speaker>
 
 
+            <stage>Aparte</stage>
             <l>(Él solicita</l>
             <l>con este engaño informarse</l>
             <l>de la verdad de mi amor</l>
@@ -3380,6 +3394,7 @@
             <l>Cuando pensé que te echases</l>
             <l>a mis pies agradecida,</l>
             <l>¿con estos estremos sales?</l>
+            <stage>Aparte</stage>
             <l>(¿Qué fuera que don Vicente</l>
             <l>a mí anoche me engañase</l>
             <l>por librarse y conseguir</l>
@@ -3404,7 +3419,7 @@
             <l>que ya os espera Violante.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="8">
+        <div type="scene" resp="#rojas" n="9">
           <stage>Sale muy triste don Vicente.</stage>
           <sp who="#violante">
             <speaker rend="caps">Violante</speaker>
@@ -3423,6 +3438,7 @@
             <speaker rend="caps">Violante</speaker>
 
 
+            <stage>Aparte</stage>
             <l>(¿Hay cosa como rogarme</l>
             <l>lo mismo que yo deseo?)</l>
           </sp>
@@ -3477,7 +3493,7 @@
             <l>Después, no se queje nadie.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="9">
+        <div type="scene" resp="#rojas" n="10">
           <stage>Vase.</stage>
           <sp who="#violante">
             <speaker rend="caps">Violante</speaker>
@@ -3535,7 +3551,7 @@
             <l>pues ya la noche la sabe.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="10">
+        <div type="scene" resp="#rojas" n="11">
           <stage>Salen Leonor y Chocolate, cada uno por su parte.</stage>
           <sp who="#leonor">
             <speaker rend="caps">Leonor</speaker>
@@ -3636,7 +3652,7 @@
             <l>pues más feliz...</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="11">
+        <div type="scene" resp="#rojas" n="12">
           <stage>Sale don Guillén.</stage>
           <sp who="#guillén">
             <speaker rend="caps">Guillén</speaker>
@@ -3691,6 +3707,7 @@
             <speaker rend="caps">Vicente</speaker>
 
 
+            <stage>Aparte</stage>
             <l>(¡Cuidado, penas; que viene</l>
             <l>envuelto en flores el áspid!)</l>
             <l>Ésta es para mí.</l>
@@ -3712,6 +3729,7 @@
             <l>la vuelta de Mallorca, donde con título de maestre de campo sirváis</l>
             <l>aquella campaña. Y no os vengáis hasta que esté acabada.”</l>
             <l>No es menor la merced mía.</l>
+            <stage>Aparte</stage>
             <l>(¡Dejadme, penas, dejadme;</l>
             <l>y lo que la voz no dice,</l>
             <l>haced que el color lo calle!)</l>
@@ -3726,7 +3744,7 @@
             <l>Quedad con Dios.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="12">
+        <div type="scene" resp="#rojas" n="13">
           <stage>Vase.</stage>
           <sp who="#vicente">
             <speaker rend="caps">Vicente</speaker>
@@ -3769,7 +3787,7 @@
           </sp>
           <sp who="#leonor">
             <speaker rend="caps">Leonor</speaker>
-            <stage type="withText">A Chocolate.</stage>
+            <stage type="withText">[A Chocolate.]</stage>
 
 
             <l>(¿Qué es aquesto, Chocolate?)</l>
@@ -3781,7 +3799,7 @@
             <l>(Allá lo mormuraremos.)</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="13">
+        <div type="scene" resp="#rojas" n="14">
           <stage>Vanse.</stage>
           <sp who="#vicente">
             <speaker rend="caps">Vicente</speaker>
@@ -3974,7 +3992,7 @@
             <l>Noble eres. Adiós, Violante.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="14">
+        <div type="scene" resp="#rojas" n="15">
           <stage>Vanse y salen la Reina y Elvira.</stage>
           <sp who="#reina">
             <speaker rend="caps">Reina</speaker>
@@ -4137,8 +4155,8 @@
             <l>y que a él bajen.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="15">
-          <stage>Vase Elvira y sale con manto Violante.</stage>
+        <div type="scene" resp="#rojas" n="16">
+          <stage>Vase [Elvira y] sale con manto Violante.</stage>
           <sp who="#violante">
             <speaker rend="caps">Violante</speaker>
 
@@ -4258,7 +4276,7 @@
             <l>que te lo he pedido yo.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="16">
+        <div type="scene" resp="#rojas" n="17">
           <stage>Llega Violante a la puerta y sale el Conde.</stage>
           <sp who="#conde">
             <speaker rend="caps">Conde</speaker>
@@ -4296,7 +4314,7 @@
             <l>hasta venir don Vicente.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="17">
+        <div type="scene" resp="#rojas" n="18">
           <stage>Vanse.</stage>
           <sp who="#conde">
             <speaker rend="caps">Conde</speaker>
@@ -4314,11 +4332,10 @@
             <l>esto acaso y sin cuidado?</l>
             <l>¡Qué propio es de un desdichado</l>
             <l>que siempre contra sí crea!</l>
-            <stage>Vase.</stage>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="18">
-          <stage>Salen el Rey y don Guillén con capas de noche.</stage>
+        <div type="scene" resp="#rojas" n="19">
+          <stage>Vanse y salen el Rey y don Guillén con capas de noche.</stage>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
 
@@ -4372,7 +4389,7 @@
             <l>ué ha sido.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="19">
+        <div type="scene" resp="#rojas" n="20">
           <stage>Vase.</stage>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
@@ -4385,7 +4402,7 @@
             <l>batallando con mi amor!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="20">
+        <div type="scene" resp="#rojas" n="21">
           <stage>Sale don Guillén.</stage>
           <sp who="#guillén">
             <speaker rend="caps">Guillén</speaker>
@@ -4455,7 +4472,7 @@
             <l>acompaña alguna voz.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="21">
+        <div type="scene" resp="#rojas" n="22">
           <stage>Cantan dentro y a una ventana baja sale Violante.</stage>
           <sp who="#música">
             <speaker rend="caps">Música</speaker>
@@ -4523,6 +4540,7 @@
             <speaker rend="caps">Violante</speaker>
 
 
+            <stage>Aparte</stage>
             <l>(No es la voz de don Vicente;</l>
             <l>ni conozco cúya es.</l>
             <l>Pero donde hay tantas damas</l>
@@ -4573,6 +4591,7 @@
             <speaker rend="caps">Violante</speaker>
 
 
+            <stage>Aparte</stage>
             <l>(Sin duda alguna criado es</l>
             <l>o amigo de don Vicente,</l>
             <l>que a disculparse por él</l>
@@ -4611,12 +4630,12 @@
             <l>el... Mas luego os lo diré,</l>
             <l>que viene gente y es fuerza</l>
             <l>retirarme hasta después.</l>
-            <stage>A Guillén.</stage>
+            <stage>[A Guillén.]</stage>
             <l>(No vean éstos que aquí estamos.</l>
             <l>Demos la vuelta, Guillén.)</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="22">
+        <div type="scene" resp="#rojas" n="23">
           <stage>Salen don Vicente y Chocolate de camino; y el Rey y don Guillén se van por otra parte.</stage>
           <sp who="#violante">
             <speaker rend="caps">Violante</speaker>
@@ -4632,7 +4651,7 @@
             <l>estando en la calle el Rey.)</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="23">
+        <div type="scene" resp="#rojas" n="24">
           <stage>Vase.</stage>
           <sp who="#vicente">
             <speaker rend="caps">Vicente</speaker>
@@ -4703,7 +4722,7 @@
             <l>No preguntes disparates.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="24">
+        <div type="scene" resp="#rojas" n="25">
           <stage>Vanse los dos; sale la Reina a la misma ventana y Elvira; y vuelven por otra parte, o puerta, el Rey y don Guillén.</stage>
           <sp who="#reina">
             <speaker rend="caps">Reina</speaker>
@@ -4724,11 +4743,11 @@
             <l>voy, señora.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="25">
+        <div type="scene" resp="#rojas" n="26">
           <stage>Vase.</stage>
           <sp who="#guillén">
             <speaker rend="caps">Guillén</speaker>
-            <stage type="withText">Al Rey.</stage>
+            <stage type="withText">[Al Rey.]</stage>
 
 
             <l>(Ya se fue</l>
@@ -4736,7 +4755,7 @@
           </sp>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
-            <stage type="withText">A Guillén.</stage>
+            <stage type="withText">[A Guillén.]</stage>
 
 
             <l>(Alguien que pasaba</l>
@@ -4779,6 +4798,7 @@
             <speaker rend="caps">Reina</speaker>
 
 
+            <stage>Aparte</stage>
             <l>(¡Válgame el cielo! ¿Qué escucho?</l>
             <l>A mi fortuna crüel</l>
             <l>sólo celos le faltaban</l>
@@ -4797,6 +4817,7 @@
             <speaker rend="caps">Reina</speaker>
 
 
+            <stage>Aparte</stage>
             <l>(De confusa y de turbada,</l>
             <l>no le acierto a responder;</l>
             <l>pero pues de mi voz tiene</l>
@@ -4892,18 +4913,18 @@
             <stage>Vase.</stage>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="26">
+        <div type="scene" resp="#rojas" n="27">
           <stage>Salen don Vicente y Chocolate.</stage>
           <sp who="#vicente">
             <speaker rend="caps">Vicente</speaker>
-            <stage type="withText">A Chocolate.</stage>
+            <stage type="withText">[A Chocolate.]</stage>
 
 
             <l>(Un hombre a la reja está.)</l>
           </sp>
           <sp who="#chocolate">
             <speaker rend="caps">Chocolate</speaker>
-            <stage type="withText">A Vicente.</stage>
+            <stage type="withText">[A Vicente.]</stage>
 
 
             <l>(Penante debe de ser</l>
@@ -4912,7 +4933,7 @@
           </sp>
           <sp who="#vicente">
             <speaker rend="caps">Vicente</speaker>
-            <stage type="withText">A Chocolate.</stage>
+            <stage type="withText">[A Chocolate.]</stage>
 
 
             <l>(Retírate tú de aquí;</l>
@@ -4922,7 +4943,7 @@
           </sp>
           <sp who="#chocolate">
             <speaker rend="caps">Chocolate</speaker>
-            <stage type="withText">A Vicente.</stage>
+            <stage type="withText">[A Vicente.]</stage>
 
 
             <l>(Allí me estaré,</l>
@@ -4930,7 +4951,7 @@
             <l>desta aventura con bien.)</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="27">
+        <div type="scene" resp="#rojas" n="28">
           <stage>Vase.</stage>
           <sp who="#vicente">
             <speaker rend="caps">Vicente</speaker>
@@ -4959,7 +4980,7 @@
           <stage>Elvira a la reja.</stage>
           <sp who="#elvira">
             <speaker rend="caps">Elvira</speaker>
-            <stage type="withText">A la Reina.</stage>
+            <stage type="withText">[A la Reina.]</stage>
 
 
             <l>(Todas las damas, señora,</l>
@@ -5026,21 +5047,23 @@
           </sp>
           <sp who="#elvira">
             <speaker rend="caps">Elvira</speaker>
-            <stage type="withText">A la Reina.</stage>
+            <stage type="withText">[A la Reina.]</stage>
 
 
             <l>(Qué es aquesto?)</l>
           </sp>
           <sp who="#reina">
             <speaker rend="caps">Reina</speaker>
-            <stage type="withText">A Elvira.</stage>
+            <stage type="withText">[A Elvira.]</stage>
 
 
             <l>(¿Qué ha de ser?</l>
             <l>Apurar una desdicha.</l>
             <l>Ven que yo te lo diré.)</l>
-            <stage>Vanse.</stage>
           </sp>
+          <stage>Vanse.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="29">
           <stage>Llega don Vicente al Rey.</stage>
           <sp who="#vicente">
             <speaker rend="caps">Vicente</speaker>
@@ -5119,7 +5142,7 @@
             <l>vayas.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="28">
+        <div type="scene" resp="#rojas" n="30">
           <stage>Sale Guillén.</stage>
           <sp who="#guillén">
             <speaker rend="caps">Guillén</speaker>
@@ -5141,7 +5164,7 @@
             <l>Pues vamos los dos tras dél.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="29">
+        <div type="scene" resp="#rojas" n="31">
           <stage>Vanse.</stage>
           <sp who="#vicente">
             <speaker rend="caps">Vicente</speaker>
@@ -5276,8 +5299,8 @@
 
 
             <l>No me quitaré de allí.</l>
-            <stage>Vase.</stage>
           </sp>
+          <stage>Vase.</stage>
         </div>
         <div type="scene" resp="#rojas" n="2">
           <stage>Sale la Reina a la reja.</stage>
@@ -5473,7 +5496,7 @@
           </sp>
           <sp who="#guillén">
             <speaker rend="caps">Guillén</speaker>
-            <stage type="withText">dentro</stage>
+            <stage type="withText">[dentro]</stage>
 
 
             <l>Más; que tengo de apurar</l>
@@ -5481,7 +5504,7 @@
           </sp>
           <sp who="#chocolate">
             <speaker rend="caps">Chocolate</speaker>
-            <stage type="withText">dentro</stage>
+            <stage type="withText">[dentro]</stage>
 
 
             <l>Ese es caso fuerte.</l>
@@ -5518,7 +5541,7 @@
           <stage>Vase.</stage>
           <sp who="#guillén">
             <speaker rend="caps">Guillén</speaker>
-            <stage type="withText">dentro</stage>
+            <stage type="withText">[dentro]</stage>
 
 
             <l>Aunque me rinda a la muerte,</l>
@@ -5605,7 +5628,7 @@
           <stage>Dentro, como cayendo en el tablado.</stage>
           <sp who="#chocolate">
             <speaker rend="caps">Chocolate</speaker>
-            <stage type="withText">dentro</stage>
+            <stage type="withText">[dentro]</stage>
 
 
             <l>¡Jesús mil veces!</l>
@@ -5632,7 +5655,7 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="6">
-          <stage>Sale Chocolate.</stage>
+          <stage>[Sale Chocolate.]</stage>
           <sp who="#chocolate">
             <speaker rend="caps">Chocolate</speaker>
 
@@ -5799,7 +5822,7 @@
           </sp>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
-            <stage type="withText">A Guillén.</stage>
+            <stage type="withText">[A Guillén.]</stage>
 
 
             <l>(Esto está peor que estaba,</l>
@@ -5809,7 +5832,7 @@
           </sp>
           <sp who="#guillén">
             <speaker rend="caps">Guillén</speaker>
-            <stage type="withText">Al Rey.</stage>
+            <stage type="withText">[Al Rey.]</stage>
 
 
             <l>(Claro se infiere</l>
@@ -5818,7 +5841,7 @@
           </sp>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
-            <stage type="withText">A Guillén.</stage>
+            <stage type="withText">[A Guillén.]</stage>
 
 
             <l>(Dar cuenta a Violante importa</l>
@@ -5828,7 +5851,7 @@
           </sp>
           <sp who="#guillén">
             <speaker rend="caps">Guillén</speaker>
-            <stage type="withText">Al Rey.</stage>
+            <stage type="withText">[Al Rey.]</stage>
 
 
             <l>(Un billete</l>
@@ -5836,7 +5859,7 @@
           </sp>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
-            <stage type="withText">A Guillén.</stage>
+            <stage type="withText">[A Guillén.]</stage>
 
 
             <l>(A tanto empeño</l>
@@ -5845,7 +5868,7 @@
           </sp>
           <sp who="#guillén">
             <speaker rend="caps">Guillén</speaker>
-            <stage type="withText">Al Rey.</stage>
+            <stage type="withText">[Al Rey.]</stage>
 
 
             <l>(¿Cómo piensas</l>
@@ -5853,7 +5876,7 @@
           </sp>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
-            <stage type="withText">A Guillén.</stage>
+            <stage type="withText">[A Guillén.]</stage>
 
 
             <l>(Desta suerte...)</l>
@@ -5867,7 +5890,7 @@
           </sp>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
-            <stage type="withText">A Guillén.</stage>
+            <stage type="withText">[A Guillén.]</stage>
 
 
             <l>(Iré a la quinta diciendo</l>
@@ -5901,7 +5924,7 @@
           </sp>
           <sp who="#guillén">
             <speaker rend="caps">Guillén</speaker>
-            <stage type="withText">Al Rey.</stage>
+            <stage type="withText">[Al Rey.]</stage>
 
 
             <l>(Advierte,</l>
@@ -5909,7 +5932,7 @@
           </sp>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
-            <stage type="withText">A Guillén.</stage>
+            <stage type="withText">[A Guillén.]</stage>
 
 
             <l>(No es</l>
@@ -5918,7 +5941,7 @@
           </sp>
           <sp who="#guillén">
             <speaker rend="caps">Guillén</speaker>
-            <stage type="withText">Al Rey.</stage>
+            <stage type="withText">[Al Rey.]</stage>
 
 
             <l>(¿No miras</l>
@@ -5927,7 +5950,7 @@
           </sp>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
-            <stage type="withText">A Guillén.</stage>
+            <stage type="withText">[A Guillén.]</stage>
 
 
             <l>(Dices bien; fuerza es que espere</l>
@@ -6315,8 +6338,8 @@
             <l>propias y atentas mujeres,</l>
             <l>es decirlas que se atrevan</l>
             <l>el decirlas que las temen.</l>
-            <stage>Vase.</stage>
           </sp>
+          <stage>Vase.</stage>
         </div>
         <div type="scene" resp="#rojas" n="10">
           <stage>Salen la Reina y Elvira.</stage>
@@ -8123,14 +8146,14 @@
           <stage>Dentro don Guillén y el Conde; y Violante dentro por otra parte; y Elvira saca luces por en medio dellos; y salen todos los demás.</stage>
           <sp who="#guillén">
             <speaker rend="caps">Guillén</speaker>
-            <stage type="withText">dentro</stage>
+            <stage type="withText">[dentro]</stage>
 
 
             <l>¡Ruido en el jardín se oyó!</l>
           </sp>
           <sp who="#elvira">
             <speaker rend="caps">Elvira</speaker>
-            <stage type="withText">dentro</stage>
+            <stage type="withText">[dentro]</stage>
 
 
             <l>Aunque la Reina no llame,</l>
@@ -8210,6 +8233,7 @@
             <speaker rend="caps">Rey</speaker>
 
 
+            <stage>Aparte</stage>
             <l>(Aunque pudiera ofenderme</l>
             <l>deste padecido error,</l>
             <l>con la que hablé se halla ya</l>
@@ -8298,6 +8322,7 @@
             <l>que el gusto y disgusto son</l>
             <l>no más que imaginación.</l>
           </sp>
+          <trailer>FIN</trailer>
         </div>
 
       </div>
