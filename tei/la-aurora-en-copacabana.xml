@@ -359,7 +359,7 @@
             <l part="I">¡Tierra, tierra!</l>
           </sp>
           <sp who="#marineros">
-            <speaker>[OTROS</speaker>
+            <speaker>[OTROS]</speaker>
             <l part="F">¡Tierra, tierra!]</l>
           </sp>
           <sp who="#guáscar-inga">
@@ -448,7 +448,7 @@
           </sp>
           <sp who="#tucapel">
             <speaker>TUCAPEL</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F">El de una</l>
             <l>mujer, y según las señas</l>
             <l part="I">sacerdotisa.</l>
@@ -483,7 +483,7 @@
             <l n="140">a su deidad consagradas,</l>
             <l part="I">¿qué es esto?</l>
             <stage>Aparte.</stage>
-            <l part="F">Hablar puedo apenas,</l>
+            <l part="F">(Hablar puedo apenas,</l>
             <l>admirado en hermosura</l>
             <l>tan rara.) Cuando te espera</l>
             <l>tanto concurso a que tú</l>
@@ -511,7 +511,7 @@
           </sp>
           <sp who="#yupanguí">
             <speaker>YUPANGUÍ</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>¿Quién creerá que muero yo</l>
             <l n="155">por saberla y no saberla?</l>
           </sp>
@@ -728,7 +728,7 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="3">
-          <stage>Vanse.</stage>
+          <stage>[Vanse.]</stage>
           <sp who="#guáscar-inga">
             <speaker>INGA</speaker>
             <l part="F">¡Cobardes!</l>
@@ -1303,8 +1303,8 @@
           <stage>Vase y al ir tras él da con TUCAPEL.</stage>
           <sp who="#tucapel">
             <speaker>TUCAPEL</speaker>
-            <stage>Aparte.</stage>
-            <l>¡Oh, quién decirle supiera</l>
+            <stage>[Aparte.]</stage>
+            <l>(¡Oh, quién decirle supiera</l>
             <l>que soy tonto, y que de un tonto</l>
             <l>es más tonto el que hace cuenta!)</l>
             <l part="I">Yo... sí... cuando...</l>
@@ -1332,7 +1332,7 @@
             <l>mil feroces animales</l>
             <l>toda la marina pueblan.</l>
             <l n="630">Y dellos un león y un tigre,</l>
-
+            <stage>Salen un león y un tigre haciendo lo que dicen los versos.</stage>
             <l>garras aguzando y presas,</l>
             <l>a mí se vienen. Aunque es</l>
             <l>imposible la defensa,</l>
@@ -1352,7 +1352,6 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="9">
-          <stage>Salen un león y un tigre haciendo lo que dicen los versos.</stage>
           <sp who="#tucapel">
             <speaker>TUCAPEL</speaker>
             <l>¡Oigan cómo los regala,</l>
@@ -2385,7 +2384,7 @@
           </sp>
           <sp who="#idolatría">
             <speaker>IDOLATRÍA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F">¡Cielos!,</l>
             <l n="1190">durar él en su pasión</l>
             <l>sin darle pavor mi aspecto,</l>
@@ -2687,6 +2686,8 @@
             <l>ves que yo me desvanezco.</l>
             <stage>Desaparécese.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="21">
           <sp who="#guáscar-inga">
             <speaker>INGA</speaker>
             <l>Oye, aguarda, escucha, espera.</l>
@@ -2715,10 +2716,9 @@
             <l>no le excuses, ni por pienso.</l>
             <l n="1410">Muera esa beldad y viva</l>
             <l part="I">tu rey.</l>
-
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="21">
+        <div type="scene" resp="#rojas" n="22">
           <stage>Vase.</stage>
           <sp who="#yupanguí">
             <speaker>YUPANGUÍ</speaker>
@@ -3097,6 +3097,8 @@
             <l part="I">diciendo unos...</l>
           </sp>
           <stage>Las cajas a rebato.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="7">
           <sp who="#acompañamiento">
             <speaker>[UNOS]</speaker>
             <stage>Dentro.</stage>
@@ -3127,7 +3129,7 @@
             <l>Alto, y pase la palabra.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="7">
+        <div type="scene" resp="#rojas" n="8">
           <stage>Con esta repetición, sonando a una parte el rebato y en otra la marcha, sale INGA con los INDIOS que pueda, armados a su modo y el SACERDOTE.</stage>
           <sp who="#guáscar-inga">
             <speaker>INGA</speaker>
@@ -3147,7 +3149,7 @@
             <l part="I">me obliga.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="8">
+        <div type="scene" resp="#rojas" n="9">
           <stage>Sale YUPANGUÍ.</stage>
           <sp who="#yupanguí">
             <speaker>YUPANGUÍ</speaker>
@@ -3214,7 +3216,7 @@
             <l part="I">le aflige.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="9">
+        <div type="scene" resp="#rojas" n="10">
           <stage>Vanse los SOLDADOS.</stage>
           <sp who="#guáscar-inga">
             <speaker>INGA</speaker>
@@ -3334,7 +3336,7 @@
             <speaker>YUPANGUÍ</speaker>
             <l>Eso es lo que yo no puedo</l>
             <l part="I">decir.</l>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F">¡Ay Guacolda amada!</l>
             <l n="320">¡Y cómo que es verdad!, pues</l>
             <l>no puede decir quien te ama</l>
@@ -3407,7 +3409,7 @@
             <l>¿Qué voces aquestas son?</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="10">
+        <div type="scene" resp="#rojas" n="11">
           <stage>Salen el SACERDOTE e INDIOS.</stage>
           <sp who="#sacerdote">
             <speaker>SACERDOTE</speaker>
@@ -3424,7 +3426,7 @@
             <l part="I">desorden?</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="11">
+        <div type="scene" resp="#rojas" n="12">
           <stage>Sale TUCAPEL.</stage>
           <sp who="#tucapel">
             <speaker>TUCAPEL</speaker>
@@ -3523,7 +3525,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="12">
+        <div type="scene" resp="#rojas" n="13">
           <stage>Vase.</stage>
           <sp who="#guáscar-inga">
             <speaker>INGA</speaker>
@@ -3572,7 +3574,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="13">
+        <div type="scene" resp="#rojas" n="14">
           <stage>Vase.</stage>
           <sp who="#guáscar-inga">
             <speaker>INGA</speaker>
@@ -3594,9 +3596,9 @@
             <l part="I">no dé el orden.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="14">
+        <div type="scene" resp="#rojas" n="15">
           <stage>Vanse.</stage>
-          <stage>Sala en un palacio del Cuzco.</stage>
+          <stage>[Sala en un palacio del Cuzco.]</stage>
           <stage>Salen PIZARRO, ALMAGRO, CANDÍA y SOLDADOS.</stage>
           <sp who="#almagro">
             <speaker>ALMAGRO</speaker>
@@ -3645,11 +3647,11 @@
             <l n="525">aun más deleitan que cansan.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="15">
+        <div type="scene" resp="#rojas" n="16">
           <stage>Vase cada uno por su puerta.</stage>
           <sp who="#pizarro">
             <speaker>PIZARRO</speaker>
-            <stage>Llamando.</stage>
+            <stage>[Llamando.]</stage>
             <l>Traedme aquí la escribanía</l>
             <l>y el bufete. Esté la carta</l>
             <l>escrita, porque con ella</l>
@@ -3657,7 +3659,7 @@
             <l part="I">al punto que...</l>
           </sp>
           <sp who="#marineros">
-            <speaker>ESPAÑOLES</speaker>
+            <speaker>VOCES</speaker>
             <stage>Dentro.</stage>
             <l n="530" part="F">¡Fuego, fuego!</l>
           </sp>
@@ -3668,7 +3670,7 @@
             <l>Iré a ver de qué se causa.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="16">
+        <div type="scene" resp="#rojas" n="17">
           <stage>Sale CANDÍA.</stage>
           <sp who="#candía">
             <speaker>CANDÍA</speaker>
@@ -3696,7 +3698,7 @@
             <l part="I">por estotra parte.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="17">
+        <div type="scene" resp="#rojas" n="18">
           <stage>Sale ALMAGRO.</stage>
           <sp who="#almagro">
             <speaker>ALMAGRO</speaker>
@@ -3704,8 +3706,8 @@
             <l part="I">que no solo...</l>
           </sp>
           <sp who="#marineros">
-            <speaker>ESPAÑOLES</speaker>
-            <stage>Dentro.</stage>
+            <speaker>VOCES</speaker>
+            <stage>[Dentro.]</stage>
             <l part="F">¡Fuego, fuego!</l>
           </sp>
           <sp who="#almagro">
@@ -3730,37 +3732,37 @@
           </sp>
           <sp who="#acompañamiento">
             <speaker>UNOS</speaker>
-            <stage>Dentro.</stage>
+            <stage>[Dentro.]</stage>
             <l part="I">¡Que me abraso!</l>
           </sp>
           <sp who="#marineros">
             <speaker>OTROS</speaker>
-            <stage>Dentro.</stage>
+            <stage>[Dentro.]</stage>
             <l n="560" part="F">¡Que me quemo!</l>
           </sp>
           <sp who="#acompañamiento">
             <speaker>UNOS</speaker>
-            <stage>Dentro.</stage>
+            <stage>[Dentro.]</stage>
             <l part="I">¡Virgen pura...</l>
           </sp>
           <sp who="#marineros">
             <speaker>OTROS</speaker>
-            <stage>Dentro.</stage>
+            <stage>[Dentro.]</stage>
             <l part="F">Madre intacta...</l>
           </sp>
           <sp who="#acompañamiento">
             <speaker>UNOS</speaker>
-            <stage>Dentro.</stage>
+            <stage>[Dentro.]</stage>
             <l>Inmaculada María...</l>
           </sp>
           <sp who="#marineros">
             <speaker>OTROS</speaker>
-            <stage>Dentro.</stage>
+            <stage>[Dentro.]</stage>
             <l>María llena de gracia!</l>
           </sp>
           <sp who="#acompañamiento #marineros">
             <speaker>TODOS</speaker>
-            <stage>Dentro.</stage>
+            <stage>[Dentro.]</stage>
             <l part="I">¡Favor, piedad!</l>
           </sp>
           <sp who="#pizarro">
@@ -3779,6 +3781,7 @@
             <l>sea con su dulce nombre</l>
             <l part="I">en los labios.</l>
           </sp>
+          <stage>Yéndose.</stage>
           <sp who="#candía #almagro #pizarro #marineros">
             <speaker>LOS TRES y OTROS</speaker>
             <stage>Dentro.</stage>
@@ -3787,10 +3790,10 @@
             <l part="I">¡favor, piedad!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="18">
+        <div type="scene" resp="#rojas" n="19">
           <stage>Vanse.</stage>
-          <stage>Vista exterior del Cuzco.</stage>
-          <stage>Salen el INGA, YUPANGUÍ, el SACERDOTE e INDIOS.</stage>
+          <stage>[Vista exterior del Cuzco.]</stage>
+          <stage>Salen el INGA, YUPANGUÍ, [el SACERDOTE] y todos los INDIOS.</stage>
           <sp who="#guáscar-inga">
             <speaker>INGA</speaker>
             <l n="575" part="F">Pues lograda</l>
@@ -3811,38 +3814,39 @@
             <l>en voces tan desmayadas,</l>
             <l>que apenas se oyen o escuchan?</l>
           </sp>
+          <stage>Dentro a lo lejos, bajas todas estas voces.</stage>
           <sp who="#pizarro">
             <speaker>PIZARRO</speaker>
-            <stage>Dentro.</stage>
+            <stage>[Dentro.]</stage>
             <l>Hija elegida sin mancha,</l>
             <l part="I">del Padre...</l>
           </sp>
           <sp who="#candía">
             <speaker>CANDÍA</speaker>
-            <stage>Dentro.</stage>
+            <stage>[Dentro.]</stage>
             <l n="590" part="F">Madre del Hijo,</l>
             <l part="I">doncella y fecunda...</l>
           </sp>
           <sp who="#almagro">
             <speaker>ALMAGRO</speaker>
-            <stage>Dentro.</stage>
+            <stage>[Dentro.]</stage>
             <l part="F">Casta</l>
             <l>Virgen, esposa de Santo</l>
             <l part="I">Espíritu...</l>
           </sp>
           <sp who="#pizarro">
             <speaker>PIZARRO</speaker>
-            <stage>Dentro.</stage>
+            <stage>[Dentro.]</stage>
             <l part="F">Tú nos salva.</l>
           </sp>
           <sp who="#candía #almagro">
-            <speaker>CANDÍA y ALMAGRO</speaker>
-            <stage>Dentro.</stage>
+            <speaker>CANDÍA</speaker>
+            <stage>[Dentro.]</stage>
             <l part="I">Tú nos favorece.</l>
           </sp>
           <sp who="#marineros">
             <speaker>ESPAÑOLES</speaker>
-            <stage>Dentro.</stage>
+            <stage>[Dentro.]</stage>
             <l part="F">Tú</l>
             <l n="595">nos socorre y nos ampara.</l>
           </sp>
@@ -3874,7 +3878,7 @@
             <l n="605">a ser dulces armonías</l>
             <l>de sonoras voces blandas.]</l>
           </sp>
-          <stage>Aura de Copacabana, con el Niño Jesús en las manos y el tiempo que empieza a descubrirse, y todo lo que dura el paso, hasta desaparecerse, estará nevando la nube, y todo lo alto del tablado.</stage>
+          <stage>Tocan las chirimías, y baja de la alto, donde estará la música, una nube hecha trono, pintado de serafínes, y en ella dos ángeles, que traen la imagen de Nuestra Señora de Copacabana, con el Niño en las manos. Y al tiempo que empieza a descubrirse, y todo lo que dura el paso, hasta desaparecerse, estará nevando la nube, y todo lo alto del tablado.</stage>
           <sp who="#guáscar-inga">
             <speaker>INGA</speaker>
             <l>No es eso, no es eso solo</l>
@@ -3957,7 +3961,7 @@
             <l>y con otro nos abrasa.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="19">
+        <div type="scene" resp="#rojas" n="20">
           <stage>Vanse.</stage>
           <sp who="#yupanguí">
             <speaker>YUPANGUÍ</speaker>
@@ -3972,7 +3976,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="20">
+        <div type="scene" resp="#rojas" n="21">
           <stage>Vase.</stage>
           <stage>Ahora va pasando, y salen los ESPAÑOLES oyendo como elevados las voces.</stage>
           <sp who="#ángel-1">
@@ -4037,7 +4041,7 @@
             <l>¡Guerra, guerra, arma, arma!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="21">
+        <div type="scene" resp="#rojas" n="22">
           <stage>Con esta repetición han de sonar a un tiempo las cajas y trompetas, la MÚSICA y la representación y sale la IDOLATRÍA como oyendo a lo lejos, y repitiendo con todos las voces.</stage>
           <sp who="#idolatría">
             <speaker>IDOLATRÍA</speaker>
@@ -4088,6 +4092,7 @@
             <l>que si fue odio de la Cruz,</l>
             <l>ya lo es della y de la luz</l>
             <l n="735">que trajo tras sí María.</l>
+            <stage>Salen GUACOLDA y GLAUCA, como hablando entre sí.</stage>
             <l>Esté Guacolda segura</l>
             <l>en el oculto villaje</l>
             <l>que la veo, y fío el traje</l>
@@ -4096,12 +4101,10 @@
             <l>que aunque la desdicha no</l>
             <l>ha menester medios, yo</l>
             <l>sabré hacer que la halle allí.</l>
-
           </sp>
-        </div>
-        <div type="scene" resp="#rojas" n="22">
           <stage>Vase.</stage>
-          <stage>Salen GUACOLDA y GLAUCA, como hablando entre sí.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="23">
           <sp who="#glauca">
             <speaker>GLAUCA</speaker>
             <l>Notable melancolía</l>
@@ -4207,7 +4210,7 @@
             <l part="I">diciendo...!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="23">
+        <div type="scene" resp="#rojas" n="24">
           <stage>Sale TUCAPEL.</stage>
           <sp who="#tucapel">
             <speaker>TUCAPEL</speaker>
@@ -4225,7 +4228,7 @@
           </sp>
           <sp who="#guacolda">
             <speaker>GUACOLDA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F">Desdichas mías</l>
             <l n="825">que han de descubrirme, pues</l>
             <l>posible esconderme no es.</l>
@@ -4382,7 +4385,7 @@
             <l n="915">Retírate a aquesta parte.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="24">
+        <div type="scene" resp="#rojas" n="25">
           <stage>Salen algunos INDIOS.</stage>
           <sp who="#indio-1 #indio-2 #indio-3">
             <speaker>TODOS</speaker>
@@ -4494,7 +4497,7 @@
             <l part="F">Adiós.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="25">
+        <div type="scene" resp="#rojas" n="26">
           <stage>Vanse los villanos.</stage>
           <sp who="#tucapel">
             <speaker>TUCAPEL</speaker>
@@ -4546,7 +4549,7 @@
             <l part="F">Por si vuelve, oye aparte.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="26">
+        <div type="scene" resp="#rojas" n="27">
           <stage>Hablan las dos y sale YUPANGUÍ.</stage>
           <sp who="#yupanguí">
             <speaker>YUPANGUÍ</speaker>
@@ -4667,7 +4670,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="27">
+        <div type="scene" resp="#rojas" n="28">
           <stage>Vase.</stage>
           <sp who="#guacolda">
             <speaker>GUACOLDA</speaker>
@@ -4685,7 +4688,7 @@
             <l part="I">a su presencia.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="28">
+        <div type="scene" resp="#rojas" n="29">
           <stage>Al entrarse diciendo estos versos, sale oyéndolos GUÁSCAR, el SACERDOTE, los villanos y todos los INDIOS que pudieren.</stage>
           <sp who="#guáscar-inga">
             <speaker>INGA</speaker>
@@ -5092,7 +5095,7 @@
             <l part="I">tus órdenes?</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="29">
+        <div type="scene" resp="#rojas" n="30">
           <stage>Sale la IDOLATRÍA.</stage>
           <sp who="#idolatría">
             <speaker>IDOLATRÍA</speaker>
@@ -5120,7 +5123,7 @@
           <sp who="#idolatría">
             <speaker>IDOLATRÍA</speaker>
             <l n="1275" part="F">Darle...</l>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>Muerte iba a decir, y no</l>
             <l part="I">puedo pronunciar.</l>
           </sp>
@@ -5133,13 +5136,13 @@
           <sp who="#idolatría">
             <speaker>IDOLATRÍA</speaker>
             <l part="I">Si deseas...</l>
-            <stage>Aparte.</stage>
-            <l n="1280" part="F">Proseguir</l>
+            <stage>[Aparte.]</stage>
+            <l n="1280" part="F">(Proseguir</l>
             <l>no puedo, que al declararme</l>
             <l>tengo un dogal en el cuello</l>
             <l>y en el corazón un áspid.)</l>
             <l part="I">Si pretendes...</l>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F">No es posible</l>
             <l n="1285">que ya en mis ídolos hable,</l>
             <l>siendo para mí dos veces</l>
@@ -6262,7 +6265,7 @@
           </sp>
           <sp who="#tucapel">
             <speaker>TUCAPEL</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="775" part="F">Porque no tenga</l>
             <l>sospecha de que yo fui</l>
             <l>el que dio con todo entierra,</l>
@@ -6411,7 +6414,7 @@
             <speaker>YUPANGUÍ</speaker>
             <l n="855">¿Qué quieres, María, quesea</l>
             <l>sino poca suerte mía?</l>
-            <stage>Corréis cortina.</stage>
+            <stage>Corre la cortina.</stage>
             <l>Mira..., pero no loveas,</l>
             <l>no te quiebre elcorazón</l>
             <l>ver mi dicha en polvoenvuelta.</l>
@@ -7071,7 +7074,7 @@
           <stage>Vase.</stage>
           <sp who="#un-indio-llamado-andrés">
             <speaker>ANDRÉS</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F">Yo me huelgo</l>
             <l>de que vaya a verla, pues</l>
             <l>es fuerza ofenderse en viendo</l>
@@ -7342,7 +7345,7 @@
           </sp>
           <sp who="#un-indio-llamado-andrés">
             <speaker>ANDRÉS</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>Ahora es cuando al verla, es cierto</l>
             <l>que se ha de desagradar.</l>
           </sp>
@@ -7503,8 +7506,8 @@
             <l n="1420">a retocarla, teniendo</l>
             <l>oficiales que sabrán</l>
             <l>mucho mejor que yo hacerlo.</l>
-            <stage>Aparta la imagen, dejando en el brazo izquierdo el Niño que tenía en entrambas manos, con que viene la derecha a quedar en el aire desocupada.</stage>
           </sp>
+          <stage>Aparta la imagen, dejando en el brazo izquierdo el Niño que tenía en entrambas manos, con que viene la derecha a quedar en el aire desocupada.</stage>
           <sp who="#don-lorenzo-de-mendoza">
             <speaker>CONDE</speaker>
             <l>Pues desconsuelo es bien grande.</l>
@@ -7674,7 +7677,7 @@
           <sp who="#música">
             <speaker>MÚSICA</speaker>
             <l part="F">Sí haremos.</l>
-            <stage>Canta.</stage>
+            <stage>Cantan.</stage>
             <l>Venturosa la mañana</l>
             <l>que en duplicado arrebol</l>
             <l>nos nace con mejor sol</l>
