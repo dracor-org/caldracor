@@ -236,7 +236,7 @@
             <l>por cuál de las dos hacía</l>
             <l>finezas</l>
             <l>ni a cuál servía</l>
-            <l>el fi ero rigor vencí</l>
+            <l>el fiero rigor vencí</l>
             <l>de Clori. Era cosa clara</l>
             <l>ser Clori, porque si fuera</l>
             <l>Clori a la que yo quisiera,</l>
@@ -254,7 +254,7 @@
             <l>Favoreciome en efeto,</l>
             <l>con lo cual luego cerró</l>
             <l>el paso a mi amor, que vio</l>
-            <l>fi el sepulcro en mi secreto;</l>
+            <l>fiel sepulcro en mi secreto;</l>
             <l>porque no pudiendo ser</l>
             <l>con una dama grosero</l>
             <l>que ser de Clori primero,</l>
@@ -263,7 +263,7 @@
             <l>viendo que estaba su hermana</l>
             <l>declarada, fuera vana</l>
             <l>mi esperanza), de cortés</l>
-            <l>o cobarde dividido ,</l>
+            <l>o cobarde dividido,</l>
             <l>ciego, triste y mal premiado,</l>
             <l>de Lísida enamorado,</l>
             <l>de Clori favorecido,</l>
@@ -312,20 +312,20 @@
 
 
             <l>¡Qué apacible el campo está,</l>
-            <l>corte de plantas y fl ores!</l>
+            <l>corte de plantas y flores!</l>
           </sp>
           <sp who="#lísida">
             <speaker rend="caps">Lísida</speaker>
 
 
-            <l>Con refl ejos y colores</l>
+            <l>Con reflejos y colores</l>
             <l>diversos objetos da</l>
-            <l>el mayo fl orido ya</l>
+            <l>el mayo florido ya</l>
             <l>a la vista.</l>
           </sp>
           <sp who="#enrique">
             <speaker rend="caps">Enrique</speaker>
-            <stage type="withText">A Ponleví.</stage>
+            <stage type="withText">[A Ponleví.]</stage>
 
 
             <l>Aguarda, espera.</l>
@@ -378,7 +378,7 @@
             <l>Su luz, deidad singular,</l>
             <l>es breve imperio del día,</l>
             <l>de los campos alegría,</l>
-            <l>pulimento de las fl ores,</l>
+            <l>pulimento de las flores,</l>
             <l>estación de los amores,</l>
             <l>de las aves armonía:</l>
             <l>ved si es justo que ofendáis</l>
@@ -388,6 +388,7 @@
             <speaker rend="caps">Clori</speaker>
 
 
+            <stage>[Aparte]</stage>
             <l>(¡Ay de mí!</l>
             <l>¿Enrique no es este? Sí.)</l>
           </sp>
@@ -395,6 +396,7 @@
             <speaker rend="caps">Lísida</speaker>
 
 
+            <stage>[Aparte]</stage>
             <l>(Ojos, ¿qué es lo que miráis?</l>
             <l>Enrique es; pero si estáis</l>
             <l>imposibles, ¿para qué</l>
@@ -415,13 +417,13 @@
             <l>(Sí haré.)</l>
             <l>Don Quijote de la aurora,</l>
             <l>¿qué me importa que al albor</l>
-            <l>beba una y otra fl or</l>
+            <l>beba una y otra flor</l>
             <l>las lágrimas que ella llora?</l>
             <l>¿Qué importa el saber que dora</l>
             <l>montes, ni el ver que derrama</l>
             <l>perlas que la tierra ama</l>
             <l>y después el sol enjuga,</l>
-            <l>si dama , en fi n, que madruga</l>
+            <l>si dama, en fin, que madruga</l>
             <l>no debe de ser muy dama?</l>
           </sp>
           <sp who="#enrique">
@@ -430,7 +432,7 @@
 
             <l>Madrugar entre las bellas</l>
             <l>selvas, llenas de colores,</l>
-            <l>cambiando tropas de fl ores</l>
+            <l>cambiando tropas de flores</l>
             <l>por ejércitos de estrellas,</l>
             <l>no es desaire si entre ellas</l>
             <l>busca su amante pastor ;</l>
@@ -450,9 +452,9 @@
             <l>gozar en tarde serena</l>
             <l>los míos, sin desvelar</l>
             <l>mis sentidos ni envidiar</l>
-            <l>las auroras, porque en fi n</l>
+            <l>las auroras, porque en fin</l>
             <l>se hizo para gente ruin</l>
-            <l>la fi esta del madrugar.</l>
+            <l>la fiesta del madrugar.</l>
             <stage>Ruido dentro.</stage>
             <l>Pero ¿qué es este rumor?</l>
           </sp>
@@ -495,7 +497,7 @@
 
 
             <l>Porque ha venido</l>
-            <l>siguiéndome, y no me vea ,</l>
+            <l>siguiéndome, y no me vea,</l>
             <l>si es que esta ocasión desea.</l>
           </sp>
           <sp who="#enrique">
@@ -536,12 +538,15 @@
 
             <l>Hoy</l>
             <l>no es posible.</l>
-            <l/>
           </sp>
+          <stage>Vanse Clori y Nise.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="3">
           <sp who="#lísida">
             <speaker rend="caps">Lísida</speaker>
 
 
+            <stage>[Aparte]</stage>
             <l>(¡Ahora, cielos,</l>
             <l>se repiten mis desvelos,</l>
             <l>mis temores, mis agravios :</l>
@@ -550,13 +555,13 @@
             <l>Pero pues puedo tapada</l>
             <l>dar celos a quien los da,</l>
             <l>muera quien me mata ya</l>
-            <l>de necia y de confi ada!)</l>
+            <l>de necia y de confiada!)</l>
             <l>Tanto a las dos nos agrada</l>
             <l>hallar en vos el favor</l>
             <l>que nos ofrecéis, señor,</l>
             <l>que con un mismo cuidado,</l>
             <l>si una esa banda os ha dado,</l>
-            <l>yo os quiero dar esta fl or.</l>
+            <l>yo os quiero dar esta flor.</l>
           </sp>
           <stage>Dale una flor.</stage>
           <sp who="#enrique">
@@ -573,7 +578,7 @@
             <l>si ofenderme no queréis.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="3">
+        <div type="scene" resp="#rojas" n="4">
           <stage>Vase Lísida.</stage>
           <sp who="#enrique">
             <speaker rend="caps">Enrique</speaker>
@@ -586,7 +591,8 @@
             <speaker rend="caps">Ponleví</speaker>
 
 
-            <l>Deteneos vos, no os vais. A Celia.</l>
+            <stage>A Celia.</stage>
+            <l>Deteneos vos, no os vais.</l>
           </sp>
           <sp who="#enrique">
             <speaker rend="caps">Enrique</speaker>
@@ -597,7 +603,7 @@
             <l>quién son .</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="4">
+        <div type="scene" resp="#rojas" n="5">
           <stage>Vase.</stage>
           <sp who="#ponleví">
             <speaker rend="caps">Ponleví</speaker>
@@ -623,7 +629,7 @@
 
             <l>¡Qué civil es el conceto !;</l>
             <l>mas puesto que San Secreto</l>
-            <l>nunca es fi esta de guardar,</l>
+            <l>nunca es fiesta de guardar,</l>
             <l>empiézale a trabajar:</l>
             <l>dime quién son, en efeto,</l>
             <l>y toma…</l>
@@ -686,7 +692,7 @@
             <l>… para correr.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="5">
+        <div type="scene" resp="#rojas" n="6">
           <stage>Vase Celia.</stage>
           <sp who="#ponleví">
             <speaker rend="caps">Ponleví</speaker>
@@ -696,16 +702,16 @@
             <l>Fuese huyendo como un rayo;</l>
             <l>diré, pues me deja en calma,</l>
             <l>tenedla, cielos, que me lleva el alma .</l>
-            <l>Mas por la fe de lacayo ,</l>
+            <l>Mas por la fe de lacayo,</l>
             <l>y por la vida del bayo,</l>
             <l>que ha de hacer la relación.</l>
             <l>El Duque y Enrique son;</l>
             <l>voy a seguir la tapada,</l>
-            <l>que al fi n secreto y criada</l>
+            <l>que al fin secreto y criada</l>
             <l>implican contradición.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="6">
+        <div type="scene" resp="#rojas" n="7">
           <stage>Vase Ponleví y salen el Duque, Enrique, Otavio y gente.</stage>
           <sp who="#enrique">
             <speaker rend="caps">Enrique</speaker>
@@ -732,7 +738,7 @@
             <l>que venga con bien es fuerza.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="7">
+        <div type="scene" resp="#rojas" n="8">
           <stage>Sale Fabio.</stage>
           <sp who="#fabio">
             <speaker rend="caps">Fabio</speaker>
@@ -755,11 +761,12 @@
             <speaker rend="caps">Fabio</speaker>
 
 
+            <stage>[Aparte]</stage>
             <l>(No ha sido sino desdicha,</l>
             <l>pues quedando él en Florencia</l>
             <l>no estaré seguro yo</l>
             <l>en Nápoles de sospechas.</l>
-            <l>Pero al fi n Clori es mi hija,</l>
+            <l>Pero al fin Clori es mi hija,</l>
             <l>y ella hará que todos mientan.)</l>
           </sp>
           <sp who="#duque">
@@ -789,7 +796,7 @@
 
 
             <l>Hallé, señor, a España</l>
-            <l>llena de aplausos y fi estas,</l>
+            <l>llena de aplausos y fiestas,</l>
             <l>noble afecto de su amor,</l>
             <l>de su lealtad noble muestra.</l>
           </sp>
@@ -802,8 +809,8 @@
             <l>que fue la causa de tanto</l>
             <l>aplauso la jura excelsa</l>
             <l>del Primero Baltasar,</l>
-            <l>Príncipe Infante , que sea</l>
-            <l>hijo del alba y el sol ,</l>
+            <l>Príncipe Infante, que sea</l>
+            <l>hijo del alba y el sol,</l>
             <l>rayo de luz y belleza.</l>
             <l>Y pues para los negocios</l>
             <l>a que partiste no es esta</l>
@@ -820,9 +827,9 @@
             <l>Escúcheme vuestra Alteza .</l>
             <l>De aquel venturoso día</l>
             <l>en que la romana Iglesia</l>
-            <l>de la Transfi guración</l>
+            <l>de la Transfiguración</l>
             <l>la jura de Dios celebra</l>
-            <l>llamando a Cortes al cielo ,</l>
+            <l>llamando a Cortes al cielo,</l>
             <l>fue rasgo y sombra pequeña</l>
             <l>la jura de Baltasar.</l>
             <l>Mas si son en la fe nuestra</l>
@@ -830,7 +837,7 @@
             <l>no poco misterio enseña</l>
             <l>que el día que a Dios el cielo</l>
             <l>jure, a Baltasar la tierra.</l>
-            <l>Este, pues, día felice ,</l>
+            <l>Este, pues, día felice,</l>
             <l>de pardas sombras cubierta</l>
             <l>el alba salió, y la aurora</l>
             <l>embozada en nubes densas:</l>
@@ -843,13 +850,13 @@
             <l>no fue accidente este día,</l>
             <l>sino precisa obediencia.</l>
             <l>Haz paréntesis aquí</l>
-            <l>la causa , pues será fuerza</l>
+            <l>la causa, pues será fuerza</l>
             <l>que antes que acabe el discurso</l>
             <l>al paréntesis me vuelva.</l>
             <l>En el real templo de aquel</l>
             <l>Doctor Cardenal que ostenta</l>
             <l>ya su piedad, ya su celo</l>
-            <l>en los hombres y las fi eras,</l>
+            <l>en los hombres y las fieras,</l>
             <l>se previno el mayor acto</l>
             <l>que vio el sol en su carrera</l>
             <l>desde que en el mar madruga</l>
@@ -860,9 +867,9 @@
             <l>y luego a la mano izquierda</l>
             <l>la cortina de los reyes;</l>
             <l>no digo bien, porque fuera</l>
-            <l>una nube de oro y nácar ,</l>
+            <l>una nube de oro y nácar,</l>
             <l>pues al tiempo que despliega</l>
-            <l>las tres hojas carmesíes ,</l>
+            <l>las tres hojas carmesíes,</l>
             <l>luz y majestad ostenta,</l>
             <l>dando como el oro rayos,</l>
             <l>dando como el nácar perlas.</l>
@@ -887,14 +894,14 @@
             <l>el lado izquierdo ocupaban</l>
             <l>los prelados de la Iglesia.</l>
             <l>Tras los tres embajadores</l>
-            <l>de Roma, Francia y Venecia ,</l>
+            <l>de Roma, Francia y Venecia,</l>
             <l>le siguieron los Consejos ;</l>
             <l>luego por la otra acera</l>
             <l>los Grandes y enfrente dellos</l>
             <l>los Títulos, tras que llegan</l>
             <l>los Reinos ; a nadie nombro,</l>
             <l>que aquí es la lisonja ofensa.</l>
-            <l>La confi rmación sagrada</l>
+            <l>La confirmación sagrada</l>
             <l>fue del acto la primera</l>
             <l>ceremonia; dignamente</l>
             <l>luego siguiéndose están</l>
@@ -909,14 +916,13 @@
             <l>de católica, al mirar</l>
             <l>que a un tiempo a jurarle llegan,</l>
             <l>uno ceñido el acero</l>
-            <l>y otro la sacra diadema ,</l>
+            <l>y otro la sacra diadema,</l>
             <l>me pareció que decía,</l>
             <l>haciéndose toda lenguas:</l>
             <l>«¡Oh, felice tú, oh, felice</l>
             <l>otra vez y otras mil sea</l>
             <l>Imperio en quien el primero</l>
-            <l>triunfo son armas y letras</l>
-            <l>!»</l>
+            <l>triunfo son armas y letras!»</l>
             <l>Dejemos en este estado</l>
             <l>las ceremonias, pues estas</l>
             <l>fueron el patrón de todas,</l>
@@ -956,13 +962,11 @@
             <l>Salió en lugar del aurora</l>
             <l>mejor aurora en belleza:</l>
             <l>Isabel en plaustro de oro</l>
-            <l>que mil Cupidillos</l>
-            <l>cercan;</l>
-            <l>y si es del aurora ofi cio</l>
-            <l>dar fl ores, fl ores engendra</l>
-            <l>su hermosura, fl ores son</l>
-            <l>pompas de la lis</l>
-            <l>francesa.</l>
+            <l>que mil Cupidillos cercan;</l>
+            <l>y si es del aurora oficio</l>
+            <l>dar flores, flores engendra</l>
+            <l>su hermosura, flores son</l>
+            <l>pompas de la lis francesa.</l>
             <l>Y si del planeta cuarto</l>
             <l>es iluminar la esfera</l>
             <l>que toca, el Cuarto Filipo</l>
@@ -974,17 +978,16 @@
             <l>Luego si a tales luceros</l>
             <l>que a los del sol avergüenzan;</l>
             <l>si aurora tal que al aurora</l>
-            <l>fl ores a fl ores apuesta;</l>
+            <l>flores a flores apuesta;</l>
             <l>si a tal sol que rayo a rayo</l>
             <l>los rayos del sol desprecia;</l>
-            <l>y si</l>
-            <l>a tal estrella, en fi n,</l>
-            <l>que ya jura de sol , eran</l>
+            <l>y si a tal estrella, en fin,</l>
+            <l>que ya jura de sol, eran</l>
             <l>las del cielo sombras breves,</l>
             <l>mudas pompas, luces muertas,</l>
             <l>no fue accidente del tiempo</l>
             <l>rehusar la competencia,</l>
-            <l>sino estudio , pues faltaron</l>
+            <l>sino estudio, pues faltaron</l>
             <l>de temor o de vergüenza.</l>
             <l>Y aparte la alegoría,</l>
             <l>permite que me detenga</l>
@@ -996,7 +999,7 @@
             <l>no importa que lo parezca.</l>
             <l>Era un alazán tostado</l>
             <l>de feroz naturaleza</l>
-            <l>el monarca irracional ,</l>
+            <l>el monarca irracional,</l>
             <l>en cuyo color se muestra</l>
             <l>la cólera, disculpando</l>
             <l>del sol que la tez le tuesta</l>
@@ -1007,14 +1010,14 @@
             <l>a entender que conocía</l>
             <l>ser, con todo un cielo a cuestas,</l>
             <l>monte vivo de los brutos,</l>
-            <l>vivo Atlante de las fi eras .</l>
+            <l>vivo Atlante de las fieras .</l>
             <l>¿Cómo te sabré decir</l>
             <l>con el desprecio y la fuerza</l>
-            <l>que, sin hacer dellas caso ,</l>
+            <l>que, sin hacer dellas caso,</l>
             <l>iba quebrando las piedras,</l>
             <l>sino con decirte solo</l>
             <l>que entonces conocí que era</l>
-            <l>centro de fuego Madrid ,</l>
+            <l>centro de fuego Madrid,</l>
             <l>pues donde quiera que llega</l>
             <l>el pie o la mano levanta</l>
             <l>un abismo de centellas,</l>
@@ -1040,13 +1043,13 @@
             <l>que eran de sola una pieza</l>
             <l>el caballo y caballero?</l>
             <l>No, que aquí fuera indecencia.</l>
-            <l>¿Diré que hacían una mapa ,</l>
+            <l>¿Diré que hacían una mapa,</l>
             <l>mar la espuma, el cuerpo tierra,</l>
             <l>viento el alma y fuego el pie?</l>
             <l>No, que es comparación necia.</l>
-            <l>¿Diré que, galán bridón ,</l>
+            <l>¿Diré que, galán bridón,</l>
             <l>calzada bota y espuela,</l>
-            <l>la noticia en el estribo ,</l>
+            <l>la noticia en el estribo,</l>
             <l>en los estribos la fuerza,</l>
             <l>airoso el brazo, la mano</l>
             <l>baja ajustada a la rienda,</l>
@@ -1069,7 +1072,7 @@
             <l>proporciona con la blanca</l>
             <l>las liciones de la negra.</l>
             <l>Es tan ágil en la caza,</l>
-            <l>viva imagen de la guerra ,</l>
+            <l>viva imagen de la guerra,</l>
             <l>que registra su arcabuz</l>
             <l>cuanto corre y cuanto vuela.</l>
             <l>Con un pincel es segundo</l>
@@ -1078,17 +1081,17 @@
             <l>de la música penetra.</l>
             <l>En efeto, de las artes</l>
             <l>no hay ninguna que no sepa</l>
-            <l>y todas, sin profesión ,</l>
+            <l>y todas, sin profesión,</l>
             <l>halladas por excelencia.</l>
             <l>¡Oh, quiera, pues, la Fortuna,</l>
             <l>oh, pues, y los cielos quieran,</l>
             <l>que, pues le han dejado ver</l>
             <l>jurado con tantas muestras</l>
             <l>de amor y lealtad al bello</l>
-            <l>Príncipe de Asturias , vea</l>
-            <l>la campaña el mejor Marte ,</l>
+            <l>Príncipe de Asturias, vea</l>
+            <l>la campaña el mejor Marte,</l>
             <l>rindiendo a su heroica huella</l>
-            <l>los rebeldes , levantando</l>
+            <l>los rebeldes, levantando</l>
             <l>los pendones de la Iglesia,</l>
             <l>porque todo venga a ser</l>
             <l>honor suyo y gloria nuestra!</l>
@@ -1106,7 +1109,7 @@
             <l>querer siempre un caso vi</l>
             <l>la pregunta y la respuesta,</l>
             <l>óyeme un pesar a mí</l>
-            <l>en albricias de una fi esta.</l>
+            <l>en albricias de una fiesta.</l>
             <l>No sé por dónde, ¡ay de mí!,</l>
             <l>empiece, pero si aquí</l>
             <l>es fuerza decir su efeto,</l>
@@ -1116,7 +1119,7 @@
             <l>a quien de nieve el tiempo coronaba,</l>
             <l>mientras el corazón alimentaba</l>
             <l>las cenizas del fuego que temía.</l>
-            <l>Un rayo hermoso, escándalo del día ,</l>
+            <l>Un rayo hermoso, escándalo del día,</l>
             <l>la mina penetró que oculta estaba;</l>
             <l>el fuego, ardiendo con la nieve, helaba,</l>
             <l>la nieve, helando entre la llama, ardía.</l>
@@ -1134,7 +1137,7 @@
             <l>Bien al discurso, señor,</l>
             <l>la llave de oro previenes,</l>
             <l>mas del soneto en rigor</l>
-            <l>solo infi ero que amor tienes,</l>
+            <l>solo infiero que amor tienes,</l>
             <l>mas no a quién tienes amor;</l>
             <l>ya ocultarme nada es bien:</l>
             <l>merezca saber a quién.</l>
@@ -1176,6 +1179,7 @@
             <speaker rend="caps">Ponleví</speaker>
 
 
+            <stage>[Aparte]</stage>
             <l>(Aquí se turba mi amo.)</l>
           </sp>
           <sp who="#enrique">
@@ -1197,7 +1201,7 @@
 
             <l>La duda solo es tu error.</l>
             <l>¿Quién dudará cuando ve</l>
-            <l>junto a una fl or una rosa,</l>
+            <l>junto a una flor una rosa,</l>
             <l>junto a una rosa una estrella?</l>
             <l>¿Quién tiene más imperiosa</l>
             <l>jurisdiciones de bella</l>
@@ -1215,7 +1219,7 @@
 
 
             <l>… es temprana</l>
-            <l>fl or; Clori es la rosa ufana.</l>
+            <l>flor; Clori es la rosa ufana.</l>
           </sp>
           <sp who="#enrique">
             <speaker rend="caps">Enrique</speaker>
@@ -1229,7 +1233,7 @@
             <speaker rend="caps">Duque</speaker>
 
 
-            <l>Clori, en fi n, me hace penar,</l>
+            <l>Clori, en fin, me hace penar,</l>
             <l>sentir, padecer, llorar.</l>
           </sp>
           <sp who="#enrique">
@@ -1265,7 +1269,7 @@
             <l>hace academia su estrado</l>
             <l>de las cuestiones de amor,</l>
             <l>tu queja, señor, es vana:</l>
-            <l>la porfía un monte allana ,</l>
+            <l>la porfía un monte allana,</l>
             <l>y yo de su parte estoy,</l>
             <l>que mujer que escucha hoy</l>
             <l>te responderá mañana.</l>
@@ -1290,6 +1294,9 @@
             <l>que consolarse de ser</l>
             <l>uno amado en cortesía.</l>
           </sp>
+          <stage>Vase</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="9">
           <sp who="#enrique">
             <speaker rend="caps">Enrique</speaker>
 
@@ -1409,7 +1416,7 @@
             <l>porque la vuelva a querer.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="8">
+        <div type="scene" resp="#rojas" n="10">
           <stage>Vase.</stage>
           <sp who="#enrique">
             <speaker rend="caps">Enrique</speaker>
@@ -1459,7 +1466,7 @@
 
             <l>La criada, arrepentida</l>
             <l>de haber aquí apostatado</l>
-            <l>de criada muy fruncida ,</l>
+            <l>de criada muy fruncida,</l>
             <l>que son ellas me ha contado.</l>
           </sp>
           <sp who="#enrique">
@@ -1468,7 +1475,7 @@
 
             <l>Y dime ya, por tu vida,</l>
             <l>¿cuál esta banda me dio?,</l>
-            <l>¿cuál la fl or?</l>
+            <l>¿cuál la flor?</l>
           </sp>
           <sp who="#ponleví">
             <speaker rend="caps">Ponleví</speaker>
@@ -1515,14 +1522,14 @@
             <l>o mi vida con mi muerte.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="9">
+        <div type="scene" resp="#rojas" n="11">
           <stage>Vanse y salen Nise y Clori.</stage>
           <sp who="#nise">
             <speaker rend="caps">Nise</speaker>
 
 
             <l>Aquí que tiernamente</l>
-            <l>murmuran los cristales desta fuente ,</l>
+            <l>murmuran los cristales desta fuente,</l>
             <l>prosigue, prima mía,</l>
             <l>secretos que tu amor de mi amor fía.</l>
           </sp>
@@ -1540,7 +1547,7 @@
             <l>mas que no me pesara cuando fuese.</l>
             <l>Deste modo vivía,</l>
             <l>que ni bien olvidaba ni quería,</l>
-            <l>cuando Amor, niño ciego ,</l>
+            <l>cuando Amor, niño ciego,</l>
             <l>las cenizas sopló y avivó el fuego .</l>
             <l>No tengo que decir que agradecida</l>
             <l>le respondió mi vida</l>
@@ -1554,7 +1561,7 @@
             <l>que el estremo de amor pase a otro estremo.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="10">
+        <div type="scene" resp="#rojas" n="12">
           <stage>Sale Lísida.</stage>
           <sp who="#lísida">
             <speaker rend="caps">Lísida</speaker>
@@ -1566,7 +1573,7 @@
             <l>más luz, mejor aurora y mejor alba.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="11">
+        <div type="scene" resp="#rojas" n="13">
           <stage>Sale Ponleví.</stage>
           <sp who="#ponleví">
             <speaker rend="caps">Ponleví</speaker>
@@ -1740,13 +1747,13 @@
             <l>que a ninguna desconsuele,</l>
             <l>porque él es tan cuidadoso,</l>
             <l>que por si alguno se pierde</l>
-            <l>trae favores duplicados ,</l>
+            <l>trae favores duplicados,</l>
             <l>y yo, por obedecerle,</l>
             <l>hablo así, Deum de Deo,</l>
             <l>que dice dé donde diere .</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="12">
+        <div type="scene" resp="#rojas" n="14">
           <stage>Sale Celia.</stage>
           <sp who="#celia">
             <speaker rend="caps">Celia</speaker>
@@ -1779,6 +1786,8 @@
             <l>Aquí podrá vuestra Alteza</l>
             <l>gozar del fresco mejor .</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="15">
           <sp who="#duque">
             <speaker rend="caps">Duque</speaker>
 
@@ -1819,7 +1828,7 @@
             <speaker rend="caps">Enrique</speaker>
 
 
-            <l>Yo, en fi n, como forastero,</l>
+            <l>Yo, en fin, como forastero,</l>
             <l>favor ni lugar espero.</l>
           </sp>
           <sp who="#lísida">
@@ -1862,7 +1871,7 @@
 
 
             <l>¿A ver no alcanzas</l>
-            <l>la fl or que me coronó?</l>
+            <l>la flor que me coronó?</l>
           </sp>
           <sp who="#lísida">
             <speaker rend="caps">Lísida</speaker>
@@ -1876,7 +1885,7 @@
 
 
             <l>(¿Qué es lo que miro? ¡Ay de mí!,</l>
-            <l>fl or es de Lísida. ¡Cielos,</l>
+            <l>flor es de Lísida. ¡Cielos,</l>
             <l>los dos me matan a celos!)</l>
           </sp>
           <sp who="#duque">
@@ -1901,6 +1910,7 @@
             <speaker rend="caps">Clori</speaker>
 
 
+            <stage>[Aparte]</stage>
             <l>(¡Fuerte dolor! ¡Pena brava!)</l>
             <l>A Enrique, señor, miraba,</l>
             <l>que como recién venido</l>
@@ -1917,6 +1927,7 @@
             <speaker rend="caps">Lísida</speaker>
 
 
+            <stage>[Aparte]</stage>
             <l>(Corazón, ¿esto sufrís?)</l>
           </sp>
           <sp who="#clori">
@@ -1951,7 +1962,7 @@
             <speaker rend="caps">Clori</speaker>
 
 
-            <l>La banda y la fl or, blasón</l>
+            <l>La banda y la flor, blasón</l>
             <l>de la toquilla y el pecho.</l>
           </sp>
           <sp who="#enrique">
@@ -1966,7 +1977,7 @@
 
 
             <l>Y cuando lo fuera,</l>
-            <l>¿cuál de los dos prefi riera?</l>
+            <l>¿cuál de los dos prefiriera?</l>
           </sp>
           <sp who="#enrique">
             <speaker rend="caps">Enrique</speaker>
@@ -1989,7 +2000,7 @@
             <l>No he dudado</l>
             <l>la respuesta; me ha admirado</l>
             <l>que eso pregunte quien ama.</l>
-            <l>Prefi ere aquel que una dama</l>
+            <l>Prefiere aquel que una dama</l>
             <l>tapada hoy me hubiere dado.</l>
           </sp>
           <sp who="#clori">
@@ -2003,6 +2014,7 @@
             <speaker rend="caps">Enrique</speaker>
 
 
+            <stage>[Aparte]</stage>
             <l>(Mucho aprieta, ¡vive Dios!)</l>
             <l>Tendrá en mí lugar primero</l>
             <l>el de la dama a quien quiero.</l>
@@ -2051,6 +2063,7 @@
             <speaker rend="caps">Enrique</speaker>
 
 
+            <stage>[Aparte]</stage>
             <l>(Yo no.)</l>
           </sp>
           <sp who="#clori">
@@ -2060,14 +2073,14 @@
             <l>Pues si por los dos colores</l>
             <l>se ha de argüir la que quiere,</l>
             <l>si bien accidentes son,</l>
-            <l>la azul es , en mi opinión,</l>
-            <l>la que a las otras prefi ere.</l>
+            <l>la azul es, en mi opinión,</l>
+            <l>la que a las otras prefiere.</l>
           </sp>
           <sp who="#lísida">
             <speaker rend="caps">Lísida</speaker>
 
 
-            <l>Yo, si del color se infi ere</l>
+            <l>Yo, si del color se infiere</l>
             <l>la elección del alma, digo</l>
             <l>que es lo verde .</l>
           </sp>
@@ -2093,22 +2106,22 @@
             <l>es aquel verde ornamento,</l>
             <l>pues sin voz y con aliento</l>
             <l>nacen de varios colores</l>
-            <l>en cuna verde las fl ores</l>
+            <l>en cuna verde las flores</l>
             <l>que son estrellas del viento.</l>
           </sp>
           <sp who="#clori">
             <speaker rend="caps">Clori</speaker>
 
 
-            <l>Al fi n es color del suelo</l>
+            <l>Al fin es color del suelo</l>
             <l>que se marchita y se pierde,</l>
             <l>y cuando el suelo de verde</l>
             <l>se viste, de azul el cielo.</l>
             <l>Primavera es su azul velo,</l>
-            <l>donde son las fl ores bellas</l>
+            <l>donde son las flores bellas</l>
             <l>vivas luces; mira en ellas</l>
             <l>qué trofeos son mayores:</l>
-            <l>un campo cielo de fl ores</l>
+            <l>un campo cielo de flores</l>
             <l>o un cielo campo de estrellas.</l>
           </sp>
           <sp who="#lísida">
@@ -2117,13 +2130,13 @@
 
             <l>Ese es color aparente</l>
             <l>que la vista para objeto</l>
-            <l>fi nge, que el cielo en efeto</l>
+            <l>finge, que el cielo en efeto</l>
             <l>color ninguna consiente.</l>
-            <l>Con azul fi ngido miente</l>
+            <l>Con azul fingido miente</l>
             <l>la hermosura de su esfera,</l>
             <l>luego en esa parte espera</l>
             <l>ser la tierra preferida,</l>
-            <l>pues una es beldad fi ngida</l>
+            <l>pues una es beldad fingida</l>
             <l>y otra es pompa verdadera.</l>
           </sp>
           <sp who="#clori">
@@ -2131,14 +2144,14 @@
 
 
             <l>Confieso que no es color</l>
-            <l>lo azul del cielo, y confi eso</l>
+            <l>lo azul del cielo, y confieso</l>
             <l>que es mucho mejor por eso,</l>
             <l>porque si fuera en rigor</l>
             <l>propio, no fuera favor</l>
-            <l>la elección; y infi ero</l>
+            <l>la elección; y infiero</l>
             <l>que, si le eligió primero,</l>
             <l>fue porque lo azul ha sido</l>
-            <l>aun mejor para fi ngido</l>
+            <l>aun mejor para fingido</l>
             <l>que otro para verdadero.</l>
           </sp>
           <sp who="#lísida">
@@ -2154,7 +2167,7 @@
             <l>sin paz, quietud ni gobierno.</l>
             <l>¿Qué importa, pues, que el amor</l>
             <l>tenga del cielo el color,</l>
-            <l>si tiene el mal del infi erno?</l>
+            <l>si tiene el mal del infierno?</l>
           </sp>
           <sp who="#clori">
             <speaker rend="caps">Clori</speaker>
@@ -2168,7 +2181,7 @@
             <l>a amar celoso hace más,</l>
             <l>en cuya razón verás</l>
             <l>cuánto alcanzan sus desvelos,</l>
-            <l>pues el infi erno de celos</l>
+            <l>pues el infierno de celos</l>
             <l>no espera favor jamás.</l>
           </sp>
           <sp who="#lísida">
@@ -2187,7 +2200,7 @@
             <speaker rend="caps">Lísida</speaker>
 
 
-            <l>La fl or es verde, en efeto.</l>
+            <l>La flor es verde, en efeto.</l>
           </sp>
           <sp who="#clori">
             <speaker rend="caps">Clori</speaker>
@@ -2213,7 +2226,7 @@
 
 
             <l>Fía</l>
-            <l>que la fl or no es mía.</l>
+            <l>que la flor no es mía.</l>
           </sp>
           <sp who="#clori">
             <speaker rend="caps">Clori</speaker>
@@ -2258,7 +2271,7 @@
             <l>de no oír más necedades.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="13">
+        <div type="scene" resp="#rojas" n="16">
           <stage>Vase.</stage>
           <sp who="#clori">
             <speaker rend="caps">Clori</speaker>
@@ -2270,7 +2283,7 @@
             <l>dé licencia vuestra Alteza.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="14">
+        <div type="scene" resp="#rojas" n="17">
           <stage>Vase</stage>
           <sp who="#duque">
             <speaker rend="caps">Duque</speaker>
@@ -2307,7 +2320,7 @@
             <l>¡Qué rigor!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="15">
+        <div type="scene" resp="#rojas" n="18">
           <stage>Vase.</stage>
           <sp who="#otavio">
             <speaker rend="caps">Otavio</speaker>
@@ -2316,7 +2329,7 @@
             <l>¡Qué suerte!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="16">
+        <div type="scene" resp="#rojas" n="19">
           <stage>Vase.</stage>
           <sp who="#nise">
             <speaker rend="caps">Nise</speaker>
@@ -2326,7 +2339,7 @@
             <l>la envidia cubierta anda.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="17">
+        <div type="scene" resp="#rojas" n="20">
           <stage>Vase.</stage>
           <sp who="#enrique">
             <speaker rend="caps">Enrique</speaker>
@@ -2371,14 +2384,16 @@
 
 
             <l>Que me hable ofendida temo</l>
-            <l>Lísida de mis fi nezas,</l>
+            <l>Lísida de mis finezas,</l>
             <l>porque desde el argumento</l>
-            <l>de la banda y de la fl or,</l>
+            <l>de la banda y de la flor,</l>
             <l>de la esperanza y los celos,</l>
             <l>declarado amante suyo</l>
             <l>a tantos rayos me atrevo.</l>
-            <l>Sale Lísida y Celia.</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="2">
+          <stage>Sale Lísida y Celia.</stage>
           <sp who="#lísida">
             <speaker rend="caps">Lísida</speaker>
 
@@ -2410,21 +2425,23 @@
             <l>vosotros), estadme atento.</l>
             <stage>Vanse los dos.</stage>
             <l>Vos, Enrique, antes que a España</l>
-            <l>fuésedes , si bien me acuerdo,</l>
+            <l>fuésedes, si bien me acuerdo,</l>
             <l>que para ofensas del alma</l>
             <l>es bronce el metal del pecho,</l>
             <l>de Clori, en efeto, amante…</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="3">
           <sp who="#enrique">
             <speaker rend="caps">Enrique</speaker>
 
 
             <l>Esperad, porque no quiero,</l>
-            <l>si es que el silencio confi eso,</l>
+            <l>si es que el silencio confieso,</l>
             <l>confesar con el silencio</l>
             <l>ese incendio contra mí,</l>
             <l>pues no fue Clori el sol bello,</l>
-            <l>luciente imán de los ojos ,</l>
+            <l>luciente imán de los ojos,</l>
             <l>que hidrópicos se bebieron</l>
             <l>rayo a rayo el mejor sol,</l>
             <l>luz a luz mejor incendio.</l>
@@ -2494,7 +2511,7 @@
 
 
             <l>Que la hablé</l>
-            <l>alguna noche os confi eso.</l>
+            <l>alguna noche os confieso.</l>
           </sp>
           <sp who="#lísida">
             <speaker rend="caps">Lísida</speaker>
@@ -2533,15 +2550,15 @@
             <l>blanco veloz del acierto,</l>
             <l>no donde la caza está</l>
             <l>pone la mira, advirtiendo</l>
-            <l>que, para que el viento peche ,</l>
+            <l>que, para que el viento peche,</l>
             <l>le importa engañar el viento.</l>
             <l>El marinero ingenioso</l>
-            <l>que al mar desbocado y fi ero,</l>
-            <l>mostruo de naturaleza ,</l>
-            <l>halló yugo y puso freno ,</l>
+            <l>que al mar desbocado y fiero,</l>
+            <l>mostruo de naturaleza,</l>
+            <l>halló yugo y puso freno,</l>
             <l>no al puerto que solicita</l>
             <l>pone la proa, que haciendo</l>
-            <l>puntas al agua , desmiente</l>
+            <l>puntas al agua, desmiente</l>
             <l>sus iras y toma puerto.</l>
             <l>El capitán que esta fuerza</l>
             <l>intenta ganar, primero</l>
@@ -2553,8 +2570,8 @@
             <l>se da a partido al ingenio.</l>
             <l>La mina que en las entrañas</l>
             <l>de la tierra estrañó el centro,</l>
-            <l>artifi cioso volcán,</l>
-            <l>inventado Mongibelo ,</l>
+            <l>artificioso volcán,</l>
+            <l>inventado Mongibelo,</l>
             <l>no donde preñado oculta</l>
             <l>abismos de horror inmensos</l>
             <l>hace efectos porque,</l>
@@ -2590,7 +2607,7 @@
             <l>No, Enrique; yo soy mujer</l>
             <l>tan soberbia, que no quiero</l>
             <l>ser querida por venganza,</l>
-            <l>por tema , ni por desprecio.</l>
+            <l>por tema, ni por desprecio.</l>
             <l>El que a mí me ha de querer,</l>
             <l>por mí ha de ser, no teniendo</l>
             <l>conveniencias en quererme</l>
@@ -2624,7 +2641,7 @@
             <speaker rend="caps">Enrique</speaker>
 
 
-            <l>No os vais , esperad, oídme…</l>
+            <l>No os vais, esperad, oídme…</l>
           </sp>
           <sp who="#lísida">
             <speaker rend="caps">Lísida</speaker>
@@ -2639,7 +2656,7 @@
             <l>… que plegue al cielo …</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="2">
+        <div type="scene" resp="#rojas" n="4">
           <stage>Salen Celia y Ponleví.</stage>
           <sp who="#ponleví">
             <speaker rend="caps">Ponleví</speaker>
@@ -2720,7 +2737,7 @@
 
             <l>Deteneos,</l>
             <l>que no ha de ser desa suerte,</l>
-            <l>sino a espacio , porque quiero…</l>
+            <l>sino a espacio, porque quiero…</l>
           </sp>
           <sp who="#enrique">
             <speaker rend="caps">Enrique</speaker>
@@ -2786,8 +2803,8 @@
             <l>pompa de un jardín ameno,</l>
             <l>el áspid saca veneno</l>
             <l>y la abeja, viva miel.</l>
-            <stage>Ahora repara en la fl or y levántala.</stage>
-            <l>Y así, desta verde fl or</l>
+            <stage>Ahora repara en la flor y levántala.</stage>
+            <l>Y así, desta verde flor</l>
             <l>que, al quitarse tan severo</l>
             <l>el sombrero, del sombrero</l>
             <l>se le cayó al tal señor,</l>
@@ -2801,7 +2818,7 @@
             <speaker rend="caps">Clori</speaker>
 
 
-            <l>La fl or fue de la porfía,</l>
+            <l>La flor fue de la porfía,</l>
             <l>y fue de Lísida.</l>
           </sp>
           <sp who="#nise">
@@ -2809,7 +2826,7 @@
 
 
             <l>Fía</l>
-            <l>desa fl or y mi cuidado</l>
+            <l>desa flor y mi cuidado</l>
             <l>tu remedio con hacer</l>
             <l>solo lo que te dijere.</l>
           </sp>
@@ -2869,26 +2886,26 @@
             <l>como si no fuera él.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="3">
+        <div type="scene" resp="#rojas" n="5">
           <stage>Sale Enrique.</stage>
           <sp who="#enrique">
             <speaker rend="caps">Enrique</speaker>
 
 
             <l>(Vuelvo corriendo a buscar</l>
-            <l>la fl or que se me cayó.)</l>
+            <l>la flor que se me cayó.)</l>
           </sp>
           <sp who="#clori">
             <speaker rend="caps">Clori</speaker>
 
 
-            <l>¿Pues podré fi ngirlo yo?</l>
+            <l>¿Pues podré fingirlo yo?</l>
           </sp>
           <sp who="#nise">
             <speaker rend="caps">Nise</speaker>
 
 
-            <l>Pues fi ngirlo o no sanar.</l>
+            <l>Pues fingirlo o no sanar.</l>
           </sp>
           <sp who="#clori">
             <speaker rend="caps">Clori</speaker>
@@ -2902,12 +2919,12 @@
 
 
             <l>Quien hallar espera</l>
-            <l>fl ores, bien la primavera</l>
+            <l>flores, bien la primavera</l>
             <l>a su conceto responde.</l>
             <l>De un jardín se va a llevar</l>
-            <l>fl ores, a dejallas no,</l>
+            <l>flores, a dejallas no,</l>
             <l>sino solamente yo,</l>
-            <l>que traje esa fl or de azar .</l>
+            <l>que traje esa flor de azar .</l>
           </sp>
           <sp who="#clori">
             <speaker rend="caps">Clori</speaker>
@@ -2915,7 +2932,7 @@
 
             <l>Yo no os entiendo, mas creo</l>
             <l>que cauteloso venís</l>
-            <l>con esa fl or que decís</l>
+            <l>con esa flor que decís</l>
             <l>a lograr otro deseo.</l>
             <l>Adiós.</l>
           </sp>
@@ -2926,7 +2943,7 @@
             <l>Mirad, Clori hermosa…</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="4">
+        <div type="scene" resp="#rojas" n="6">
           <stage>Sale Lísida.</stage>
           <sp who="#lísida">
             <speaker rend="caps">Lísida</speaker>
@@ -2992,7 +3009,7 @@
             <speaker rend="caps">Nise</speaker>
 
 
-            <l>O fi ngir o no sanar.</l>
+            <l>O fingir o no sanar.</l>
           </sp>
           <sp who="#clori">
             <speaker rend="caps">Clori</speaker>
@@ -3006,7 +3023,7 @@
 
             <l>Al llegar a vella,</l>
             <stage>Haciendo las reverencias.</stage>
-            <l>muéstrale la fl or.</l>
+            <l>muéstrale la flor.</l>
           </sp>
           <sp who="#clori">
             <speaker rend="caps">Clori</speaker>
@@ -3044,10 +3061,10 @@
             <speaker rend="caps">Lísida</speaker>
 
 
-            <l>Que se vaya con la fl or.</l>
+            <l>Que se vaya con la flor.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="5">
+        <div type="scene" resp="#rojas" n="7">
           <stage>Vanse las dos despacio, enseñando la una la banda y la otra la flor.</stage>
           <sp who="#enrique">
             <speaker rend="caps">Enrique</speaker>
@@ -3059,13 +3076,13 @@
             <speaker rend="caps">Lísida</speaker>
 
 
-            <l>Mal caballero , villano,</l>
+            <l>Mal caballero, villano,</l>
             <l>mudable, inconstante, vano,</l>
-            <l>poco amante y menos fi el,</l>
+            <l>poco amante y menos fiel,</l>
             <l>¿habrá argumento en amor</l>
             <l>ahora? Mas bien hiciste,</l>
             <l>si a mí su banda me diste,</l>
-            <l>en darle a Clori la fl or.</l>
+            <l>en darle a Clori la flor.</l>
           </sp>
           <sp who="#enrique">
             <speaker rend="caps">Enrique</speaker>
@@ -3147,7 +3164,7 @@
             <l>¡Quién vio tan injusto amor!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="6">
+        <div type="scene" resp="#rojas" n="8">
           <stage>Vanse y salen con un papel el Duque y Otavio.</stage>
           <sp who="#duque">
             <speaker rend="caps">Duque</speaker>
@@ -3188,7 +3205,7 @@
             <l>que una torre eminente,</l>
             <l>si el grave peso de los años siente,</l>
             <l>si caduca o declina,</l>
-            <l>no es edifi cio ya, sino ruïna,</l>
+            <l>no es edificio ya, sino ruïna,</l>
             <l>blanco indigno de aquella llama, aquella</l>
             <l>que muros postra y homenajes huella.</l>
           </sp>
@@ -3197,7 +3214,7 @@
 
 
             <l>No, señor, tan postrado</l>
-            <l>juzgues el edifi cio aún no mellado</l>
+            <l>juzgues el edificio aún no mellado</l>
             <l>con prolijas porfías</l>
             <l>del venenoso diente de los días,</l>
             <l>que para darte el tiempo desengaños</l>
@@ -3250,7 +3267,7 @@
             <l>hablar a Enrique.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="7">
+        <div type="scene" resp="#rojas" n="9">
           <stage>Sale Enrique y Ponleví.</stage>
           <sp who="#otavio">
             <speaker rend="caps">Otavio</speaker>
@@ -3261,7 +3278,7 @@
             <l>¡vuela, Amor, pues te llaman dios alado !</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="8">
+        <div type="scene" resp="#rojas" n="10">
           <stage>Vase.</stage>
           <sp who="#duque">
             <speaker rend="caps">Duque</speaker>
@@ -3288,7 +3305,7 @@
             <speaker rend="caps">Ponleví</speaker>
 
 
-            <l>Pues voyme noramala ,</l>
+            <l>Pues voyme noramala,</l>
             <l>que burlas y mujeres,</l>
             <l>cuando son menester, causan placeres .</l>
           </sp>
@@ -3297,7 +3314,7 @@
 
 
             <l>Hasta aquí, con hablar a Clori bella,</l>
-            <l>treguas hizo mi amor, paces mi estrella ,</l>
+            <l>treguas hizo mi amor, paces mi estrella,</l>
             <l>partiendo con el día</l>
             <l>engaños que a la noche me decía ;</l>
             <l>pues hoy, porque no tenga</l>
@@ -3307,13 +3324,13 @@
             <stage>Lee.</stage>
             <l>«Señor, las continuas visitas de vuestra Alteza</l>
             <l>han despertado más de una malicia,</l>
-            <l>y en ausencia de mi padre ,</l>
+            <l>y en ausencia de mi padre,</l>
             <l>lo que una vez le honrara, dos le murmurará.</l>
             <l>Yo lo espero, y así, le suplico</l>
             <l>a vuestra Alteza escuse el venir a verme.»</l>
             <l>No leo más este agravio, esta sentencia;</l>
             <l>última línea ya de mi paciencia</l>
-            <l>te confi eso que ha sido</l>
+            <l>te confieso que ha sido</l>
             <l>este desaire. Solo me ha rendido</l>
             <l>más que cuantos rigores</l>
             <l>fueron dulce prisión de mis amores.</l>
@@ -3331,7 +3348,7 @@
             <l>y en público celebres sus favores,</l>
             <l>no dudo que consigas ser querido,</l>
             <l>que eres galán, Enrique, y entendido.</l>
-            <l>Y en fi n, una doncella cuanto siente</l>
+            <l>Y en fin, una doncella cuanto siente</l>
             <l>que es casamiento, admite fácilmente;</l>
             <l>pues teniendo granjeada</l>
             <l>la prima con amor y la criada</l>
@@ -3356,7 +3373,7 @@
 
 
             <l>Si de Otavio quisiera</l>
-            <l>fi arme yo, yo a Otavio lo dijera,</l>
+            <l>fiarme yo, yo a Otavio lo dijera,</l>
             <l>y pues de ti me fío,</l>
             <l>quiero que sepas tú el recelo mío,</l>
             <l>y Otavio no.</l>
@@ -3465,7 +3482,7 @@
             <l>¡Qué necio amor y qué amistad tan necia!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="9">
+        <div type="scene" resp="#rojas" n="11">
           <stage>Vase el Duque.</stage>
           <sp who="#enrique">
             <speaker rend="caps">Enrique</speaker>
@@ -3478,7 +3495,7 @@
             <l>Si a Nise no festejo,</l>
             <l>quejoso al Duque dejo;</l>
             <l>si la festejo, a Otavio;</l>
-            <l>también de Clori es prima , a Clori agravio.</l>
+            <l>también de Clori es prima, a Clori agravio.</l>
             <l>Si la verdad les digo,</l>
             <l>falto al secreto; si con él prosigo,</l>
             <l>a Lísida aventuro,</l>
@@ -3493,7 +3510,7 @@
             <l>mucho, cielos, cumplís; decidlo, cielos.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="10">
+        <div type="scene" resp="#rojas" n="12">
           <stage>Vase y sale Lísida y Celia.</stage>
           <sp who="#lísida">
             <speaker rend="caps">Lísida</speaker>
@@ -3512,7 +3529,7 @@
 
 
             <l>¿Del sombrero se cayó</l>
-            <l>la fl or a Enrique y la alzó</l>
+            <l>la flor a Enrique y la alzó</l>
             <l>Nise para Clori?</l>
           </sp>
           <sp who="#celia">
@@ -3566,13 +3583,14 @@
             <l>y tú, Celia mía, con él</l>
             <l>hoy a buscarle has de ir,</l>
             <l>en cuyo efecto verás,</l>
-            <l>dándote el alma en despojos ,</l>
+            <l>dándote el alma en despojos,</l>
             <l>que tras nublados y enojos</l>
             <l>amor y sol lucen más.</l>
           </sp>
+          <stage>Vase.</stage>
         </div>
-        <div type="scene" resp="#rojas" n="11">
-          <stage>Vase. Sale Ponleví.</stage>
+        <div type="scene" resp="#rojas" n="13">
+          <stage>Sale Ponleví.</stage>
           <sp who="#ponleví">
             <speaker rend="caps">Ponleví</speaker>
 
@@ -3580,7 +3598,7 @@
             <l>Apenas dejé en palacio</l>
             <l>a mi señor, Celia ingrata,</l>
             <l>cuando ves aquí que vuelvo,</l>
-            <l>rayo de capa y espada ,</l>
+            <l>rayo de capa y espada,</l>
             <l>a abrazarte como un rayo.</l>
           </sp>
           <sp who="#celia">
@@ -3632,7 +3650,7 @@
             <l>tiritón y barba larga .</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="12">
+        <div type="scene" resp="#rojas" n="14">
           <stage>Escóndese Ponleví y salen Clori y Nise.</stage>
           <sp who="#clori">
             <speaker rend="caps">Clori</speaker>
@@ -3692,7 +3710,7 @@
             <l>ocasión con que lograrla.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="13">
+        <div type="scene" resp="#rojas" n="15">
           <stage>Sale Lísida con un papel, y viéndolas le guarda.</stage>
           <sp who="#lísida">
             <speaker rend="caps">Lísida</speaker>
@@ -3713,12 +3731,12 @@
 
 
             <l>Yo a llamarla</l>
-            <l>iré. (Esta es buena ocasión;</l>
+            <l>iré.<stage>[Aparte]</stage> (Esta es buena ocasión;</l>
             <l>ya quedas en la campaña :</l>
-            <l>fi nge y engaña tus celos.)</l>
+            <l>finge y engaña tus celos.)</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="14">
+        <div type="scene" resp="#rojas" n="16">
           <stage>Vase.</stage>
           <sp who="#clori">
             <speaker rend="caps">Clori</speaker>
@@ -3756,7 +3774,7 @@
             <l>más lágrimas a sus ojos</l>
             <l>que a los suspiros del alba .</l>
             <l>Ausentose, y como el cielo</l>
-            <l>nos dio condición tan varia ,</l>
+            <l>nos dio condición tan varia,</l>
             <l>que es el día del amor</l>
             <l>víspera de la mudanza,</l>
             <l>fácilmente las cenizas</l>
@@ -3767,8 +3785,8 @@
             <l>y aunque mi honor y mi fama</l>
             <l>me han resistido, no tanto</l>
             <l>que algún efecto no hayan</l>
-            <l>hecho en mí tantos estremos ,</l>
-            <l>puesto en mí fi nezas tantas.</l>
+            <l>hecho en mí tantos estremos,</l>
+            <l>puesto en mí finezas tantas.</l>
             <l>Volvió Enrique y, ya celoso</l>
             <l>de ver que el Duque me amaba,</l>
             <l>o ya más enamorado</l>
@@ -3779,7 +3797,7 @@
             <l>donde, a pesar de sus ansias,</l>
             <l>por no tenerme quejosa</l>
             <l>de haberte dado esa banda</l>
-            <l>me volvió a dar esta fl or,</l>
+            <l>me volvió a dar esta flor,</l>
             <l>enigma de su esperanza.</l>
             <l>Si eres mi hermana y mi amiga,</l>
             <l>como he dicho, si te alcanza</l>
@@ -3790,7 +3808,7 @@
             <l>con fe y amor verdadero</l>
             <l>amor y fe que son falsas.</l>
             <l>No te des por entendida</l>
-            <l>de que fi nge, de que engaña</l>
+            <l>de que finge, de que engaña</l>
             <l>sus celos contigo, pues</l>
             <l>pensar que te quiere basta.</l>
             <l>Con esto el Duque tendrá</l>
@@ -3804,11 +3822,12 @@
             <speaker rend="caps">Lísida</speaker>
 
 
+            <stage>Aparte</stage>
             <l>(Esta que me engaña piensa,</l>
             <l>y ella ha de ser la engañada.)</l>
             <l>Cierto, Clori, que pensé</l>
             <l>cuando te vi que empezabas</l>
-            <l>con prólogos, con proemios ,</l>
+            <l>con prólogos, con proemios,</l>
             <l>que era una cosa muy ardua</l>
             <l>lo que había de hacer por ti.</l>
             <l>¿Tú pídesme más, hermana,</l>
@@ -3825,15 +3844,15 @@
             <l>y desde el alba a la noche,</l>
             <l>y antes que en esta renazca</l>
             <l>el sol quemando las plumas</l>
-            <l>de oro en hogueras de plata ,</l>
+            <l>de oro en hogueras de plata,</l>
             <l>le he de enviar un papel,</l>
             <l>diciéndole con mil ansias</l>
             <l>que venga a verme, y de modo</l>
             <l>le hablaré, que te persuadas</l>
             <l>tú misma que es verdadero,</l>
             <l>o por lo menos no hagas</l>
-            <l>distinción de mis fi nezas</l>
-            <l>si son fi ngidas y falsas .</l>
+            <l>distinción de mis finezas</l>
+            <l>si son fingidas y falsas .</l>
             <l>¿Quieres más?</l>
           </sp>
           <sp who="#clori">
@@ -3853,7 +3872,7 @@
             <l>por decirle lo que pasa.)</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="15">
+        <div type="scene" resp="#rojas" n="17">
           <stage>Hablan las dos y sale por detrás dellas Ponleví.</stage>
           <sp who="#lísida">
             <speaker rend="caps">Lísida</speaker>
@@ -3871,7 +3890,7 @@
             <l>y amores que son venganza!)</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="16">
+        <div type="scene" resp="#rojas" n="18">
           <stage>Vase Clori.</stage>
           <sp who="#lísida">
             <speaker rend="caps">Lísida</speaker>
@@ -3882,8 +3901,8 @@
             <l>los desengaños de su amor llorara</l>
             <l>y los desaires de mi amor sintiera.</l>
             <l>Pero si Clori divertir espera</l>
-            <l>tan rara fe con invención tan rara ,</l>
-            <l>mal hiciera si al daño me fi ara,</l>
+            <l>tan rara fe con invención tan rara,</l>
+            <l>mal hiciera si al daño me fiara,</l>
             <l>mal pensara si al riesgo me creyera.</l>
             <l>Y pues el blanco donde Clori tira</l>
             <l>dice el verde favor de aquella rosa</l>
@@ -3893,7 +3912,7 @@
             <l>la verdad queda siempre sospechosa .</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="17">
+        <div type="scene" resp="#rojas" n="19">
           <stage>Sale Enrique y Ponleví.</stage>
           <sp who="#enrique">
             <speaker rend="caps">Enrique</speaker>
@@ -3982,6 +4001,7 @@
             <speaker rend="caps">Enrique</speaker>
 
 
+            <stage>Aparte</stage>
             <l>(¿Ya qué espero?)</l>
             <l>Detente, sirena</l>
             <l>ingrata,</l>
@@ -4001,7 +4021,7 @@
             <speaker rend="caps">Lísida</speaker>
 
 
-            <l>Ni hoy, Enrique, fue fi ngido</l>
+            <l>Ni hoy, Enrique, fue fingido</l>
             <l>mi llanto, ni agora</l>
             <l>es falsa</l>
             <l>mi risa, que entrambos son</l>
@@ -4012,11 +4032,11 @@
             <l>Celia, que escondida estaba,</l>
             <l>me desengañó; y así,</l>
             <l>ni la sirena te llama</l>
-            <l>con voz fi ngida a sus brazos,</l>
+            <l>con voz fingida a sus brazos,</l>
             <l>ni el cocodrilo te agravia</l>
-            <l>con fi ngido llanto, pues</l>
+            <l>con fingido llanto, pues</l>
             <l>solo amor entre estas ramas</l>
-            <l>canta y llora fi rme siempre</l>
+            <l>canta y llora firme siempre</l>
             <l>cuando llora y cuando canta.</l>
           </sp>
           <sp who="#enrique">
@@ -4024,14 +4044,14 @@
 
 
             <l>¿Piensas que ignoro que son</l>
-            <l>fi ngidas cuantas palabras</l>
+            <l>fingidas cuantas palabras</l>
             <l>dices?</l>
           </sp>
           <sp who="#lísida">
             <speaker rend="caps">Lísida</speaker>
 
 
-            <l>¿Y será fi ngido</l>
+            <l>¿Y será fingido</l>
             <l>un papel que te enviaba?</l>
           </sp>
           <sp who="#enrique">
@@ -4093,7 +4113,7 @@
             <l>de cuantas aquí te ha dicho.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="18">
+        <div type="scene" resp="#rojas" n="20">
           <stage>Vase Ponleví como retirando de Lísida.</stage>
           <sp who="#lísida">
             <speaker rend="caps">Lísida</speaker>
@@ -4144,7 +4164,7 @@
 
 
             <l>¿De suerte que he de creer</l>
-            <l>que fi nges para tu hermana</l>
+            <l>que finges para tu hermana</l>
             <l>y hablas verdad para mí?</l>
           </sp>
           <sp who="#lísida">
@@ -4152,17 +4172,17 @@
 
 
             <l>¿No has visto, Enrique, una tabla</l>
-            <l>que a una luz fi nge perfecta</l>
+            <l>que a una luz finge perfecta</l>
             <l>una hermosura estremada</l>
             <l>y a otra luz un monstruo finge,</l>
             <l>porque le debe la estampa</l>
-            <l>tanto artifi cio al pincel,</l>
+            <l>tanto artificio al pincel,</l>
             <l>que hace dos cosas contrarias?</l>
             <l>Así mi amor a la luz</l>
             <l>de Clori es monstruo que espanta</l>
             <l>y a la de Enrique perfecta</l>
             <l>hermosura, que en un alma</l>
-            <l>de un amor fi ngido a un cierto</l>
+            <l>de un amor fingido a un cierto</l>
             <l>es la diferencia tanta.</l>
           </sp>
           <sp who="#enrique">
@@ -4173,7 +4193,7 @@
             <l>que, con saber que me engañas,</l>
             <l>te he de creer. Deja, pues,</l>
             <l>que agradecido a tus plantas</l>
-            <l>bese la fl or que producen ,</l>
+            <l>bese la flor que producen,</l>
             <l>por no decir la que ajan.</l>
           </sp>
           <sp who="#lísida">
@@ -4189,7 +4209,7 @@
             <l>No, que es esfera muy alta .</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="19">
+        <div type="scene" resp="#rojas" n="21">
           <stage>Salen Clori y Nise.</stage>
           <sp who="#clori">
             <speaker rend="caps">Clori</speaker>
@@ -4213,7 +4233,7 @@
             <l>Sí haré.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="20">
+        <div type="scene" resp="#rojas" n="22">
           <stage>Vase.</stage>
           <sp who="#lísida">
             <speaker rend="caps">Lísida</speaker>
@@ -4224,7 +4244,7 @@
             <l>por hacer lo que me mandas.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="21">
+        <div type="scene" resp="#rojas" n="23">
           <stage>Vase.</stage>
           <sp who="#clori">
             <speaker rend="caps">Clori</speaker>
@@ -4258,9 +4278,11 @@
             <l>Esta basta;</l>
             <l>vete ahora y el suceso</l>
             <l>puedes mirar retirada.</l>
-            <stage>Vase Clori.</stage>
+            <stage>[Vase Clori.]</stage>
             <l>¿Ponleví?</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="24">
           <sp who="#ponleví">
             <speaker rend="caps">Ponleví</speaker>
 
@@ -4274,7 +4296,7 @@
             <l>Escúchame.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="22">
+        <div type="scene" resp="#rojas" n="25">
           <stage>Sale.</stage>
           <sp who="#ponleví">
             <speaker rend="caps">Ponleví</speaker>
@@ -4288,7 +4310,7 @@
 
             <l>Esto.</l>
           </sp>
-          <stage>Pégale.</stage>
+          <stage>[Pégale.]</stage>
           <sp who="#ponleví">
             <speaker rend="caps">Ponleví</speaker>
 
@@ -4327,7 +4349,7 @@
 
             <l>¡Calla, infame!</l>
           </sp>
-          <stage>Pégale.</stage>
+          <stage>[Pégale.]</stage>
           <sp who="#ponleví">
             <speaker rend="caps">Ponleví</speaker>
 
@@ -4342,9 +4364,10 @@
 
             <l>¿Tú a mí?</l>
           </sp>
+          <stage>[Rompe el papel.]</stage>
         </div>
-        <div type="scene" resp="#rojas" n="23">
-          <stage>Rompe el papel. Sale Lísida.</stage>
+        <div type="scene" resp="#rojas" n="26">
+          <stage>Sale Lísida.</stage>
           <sp who="#lísida">
             <speaker rend="caps">Lísida</speaker>
 
@@ -4409,7 +4432,7 @@
             <l>esta dama está borracha .)</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="24">
+        <div type="scene" resp="#rojas" n="27">
           <stage>Vase.</stage>
           <sp who="#lísida">
             <speaker rend="caps">Lísida</speaker>
@@ -4445,6 +4468,7 @@
             <speaker rend="caps">Lísida</speaker>
 
 
+            <stage>[Aparte]</stage>
             <l>(Aquesta es otra cautela ;</l>
             <l>pues no se ha de ver lograda.)</l>
           </sp>
@@ -4474,7 +4498,7 @@
 
             <l>Con efeto,</l>
             <l>Nise, de que si levantas</l>
-            <l>tú una fl or que fue de Enrique</l>
+            <l>tú una flor que fue de Enrique</l>
             <l>deste suelo para darla</l>
             <l>a Clori, por ser de Enrique,</l>
             <l>también con la misma causa</l>
@@ -4506,7 +4530,7 @@
             <speaker rend="caps">Nise</speaker>
 
 
-            <l>¿Quién le quita al aura ,</l>
+            <l>¿Quién le quita al aura,</l>
             <l>jugando con los papeles,</l>
             <l>que unos lleve y otros traiga?</l>
             <l>No sería ese el que yo</l>
@@ -4540,10 +4564,10 @@
             <l>decir que Enrique ha mil días</l>
             <l>que con amorosas ansias</l>
             <l>me enamora y me festeja,</l>
-            <l>me escribe, en fi n , y me cansa,</l>
+            <l>me escribe, en fin, y me cansa,</l>
             <l>porque quizá te pondré</l>
             <l>donde escuches retirada</l>
-            <l>sus fi nezas.</l>
+            <l>sus finezas.</l>
           </sp>
           <sp who="#lísida">
             <speaker rend="caps">Lísida</speaker>
@@ -4575,7 +4599,7 @@
 
 
             <l>Yo quise darte un picón ;</l>
-            <l>esto, al fi n, no ha sido nada.</l>
+            <l>esto, al fin, no ha sido nada.</l>
           </sp>
           <sp who="#lísida">
             <speaker rend="caps">Lísida</speaker>
@@ -4583,7 +4607,7 @@
 
             <l>Por sí o por no, yo he de verlo.</l>
           </sp>
-          <stage>Escóndese.</stage>
+          <stage>Escóndese [Lísida].</stage>
           <sp who="#nise">
             <speaker rend="caps">Nise</speaker>
 
@@ -4595,7 +4619,7 @@
             <l>no me ha hablado una palabra.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="25">
+        <div type="scene" resp="#rojas" n="28">
           <stage>Sale Enrique y Ponleví.</stage>
           <sp who="#ponleví">
             <speaker rend="caps">Ponleví</speaker>
@@ -4613,8 +4637,8 @@
             <l>dél, no es posible vivir.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="26">
-          <stage>Sale Clori al paño.</stage>
+        <div type="scene" resp="#rojas" n="29">
+          <stage>[Sale Clori al paño.]</stage>
           <sp who="#clori">
             <speaker rend="caps">Clori</speaker>
 
@@ -4656,16 +4680,16 @@
             <l>perderle a mi amor el miedo</l>
             <l>y empezar a romper ya</l>
             <l>la mina del Duque. Va</l>
-            <l>de amor fi ngido y secreto ;</l>
+            <l>de amor fingido y secreto ;</l>
             <l>buen efeto me prometo,</l>
             <l>pues solo y seguro estoy</l>
             <l>de mi Lísida, que hoy</l>
             <l>no hay que temer el efeto.)</l>
             <l>Serafín deste jardín</l>
             <l>que es paraíso de amor,</l>
-            <l>pues sois la guarda y la fl or,</l>
+            <l>pues sois la guarda y la flor,</l>
             <l>la defensa y el jazmín,</l>
-            <l>el fuego envainad y, en fi n,</l>
+            <l>el fuego envainad y, en fin,</l>
             <l>templados al sol los bríos,</l>
             <l>oíd dulces desvaríos,</l>
             <l>oíd afectos temerosos,</l>
@@ -4749,7 +4773,7 @@
 
             <l>(¡Él sin duda me enamora!</l>
             <l>¿Quién vio lance más estraño?</l>
-            <l>Lo que en burlas he fi ngido,</l>
+            <l>Lo que en burlas he fingido,</l>
             <l>de veras ha sucedido;</l>
             <l>esforcemos el engaño.)</l>
           </sp>
@@ -4820,7 +4844,7 @@
 
 
             <l>En toda mi vida he visto</l>
-            <l>fl orentín más portugués .</l>
+            <l>florentín más portugués .</l>
           </sp>
           <sp who="#enrique">
             <speaker rend="caps">Enrique</speaker>
@@ -4843,11 +4867,11 @@
             <l>Antes mérito. ¿Ha dejado</l>
             <l>nunca de ser estimado</l>
             <l>un libro o una pintura,</l>
-            <l>una espada, una hechura ,</l>
-            <l>porque el artífi ce obró</l>
+            <l>una espada, una hechura,</l>
+            <l>porque el artífice obró</l>
             <l>otras antes della? No:</l>
             <l>más la aprecia y más la apura</l>
-            <l>la experiencia; luego infi ero</l>
+            <l>la experiencia; luego infiero</l>
             <l>que al quereros, en rigor,</l>
             <l>es crédito de mi amor</l>
             <l>el querer otras primero.</l>
@@ -4858,8 +4882,6 @@
             <l>obre perfecto en la una</l>
             <l>lo que he aprendido en las dos.</l>
           </sp>
-        </div>
-        <div type="scene" resp="#rojas" n="27">
           <stage>Saca de la mano a Lísida y vase por donde está Clori.</stage>
           <sp who="#clori">
             <speaker rend="caps">Clori</speaker>
@@ -4928,8 +4950,8 @@
             <l>añades otro dolor.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="28">
-          <stage>Vase.</stage>
+        <div type="scene" resp="#rojas" n="30">
+          <stage>[Vase.]</stage>
           <sp who="#nise">
             <speaker rend="caps">Nise</speaker>
 
@@ -4938,7 +4960,7 @@
             <l>a mí no me toca más.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="29">
+        <div type="scene" resp="#rojas" n="31">
           <stage>Vase.</stage>
           <sp who="#lísida">
             <speaker rend="caps">Lísida</speaker>
@@ -5005,7 +5027,7 @@
             <speaker rend="caps">Lísida</speaker>
 
 
-            <l>Di: ¿ahora quién fi nge?</l>
+            <l>Di: ¿ahora quién finge?</l>
           </sp>
           <sp who="#enrique">
             <speaker rend="caps">Enrique</speaker>
@@ -5075,13 +5097,13 @@
 
 
             <l>¡Muera</l>
-            <l>tan falso y fi ngido amante!</l>
+            <l>tan falso y fingido amante!</l>
           </sp>
           <sp who="#enrique">
             <speaker rend="caps">Enrique</speaker>
 
 
-            <l>Yo soy fi rme y lo he de ser.</l>
+            <l>Yo soy firme y lo he de ser.</l>
           </sp>
           <sp who="#lísida">
             <speaker rend="caps">Lísida</speaker>
@@ -5119,7 +5141,7 @@
 
             <l>¡Que pueda un dios niño sabio</l>
             <l>con trazas y sutilezas</l>
-            <l>ofender con las fi nezas</l>
+            <l>ofender con las finezas</l>
             <l>y hacer del amor agravio !</l>
           </sp>
         </div>
@@ -5179,14 +5201,14 @@
             <l>un hombre lo que quisiera</l>
             <l>olvidar? Desta manera</l>
             <l>dispuesta la voluntad,</l>
-            <l>no está la difi cultad</l>
+            <l>no está la dificultad</l>
             <l>en vencer, sino en que quiera .</l>
           </sp>
           <sp who="#duque">
             <speaker rend="caps">Duque</speaker>
 
 
-            <l>Y en fi n, di, ¿cómo te ha ido</l>
+            <l>Y en fin, di, ¿cómo te ha ido</l>
             <l>con Nise? ¿Qué ha sucedido?</l>
           </sp>
           <sp who="#enrique">
@@ -5194,6 +5216,7 @@
 
 
             <l>Mal mis penas escuchó</l>
+            <stage>[Aparte]</stage>
             <l>(y es verdad, muerte me dio),</l>
             <l>que como Fabio ha venido</l>
             <l>y ha reformado la casa,</l>
@@ -5215,7 +5238,7 @@
 
 
             <l>Es cosa</l>
-            <l>ya, señor, difi cultosa.</l>
+            <l>ya, señor, dificultosa.</l>
           </sp>
           <sp who="#duque">
             <speaker rend="caps">Duque</speaker>
@@ -5279,7 +5302,7 @@
 
 
             <l>Mi pena</l>
-            <l>alivia , Nise, y sirena</l>
+            <l>alivia, Nise, y sirena</l>
             <l>del mar de mi amor serás.</l>
           </sp>
           <sp who="#lísida">
@@ -5366,9 +5389,9 @@
             <speaker rend="caps">Ponleví</speaker>
 
 
-            <l>Fortuna , ¿quién se desvela</l>
+            <l>Fortuna, ¿quién se desvela</l>
             <l>por ti, si a todos igualas?</l>
-            <l>Tu rueda pinta con alas ,</l>
+            <l>Tu rueda pinta con alas,</l>
             <l>que no rueda, sino vuela.</l>
           </sp>
           <sp who="#nise">
@@ -5486,7 +5509,7 @@
 
 
             <l>No vuestra Alteza, señor,</l>
-            <l>les dé una patria tan fácil ,</l>
+            <l>les dé una patria tan fácil,</l>
             <l>que es su centro un pecho donde</l>
             <l>tiene su adorada imagen .</l>
           </sp>
@@ -5528,7 +5551,7 @@
             <speaker rend="caps">Lísida</speaker>
 
 
-            <l>Mal dicen estas fi nezas</l>
+            <l>Mal dicen estas finezas</l>
             <l>con otras facilidades.</l>
           </sp>
           <sp who="#enrique">
@@ -5614,7 +5637,7 @@
 
             <l>¿Hay suceso semejante?</l>
           </sp>
-          <stage>Clori a la ventana de Lísida.</stage>
+          <stage>[LLega] Clori a la ventana de Lísida.</stage>
           <sp who="#clori">
             <speaker rend="caps">Clori</speaker>
 
@@ -5667,9 +5690,9 @@
 
 
             <l>Yo desta noche redonda</l>
-            <l>de amor, deste Roncesvalles ,</l>
+            <l>de amor, deste Roncesvalles,</l>
             <l>solo estoy de nones cuando</l>
-            <l>todos los demás son pares ,</l>
+            <l>todos los demás son pares,</l>
             <l>si ya a don monsiur del Sueño</l>
             <l>no llamo que me acompañe.</l>
           </sp>
@@ -5722,8 +5745,9 @@
             <speaker rend="caps">Enrique</speaker>
 
 
+            <stage>[Aparte]</stage>
             <l>(Dadme,</l>
-            <l>cielos, palabras fi ngidas</l>
+            <l>cielos, palabras fingidas</l>
             <l>con que una deidad engañe.)</l>
           </sp>
           <sp who="#clori">
@@ -5775,7 +5799,7 @@
             <l>imán es de cuanto vive,</l>
             <l>conduciendo a estos umbrales</l>
             <l>entre las peñas los brutos,</l>
-            <l>entre las fl ores las aves,</l>
+            <l>entre las flores las aves,</l>
             <l>da lugar a un pensamiento,</l>
             <l>que tu dulce voz le trae</l>
             <l>a morir de tal veneno,</l>
@@ -5995,7 +6019,7 @@
 
             <l>A todas, y no se canse,</l>
             <l>que no quitaré una sola</l>
-            <l>porque es galán a tres haces ,</l>
+            <l>porque es galán a tres haces,</l>
             <l>de pretérito, presente</l>
             <l>y futuro.</l>
           </sp>
@@ -6028,6 +6052,9 @@
 
             <l>Que me place.</l>
           </sp>
+          <stage>[Vase]</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="5">
           <sp who="#fabio">
             <speaker rend="caps">Fabio</speaker>
 
@@ -6049,7 +6076,7 @@
             <l>apelaré a mi valor .</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="5">
+        <div type="scene" resp="#rojas" n="6">
           <stage>Vase y sale Otavio y Enrique.</stage>
           <sp who="#otavio">
             <speaker rend="caps">Otavio</speaker>
@@ -6110,7 +6137,7 @@
 
             <l>No puedo, Otavio, negaros</l>
             <l>lo que vos decís que vistes,</l>
-            <l>que escuchastes o supistes ,</l>
+            <l>que escuchastes o supistes,</l>
             <l>ni tampoco puedo daros</l>
             <l>disculpas que están guardadas</l>
             <l>quizá para disuadiros;</l>
@@ -6120,7 +6147,7 @@
             <l>con causa, que si sabéis</l>
             <l>vos la razón que tenéis,</l>
             <l>yo también sé la que tengo.</l>
-            <l>Y porque en palacio estamos ,</l>
+            <l>Y porque en palacio estamos,</l>
             <l>esto mi amistad responde.</l>
           </sp>
           <sp who="#otavio">
@@ -6137,7 +6164,7 @@
             <l>Sea.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="6">
+        <div type="scene" resp="#rojas" n="7">
           <stage>Sale el Duque.</stage>
           <sp who="#duque">
             <speaker rend="caps">Duque</speaker>
@@ -6156,6 +6183,7 @@
             <speaker rend="caps">Duque</speaker>
 
 
+            <stage>[Aparte]</stage>
             <l>(Los dos turbados</l>
             <l>están; bien sus cuïdados</l>
             <l>dicen que es causa mi amor;</l>
@@ -6175,7 +6203,7 @@
             <l>Tened</l>
             <l>la escribanía y poned</l>
             <l>el recado de escribir .</l>
-            <stage type="withText">A Ponleví.</stage>
+            <stage type="withText">[A Ponleví.]</stage>
             <l>Y vos salíos allá fuera.</l>
           </sp>
           <sp who="#otavio">
@@ -6197,7 +6225,7 @@
             <l>Adiós.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="7">
+        <div type="scene" resp="#rojas" n="8">
           <stage>Vase Otavio.</stage>
           <sp who="#enrique">
             <speaker rend="caps">Enrique</speaker>
@@ -6235,12 +6263,13 @@
             <l>no es buen médico el poder .</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="8">
+        <div type="scene" resp="#rojas" n="9">
           <stage>Sale Fabio.</stage>
           <sp who="#fabio">
             <speaker rend="caps">Fabio</speaker>
 
 
+            <stage>[Aparte]</stage>
             <l>(Solo está Enrique con él.)</l>
             <l>¿Podrete hablar, señor?</l>
           </sp>
@@ -6258,14 +6287,14 @@
             <l>Será escribirle un papel.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="9">
+        <div type="scene" resp="#rojas" n="10">
           <stage>Vase Enrique.</stage>
           <sp who="#fabio">
             <speaker rend="caps">Fabio</speaker>
 
 
             <l>Para decir mis enojos</l>
-            <l>quisiera, en tan triste calma ,</l>
+            <l>quisiera, en tan triste calma,</l>
             <l>que fueran lenguas del alma</l>
             <l>las lágrimas de los ojos .</l>
           </sp>
@@ -6433,20 +6462,20 @@
             <l>Sí, pues allí le hallé yo</l>
             <l>y ella huye de mí esta noche.</l>
             <l>Primero la cuestión fue</l>
-            <l>de la banda y de la fl or.</l>
+            <l>de la banda y de la flor.</l>
             <l>¡Oh, qué de memoria, amor,</l>
             <l>tienes! No me digas que</l>
             <l>a otro día me escribió</l>
             <l>que el visitarla escusara,</l>
             <l>muestra y evidencia clara</l>
-            <l>que el venir él lo causó .)</l>
+            <l>que el venir él lo causó.)</l>
           </sp>
           <sp who="#fabio">
             <speaker rend="caps">Fabio</speaker>
 
 
             <l>¿Tan poco te mereció</l>
-            <l>mi agravio, mi pena fi era,</l>
+            <l>mi agravio, mi pena fiera,</l>
             <l>que una palabra siquiera</l>
             <l>no me has respondido?</l>
           </sp>
@@ -6467,8 +6496,8 @@
             <l>al valor con que nací .</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="10">
-          <stage>Sale Enrique y Ponleví.</stage>
+        <div type="scene" resp="#rojas" n="11">
+          <stage>Sale Enrique y Ponleví[, y hablan aparte].</stage>
           <sp who="#enrique">
             <speaker rend="caps">Enrique</speaker>
 
@@ -6510,8 +6539,10 @@
 
 
             <l>Yo te lo diré después.</l>
-            <l>Vase.</l>
           </sp>
+          <stage>Vase.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="12">
           <sp who="#ponleví">
             <speaker rend="caps">Ponleví</speaker>
 
@@ -6534,7 +6565,7 @@
             <l>que también lo ignoro yo.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="11">
+        <div type="scene" resp="#rojas" n="13">
           <stage>Vase.</stage>
           <sp who="#ponleví">
             <speaker rend="caps">Ponleví</speaker>
@@ -6555,14 +6586,14 @@
             <l>que la que pasa por mí?</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="12">
+        <div type="scene" resp="#rojas" n="14">
           <stage>Sale Celia tapada.</stage>
           <sp who="#celia">
             <speaker rend="caps">Celia</speaker>
 
 
             <l>Hasta toparle me he entrado</l>
-            <l>pisando con pies de plomo ,</l>
+            <l>pisando con pies de plomo,</l>
             <l>por no decir que de lana.</l>
             <l>¡Ce!</l>
           </sp>
@@ -6634,7 +6665,7 @@
             <l>que estoy a servirla prompto.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="13">
+        <div type="scene" resp="#rojas" n="15">
           <stage>Sale Ponleví.</stage>
           <sp who="#ponleví">
             <speaker rend="caps">Ponleví</speaker>
@@ -6670,12 +6701,13 @@
 
 
             <l>Espera un poco.</l>
+            <stage>Aparte</stage>
             <l>(El Duque conmigo está</l>
             <l>disgustado o sospechoso</l>
             <l>porque de Clori no sé</l>
             <l>los desvelos amorosos,</l>
             <l>y así, aquí el secreto quiero</l>
-            <l>abrir con llave de oro ,</l>
+            <l>abrir con llave de oro,</l>
             <l>pues esta es buena ocasión.)</l>
             <l>Celia mía de mis ojos,</l>
             <l>en tu mano está mi vida,</l>
@@ -6711,7 +6743,7 @@
 
 
             <l>Toma este diamante; hijo</l>
-            <l>del sol, un rayo es de Apolo ,</l>
+            <l>del sol, un rayo es de Apolo,</l>
             <l>aunque piedra.</l>
           </sp>
           <sp who="#celia">
@@ -6733,7 +6765,7 @@
             <speaker rend="caps">Enrique</speaker>
 
 
-            <l>En fi n,</l>
+            <l>En fin,</l>
             <l>tú, Celia, eres dueño solo</l>
             <l>de mi vida.</l>
           </sp>
@@ -6795,7 +6827,7 @@
 
             <l>¡Lindo como !</l>
           </sp>
-          <stage>Hablan y Ponleví aparte.</stage>
+          <stage>Hablan [los dos] quedo, y Ponleví aparte.</stage>
           <sp who="#enrique">
             <speaker rend="caps">Enrique</speaker>
 
@@ -6820,7 +6852,7 @@
             <l>de desenojarnos!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="14">
+        <div type="scene" resp="#rojas" n="16">
           <stage>Vase.</stage>
           <sp who="#enrique">
             <speaker rend="caps">Enrique</speaker>
@@ -6836,9 +6868,9 @@
 
 
             <l>Y yo y todo .</l>
-            <l>Potente rey de romanos ,</l>
+            <l>Potente rey de romanos,</l>
             <l>amo injusto y alevoso,</l>
-            <l>falso dueño de abarrisco ,</l>
+            <l>falso dueño de abarrisco,</l>
             <l>señor de a roso y velloso,</l>
             <l>¿así a un criado leal</l>
             <l>se rompe la fe y el voto</l>
@@ -6869,7 +6901,7 @@
 
 
             <l>… te mate y bañe en tu sangre</l>
-            <l>con fi ngido esmalte rojo,</l>
+            <l>con fingido esmalte rojo,</l>
             <l>si no callas!</l>
           </sp>
           <sp who="#ponleví">
@@ -6951,7 +6983,7 @@
             <l>en argumentos honrosos</l>
             <l>son paradojas de honor</l>
             <l>y por ambas partes docto</l>
-            <l>el duelo las califi ca,</l>
+            <l>el duelo las califica,</l>
             <l>pues tiene un derecho propio</l>
             <l>aquel que a mí me ocasiona</l>
             <l>que aquel a quien yo ocasiono.</l>
@@ -7004,20 +7036,20 @@
             <l>que Nise, de mí burlada,</l>
             <l>siente mi amor cauteloso;</l>
             <l>que Lísida, mal quejosa,</l>
-            <l>crea fi ngidos antojos;</l>
+            <l>crea fingidos antojos;</l>
             <l>que Celia me diga injurias</l>
             <l>y que hasta un necio, hasta un loco,</l>
             <l>me pida celos de Celia.</l>
-            <l>Todo, en fi n, Fortuna, todo</l>
+            <l>Todo, en fin, Fortuna, todo</l>
             <l>te lo perdono, sin celos,</l>
             <l>y más ahora que un modo</l>
             <l>me ha prevenido el discurso</l>
             <l>en que osado y animoso</l>
             <l>cumpla los dos desafíos.</l>
-            <l>Mucho es lo que propongo ,</l>
+            <l>Mucho es lo que propongo,</l>
             <l>pero yo lo cumpliré,</l>
             <l>o quiera el cielo piadoso</l>
-            <l>que acabe hoy , porque hoy acaben</l>
+            <l>que acabe hoy, porque hoy acaben</l>
             <l>iras, venganzas, enojos,</l>
             <l>agravios, injurias, celos,</l>
             <l>quejas, ofensas, oprobios,</l>
@@ -7027,7 +7059,7 @@
             <l>y celos, que lo son todo .</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="15">
+        <div type="scene" resp="#rojas" n="17">
           <stage>Vase y sale Fabio.</stage>
           <sp who="#fabio">
             <speaker rend="caps">Fabio</speaker>
@@ -7045,7 +7077,7 @@
             <l>que pule ya el abril y el mayo pinta.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="16">
+        <div type="scene" resp="#rojas" n="18">
           <stage>Sale Enrique.</stage>
           <sp who="#enrique">
             <speaker rend="caps">Enrique</speaker>
@@ -7075,8 +7107,10 @@
 
 
             <l>Vamos.</l>
-            <stage>Entran por una puerta y salen por otra, y a este tiempo sale Otavio.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="19">
+          <stage>Entran por una puerta y salen por otra, y a este tiempo sale Otavio.</stage>
           <sp who="#otavio">
             <speaker rend="caps">Otavio</speaker>
 
@@ -7084,7 +7118,7 @@
             <l>No digan que hay valor, que hay valentía</l>
             <l>mayor que el esperar con bizarría</l>
             <l>en el campo al contrario;</l>
-            <l>y no dije reñir, que es lance vario ,</l>
+            <l>y no dije reñir, que es lance vario,</l>
             <l>sino esperar, por ver que hace cualquiera</l>
             <l>aun más que cuando riñe cuando espera.</l>
             <l>Gente viene; Enrique es y trae a Fabio</l>
@@ -7094,6 +7128,7 @@
             <speaker rend="caps">Fabio</speaker>
 
 
+            <stage>[Aparte]</stage>
             <l>(¡Vive el cielo, que está Otavio,</l>
             <l>que de Enrique es amigo,</l>
             <l>de emboscada!) ¡Oh, tirano!</l>
@@ -7167,7 +7202,7 @@
             <l>Dos sois, honor tenéis, solo os espero.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="17">
+        <div type="scene" resp="#rojas" n="20">
           <stage>Sale el Duque.</stage>
           <sp who="#duque">
             <speaker rend="caps">Duque</speaker>
@@ -7246,8 +7281,8 @@
             <l>Vente tú solo conmigo.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="18">
-          <stage>Vase.</stage>
+        <div type="scene" resp="#rojas" n="21">
+          <stage>[Vase.]</stage>
           <sp who="#enrique">
             <speaker rend="caps">Enrique</speaker>
 
@@ -7255,8 +7290,8 @@
             <l>Sombra de tu luz te sigo.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="19">
-          <stage>Vase.</stage>
+        <div type="scene" resp="#rojas" n="22">
+          <stage>[Vase.]</stage>
           <sp who="#otavio">
             <speaker rend="caps">Otavio</speaker>
 
@@ -7289,7 +7324,7 @@
             <l>Ya no hay a mi honor venganza.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="20">
+        <div type="scene" resp="#rojas" n="23">
           <stage>Vanse los dos y sale Lísida y Celia.</stage>
           <sp who="#lísida">
             <speaker rend="caps">Lísida</speaker>
@@ -7443,7 +7478,7 @@
           </sp>
           <sp who="#enrique">
             <speaker rend="caps">Enrique</speaker>
-            <stage type="withText">Saca la espada.</stage>
+            <stage type="withText">Saca [el Duque] la espada.</stage>
 
 
             <l>¡Señor, señor, tente, espera!,</l>
@@ -7561,7 +7596,7 @@
             <l>para tirarte más bien.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="21">
+        <div type="scene" resp="#rojas" n="24">
           <stage>Saca la espada, teniendo las espaldas en la puerta; las mujeres la abren y él se entra y vuelven a cerrar.</stage>
           <sp who="#enrique">
             <speaker rend="caps">Enrique</speaker>
@@ -7571,7 +7606,7 @@
             <l>ellos se saben por qué.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="22">
+        <div type="scene" resp="#rojas" n="25">
           <stage>Vase el Duque y da golpes, y con la daga rompe las puertas.</stage>
           <sp who="#duque">
             <speaker rend="caps">Duque</speaker>
@@ -7583,7 +7618,6 @@
             <l>con las manos y los pies</l>
             <l>!</l>
           </sp>
-          <stage>Dentro Lísida.</stage>
           <sp who="#lísida">
             <speaker rend="caps">Lísida</speaker>
 
@@ -7601,7 +7635,7 @@
             <l>voz de Lísida. Los cielos</l>
             <l>vida y ventura te den.</l>
           </sp>
-          <stage>Fabio dentro.</stage>
+          <stage>[Fabio dentro.]</stage>
           <sp who="#fabio">
             <speaker rend="caps">Fabio</speaker>
 
@@ -7619,8 +7653,8 @@
             <l>lo he pensado.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="23">
-          <stage>Sale Fabio, Clori, Otavio, Nise y Ponleví.</stage>
+        <div type="scene" resp="#rojas" n="26">
+          <stage>[Sale Fabio, Clori, Otavio, Nise y Ponleví.]</stage>
           <sp who="#fabio">
             <speaker rend="caps">Fabio</speaker>
 
@@ -7669,7 +7703,7 @@
             <l>Con Enrique, que engañado</l>
             <l>pensasteis, Fabio, que a quien</l>
             <l>amaba Enrique fue a Clori,</l>
-            <l>porque en fi n Lísida fue.</l>
+            <l>porque en fin Lísida fue.</l>
             <l>Yo supe hoy el desafío</l>
             <l>de este criado.</l>
           </sp>
@@ -7684,7 +7718,7 @@
             <speaker rend="caps">Duque</speaker>
 
 
-            <l>Y previniendo el fi n dél,</l>
+            <l>Y previniendo el fin dél,</l>
             <l>dispuse que se quedase</l>
             <l>en este jardín porque</l>
             <l>vuestro enojo no estorbara</l>
@@ -7717,7 +7751,7 @@
             <l>Y primero a ti los pies.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="24">
+        <div type="scene" resp="#rojas" n="27">
           <stage>Salen todos.</stage>
           <sp who="#lísida">
             <speaker rend="caps">Lísida</speaker>
@@ -7741,11 +7775,11 @@
             <speaker rend="caps">Duque</speaker>
 
 
-            <l>Otavio fi rme esta paz</l>
+            <l>Otavio firme esta paz</l>
             <l>y a Nise la mano dé,</l>
             <l>y la hermosa Clori bella</l>
             <l>eslo tanto, que no hay quien</l>
-            <l>la merezca. (Bien, tirana,</l>
+            <l>la merezca. <stage>[Aparte]</stage>(Bien, tirana,</l>
             <l>de tu rigor me vengué.)</l>
           </sp>
           <sp who="#clori">
@@ -7766,6 +7800,7 @@
             <l>Y de perdonar las faltas</l>
             <l>a todos haced merced.</l>
           </sp>
+          <trailer>FIN</trailer>
         </div>
 
       </div>
