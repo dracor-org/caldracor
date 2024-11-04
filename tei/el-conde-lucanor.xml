@@ -8566,7 +8566,12 @@
 
 
             <l>Oye, aguarda, espera.</l>
-            <l>UNO El viento</l>
+          </sp>
+          <sp who="#uno">
+            <speaker rend="caps">Uno</speaker>
+			
+			
+            <l>El viento</l>
             <l>aun no la podrá seguir.</l>
           </sp>
           <sp who="#pasquín">

@@ -526,7 +526,6 @@
             <l>Sí hará, aunque es cárcel estrecha</l>
             <l>para tanto güésped como</l>
             <l>un rasgo de tu soberbia.</l>
-            <stage> Dentro. </stage>
           </sp>
           <sp who="#hombre">
             <speaker>HOMBRE SOLO</speaker>
@@ -1723,7 +1722,6 @@
             <speaker>APETITO</speaker>
             <stage> Dentro. </stage>
             <l>¿Dónde vas, Hombre del diablo?</l>
-            <stage> Dentro. </stage>
           </sp>
           <sp who="#judaísmo">
             <speaker>JUDAÍSMO</speaker>
@@ -1745,7 +1743,7 @@
             <l>de su peligro previene</l>
             <l>avisar; llegar conviene</l>
             <l>a socorrerle; ya estás</l>
-            <l>  HOMBRE  </l>
+            <stage>Sale el HOMBRE como despeñándose y da en sus brazos haciendo los estremos que dicen los versos.</stage>
             <l n="905">en mis brazos, ya podrás</l>
             <l>asegurar la caída;</l>
             <l>hombre no he visto en mi vida</l>
@@ -1764,11 +1762,9 @@
             <l n="920">ni ver, con mortal despecho,</l>
             <l>despedazándose el pecho</l>
             <l>prorrumpe sólo en gemir.</l>
-
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="14">
-          <stage>Sale el HOMBRE como despeñándose y da en sus brazos haciendo los estremos que dicen los versos.</stage>
           <stage>Dentro APETITO, y sale luego.</stage>
           <sp who="#apetito">
             <speaker>APETITO</speaker>
@@ -2408,7 +2404,7 @@
             <l n="1265">recebirle y festejarle</l>
             <l>como a tal; de aquesos güertos</l>
             <l>arrancad palmas y olivas</l>
-            <l>  PEREGRINONATURALEZAS  </l>
+            <stage>Hacen él y todos lo que dicen los versos, y el PEREGRINO pasa pisando los mantos y ramos con las dos NATURALEZAS a sus lados.</stage>
             <l>y todos a sus pies puestos</l>
             <l>alfombras haced los mantos,</l>
             <l n="1270">y su venida aplaudiendo</l>
@@ -2416,7 +2412,6 @@
             <l>que a su entrada se previene:</l>
             <l>«Bendito sea el que viene</l>
             <l>en el nombre del Señor»</l>
-            <stage>Hacen él y todos lo que dicen los versos, y el PEREGRINO pasa pisando los mantos y ramos con las dos NATURALEZAS a sus lados.</stage>
           </sp>
           <sp who="#judaísmo #conocimiento #peregrino #naturaleza-divina #naturaleza-humana #música">
             <speaker>TODOS Y MÚSICA</speaker>

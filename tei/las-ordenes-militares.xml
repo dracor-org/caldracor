@@ -559,7 +559,10 @@
             <l n="340">que es generoso desprecio,</l>
             <l>cuando sólo para olvidos</l>
             <l>aprovechan los acuerdos.</l>
-            <l>MÚSICA Selvas y bosques del mundo,</l>
+          </sp>
+          <sp who="#música">
+            <speaker>MÚSICA</speaker>
+            <l> Selvas y bosques del mundo,</l>
             <l>en cuyos olmos y fresnos</l>
             <l n="345">aún viven tristes memorias</l>
             <l>de un antiguo tronco vuestro.</l>
@@ -3943,7 +3946,10 @@
             <l n="2130">que le han causado en las pruebas</l>
             <l>del nuevo Adán, que en la cruz</l>
             <l>pagó del otro la deuda.</l>
-            <l>TODOS Pues dando al cielo las gracias,</l>
+          </sp>
+          <sp who="#gentilidad #bernardo #santiago #inocencia #mundo #judaísmo #job #david #benito #lucero #segundo-adán #naturaleza #gracia">
+            <speaker>TODOS</speaker>
+            <l>Pues dando al cielo las gracias,</l>
             <l>diga en su aplauso la tierra.</l>
           </sp>
           <sp who="#música">

@@ -1705,7 +1705,10 @@
             <speaker>ASTREA</speaker>
             <l> ¡Plegue a Amor que estos extremos </l>
             <l n="20"> lo que yo pienso no sean! </l>
-            <l>LIBIA ¡Plegue a Amor que sí! ¿Acaso </l>
+          </sp>
+          <sp who="#libia">
+            <speaker>LIBIA</speaker>
+            <l> ¡Plegue a Amor que sí! ¿Acaso </l>
             <l> qué es lo que plegamos piensas? </l>
             <l> Pues si es amor la ocasión </l>
             <l> dellos, y ella a ver se llega </l>

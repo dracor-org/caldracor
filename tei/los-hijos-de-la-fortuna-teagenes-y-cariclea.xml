@@ -4016,7 +4016,12 @@
             <l>y por otra que te infaman,</l>
             <l>¿cómo he de dejarte expuesta</l>
             <l>a entrambos peligros?</l>
-            <l>CARICLEA Menos</l>
+          </sp>
+          <sp who="#cariclea">
+            <speaker rend="caps">Cariclea</speaker>
+
+
+            <l>Menos</l>
             <l>importará que yo muera</l>
             <l>de infeliz que de culpada:</l>
             <l>huye, Teágenes.</l>
@@ -7854,7 +7859,12 @@
             <l>Y yo también lo sintiera,</l>
             <l>mas consolárame el ser</l>
             <l>placer tuyo mi pesar.</l>
-            <l>TEÁGENES Eso es amar sin amar.</l>
+          </sp>
+          <sp who="#teágenes">
+            <speaker rend="caps">Teágenes</speaker>
+
+            
+            <l>Eso es amar sin amar.</l>
           </sp>
           <sp who="#cariclea">
             <speaker rend="caps">Cariclea</speaker>
