@@ -7293,18 +7293,16 @@
 
             <l>Y más siendo los que matan</l>
             <l>los que me han dado la vida.</l>
-            <l>D. JUAN Y D.</l>
           </sp>
-          <sp who="#don-félix">
-            <speaker rend="caps">Félix</speaker>
+          <sp who="#don-félix #don-juan">
+            <speaker rend="caps">Don Juan y don Félix</speaker>
 
 
             <l>¿Quién se vio en confusión tanta?</l>
             <l>Deteneos.</l>
-            <l>D. FERNANDO Y D.</l>
           </sp>
-          <sp who="#don-diego">
-            <speaker rend="caps">Diego</speaker>
+          <sp who="#don-diego #don-fernando">
+            <speaker rend="caps">Don Fernando y don Diego</speaker>
 
 
             <l>¿Qué es tenerme?</l>
@@ -7464,10 +7462,9 @@
 
             <l>…pidiendo a esos reales pies</l>
             <l>el perdón de nuestras faltas.</l>
-            <stage>FIN</stage>
           </sp>
+        <trailer>FIN</trailer>
         </div>
-
       </div>
     </body>
   </text>
