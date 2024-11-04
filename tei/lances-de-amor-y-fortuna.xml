@@ -101,6 +101,8 @@
           <person xml:id="soldado-1" sex="MALE">
             <persName>Un Soldado</persName>
           </person>
+          <person xml:id="soldado-2" sex="MALE">
+          </person>
         </listPerson>
       </particDesc>
       <textClass>
@@ -1732,7 +1734,8 @@
             <l>y al fin, ya Venus, ya Palas,</l>
             <l>entre el favor y el desdén,</l>
             <l>venció Amor para conmigo</l>
-            <l>y Marte para con él). Tocan.</l>
+            <l>y Marte para con él).</l>
+            <stage>Tocan.</stage>
             <l>Mas ¿qué es esto?</l>
           </sp>
         </div>
@@ -1860,6 +1863,7 @@
             <l>Basta, Rugero,</l>
             <l>que bien que la alabes quiero,</l>
             <l>mas no que la alabes tanto.</l>
+            <stage>Aparte</stage>
             <l>(Siempre amor fue desigual,</l>
             <l>pues de lo que quiere bien</l>
             <l>siente que le digan bien,</l>
@@ -1900,6 +1904,7 @@
             <speaker rend="caps">Lotario</speaker>
 
 
+            <stage>Aparte</stage>
             <l>(Mucho Rugero atropella.</l>
             <l>Al principio de un engaño</l>
             <l>puede remediarse el daño;</l>
@@ -1949,7 +1954,7 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="11">
-          <stage>Vase.</stage>
+          <stage>Sacan las espadas, y salen Aurora, Diana y Alejo.</stage>
           <sp who="#alejo">
             <speaker rend="caps">Alejo</speaker>
 
@@ -2235,6 +2240,7 @@
             <l>Veremos quién puede más,</l>
             <l>la fortuna o el amor.</l>
           </sp>
+          <stage>Vase.</stage>
         </div>
 
 
@@ -2507,6 +2513,7 @@
             <l>mi pecho las novedades,</l>
             <l>llegue a la orilla la urca).</l>
             <l>Entrad, Lotario, conmigo.</l>
+            <stage>Aparte</stage>
             <l>(Desta manera se escusa</l>
             <l>su muerte, quedando solos,</l>
             <l>y la sospecha importuna</l>
@@ -3363,28 +3370,47 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="14">
-          <stage>Salen dos soldados con Alejo. SOLDADO 1º Llega presto.</stage>
+          <stage>Salen dos soldados con Alejo.</stage>
+          <sp who="#soldado-1">
+            <speaker rend="caps">SOLDADO 1º</speaker>
+
+
+            <l>Llega presto.</l>
+          </sp>
           <sp who="#alejo">
             <speaker rend="caps">Alejo</speaker>
 
 
             <l>Lléguenme ellos a mí –¡rigor estraño!–,</l>
             <l>si importa. ¡En mil peligros estoy puesto!</l>
-            <l>SOLDADO 2º Este hombre hemos hallado...</l>
+          </sp>
+          <sp who="#soldado-2">
+            <speaker rend="caps">SOLDADO 2º</speaker>
+
+
+            <l>Este hombre hemos hallado...</l>
           </sp>
           <sp who="#alejo">
             <speaker rend="caps">Alejo</speaker>
 
 
             <l>Engaño ha sido.</l>
-            <l>SOLDADO 1º ¿Por qué?</l>
+          </sp>
+          <sp who="#soldado-1">
+            <speaker rend="caps">SOLDADO 1º</speaker>
+            <l>¿Por qué?</l>
           </sp>
           <sp who="#alejo">
             <speaker rend="caps">Alejo</speaker>
 
 
             <l>Porque no estaba perdido.</l>
-            <l>SOLDADO 2º ...que solo hacia tu campo se venía</l>
+          </sp>
+          <sp who="#soldado-2">
+            <speaker rend="caps">SOLDADO 2º</speaker>
+
+
+            <l>...que solo hacia tu campo se venía</l>
             <l>y espía parece.</l>
           </sp>
           <sp who="#alejo">
@@ -3768,7 +3794,7 @@
           <sp who="#lotario">
             <speaker rend="caps">Lotario</speaker>
 
-
+            <stage>Aparte</stage>
             <l>(¡Válgame Dios! ¿Qué será</l>
             <l>lo que tanto me agradece?).</l>
             <l>Si, porque el alma he dejado</l>
@@ -4584,7 +4610,8 @@
             <speaker rend="caps">Alejo</speaker>
 
 
-            <l>Con no reñirme después. Llaman a la puerta.</l>
+            <l>Con no reñirme después.</l>
+            <stage>Llaman a la puerta.</stage>
           </sp>
           <sp who="#rugero">
             <speaker rend="caps">Rugero</speaker>
@@ -4817,6 +4844,7 @@
             <l>Dándome estoy parabienes</l>
             <l>de que la divina fama</l>
             <l>hoy tus vitorias celebre.</l>
+            <stage>Aparte</stage>
             <l>(¿Cómo veré si el diamante</l>
             <l>en sus blancas manos tiene?).</l>
           </sp>
@@ -4824,6 +4852,7 @@
             <speaker rend="caps">Aurora</speaker>
 
 
+            <stage>Aparte</stage>
             <l>(¿Cómo sabré si éste es?</l>
             <l>Diré mejor: ¿si no es éste?).</l>
           </sp>
@@ -5148,7 +5177,8 @@
             <l>Aunque en la cifra hablar pudieses,</l>
             <l>no me podrás quitar la altiva fama</l>
             <l>del caballero de las cuatro eses;</l>
-            <l>por este escudo el orbe así me llama. Descúbrele.</l>
+            <l>por este escudo el orbe así me llama.</l>
+            <stage>Descúbrele.</stage>
             <l>No le desmentirás, aunque trujeses</l>
             <l>otro, siendo muy fácil, contrahecho.</l>
           </sp>
@@ -5504,7 +5534,10 @@
             <l>funesta sombra del sueño,</l>
             <l>en nosotros ha engendrado</l>
             <l>bizarros atrevimientos.</l>
-            <l>SOLDADO 1º Bien dije yo que era fácil,</l>
+          </sp>
+          <sp who="#soldado-1">
+            <speaker rend="caps">SOLDADO 1º</speaker>
+            <l>Bien dije yo que era fácil,</l>
             <l>sin padecer algún riesgo</l>
             <l>como viniésemos solos,</l>
             <l>entrar hasta aquí encubiertos;</l>
@@ -5532,7 +5565,10 @@
             <l>porque es fuerza que tan pobre</l>
             <l>pague en agradecimientos</l>
             <l>este amor y este cuidado.</l>
-            <l>SOLDADO 2º Esta es su casa.</l>
+          </sp>
+          <sp who="#soldado-2">
+            <speaker rend="caps">SOLDADO 2º</speaker>
+            <l>Esta es su casa.</l>
           </sp>
           <sp who="#conde">
             <speaker rend="caps">Conde</speaker>
@@ -5562,7 +5598,10 @@
 
 
             <l>Entró en casa.</l>
-            <l>SOLDADO 1º Este es, sin duda,</l>
+          </sp>
+          <sp who="#soldado-1">
+            <speaker rend="caps">SOLDADO 1º</speaker>
+            <l>Este es, sin duda,</l>
             <l>su criado.</l>
           </sp>
           <sp who="#conde">
@@ -5849,20 +5888,21 @@
 
 
             <l>...que no salgo</l>
-            <l>a matar un embustero? Dentro ruido.</l>
+            <l>a matar un embustero?</l>
           </sp>
+          <stage>Dentro ruido.</stage>
           <sp who="#rugero">
             <speaker rend="caps">Rugero</speaker>
 
 
-            <l>Esta, Lotario, es mi casa. Dentro.</l>
+            <l>Esta, Lotario, es mi casa.</l>
             <l>Entrad, no temáis.</l>
           </sp>
           <sp who="#lotario">
             <speaker rend="caps">Lotario</speaker>
 
 
-            <l>No temo. Dentro.</l>
+            <l>No temo.</l>
           </sp>
           <sp who="#alejo">
             <speaker rend="caps">Alejo</speaker>
@@ -6279,7 +6319,7 @@
             <l>perdonando nuestros yerros.</l>
           </sp>
         </div>
-
+        <trailer>FIN</trailer>
       </div>
     </body>
   </text>
