@@ -157,7 +157,7 @@
     <body>
       <div type="act">
         <div type="scene" resp="#rojas" n="1">
-          <stage>Sale el Género Humano con barba larga, vestidode labrador</stage>
+          <stage>Sale el Género Humano con barba larga, vestido de labrador</stage>
           <sp who="#genero">
             <speaker>GÉNERO</speaker>
             <l>¡Verde, apacible esfera,</l>
@@ -201,7 +201,7 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="3">
-          <stage>Sale el Mar , coronado de olas, y en la mano un tridente</stage>
+          <stage>Sale el Mar, coronado de olas, y en la mano un tridente</stage>
           <sp who="#agua">
             <speaker>AGUA</speaker>
             <l part="F">¿Quién me nombra?</l>
@@ -602,8 +602,6 @@
             <l>Enternécela con llanto</l>
             <l part="I">y sudor.</l>
           </sp>
-        </div>
-        <div type="scene" resp="#rojas" n="7">
           <stage>Al tenerle sale agua del tridente</stage>
           <sp who="#genero">
             <speaker>GÉNERO</speaker>
@@ -617,7 +615,7 @@
             <l>sirena que en mí sustento.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="8">
+        <div type="scene" resp="#rojas" n="7">
           <stage>Vase</stage>
           <sp who="#genero">
             <speaker>GÉNERO</speaker>
@@ -632,7 +630,7 @@
             <l n="360">pero de fatigas lleno.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="9">
+        <div type="scene" resp="#rojas" n="8">
           <stage>Vase</stage>
           <sp who="#genero">
             <speaker>GÉNERO</speaker>
@@ -646,8 +644,6 @@
             <speaker>FUEGO</speaker>
             <l n="365" part="F">Llégate a mí.</l>
           </sp>
-        </div>
-        <div type="scene" resp="#rojas" n="10">
           <stage>Sale fuego del rayo</stage>
           <sp who="#genero">
             <speaker>GÉNERO</speaker>
@@ -670,7 +666,7 @@
             <l part="I">que de mí fio!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="11">
+        <div type="scene" resp="#rojas" n="9">
           <stage>Sale el Albedrío de villano [y vanse los Elementos]</stage>
           <sp who="#albedrio">
             <speaker>ALBEDRÍO</speaker>
@@ -806,7 +802,7 @@
             <l>Como tú me envíes, verás</l>
             <l>que yo hasta sus puertas llego.</l>
           </sp>
-          <stage>Dentro la Culpa , y suena el arpa entre unos árboles</stage>
+          <stage>Dentro la Culpa, y suena el arpa entre unos árboles</stage>
           <sp who="#culpa">
             <speaker>CULPA</speaker>
             <l part="I">No harás.</l>
@@ -864,7 +860,7 @@
             <l part="F">Yo.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="12">
+        <div type="scene" resp="#rojas" n="10">
           <stage>Sale la Culpa vestida de demonio, con una cabezade serpiente en el tocado</stage>
           <sp who="#genero">
             <speaker>GÉNERO</speaker>
@@ -1024,7 +1020,7 @@
             <l>me libre de aqueste error.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="13">
+        <div type="scene" resp="#rojas" n="11">
           <stage>Vase</stage>
           <sp who="#culpa">
             <speaker>CULPA</speaker>
@@ -1090,8 +1086,6 @@
             <l>Perezca, Señor, el día</l>
             <l n="580">en que a este mundo nací.</l>
           </sp>
-        </div>
-        <div type="scene" resp="#rojas" n="14">
           <stage>Suspéndese, y vase tras ella</stage>
           <sp who="#albedrio">
             <speaker>ALBEDRÍO</speaker>
@@ -1167,7 +1161,7 @@
             <l n="615">va su pecado tras él.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="15">
+        <div type="scene" resp="#rojas" n="12">
           <stage>Vase</stage>
           <sp who="#albedrio">
             <speaker>ALBEDRÍO</speaker>
@@ -1188,6 +1182,8 @@
             <l n="630">y aunque no te ha de ver la vista mía,</l>
             <l>supla la imperfección la alegoría.</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="13">
           <stage>Ábrese la nube, y están en ella el Rey y el Príncipe</stage>
           <sp who="#rey">
             <speaker>REY</speaker>
@@ -1295,8 +1291,8 @@
             <l n="695" part="F">¡Santo, Santo, Santo!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="16">
-          <stage>Ciérrase la nube [y sale la Culpa ]</stage>
+        <div type="scene" resp="#rojas" n="14">
+          <stage>Ciérrase la nube [y sale la Culpa]</stage>
           <sp who="#culpa">
             <speaker>CULPA</speaker>
             <l part="I">¿Dónde vuelves?</l>
@@ -1360,7 +1356,7 @@
             <l>publicando en voces tiernas:</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="17">
+        <div type="scene" resp="#rojas" n="15">
           <stage>Vase</stage>
           <sp who="#musicos">
             <speaker>MÚSICA</speaker>
@@ -1383,7 +1379,7 @@
             <l n="735">si las obras más secretas</l>
             <l>de naturaleza yo</l>
             <l>penetro? Próvida Tierra,</l>
-
+            <stage>Sale la Tierra como admirada</stage>
             <l>¿qué hay en ti, que en la estación</l>
             <l>más áspera, dura y yerta</l>
             <l n="740">del año, cuando tus flores</l>
@@ -1391,7 +1387,7 @@
             <l>y sus sazones tus frutos,</l>
             <l>estás absorta y suspensa?</l>
             <l>¿Qué hay en ti, imperio del Agua,</l>
-
+            <stage>Sale el Agua</stage>
             <l n="745">que cuando prendes y hielas</l>
             <l>tus ondas, cuajando en vidros</l>
             <l>lo que iba corriendo en perlas,</l>
@@ -1400,13 +1396,13 @@
             <l n="750">y a pesar de tus escarchas</l>
             <l>se coronan de sus hierbas?</l>
             <l>¿Qué hay en ti, Viento, que cuando</l>
-
+            <stage>Sale el Aire</stage>
             <l>con más ráfagas violentas</l>
             <l>debieras amotinarte</l>
             <l n="755">contra edificios y peñas,</l>
             <l>estás tan tranquilo y quieto?</l>
             <l>¿Qué hay en ti, región suprema</l>
-
+            <stage>Sale el Fuego</stage>
             <l>del Fuego, que cuando más</l>
             <l>nubes se te oponen densas,</l>
             <l n="760">estás de gala, y brillando</l>
@@ -1421,11 +1417,7 @@
             <l>¿Qué hay de nuevo en la edad nuestra?</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="18">
-          <stage>Sale la Tierra como admirada</stage>
-          <stage>Sale el Agua</stage>
-          <stage>Sale el Aire</stage>
-          <stage>Sale el Fuego</stage>
+        <div type="scene" resp="#rojas" n="16">
           <sp who="#agua #aire #fuego #acompanamiento #principe #rey #genero #albedrio #musicos #culpa">
             <speaker>TODOS</speaker>
             <stage>Cantando</stage>
@@ -1444,7 +1436,7 @@
             <l>y al hombre la paz en esta?</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="19">
+        <div type="scene" resp="#rojas" n="17">
           <stage>Sale el Príncipe de villano con arco y flechas</stage>
           <sp who="#principe">
             <speaker>PRÍNCIPE</speaker>
@@ -1492,7 +1484,7 @@
             <l>no haya en vosotros clemencia.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="20">
+        <div type="scene" resp="#rojas" n="18">
           <stage>Vase</stage>
           <sp who="#principe">
             <speaker>PRÍNCIPE</speaker>
@@ -1635,7 +1627,7 @@
             <l part="F">… penas.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="21">
+        <div type="scene" resp="#rojas" n="19">
           <stage>Vanse</stage>
           <sp who="#principe">
             <speaker>PRÍNCIPE</speaker>
@@ -1647,7 +1639,7 @@
             <l>que yo padecer es fuerza.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="22">
+        <div type="scene" resp="#rojas" n="20">
           <stage>Salen el Género Humano y el Albedrío</stage>
           <sp who="#albedrio">
             <speaker>ALBEDRÍO</speaker>
@@ -1905,7 +1897,7 @@
             <l>donde la venza mi afán.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="23">
+        <div type="scene" resp="#rojas" n="21">
           <stage>Sale el Agua</stage>
           <sp who="#agua">
             <speaker>AGUA</speaker>
@@ -1929,7 +1921,7 @@
             <l>un carácter inmortal.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="24">
+        <div type="scene" resp="#rojas" n="22">
           <stage>Vanse el Agua y el Príncipe</stage>
           <sp who="#genero">
             <speaker>GÉNERO</speaker>
@@ -1974,7 +1966,7 @@
             <l>pasa a extraños horizontes.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="25">
+        <div type="scene" resp="#rojas" n="23">
           <stage>Sale la Culpa</stage>
           <sp who="#culpa">
             <speaker>CULPA</speaker>
@@ -2012,7 +2004,7 @@
             <l>mas yo no lo he de creer.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="26">
+        <div type="scene" resp="#rojas" n="24">
           <stage>Vanse los dos</stage>
           <sp who="#culpa">
             <speaker>CULPA</speaker>
@@ -2065,7 +2057,7 @@
             <l part="I">oye mi voz!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="27">
+        <div type="scene" resp="#rojas" n="25">
           <stage>Sale el Príncipe en lo alto</stage>
           <sp who="#principe">
             <speaker>PRÍNCIPE</speaker>
@@ -2138,7 +2130,7 @@
             <l>juntas la Culpa y la Gracia.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="28">
+        <div type="scene" resp="#rojas" n="26">
           <stage>Vase</stage>
           <sp who="#principe">
             <speaker>PRÍNCIPE</speaker>
@@ -2251,7 +2243,7 @@
             <l>Yo te pondré en él, espera.</l>
             <l part="I">Sube agora.</l>
           </sp>
-          <stage>Ayúdale a subir en el árbol</stage>
+          <stage>Ayúdale [a] subir en el árbol</stage>
           <sp who="#principe">
             <speaker>PRÍNCIPE</speaker>
             <l part="F">Cosa es clara</l>
@@ -2286,7 +2278,7 @@
             <l n="1225" part="F">¿Quién llama?</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="29">
+        <div type="scene" resp="#rojas" n="27">
           <stage>Sale la Culpa</stage>
           <sp who="#culpa">
             <speaker>CULPA</speaker>
@@ -2318,7 +2310,7 @@
             <l n="1240">Para esta acción encomiendo,</l>
             <l>Padre, en tus manos el alma.</l>
           </sp>
-          <stage>Dispara la flecha, da a la Culpa , y ella suelta al Género Humano</stage>
+          <stage>Dispara la flecha, da a la Culpa, y ella suelta al Género Humano</stage>
           <sp who="#culpa">
             <speaker>CULPA</speaker>
             <l>¡Ay de mí, ay de mí, infelice,</l>
@@ -2364,8 +2356,8 @@
             <l n="1265">los movimientos del Agua,</l>
             <l>elevándose hasta el cielo</l>
             <l>montañas sobre montañas.</l>
-            <l>[SIGUE FINAL APÓCRIFO]</l>
           </sp>
+          <note>[SIGUE FINAL APÓCRIFO]</note>
           <stage>Cesa el terremoto</stage>
           <sp who="#genero">
             <speaker>GÉNERO</speaker>
@@ -2452,7 +2444,7 @@
             <l>de su culpa nueva estatua.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="30">
+        <div type="scene" resp="#rojas" n="28">
           <stage>Salen de su costado siete colonias encarnadas, y decada una toma la punta un personaje que represente un Sacramento</stage>
           <sp who="#musicos">
             <speaker>MÚSICA</speaker>
