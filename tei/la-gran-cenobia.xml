@@ -506,7 +506,7 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="3">
-          <stage>Tocan caxas, y trompetas a marchar, y salen en orden soldados, y Decio detras vestido de luto, o con armas negras, y ponese de rodillas delante del Cesar.</stage>
+          <stage>Tocan cajas, y trompetas a marchar, y salen en orden soldados, y Decio detras vestido de luto, o con armas negras, y ponese de rodillas delante del Cesar.</stage>
           <sp who="#decio">
             <speaker rend="caps">Decio</speaker>
 
@@ -2859,7 +2859,7 @@
             <l>tanto puede quien desea</l>
             <l>la vida.</l>
           </sp>
-          <stage>Sacala en brazos, toda herida, y llena de poluo, y el rostro lleno de sangre, como despeñada.</stage>
+          <stage>Sacala en brazos, toda herida, y llena de polvo, y el rostro lleno de sangre, como despeñada.</stage>
           <sp who="#decio">
             <speaker rend="caps">Decio</speaker>
 
@@ -4218,7 +4218,7 @@
             <l>que ya quiero que esta sea</l>
             <l>insignia de emperadores,</l>
             <l>ciñendo yo la primera.</l>
-            <l>Corónase de oro.</l>
+            <stage>Corónase de oro.</stage>
             <l>No en triunfal carro guiado</l>
             <l>de fieras que se sujetan</l>
             <l>a domésticas coyuntas</l>
@@ -5575,6 +5575,8 @@
             <l>tus aplausos. ¡Ay de mí!</l>
             <stage>Quédase muerto a sus pies y salen los soldados.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="19">
           <stage>Dentro.</stage>
           <sp who="#soldado-romano-1">
             <speaker rend="caps">Soldado 1</speaker>
@@ -5634,7 +5636,7 @@
             <l>¡Viva Decio, viva!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="19">
+        <div type="scene" resp="#rojas" n="20">
           <stage>Coronanle, y vanle besando los pies, y manos, y sale Astrea con Cenobia, y todos.</stage>
           <sp who="#decio">
             <speaker rend="caps">Decio</speaker>
@@ -5670,7 +5672,7 @@
             <l>quien me libró de un tirano.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="20">
+        <div type="scene" resp="#rojas" n="21">
           <stage>Salen el Capitán, Irene, y Libio.</stage>
           <sp who="#capitán">
             <speaker rend="caps">Capitán</speaker>
