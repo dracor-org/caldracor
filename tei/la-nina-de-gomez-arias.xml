@@ -477,9 +477,11 @@
             <l>pesar, dame tus cuidados</l>
             <l>y, para tenerlo todo,</l>
             <l>ojos, dadme vuestro llanto.</l>
-            <stage>Vase.</stage>
-            <stage>Sale Gómez Arias y Ginés, de soldados.</stage>
           </sp>
+          <stage>Vase.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="5">
+          <stage>Sale Gómez Arias y Ginés, de soldados.</stage>
           <sp who="#gómez">
             <speaker rend="caps">Gómez</speaker>
 
@@ -1031,7 +1033,7 @@
             <l>a recibirte ella mesma.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="5">
+        <div type="scene" resp="#rojas" n="6">
           <stage>Sale Dorotea.</stage>
           <sp who="#dorotea">
             <speaker rend="caps">Dorotea</speaker>
@@ -1112,7 +1114,7 @@
             <l>para dársele a un sentido.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="6">
+        <div type="scene" resp="#rojas" n="7">
           <stage>Sale Juana.</stage>
           <sp who="#juana">
             <speaker rend="caps">Juana</speaker>
@@ -1174,8 +1176,10 @@
 
             <l>¡Cruel</l>
             <l>es mi suerte!</l>
-            <stage>Escóndense los dos y sale don Luis.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="8">
+          <stage>Escóndense los dos y sale don Luis.</stage>
           <sp who="#juana">
             <speaker rend="caps">Juana</speaker>
 
@@ -1331,8 +1335,10 @@
 
             <l>(Tomo bien a bien</l>
             <l>mil palos).</l>
-            <stage>Éntranse y sale don Félix, de camino.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="9">
+          <stage>Éntranse y sale don Félix, de camino.</stage>
           <sp who="#luis">
             <speaker rend="caps">Luis</speaker>
 
@@ -1409,7 +1415,7 @@
           </sp>
           <sp who="#dorotea">
             <speaker rend="caps">Dorotea</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>(Aunque aventure la vida,</l>
@@ -1433,7 +1439,7 @@
           </sp>
           <sp who="#dorotea">
             <speaker rend="caps">Dorotea</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>(Juana, oye).</l>
@@ -1526,7 +1532,7 @@
           </sp>
           <sp who="#dorotea">
             <speaker rend="caps">Dorotea</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>(Albricias, alma; no fue</l>
@@ -1534,7 +1540,7 @@
           </sp>
           <sp who="#juana">
             <speaker rend="caps">Juana</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>(No te ausentes,</l>
@@ -1597,7 +1603,7 @@
           </sp>
           <sp who="#dorotea">
             <speaker rend="caps">Dorotea</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>(«Gómez Arias» dijo, advierte).</l>
@@ -1634,7 +1640,7 @@
           </sp>
           <sp who="#dorotea">
             <speaker rend="caps">Dorotea</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>(No fue en vano el detenerme).</l>
@@ -1674,7 +1680,7 @@
           </sp>
           <sp who="#dorotea">
             <speaker rend="caps">Dorotea</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>(¡Su esposo, cielos!).</l>
@@ -1753,7 +1759,7 @@
           </sp>
           <sp who="#dorotea">
             <speaker rend="caps">Dorotea</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>(¡Oh, quién oído no hubiera</l>
@@ -1873,7 +1879,7 @@
             <l>Sois caballero, en efecto.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="7">
+        <div type="scene" resp="#rojas" n="10">
           <stage>Vase.</stage>
           <sp who="#luis">
             <speaker rend="caps">Luis</speaker>
@@ -1884,9 +1890,11 @@
             <l>más cuerdo y más conveniente</l>
             <l>con que pueda embarazar</l>
             <l>una desdicha tan fuerte.</l>
-            <stage>Vase.</stage>
-            <stage>Salen Dorotea y Juana.</stage>
           </sp>
+          <stage>Vase.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="11">
+          <stage>[Salen Dorotea y Juana.]</stage>
           <sp who="#dorotea">
             <speaker rend="caps">Dorotea</speaker>
 
@@ -2031,7 +2039,7 @@
             <l>puede y…</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="8">
+        <div type="scene" resp="#rojas" n="12">
           <stage>Vase Juana.</stage>
           <sp who="#gómez">
             <speaker rend="caps">Gómez</speaker>
@@ -2088,7 +2096,7 @@
             <l>¡Ah, plegue al cielo que no!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="9">
+        <div type="scene" resp="#rojas" n="13">
           <stage>Sale Juana.</stage>
           <sp who="#juana">
             <speaker rend="caps">Juana</speaker>
@@ -2153,8 +2161,10 @@
 
             <l>Esta, señor,</l>
             <l>es la carrera de amor.</l>
-            <stage>Escóndense, y sale don Luis y don Juan.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="14">
+          <stage>Escóndense, y sale don Luis y don Juan.</stage>
           <sp who="#luis">
             <speaker rend="caps">Luis</speaker>
 
@@ -2393,7 +2403,7 @@
             <l>que deben a mis aciertos.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="10">
+        <div type="scene" resp="#rojas" n="15">
           <stage>Vase.</stage>
           <sp who="#luis">
             <speaker rend="caps">Luis</speaker>
@@ -2435,7 +2445,7 @@
             <l>hallaré yo a Gómez Arias?</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="11">
+        <div type="scene" resp="#rojas" n="16">
           <stage>Vase.</stage>
           <sp who="#ginés">
             <speaker rend="caps">Ginés</speaker>
@@ -2731,7 +2741,7 @@
             <l>Cuando…</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="12">
+        <div type="scene" resp="#rojas" n="17">
           <stage>Sale don Luis.</stage>
           <sp who="#luis">
             <speaker rend="caps">Luis</speaker>
@@ -2840,7 +2850,7 @@
             <l>porque…</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="13">
+        <div type="scene" resp="#rojas" n="18">
           <stage>Sale don Félix.</stage>
           <sp who="#félix">
             <speaker rend="caps">Félix</speaker>
@@ -2906,8 +2916,10 @@
 
 
             <l>¿Qué es esto?</l>
-            <stage>Sale Dorotea y Juana.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="19">
+          <stage>Sale Dorotea y Juana.</stage>
           <sp who="#dorotea">
             <speaker rend="caps">Dorotea</speaker>
 
@@ -2960,7 +2972,7 @@
             <l>airoso y vengado vuelvo).</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="14">
+        <div type="scene" resp="#rojas" n="20">
           <stage>Vase.</stage>
           <sp who="#luis">
             <speaker rend="caps">Luis</speaker>
@@ -2968,6 +2980,8 @@
 
             <l>Traed luces.</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="21">
           <stage type="withText">Un criado con luces.</stage>
           <sp who="#criado">
             <speaker rend="caps">Criado</speaker>
@@ -3014,7 +3028,7 @@
             <l>salir de aquí.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="15">
+        <div type="scene" resp="#rojas" n="22">
           <stage>Vase.</stage>
           <sp who="#dorotea">
             <speaker rend="caps">Dorotea</speaker>
@@ -3534,15 +3548,17 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="3">
-          <stage>Vanse.</stage>
+          <stage>[Vanse.]</stage>
           <sp who="#dorotea">
             <speaker rend="caps">Dorotea</speaker>
 
 
             <l>Mi bien, mi esposo, no así</l>
             <l>de mi amor huyendo vayas.</l>
-            <stage>En lo alto Cañerí y dos moros.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="4">
+          <stage>En lo alto Cañerí y dos moros.</stage>
           <sp who="#cañerí">
             <speaker rend="caps">Cañerí</speaker>
 
@@ -3756,7 +3772,7 @@
             <l>truenos y rayos?</l>
           </sp>
           <sp who="#voces">
-            <speaker rend="caps">Voces</speaker>
+            <speaker rend="caps">[Voces]</speaker>
             <stage type="withText">dentro.</stage>
 
 
@@ -3820,8 +3836,10 @@
             <l>Soldados, a la montaña.</l>
             <l>Perdí el tesoro mayor</l>
             <l>en una hermosa cristiana.</l>
-            <stage>Vanse, y salen don Diego y soldados.</stage>
           </sp>
+          <stage>Vanse, y salen don Diego y soldados.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="5">
           <sp who="#diego">
             <speaker rend="caps">Diego</speaker>
 
@@ -3860,8 +3878,10 @@
             <l>(¡Ay, infeliz! Gómez Arias,</l>
             <l>la vida mi amor te cuesta:</l>
             <l>muriendo sabré pagarla).</l>
-            <stage>Vanse, y salen don Félix y Fabio.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="6">
+          <stage>Vanse, y salen don Félix y Fabio.</stage>
           <sp who="#félix">
             <speaker rend="caps">Félix</speaker>
 
@@ -3903,9 +3923,10 @@
             <l>y vengado de su bella</l>
             <l>ingratitud quedaré.</l>
             <l>Vamos llegando a su casa.</l>
-            <stage>Vanse los dos.</stage>
-            <stage>Salen don Juan y Floro, criado.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="7">
+          <stage>Vanse los dos. Salen don Juan y Floro, criado.</stage>
           <sp who="#juan">
             <speaker rend="caps">Juan</speaker>
 
@@ -3954,9 +3975,10 @@
 
             <l>Entra, Floro, pues,</l>
             <l>y pregunta si está en ella.</l>
-            <stage>Vanse los dos.</stage>
-            <stage>Salen Gómez Arias y Ginés.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="8">
+          <stage>Vanse los dos. Salen Gómez Arias y Ginés.</stage>
           <sp who="#ginés">
             <speaker rend="caps">Ginés</speaker>
 
@@ -4035,7 +4057,7 @@
             <l>de ella sabré lo que pasa.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="4">
+        <div type="scene" resp="#rojas" n="9">
           <stage>Salen Beatriz y Celia.</stage>
           <sp who="#celia">
             <speaker rend="caps">Celia</speaker>
@@ -4184,7 +4206,7 @@
             <l>A detenerle saldré.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="5">
+        <div type="scene" resp="#rojas" n="10">
           <stage>Vase.</stage>
           <sp who="#gómez">
             <speaker rend="caps">Gómez</speaker>
@@ -4230,7 +4252,7 @@
           </sp>
           <sp who="#félix">
             <speaker rend="caps">Félix</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>No pretendo más que hablar,</l>
@@ -4239,7 +4261,7 @@
           </sp>
           <sp who="#celia">
             <speaker rend="caps">Celia</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>No es</l>
@@ -4268,7 +4290,7 @@
           </sp>
           <sp who="#félix">
             <speaker rend="caps">Félix</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>Déjame entrar, pues no está</l>
@@ -4311,8 +4333,8 @@
             <l>vuestras lágrimas con todo?</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="6">
-          <stage>Escóndese y salen Celia y don Félix.</stage>
+        <div type="scene" resp="#rojas" n="11">
+          <stage>Escóndese y salen los dos.</stage>
           <sp who="#beatriz">
             <speaker rend="caps">Beatriz</speaker>
 
@@ -4531,7 +4553,7 @@
           <stage>Dentro ruido y don Diego.</stage>
           <sp who="#diego">
             <speaker rend="caps">Diego</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>Tened, ¡hola!,</l>
@@ -4662,7 +4684,7 @@
             <l>miren cuán preciso es</l>
             <l>esto agora, que después</l>
             <l>en la calle nos veremos.</l>
-            <stage>Escóndense Gómez Arias y Ginés.</stage>
+            <stage>Escóndense [Gómez Arias y Ginés].</stage>
           </sp>
           <sp who="#beatriz">
             <speaker rend="caps">Beatriz</speaker>
@@ -4686,7 +4708,7 @@
             <l>desempeñarse de todo.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="7">
+        <div type="scene" resp="#rojas" n="12">
           <stage>Vase.</stage>
           <sp who="#beatriz">
             <speaker rend="caps">Beatriz</speaker>
@@ -4697,8 +4719,10 @@
             <l>le aseguro que atrevido</l>
             <l>no salga. ¿Hay más infeliz</l>
             <l>mujer que yo? Pues…</l>
-            <stage>Salen don Diego y Dorotea y gente.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="13">
+          <stage>Salen don Diego y Dorotea y gente.</stage>
           <sp who="#diego">
             <speaker rend="caps">Diego</speaker>
 
@@ -4818,8 +4842,8 @@
             <l>contigo a esa dama.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="8">
-          <stage>Vase Celia.</stage>
+        <div type="scene" resp="#rojas" n="15">
+          <stage>[Vase Celia.]</stage>
           <sp who="#beatriz">
             <speaker rend="caps">Beatriz</speaker>
 
@@ -4836,7 +4860,7 @@
             <l>qué gusto en eso me haces!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="9">
+        <div type="scene" resp="#rojas" n="16">
           <stage>Sale Celia con luces.</stage>
           <sp who="#celia">
             <speaker rend="caps">Celia</speaker>
@@ -4937,7 +4961,7 @@
             <l>sólo a hacerme el hospedaje.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="10">
+        <div type="scene" resp="#rojas" n="17">
           <stage>Sale Celia.</stage>
           <sp who="#beatriz">
             <speaker rend="caps">Beatriz</speaker>
@@ -4964,7 +4988,7 @@
             <l>poblar con quejas el aire.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="11">
+        <div type="scene" resp="#rojas" n="18">
           <stage>Vase.</stage>
           <sp who="#beatriz">
             <speaker rend="caps">Beatriz</speaker>
@@ -4993,7 +5017,7 @@
             <l>Su guarda seré de vista.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="12">
+        <div type="scene" resp="#rojas" n="19">
           <stage>Vase.</stage>
           <sp who="#beatriz">
             <speaker rend="caps">Beatriz</speaker>
@@ -5059,7 +5083,7 @@
             <l>hasta que…</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="13">
+        <div type="scene" resp="#rojas" n="20">
           <stage>Sale don Diego.</stage>
           <sp who="#diego">
             <speaker rend="caps">Diego</speaker>
@@ -5112,8 +5136,10 @@
             <l>tengo a mi esposo y mi padre</l>
             <l>aquí, a mi amante en mi cuarto</l>
             <l>y a mi enemigo en la calle).</l>
-            <stage>Sale don Luis, de camino.</stage>
           </sp>
+          <stage>Sale don Luis, de camino.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="21">
           <sp who="#diego">
             <speaker rend="caps">Diego</speaker>
 
@@ -5208,8 +5234,10 @@
             <l>es de Beatriz. ¿Qué es aquesto?</l>
             <l>¡Celia, Laura! A verlo iré.</l>
             <l>Perdonadme.</l>
-            <stage>Vase don Diego y sale Dorotea.</stage>
           </sp>
+          <stage>Vase don Diego y sale Dorotea.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="22">
           <sp who="#dorotea">
             <speaker rend="caps">Dorotea</speaker>
 
@@ -5308,8 +5336,10 @@
 
             <l>Aunque fueras de diamante,</l>
             <l>diera contigo en el suelo.</l>
-            <stage>Abre la puerta, salen los dos.</stage>
           </sp>
+          <stage>Abre la puerta, salen los dos.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="23">
           <sp who="#ginés">
             <speaker rend="caps">Ginés</speaker>
 
@@ -5383,8 +5413,10 @@
             <l>(Ya de una desdicha, cielos,</l>
             <l>saqué una dicha, pues ya</l>
             <l>a Beatriz conmigo llevo).</l>
-            <stage>Vanse, y topa don Luis con Ginés.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="24">
+          <stage>Vanse, y topa don Luis con Ginés.</stage>
           <sp who="#luis">
             <speaker rend="caps">Luis</speaker>
 
@@ -5414,8 +5446,10 @@
 
 
             <l>¿Qué voz oigo?</l>
-            <stage>Sale don Diego con luz y Beatriz.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="25">
+          <stage>Sale don Diego con luz y Beatriz.</stage>
           <sp who="#diego">
             <speaker rend="caps">Diego</speaker>
 
@@ -5496,7 +5530,7 @@
             <l>sus alas, la alcanzaré.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="14">
+        <div type="scene" resp="#rojas" n="26">
           <stage>Vase.</stage>
           <sp who="#diego">
             <speaker rend="caps">Diego</speaker>
@@ -5524,7 +5558,7 @@
             <l>en tanto, Beatriz, que vuelvo.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="15">
+        <div type="scene" resp="#rojas" n="27">
           <stage>Vase.</stage>
           <sp who="#beatriz">
             <speaker rend="caps">Beatriz</speaker>
@@ -6461,8 +6495,10 @@
             <l>y nunca en tal me vi,</l>
             <l>y me llevan preso</l>
             <l>a Benamejí?</l>
-            <stage>Vanse, y sale don Diego y doña Beatriz.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="7">
+          <stage>Vanse, y sale don Diego y doña Beatriz.</stage>
           <sp who="#diego">
             <speaker rend="caps">Diego</speaker>
 
@@ -6510,7 +6546,7 @@
             <l>que ruego yo que me espere.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="7">
+        <div type="scene" resp="#rojas" n="8">
           <stage>Vase.</stage>
           <sp who="#beatriz">
             <speaker rend="caps">Beatriz</speaker>
@@ -6535,7 +6571,7 @@
             <l>de tan mal pagada fe.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="8">
+        <div type="scene" resp="#rojas" n="9">
           <stage>Sale Gómez Arias.</stage>
           <sp who="#gómez">
             <speaker rend="caps">Gómez</speaker>
@@ -6669,8 +6705,8 @@
             <l>«veraste como me veo».</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="9">
-          <stage>Vase.</stage>
+        <div type="scene" resp="#rojas" n="10">
+          <stage>Vase donñ Beatriz.</stage>
           <sp who="#gómez">
             <speaker rend="caps">Gómez</speaker>
 
@@ -6685,9 +6721,11 @@
             <l>es, pues, la duda en que estoy.</l>
             <l>Yo volveré a hablarla hoy,</l>
             <l>y aun a venderla mañana.</l>
-            <stage>Vase.</stage>
-            <stage>Tocan chirimías y atabales, y salen todas las mujeres con acompañamiento y detrás la Reina.</stage>
           </sp>
+            <stage>[Vase.]</stage>
+          </div>
+        <div type="scene" resp="#rojas" n="11">
+            <stage>Tocan chirimías y atabales, y salen todas las mujeres con acompañamiento y detrás la Reina.</stage>
           <sp who="#reina">
             <speaker rend="caps">Reina</speaker>
 
@@ -6722,8 +6760,10 @@
             <l>por que segunda vez hoy vencedora</l>
             <l>me vea tu campaña,</l>
             <l>a quien riega el Genil y el Darro baña.</l>
-            <stage>Sale don Diego.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="12">
+          <stage>[Sale don Diego.]</stage>
           <sp who="#diego">
             <speaker rend="caps">Diego</speaker>
 
@@ -6742,7 +6782,7 @@
             <l>¡Viva!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="10">
+        <div type="scene" resp="#rojas" n="13">
           <stage>Sale don Luis.</stage>
           <sp who="#luis">
             <speaker rend="caps">Luis</speaker>
@@ -6920,8 +6960,10 @@
             <l>para que digan los siglos,</l>
             <l>si hubo una mujer burlada,</l>
             <l>que otra que la vengue ha habido.</l>
-            <stage>Vanse, y salen Cañerí, Dorotea y Ginés, vestidos de esclavos, y moros.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="14">
+          <stage>Vanse, y salen Cañerí, Dorotea y Ginés, vestidos de esclavos, y moros.</stage>
           <sp who="#cañerí">
             <speaker rend="caps">Cañerí</speaker>
 
@@ -7098,7 +7140,7 @@
             <l>por sentir más, quiero oírlo.</l>
           </sp>
           <sp who="#voces">
-            <speaker rend="caps">Voces</speaker>
+            <speaker rend="caps">[Voces]</speaker>
             <stage type="withText">dentro.</stage>
 
 
@@ -7121,10 +7163,10 @@
             <l>hermosura a quien me rindo.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="11">
+        <div type="scene" resp="#rojas" n="15">
           <stage>Vase.</stage>
           <sp who="#voces">
-            <speaker rend="caps">Voces</speaker>
+            <speaker rend="caps">[Voces]</speaker>
             <stage type="withText">dentro.</stage>
 
 
@@ -7165,7 +7207,7 @@
             <l>Venus infeliz me hizo.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="12">
+        <div type="scene" resp="#rojas" n="16">
           <stage>Vase.</stage>
           <sp who="#ginés">
             <speaker rend="caps">Ginés</speaker>
@@ -7189,7 +7231,7 @@
           </sp>
           <sp who="#dorotea">
             <speaker rend="caps">Dorotea</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>Vuestra libertad, cautivos,</l>
@@ -7210,7 +7252,7 @@
           <stage>La caja.</stage>
           <sp who="#luis">
             <speaker rend="caps">Luis</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>Yo he de ser el que primero</l>
@@ -7220,7 +7262,7 @@
           </sp>
           <sp who="#cañerí">
             <speaker rend="caps">Cañerí</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>Habiendo sido</l>
@@ -7237,8 +7279,10 @@
             <l>cristianos ya por las puertas!</l>
             <l>Ahora sí que yo me arrimo</l>
             <l>a ellos. ¡Mueran los perros!</l>
-            <stage>La caja y clarín siempre, y salen todos y la Reina por la puerta. Y desde el muro caen abrazados Cañerí y don Luis.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="17">
+          <stage>La caja y clarín siempre, y salen todos y la Reina por la puerta. Y desde el muro caen abrazados Cañerí y don Luis.</stage>
           <sp who="#dorotea">
             <speaker rend="caps">Dorotea</speaker>
 
@@ -7365,8 +7409,8 @@
             <l>hasta aquí.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="13">
-          <stage>Salen Gómez Arias y villanos.</stage>
+        <div type="scene" resp="#rojas" n="18">
+          <stage>[Salen Gómez Arias y villanos.]</stage>
           <sp who="#reina">
             <speaker rend="caps">Reina</speaker>
 
