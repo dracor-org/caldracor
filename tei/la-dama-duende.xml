@@ -618,12 +618,14 @@
           </sp>
           <sp who="#don-manuel">
             <speaker>MANUEL</speaker>
+            <stage>Aparte.</stage>
             <l part="F"> (¡Qué tristeza </l>
             <l>me ha dado que me reciba</l>
             <l part="I"> con sangre Madrid!).</l>
           </sp>
           <sp who="#don-luis">
             <speaker>LUIS</speaker>
+            <stage>Aparte.</stage>
             <l part="F"> (¡Qué pena </l>
             <l>tengo de no haber podido</l>
             <l n="250">saber qué dama era aquella!).</l>
@@ -2001,6 +2003,7 @@
             <l n="1000">es la novedad, no el miedo,</l>
             <l>que quien admira no teme.</l>
             <stage>Lee.</stage>
+            <p>Con cuidado me tiene vuestra salud, como a quien fue la causa de su riesgo; y así agradecida y lastimada, os suplico, me aviséis della y os sirváis de mí; que para lo uno y lo otro habrá ocasión, dejando la respuesta donde hallasteis esta, advertido, que el secreto importa, porque el día que lo sepa alguno de los amigos, perderé yo el honor y la vida.</p>
           </sp>
           <sp who="#cosme">
             <speaker>COSME</speaker>
@@ -2276,6 +2279,7 @@
             <l n="1100">que esto y más habrá donde hay</l>
             <l>quien tome tabaco en humo.</l>
           </sp>
+          <stage>Vanse.</stage>
         </div>
 
 
@@ -2284,7 +2288,6 @@
       <div type="act" n="2">
         <div type="scene" resp="#rojas" n="1">
           <head>Jornada II</head>
-          <stage>de </stage>
           <stage>Salen DOÑA ÁNGELA, DOÑA BEATRIZ y ISABEL.</stage>
           <sp who="#doña-beatriz">
             <speaker>BEATRIZ</speaker>
@@ -2320,6 +2323,8 @@
             <l n="1120">El papel, Beatriz, es este.</l>
             <l>Holgareme que te agrade.</l>
             <stage>Lee ÁNGELA.</stage>
+            <p>Fermosa dueña, cualquiera que vós seáis la condolida deste afanado caballero, y a saz piadosa minoráis sus cuitas, ruego vós me queráis facer sabidor del follón mezquino, o pagano malandrín, que en este encanto vos amancilla, para que segunda vegada en vueso nombre, sano ya de las pasadas feridas, entre en descomunal batalla, maguer que finque en ella, que non es la vida de más proo que la muerte, tenudo a su deber un caballero. El Dador de la Luz vos mampare, e a mí non olvide.</p>
+            <p>El Caballero de la Dama Duende.</p>
           </sp>
           <sp who="#doña-beatriz">
             <speaker>BEATRIZ</speaker>
@@ -2888,6 +2893,7 @@
           <sp who="#don-luis">
             <speaker>LUIS</speaker>
             <l part="F"> Así es verdad</l>
+            <stage>Aparte.</stage>
             <l> (por que negocies más presto).</l>
           </sp>
           <sp who="#don-manuel">
@@ -3315,6 +3321,7 @@
             <l n="1650">Ropa blanca es y un papel.</l>
             <l>Veamos si el fraile es discreto.</l>
             <stage>Lee.</stage>
+            <p>En el poco tiempo que ha que vivís en esta casa, no se ha podido hacer más ropa; como se fuere haciendo se irá llevando. A lo que decís del amigo persuadido a que soy dama de don Luis, os aseguro que no solo lo soy, pero que no puedo serlo y esto dejo para la vista, que será presto. Dios os guarde.</p>
             <l>Bautizado está este duende,</l>
             <l part="I"> pues de Dios se acuerda. </l>
           </sp>
@@ -4424,6 +4431,7 @@
             <l n="2240">por desquitarse de tantas,</l>
             <l>sea el demonio mujer.</l>
           </sp>
+          <stage>Vanse.</stage>
         </div>
 
 
@@ -4431,7 +4439,6 @@
       <div type="act" n="3">
         <div type="scene" resp="#rojas" n="1">
           <head>Jornada III</head>
-          <stage>de </stage>
           <stage>Sale DON MANUEL como a escuras, guiándole ISABEL.</stage>
           <sp who="#isabel">
             <speaker>ISABEL</speaker>
@@ -5055,6 +5062,7 @@
           </sp>
           <sp who="#cosme">
             <speaker>COSME</speaker>
+            <stage>Aparte.</stage>
             <l part="F"> (¿Qué señor es este?).</l>
           </sp>
         </div>
@@ -5803,6 +5811,7 @@
             <l n="2885">que en tu cuarto, ingrata, entres,</l>
             <l>por informarme sin ti</l>
             <l>de lo que a ti te sucede.</l>
+            <stage>Aparte.</stage>
             <l>(De don Manuel en el cuarto</l>
             <l>la dejo y, por si él viniere,</l>
             <l n="2890">pondré a la puerta un criado</l>
