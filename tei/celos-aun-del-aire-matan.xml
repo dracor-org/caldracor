@@ -1025,7 +1025,7 @@
           </sp>
           <sp who="#rústico">
             <speaker>RÚSTICO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>Será la primera que ha dicho en su vida.</l>
           </sp>
           <sp who="#floreta">
@@ -1039,7 +1039,7 @@
           </sp>
           <sp who="#rústico">
             <speaker>RÚSTICO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="495">Seguro estoy que lo sepa, si es fuerza</l>
             <l>que porque no diga verdad se lo calle.</l>
           </sp>
@@ -1049,12 +1049,12 @@
           </sp>
           <sp who="#floreta">
             <speaker>FLORETA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F">¿Qué diré?</l>
           </sp>
           <sp who="#rústico">
             <speaker>RÚSTICO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>¿Mas, que echa la culpa a alguien?</l>
           </sp>
           <sp who="#diana">
@@ -1063,7 +1063,7 @@
           </sp>
           <sp who="#rústico">
             <speaker>RÚSTICO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F">Ella está</l>
             <l n="500">pensando un embuste con que disculparme.</l>
           </sp>
@@ -1087,7 +1087,7 @@
           </sp>
           <sp who="#rústico">
             <speaker>RÚSTICO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>¡Oh, mujer mía!, mintió</l>
             <l n="510">contigo la más constante,</l>
             <l>con el valor que resiste el decirlo.</l>
@@ -1804,7 +1804,7 @@
           <stage>Sale RÚSTICO con máscara de lebrel, y collar y pieles.</stage>
           <sp who="#rústico">
             <speaker>RÚSTICO</speaker>
-            <stage>Aparte</stage>
+            <stage>[Aparte]</stage>
             <l>¿Si se habrán cansado ya</l>
             <l>todos del pasado embuste</l>
             <l>de hacerme creer que soy</l>
@@ -1876,9 +1876,9 @@
             <l>Con todos ahora pronuncie:</l>
             <l>Venid, moradores, etc.</l>
           </sp>
+          <stage>Vanse.</stage>
         </div>
         <div type="scene" resp="#rojas" n="5">
-          <stage>Vanse.</stage>
           <stage>Descúbrese el templo; salen por una puerta los hombres y por otra las mujeres, DIANA está en el trono, y sale ERÓSTRATO, CÉFALO, CLARÍN y RÚSTICO.</stage>
           <sp who="#todos">
             <speaker>TODOS</speaker>
@@ -1925,8 +1925,8 @@
           </sp>
           <sp who="#eróstrato">
             <speaker>ERÓSTRATO</speaker>
-            <stage>Aparte.</stage>
-            <l>Mi soberbia el primero</l>
+            <stage>[Aparte.]</stage>
+            <l>(Mi soberbia el primero</l>
             <l>a la ofrenda me lleva.</l>
             <l n="205">La voz el labio mueva,</l>
             <l>no el corazón, si espero</l>
@@ -1969,7 +1969,7 @@
           </sp>
           <sp who="#céfalo">
             <speaker>CÉFALO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>¡Oh, si hablara sin voces el suspiro!)</l>
             <l n="230">Azucena y rosa ves</l>
             <l>en iris, cuya belleza</l>
@@ -2066,9 +2066,9 @@
             <l>que no es el oro el valor,</l>
             <l n="275">sino el haber repetido:</l>
           </sp>
-          <stage>Dentro AURA.</stage>
           <sp who="#aura">
             <speaker>AURA</speaker>
+            <stage>Dentro</stage>
             <l>¡Viva el amor y muera el olvido!</l>
             <l>¡Muera el olvido y viva el amor!</l>
           </sp>
@@ -2579,12 +2579,12 @@
             <l n="525">no enmienda al amar</l>
             <l>el aborrecer.</l>
           </sp>
+          <stage>Vanse.</stage>
         </div>
         <div type="scene" resp="#rojas" n="11">
-          <stage>Vanse.</stage>
           <stage>Sale FLORETA.</stage>
           <sp who="#floreta">
-            <speaker>FLORETA</speaker>
+            <speaker>[FLORETA]</speaker>
             <l>El templo cierran, y yo,</l>
             <l>como no soy ninfa dél,</l>
             <l>fuera he quedado, y no acaso,</l>
@@ -2735,7 +2735,7 @@
             <speaker>RÚSTICO</speaker>
             <l n="580">Eso es por honrarme usted.</l>
             <stage>Aparte.</stage>
-            <l>Jabalí me han hecho. ¿Pero</l>
+            <l>(Jabalí me han hecho. ¿Pero</l>
             <l>de qué me quejo?, ¿de qué?,</l>
             <l>si en no haberme hecho venado,</l>
             <l>me han hecho mucha merced.</l>
@@ -2753,11 +2753,10 @@
             <l n="590">Tu perro te ayude, pues</l>
             <l>él, para los jabalíes,</l>
             <l>es una pieza de rey.</l>
-
+            <stage>Vase.</stage>
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="15">
-          <stage>Vase.</stage>
           <stage>Vase RÚSTICO, y sale CÉFALO.</stage>
           <sp who="#clarín">
             <speaker>CLARÍN</speaker>
@@ -2830,9 +2829,9 @@
             <l>siempre que a verla llego</l>
             <l part="I">todo es decirme, ¡ay, triste!...</l>
           </sp>
-          <stage>Dentro TODOS.</stage>
           <sp who="#todos">
-            <speaker>[TODOS]</speaker>
+            <speaker>TODOS</speaker>
+            <stage>Dentro.</stage>
             <l n="620" part="F">¡Fuego, fuego!</l>
           </sp>
           <sp who="#céfalo">
@@ -2861,9 +2860,9 @@
             <l>es donde se oye el confuso</l>
             <l part="I">clamor decir...</l>
           </sp>
-          <stage>Dentro TODOS.</stage>
           <sp who="#todos">
-            <speaker>[TODOS]</speaker>
+            <speaker>TODOS</speaker>
+            <stage>Dentro.</stage>
             <l part="F">¡Fuego, fuego!</l>
           </sp>
           <sp who="#céfalo">
@@ -2879,7 +2878,7 @@
         <div type="scene" resp="#rojas" n="16">
           <stage>Sale ERÓSTRATO.</stage>
           <sp who="#eróstrato">
-            <speaker>ERÓSTRATO</speaker>
+            <speaker>[ERÓSTRATO]</speaker>
             <l>Logrose mi atrevimiento;</l>
             <l>la llama que de sus aras,</l>
             <l>en sagrado culto ardiendo,</l>
@@ -3158,7 +3157,7 @@
           </sp>
           <sp who="#voz-1">
             <speaker>VOZ 1.ª</speaker>
-            <stage>Dentro.</stage>
+            <stage>[Dentro.]</stage>
             <l>¡Que me abraso! ¡Fuego!</l>
           </sp>
           <sp who="#voz-2">
@@ -3729,9 +3728,9 @@
             <speaker>TODOS</speaker>
             <l>Celos aun del aire matan.</l>
           </sp>
+          <stage>Vanse.</stage>
         </div>
         <div type="scene" resp="#rojas" n="6">
-          <stage>Vanse.</stage>
           <stage>Sale ERÓSTRATO, vestido de pieles, huyendo</stage>
           <sp who="#eróstrato">
             <speaker>ERÓSTRATO</speaker>
@@ -4053,9 +4052,10 @@
             <l>Pocris por quien muero,</l>
             <l>Aura por quien vivo.</l>
           </sp>
+          <stage>Vase [CÉFALO].</stage>
         </div>
         <div type="scene" resp="#rojas" n="12">
-          <stage>Vase CÉFALO, y sale POCRIS de villana, y FLORETA, oyéndole.</stage>
+          <stage>Sale POCRIS de villana, y FLORETA, oyéndole.</stage>
           <sp who="#pocris">
             <speaker>POCRIS</speaker>
             <l>«¿Pocris por quien muero,</l>
@@ -4108,12 +4108,11 @@
             <l>nada aventuro, en rigor,</l>
             <l>en que él me mate de celos,</l>
             <l>si yo me muero de amor.</l>
-
+            <stage>Vase.</stage>
             <stage>Quédanse FLORETA, CLARÍN, y RÚSTICO.</stage>
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="13">
-          <stage>Vase.</stage>
           <sp who="#clarín">
             <speaker>CLARÍN</speaker>
             <l>Dos zagalas venían,</l>
@@ -4220,8 +4219,8 @@
           </sp>
           <sp who="#rústico">
             <speaker>RÚSTICO</speaker>
-            <stage>Aparte.</stage>
-            <l>Ya eso es viejo. Por Baco,</l>
+            <stage>[Aparte.]</stage>
+            <l>(Ya eso es viejo. Por Baco,</l>
             <l>que ella es por ella;</l>
             <l n="610">y animal más o menos,</l>
             <l>hacerles tengo</l>
@@ -4346,6 +4345,9 @@
             <speaker>CLARÍN</speaker>
             <l n="655">Yo de Floreta</l>
             <l>sepa que siempre he sido...</l>
+          </sp>
+          <sp who="#gente">
+            <speaker>[GENTE]</speaker>
             <stage>Dentro.</stage>
             <l>Guarda la fiera.</l>
           </sp>
@@ -4469,6 +4471,8 @@
             <l n="705">haciendo pausas estén.</l>
             <l>Ven, Aura, ven.</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="18">
           <stage>AURA en lo alto.</stage>
           <sp who="#aura">
             <speaker>AURA</speaker>
@@ -4558,7 +4562,7 @@
             <l part="I">Seguidle todos.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="18">
+        <div type="scene" resp="#rojas" n="19">
           <stage>Sale ERÓSTRATO.</stage>
           <sp who="#eróstrato">
             <speaker>ERÓSTRATO</speaker>
@@ -4627,7 +4631,7 @@
             <l part="M">Sí.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="19">
+        <div type="scene" resp="#rojas" n="20">
           <stage>Sale TESÍFONE.</stage>
           <sp who="#tesífone">
             <speaker>TESÍFONE</speaker>
@@ -4660,7 +4664,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="20">
+        <div type="scene" resp="#rojas" n="21">
           <stage>Vase.</stage>
           <sp who="#aura">
             <speaker>AURA</speaker>
@@ -4676,7 +4680,7 @@
           </sp>
           <sp who="#tesífone">
             <speaker>TESÍFONE</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>Sí alcanzará; ¿pero a quién</l>
             <l>le destina soberana</l>
             <l>deidad, que de tus sentidos</l>
@@ -4684,7 +4688,7 @@
           </sp>
           <sp who="#pocris">
             <speaker>POCRIS</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>Porque tan horrible monstruo</l>
             <l>no siga, al paso le salga.</l>
           </sp>
@@ -4723,7 +4727,7 @@
             <l part="I">acuda.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="21">
+        <div type="scene" resp="#rojas" n="22">
           <stage>Sale POCRIS herida, cayendo.</stage>
           <sp who="#pocris">
             <speaker>POCRIS</speaker>
@@ -4840,7 +4844,7 @@
           <sp who="#diana">
             <speaker>DIANA</speaker>
             <l>Aquesos son mis tres nombres.</l>
-
+          <stage>Salen las cuatro.</stage>
             <l n="915">Ya sé lo que me queréis;</l>
             <l>y así, atended a mis voces.</l>
             <l>¡Ninfas, que de aquella ruina</l>
@@ -4849,8 +4853,7 @@
             <l n="920">destas selvas moradores!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="22">
-          <stage>Salen las cuatro.</stage>
+        <div type="scene" resp="#rojas" n="23">
           <stage>Salen todas las NINFAS, y ZAGALES, CLARÍN y RÚSTICO.</stage>
           <sp who="#ninfa-1 #ninfa-2 #ninfa-3">
             <speaker>NINFAS</speaker>
