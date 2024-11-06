@@ -292,7 +292,7 @@
           </sp>
           <sp who="#calabazas">
             <speaker>CALABAZAS</speaker>
-            <stage>A SILVIA.</stage>
+            <stage>[A SILVIA.]</stage>
             <l part="F"> ¿Y a ella </l>
             <l> doncella desa doncella </l>
             <l> (la verdad en su lugar, </l>
@@ -354,7 +354,7 @@
           </sp>
           <sp who="#marcela">
             <speaker>MARCELA</speaker>
-            <stage>A LISARDO.</stage>
+            <stage>[A LISARDO.]</stage>
             <l> Esto os vuelvo a asegurar </l>
             <l part="I"> otra vez. </l>
           </sp>
@@ -903,7 +903,7 @@
           <stage>Salen MARCELA y SILVIA, abriendo una puerta que estará tapada con una antepuerta, y deténiense detrás della.</stage>
           <sp who="#marcela">
             <speaker>MARCELA</speaker>
-            <stage>Aparte a SILVIA.</stage>
+            <stage>[Aparte a SILVIA.]</stage>
             <l> Por esta puerta, que al cuarto </l>
             <l> de mi hermano, Silvia sale, </l>
             <l n="515"> desde el mío a verle vengo, </l>
@@ -1011,7 +1011,7 @@
           </sp>
           <sp who="#marcela">
             <speaker>MARCELA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="I"> Aquí entro yo agora. </l>
           </sp>
           <sp who="#lisardo">
@@ -1047,7 +1047,7 @@
           </sp>
           <sp who="#silvia">
             <speaker>SILVIA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Él cuenta nuestro suceso. </l>
           </sp>
           <sp who="#marcela">
@@ -1100,7 +1100,7 @@
           </sp>
           <sp who="#marcela">
             <speaker>MARCELA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> Ya es fuerza </l>
             <l> que las señas me declaren. </l>
           </sp>
@@ -1127,7 +1127,7 @@
           </sp>
           <sp who="#marcela">
             <speaker>MARCELA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> ¡Oh, a qué buen tiempo llegaste, </l>
             <l> mujer o ángel para mí! </l>
           </sp>
@@ -1231,7 +1231,7 @@
           </sp>
           <sp who="#celia">
             <speaker>CELIA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> ¡Ay bobillos, y que fácil </l>
             <l> a la casa de su dama, </l>
             <l> es de llevar un amante! </l>
@@ -1289,9 +1289,9 @@
             <l> que no tendrá después gusto </l>
             <l> el paso contado antes. </l>
           </sp>
+          <stage>Vanse.</stage>
         </div>
         <div type="scene" resp="#rojas" n="9">
-          <stage>Vanse.</stage>
           <stage>Salen LAURA dama y FABIO viejo.</stage>
           <sp who="#fabio">
             <speaker>FABIO</speaker>
@@ -1306,8 +1306,8 @@
             <speaker>LAURA</speaker>
             <l> Si yo, señor, supiera </l>
             <l part="I"> la causa de mi mal, </l>
-            <stage>Aparte.</stage>
-            <l part="F">A Dios pluguiera </l>
+            <stage>[Aparte.]</stage>
+            <l part="F">(A Dios pluguiera </l>
             <l> no la supiera tanto), </l>
             <l> el consuelo mayor, menor el llanto </l>
             <l n="735"> fuera, pues fuera entonces el sabella </l>
@@ -1429,7 +1429,7 @@
           <stage>Salen CELIA y DON FÉLIX.</stage>
           <sp who="#celia">
             <speaker>CELIA</speaker>
-            <stage>Aparte a DON FÉLIX.</stage>
+            <stage>[Aparte a DON FÉLIX.]</stage>
             <l> Fuera está de casa Fabio, </l>
             <l> mi señor, el tiempo es este </l>
             <l> mejor para entrar a hablarla. </l>
@@ -1488,7 +1488,7 @@
           </sp>
           <sp who="#laura">
             <speaker>LAURA</speaker>
-            <stage>A CELIA.</stage>
+            <stage>[A CELIA.]</stage>
             <l>Tú tienes la culpa desto. </l>
           </sp>
           <sp who="#celia">
@@ -2390,12 +2390,12 @@
           </sp>
           <sp who="#laura">
             <speaker>LAURA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> ¡Gran daño el alma recela! </l>
           </sp>
           <sp who="#celia">
             <speaker>CELIA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="I"> ¡Qué confusión! </l>
 
           </sp>
@@ -2404,7 +2404,7 @@
           <stage>Vase.</stage>
           <sp who="#silvia">
             <speaker>SILVIA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> ¡Qué temor! </l>
           </sp>
           <sp who="#marcela">
@@ -2477,7 +2477,7 @@
           </sp>
           <sp who="#laura">
             <speaker>LAURA</speaker>
-            <stage>Aparte a MARCELA.</stage>
+            <stage>[Aparte a MARCELA.]</stage>
             <l part="F"> Mejor es </l>
             <l n="370"> dejarle ir, para que pueda </l>
             <l> irse este hombre que aquí queda. </l>
@@ -2542,7 +2542,7 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="11">
-          <stage>Sale DON FÉLIX.</stage>
+          <stage>Sale [DON] FÉLIX.</stage>
           <sp who="#don-félix">
             <speaker>DON FÉLIX</speaker>
             <l> Apenas la sombra escura </l>
@@ -2571,8 +2571,8 @@
             <l> que un enojo apenas quitas, </l>
             <l> cuando otro vas disponiendo. </l>
             <l> ¿Tanto podía tardar </l>
-            <stage>Aparte.</stage>
-            <l> Apenas a hablarte acierto.) </l>
+            <stage>[Aparte.]</stage>
+            <l> (Apenas a hablarte acierto.) </l>
             <l n="425"> en recogerse mi casa, </l>
             <l> que temerario y resuelto </l>
             <l> te entras aquí, sin mirar, </l>
@@ -2601,7 +2601,7 @@
             <l> tanto, que a esta puerta falsa </l>
             <l part="I"> la llave ha quitado. </l>
             <stage>Aparte.</stage>
-            <l part="F"> Esto </l>
+            <l part="F"> (Esto </l>
             <l n="445"> digo por asegurar </l>
             <l> el paso al que está acá dentro.) </l>
             <l> Y anda todos estos días </l>
@@ -2697,7 +2697,7 @@
           </sp>
           <sp who="#laura">
             <speaker>LAURA</speaker>
-            <stage>Aparte a DON FÉLIX.</stage>
+            <stage>[Aparte a DON FÉLIX.]</stage>
             <l> Mira, por Dios, lo que haces; </l>
             <l> pues en quien es caballero, </l>
             <l n="475"> el honor de las mujeres </l>
@@ -2705,11 +2705,11 @@
           </sp>
           <sp who="#don-félix">
             <speaker>DON FÉLIX</speaker>
-            <stage>Aparte.</stage>
-            <l> Y es verdad, disimular </l>
+            <stage>[Aparte.]</stage>
+            <l> (Y es verdad, disimular </l>
             <l> tomo por mejor acuerdo, </l>
             <l> si celos se disimulan.) </l>
-            <stage>A FABIO.</stage>
+            <stage>[A FABIO.]</stage>
             <l n="480"> Buscando a mi hermana vengo, </l>
             <l> que me dijeron, que aquí </l>
             <l part="I"> estaba. </l>
@@ -2736,7 +2736,7 @@
           </sp>
           <sp who="#don-félix">
             <speaker>DON FÉLIX</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="490"> No sé, ¡ay Dios!, lo que hacer debo. </l>
             <l> Estarme aquí es necedad; </l>
             <l> irme, si aquí un hombre dejo, </l>
@@ -2756,7 +2756,7 @@
           </sp>
           <sp who="#don-félix">
             <speaker>DON FÉLIX</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Hoy he de ver, ¡vive el cielo! </l>
             <l> si es verdad que a la fortuna </l>
             <l> ayuda el atrevimiento. </l>
@@ -2771,7 +2771,7 @@
           </sp>
           <sp who="#laura">
             <speaker>LAURA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> Otro susto, ¡cielos!, </l>
             <l> mi padre ¿qué me querrá? </l>
             <l n="510"> Laura ¿en qué ha de parar esto? </l>
@@ -2791,7 +2791,7 @@
             <l> esotro, que en su aposento </l>
             <l> está mi señor con Laura: </l>
             <l n="520"> no hay que esperar. Caballero, </l>
-            <stage>A LISARDO.</stage>
+            <stage>[A LISARDO.]</stage>
             <l> en gran confusión estamos </l>
             <l part="I"> por vós. </l>
           </sp>
@@ -2814,7 +2814,7 @@
           </sp>
           <sp who="#celia">
             <speaker>CELIA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Salga él una vez de casa, </l>
             <l n="530"> y más que sucedan luego </l>
             <l> muertes de hombres en la calle. </l>
@@ -3064,9 +3064,9 @@
             <l> yo te buscaré. ¡Ay Marcela, </l>
             <l> en qué de dudas me has puesto! </l>
           </sp>
+          <stage>Vanse.</stage>
         </div>
         <div type="scene" resp="#rojas" n="21">
-          <stage>Vanse.</stage>
           <stage>Salen LISARDO y CALABAZAS.</stage>
           <sp who="#calabazas">
             <speaker>CALABAZAS</speaker>
@@ -3472,7 +3472,7 @@
             <speaker>LISARDO</speaker>
             <l> Cuando por haber faltado </l>
             <l> de casa, vete de aquí, </l>
-
+          <stage>Vase CALABAZAS.</stage>
             <l> toda la noche creí </l>
             <l n="890"> que habíades celebrado </l>
             <l> las paces con vuestra dama, </l>
@@ -3481,7 +3481,6 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="26">
-          <stage>Vase CALABAZAS.</stage>
           <sp who="#don-félix">
             <speaker>DON FÉLIX</speaker>
             <l>Sí, que un mal a otro mal llama. </l>
@@ -3507,7 +3506,7 @@
           </sp>
           <sp who="#marcela">
             <speaker>MARCELA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> Los cielos </l>
             <l n="910"> den mis penas a partido. </l>
           </sp>
@@ -3662,7 +3661,7 @@
             <speaker>LISARDO</speaker>
             <l part="F"> Por mí </l>
             <l n="990"> obedecida estáis ya. </l>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Fuerza es dejar encerrada </l>
             <l> la otra dama hasta después, </l>
             <l> y estar a la vista. Nada </l>
@@ -3738,7 +3737,7 @@
           </sp>
           <sp who="#marcela">
             <speaker>MARCELA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> ¡Quién vio lance más crüel! </l>
           </sp>
           <sp who="#don-félix">
@@ -3789,7 +3788,7 @@
           </sp>
           <sp who="#marcela">
             <speaker>MARCELA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="1040"> ¡Quién vio confusión igual! </l>
           </sp>
           <sp who="#don-félix">
@@ -3844,7 +3843,7 @@
           </sp>
           <sp who="#marcela">
             <speaker>MARCELA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> ¿Qué haré? </l>
             <l n="1060"> Que, por disculparse a sí, </l>
             <l> me ha de echar a mí a perder. </l>
@@ -3860,7 +3859,7 @@
           </sp>
           <sp who="#marcela">
             <speaker>MARCELA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> No dirás, porque primero </l>
             <stage>Pasa por delante tapada, como jurándosela a DON FÉLIX, él quiere seguirla, y LAURA le detiene.</stage>
             <l n="1065"> tus voces estorbaré </l>
@@ -4943,9 +4942,9 @@
             <l> amante de su virtud, </l>
             <l> como otros de su belleza. </l>
           </sp>
+          <stage>Vanse.</stage>
         </div>
         <div type="scene" resp="#rojas" n="11">
-          <stage>Vanse.</stage>
           <stage>Salen LISARDO y DON FÉLIX.</stage>
           <sp who="#don-félix">
             <speaker>DON FÉLIX</speaker>
@@ -4985,7 +4984,7 @@
           <stage>Sale CALABAZAS como acechando.</stage>
           <sp who="#calabazas">
             <speaker>CALABAZAS</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Si cual veo lo que andan, </l>
             <l n="545"> lo que hablan viera, yo viera </l>
             <l> lo que andan y lo que hablan, </l>
@@ -5134,12 +5133,12 @@
           </sp>
           <sp who="#calabazas">
             <speaker>CALABAZAS</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="580" part="F"> Ya sé la casa. </l>
           </sp>
           <sp who="#don-félix">
             <speaker>DON FÉLIX</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> ¿Esta ventana?, ¿esta puerta? </l>
             <l> ¡Ay de mí! El cielo me valga, </l>
             <l> que estas las de Laura son, </l>
@@ -5236,9 +5235,9 @@
             <l part="F"> Luego </l>
             <l part="I"> hablaremos. </l>
           </sp>
+          <stage>Vanse.</stage>
         </div>
         <div type="scene" resp="#rojas" n="14">
-          <stage>Vanse.</stage>
           <stage>Al entrar LISARDO quiere entrar DON FÉLIX, y dale con la puerta CELIA.</stage>
           <sp who="#don-félix">
             <speaker>DON FÉLIX</speaker>
@@ -5253,7 +5252,7 @@
           </sp>
           <sp who="#don-félix">
             <speaker>DON FÉLIX</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> ¿Qué es lo que pasa por mí? </l>
             <l n="610"> ¿Quién vio confusiones tantas? </l>
             <l> ¿En casa de Laura? ¡Cielos! </l>
@@ -5434,17 +5433,17 @@
           </sp>
           <sp who="#marcela">
             <speaker>MARCELA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> Ay de mí. </l>
           </sp>
           <sp who="#don-félix">
             <speaker>DON FÉLIX</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="I"> Yo estoy muerto. </l>
           </sp>
           <sp who="#marcela">
             <speaker>MARCELA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="690" part="F"> Estoy turbada. </l>
           </sp>
           <sp who="#don-félix">
@@ -5461,9 +5460,9 @@
             <speaker>DON FÉLIX</speaker>
             <l n="695"> ¿Hay hombre más infelice? </l>
           </sp>
+          <stage>Vanse.</stage>
         </div>
         <div type="scene" resp="#rojas" n="16">
-          <stage>Vanse.</stage>
           <stage>Sale FABIO con luz, y criados con espadas.</stage>
           <sp who="#fabio">
             <speaker>FABIO</speaker>
@@ -5490,7 +5489,7 @@
           </sp>
           <sp who="#lisardo">
             <speaker>LISARDO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Pues que ya Félix se alarga, </l>
             <l n="705"> antes que aquí me conozcan </l>
             <l> mejor es volver la espalda; </l>
@@ -5506,7 +5505,7 @@
           </sp>
           <sp who="#calabazas">
             <speaker>CALABAZAS</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> ¿Quién creyera, que Lisardo </l>
             <l n="710"> en la ocasión me dejara? </l>
           </sp>
@@ -5611,7 +5610,7 @@
           </sp>
           <sp who="#laura">
             <speaker>LAURA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> Con mujer habla. </l>
           </sp>
           <sp who="#don-félix">
@@ -5624,7 +5623,7 @@
           </sp>
           <sp who="#marcela">
             <speaker>MARCELA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Aquí mi vida se acaba. </l>
           </sp>
           <sp who="#don-félix">
@@ -5634,7 +5633,7 @@
           </sp>
           <sp who="#laura">
             <speaker>LAURA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="750" part="F"> La que estaba </l>
             <l> tapada, oyes pues la dice </l>
             <l> que hoy ha venido a su casa. </l>
@@ -5674,7 +5673,7 @@
           </sp>
           <sp who="#marcela">
             <speaker>MARCELA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="765" part="F"> ¿Qué he de hacer </l>
             <l part="I"> si la trae? </l>
           </sp>
@@ -5686,10 +5685,10 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="20">
-          <stage>Vase apartando MARCELA, y LAURA atravesándose entre los dos; de suerte, que viene a tomar DON FÉLIX de la mano a LAURA, y tenella cuando sale la luz, MARCELA se va, y cierra la puerta tras sí.</stage>
+          <stage>Vase apartando MARCELA, y LAURA atravesándose entre los dos; de suerte, que viene a tomar [DON] FÉLIX de la mano a LAURA, y tenella cuando sale la luz, MARCELA se va, y cierra la puerta tras sí.</stage>
           <sp who="#marcela">
             <speaker>MARCELA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> ¡Oh, si hallara </l>
             <l> por donde irme; que a lo menos </l>
             <l n="770"> la vida así asegurara! </l>
@@ -5703,7 +5702,7 @@
           </sp>
           <sp who="#laura">
             <speaker>LAURA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> Por otra me habla, </l>
             <l n="775"> y he de callar mis agravios, </l>
             <l> hasta que las luces traigan, </l>
@@ -5712,7 +5711,7 @@
           </sp>
           <sp who="#marcela">
             <speaker>MARCELA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> Confusa y turbada </l>
             <l> la puerta hallé de mi cuarto; </l>
             <l n="780"> este sagrado me valga, </l>
@@ -5751,10 +5750,10 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="22">
-          <stage>Vase el ESCUDERO, y va a cerrar la puerta DON FÉLIX.</stage>
+          <stage>Vase el ESCUDERO, y va a cerrar la puerta [DON] FÉLIX.</stage>
           <sp who="#laura">
             <speaker>LAURA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> ¡Aquí es ello, cuando vuelva </l>
             <l part="I"> a verme! </l>
           </sp>
@@ -5766,7 +5765,7 @@
           </sp>
           <sp who="#laura">
             <speaker>LAURA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> ¿Qué es esto?, ¿cómo de verme </l>
             <l> no se turba ni embaraza? </l>
           </sp>
@@ -5917,7 +5916,7 @@
           </sp>
           <sp who="#marcela">
             <speaker>MARCELA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Aquí se deshace todo. </l>
             <l> ¡Quién a Lisardo avisara </l>
             <l part="I"> de mi peligro! </l>
@@ -5965,7 +5964,7 @@
           </sp>
           <sp who="#marcela">
             <speaker>MARCELA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> ¡Ay desdichada! </l>
           </sp>
           <sp who="#lisardo">
@@ -5987,7 +5986,7 @@
           </sp>
           <sp who="#laura">
             <speaker>LAURA</speaker>
-            <stage>A DON FÉLIX.</stage>
+            <stage>[A DON FÉLIX.]</stage>
             <l n="885"> ¡Mira si se está en su cuarto, </l>
             <l> recogida y retirada! </l>
             <l> Primero soy yo, Marcela. </l>
@@ -6047,7 +6046,7 @@
           </sp>
           <sp who="#calabazas">
             <speaker>CALABAZAS</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> ¡Qué linda danza </l>
             <l part="I"> se va urdiendo! </l>
           </sp>
@@ -6064,7 +6063,7 @@
           </sp>
           <sp who="#calabazas">
             <speaker>CALABAZAS</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Nunca la cara escondió, </l>
             <l> pero volvió las espaldas. </l>
           </sp>
