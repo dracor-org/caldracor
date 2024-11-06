@@ -403,6 +403,7 @@
             <l>ya que nos ha traído</l>
             <l>nuestro destino aquí, si ya no ha sido</l>
             <l>su dicha. ¡Oh qué temor triste y funesto!</l>
+            <stage>Cógenle entre todos, y llévanle.</stage>
             <l>Qué presto (¡oh confusión mortal!), qué presto</l>
             <l>a la tristeza mía</l>
             <l>diste consuelo con decir que había</l>
@@ -413,7 +414,6 @@
             <l>lo que en el mundo pasa,</l>
             <l>las suyas propias se volviera a casa.</l>
           </sp>
-          <stage>Cógenle entre todos, y llévanle.</stage>
           <stage>Sale don Vela con gabán y montera.</stage>
           <sp who="#don-vela">
             <speaker>DON VELA</speaker>
@@ -533,10 +533,10 @@
             <l>a estos montes; que recela</l>
             <l>el alma, ya que no ha sido</l>
             <l>gusto vuestro, en lo que ve.</l>
+            <stage>Aparte</stage>
             <l>(Este piensa que no sé</l>
             <l>el intento que ha traído.)</l>
           </sp>
-          <stage>Aparte</stage>
           <sp who="#ramiro">
             <speaker>RAMIRO</speaker>
             <l>Aun bien que los dos podremos</l>
@@ -727,9 +727,10 @@
             <l>Esto pide el amistad,</l>
             <l>y deudo que hay en los dos.</l>
           </sp>
+          <stage>Vanse.</stage>
         </div>
         <div type="scene" resp="#rojas" n="6">
-          <stage>Vanse. Sale doña Elvira con vaquero, y espada.</stage>
+          <stage>Sale doña Elvira con vaquero, y espada.</stage>
           <sp who="#dona-elvira">
             <speaker>DOÑA ELVIRA</speaker>
             <l>Al pie destos montes altos</l>
@@ -838,6 +839,7 @@
           </sp>
           <sp who="#dona-elvira">
             <speaker>D. ELVIRA</speaker>
+            <stage>Aparte</stage>
             <l>(Si le respondo que soy</l>
             <l>forastera, pongo a riesgo</l>
             <l>mi vida en tal soledad;</l>
@@ -854,7 +856,6 @@
             <l>por un hombre, que ahora creo</l>
             <l>que érades vos, por las señas.</l>
           </sp>
-          <stage>Aparte</stage>
           <sp who="#jaques">
             <speaker>JAQUES</speaker>
             <l>Decidme por dónde fueron.</l>
@@ -1018,10 +1019,10 @@
           </sp>
           <sp who="#don-vela">
             <speaker>DON VELA</speaker>
+            <stage>[Aparte]</stage>
             <l>(No sé qué espera, o por qué</l>
             <l>no se da por entendido.)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <stage>Vase.</stage>
           <sp who="#ramiro">
             <speaker>RAMIRO</speaker>
@@ -1297,10 +1298,10 @@
           </sp>
           <sp who="#jaques">
             <speaker>JAQUES</speaker>
+            <stage>[Aparte]</stage>
             <l part="F">(Ella está burlando</l>
             <l part="I">de mí.)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#dominga">
             <speaker>DOMINGA</speaker>
             <l part="M">Diga.</l>
@@ -1414,12 +1415,12 @@
           <stage>Sale Jaques.</stage>
           <sp who="#jaques">
             <speaker>JAQUES</speaker>
+            <stage>[Aparte]</stage>
             <l>(De tantos, ¿no ha de saber</l>
             <l>uno siquiera por dónde</l>
             <l>fue? Este el primero sea.)</l>
             <l part="I">Mi señor...</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#belardo">
             <speaker>BELARDO</speaker>
             <l part="F">Dios os provea.</l>
@@ -1429,13 +1430,13 @@
           <stage>Vase.</stage>
           <sp who="#jaques">
             <speaker>JAQUES</speaker>
+            <stage>[Aparte]</stage>
             <l>(A propósito responde:</l>
             <l>él pensó y tuvo por llano</l>
             <l>que limosna iba a pedir.</l>
             <l>Este lo habrá de decir.)</l>
             <l part="I">¿Sabéis...?</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#nuno">
             <speaker>NUÑO</speaker>
             <l part="F">Perdonad, hermano.</l>
@@ -1453,10 +1454,10 @@
           </sp>
           <sp who="#jaques">
             <speaker>JAQUES</speaker>
+            <stage>[Aparte]</stage>
             <l>(Quiero llegarme a estos dos.)</l>
             <l part="I">Yo soy...</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#ramiro">
             <speaker>RAMIRO</speaker>
             <l part="F">Dios nos dé qué dar.</l>
@@ -1466,23 +1467,23 @@
           <stage>Vase.</stage>
           <sp who="#jaques">
             <speaker>JAQUES</speaker>
+            <stage>[Aparte]</stage>
             <l>(No hay en mis fortunas medio.</l>
             <l>A este llego temeroso;</l>
             <l>quizá por viejo es piadoso.)</l>
             <l part="I">Oíd...</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#don-vela">
             <speaker>DON VELA</speaker>
             <l part="F">Dios os dé remedio.</l>
           </sp>
           <sp who="#jaques">
             <speaker>JAQUES</speaker>
+            <stage>[Aparte]</stage>
             <l>(¡Que no haya de tantos uno</l>
             <l>que al verme desta manera</l>
             <l>quiera escucharme siquiera!)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#don-vela">
             <speaker>DON VELA</speaker>
             <l>No seáis, pobre, importuno.</l>
@@ -1505,9 +1506,9 @@
             <l>qué será sello, si así</l>
             <l>me tratan por parecello.</l>
           </sp>
+          <stage>Vase.</stage>
         </div>
         <div type="scene" resp="#rojas" n="20">
-          <stage>Vase.</stage>
           <stage>Sale doña Sol muy vestida de dama.</stage>
           <sp who="#dona-sol">
             <speaker>DOÑA SOL</speaker>
@@ -1585,11 +1586,11 @@
           <sp who="#dominga">
             <speaker>DOMINGA</speaker>
             <l>Un vestido que me hallé.</l>
+            <stage>[Aparte]</stage>
             <l>(Callaré que me le diese</l>
             <l>la mujer, porque señor</l>
             <l>no me obligase a volvelle.)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#don-vela">
             <speaker>DON VELA</speaker>
             <l part="I">¿Dónde le hallaste?</l>
@@ -1698,6 +1699,7 @@
           </sp>
           <sp who="#dona-sol">
             <speaker>DOÑA SOL</speaker>
+            <stage>Aparte</stage>
             <l>(Entre rústica corteza,</l>
             <l>¿es posible que se encierre</l>
             <l>alma tan noble? Secretos</l>
@@ -1708,7 +1710,6 @@
             <l>de la posada, te atreves</l>
             <l part="I">a levantarte?</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#don-garcia">
             <speaker>DON GARCÍA</speaker>
             <l part="F">No fueron,</l>
@@ -1726,6 +1727,7 @@
             <l>Sólo te pido, señora,</l>
             <l>recibas de un pobre aqueste</l>
             <l>rayo de piedra, que fue</l>
+            <stage>Dale una sortija.</stage>
             <l>hijo del Sol, que no puede</l>
             <l>negarlo, pues de limpieza</l>
             <l>hechas ya las pruebas tiene.</l>
@@ -1738,7 +1740,6 @@
             <l>en esas manos por mío,</l>
             <l>pues por suyo lo merece.</l>
           </sp>
-          <stage>Dale una sortija.</stage>
           <sp who="#dona-sol">
             <speaker>DOÑA SOL</speaker>
             <l>El don estimo y quisiera</l>
@@ -1854,20 +1855,20 @@
           </sp>
           <sp who="#dona-sol">
             <speaker>DOÑA SOL</speaker>
+            <stage>[Aparte]</stage>
             <l>(Ay curiosidad, ¿qué es esto?</l>
             <l>¿Qué buscas en mí? ¿Qué quieres</l>
             <l>de mí, que tantos discursos</l>
             <l>hoy a la memoria ofreces?)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#don-garcia">
             <speaker>DON GARCÍA</speaker>
+            <stage>[Aparte]</stage>
             <l>(Hoy, Fortuna, ¿a qué desdichas</l>
             <l>mayores podrás traerme</l>
             <l>que a vivir entre villanos,</l>
             <l>de ásperas montañas huésped?)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#dona-sol">
             <speaker>DOÑA SOL</speaker>
             <l part="I">¿Cómo te llamas?</l>
@@ -1890,96 +1891,96 @@
           </sp>
           <sp who="#dona-sol">
             <speaker>DOÑA SOL</speaker>
+            <stage>[Aparte]</stage>
             <l>(Ay cielos, ¡qué peregrino</l>
             <l>tan peregrino es aqueste!)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#don-garcia">
             <speaker>DON GARCÍA</speaker>
+            <stage>[Aparte]</stage>
             <l>(¿Qué Sol es aqueste, cielos,</l>
             <l>que a mis dichas amanece?)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#dona-sol">
             <speaker>DOÑA SOL</speaker>
+            <stage>[Aparte]</stage>
             <l part="I">(¡Qué desdicha!)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#don-garcia">
             <speaker>DON GARCÍA</speaker>
-            <l part="F">¡Qué pesar!)</l>
+            <stage>[Aparte]</stage>
+            <l part="F">(¡Qué pesar!)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#dona-sol">
             <speaker>DOÑA SOL</speaker>
+            <stage>[Aparte]</stage>
             <l part="I">(¡Qué pena!)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#don-garcia">
             <speaker>DON GARCÍA</speaker>
+            <stage>[Aparte]</stage>
             <l part="F">(¡Qué mal tan fuerte!)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#dona-sol">
             <speaker>DOÑA SOL</speaker>
+            <stage>[Aparte]</stage>
             <l>(Déjame, memoria mía.)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#don-garcia">
             <speaker>DON GARCÍA</speaker>
+            <stage>[Aparte]</stage>
             <l>(Déjame, estrella imprudente.)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#dona-sol">
             <speaker>DOÑA SOL</speaker>
+            <stage>[Aparte]</stage>
             <l part="I">(No me obligues...)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#don-garcia">
             <speaker>DON GARCÍA</speaker>
+            <stage>[Aparte]</stage>
             <l part="F">(No me traigas...)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#dona-sol">
             <speaker>DOÑA SOL</speaker>
+            <stage>[Aparte]</stage>
             <l part="I">( ...a que diga...)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#don-garcia">
             <speaker>DON GARCÍA</speaker>
+            <stage>[Aparte]</stage>
             <l part="F">(...a que a ver llegue...)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#dona-sol">
             <speaker>DOÑA SOL</speaker>
+            <stage>[Aparte]</stage>
             <l part="I">(...que de amor...)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#don-garcia">
             <speaker>DON GARCÍA</speaker>
+            <stage>[Aparte]</stage>
             <l part="F">(...perdido el bien...)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#dona-sol">
             <speaker>DOÑA SOL</speaker>
+            <stage>[Aparte]</stage>
             <l part="I">(...muero.)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#don-garcia">
             <speaker>DON GARCÍA</speaker>
+            <stage>[Aparte]</stage>
             <l part="F">(...que el amor me ofrece.)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#dona-sol">
             <speaker>DOÑA SOL</speaker>
+            <stage>[Aparte]</stage>
             <l>(¡Mal haya tanto callar!)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#don-garcia">
             <speaker>DON GARCÍA</speaker>
+            <stage>[Aparte]</stage>
             <l>(¡Paciencia el cielo me preste!)</l>
           </sp>
-          <stage>[Aparte]</stage>
         </div>
 
 
@@ -2322,6 +2323,7 @@
           <sp who="#don-vela">
             <speaker>DON VELA</speaker>
             <l part="F">¡Oh, Ramiro!</l>
+            <stage>Aparte</stage>
             <l>(Si él vuelve, no diré, no,</l>
             <l>que le iba buscando yo.)</l>
             <l>Con admiración os miro.</l>
@@ -2329,7 +2331,6 @@
             <l>Ya muy lejos os juzgué</l>
             <l part="I">desta tierra.</l>
           </sp>
-          <stage>Aparte</stage>
           <sp who="#ramiro">
             <speaker>RAMIRO</speaker>
             <l part="F">Causa fue</l>
@@ -2346,6 +2347,7 @@
           </sp>
           <sp who="#don-vela">
             <speaker>DON VELA</speaker>
+            <stage>Aparte</stage>
             <l>(Sin duda que alguien halló</l>
             <l>hoy que le desengañó</l>
             <l>de que Sol es sol que abrasa,</l>
@@ -2356,11 +2358,11 @@
             <l>serviros y la amistad</l>
             <l>de mi vida y de mi pecho.</l>
           </sp>
-          <stage>Aparte</stage>
           <sp who="#ramiro">
             <speaker>RAMIRO</speaker>
             <l>De todo estoy satisfecho,</l>
             <l>vos el camino guiad</l>
+            <stage>Aparte</stage>
             <l>(que ya sigo el arrebol</l>
             <l>de una divina hermosura.</l>
             <l>¿Quién vio que otra vez más pura</l>
@@ -2370,7 +2372,8 @@
             <l>¡viven los cielos, villana,</l>
             <l>que he de averiguar quién eres!)</l>
           </sp>
-          <stage>Aparte</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="4">
           <stage>Vanse y sale García.</stage>
           <sp who="#don-garcia">
             <speaker>DON GARCÍA</speaker>
@@ -2390,7 +2393,7 @@
             <l>entre peñas y entre riscos?</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="4">
+        <div type="scene" resp="#rojas" n="5">
           <stage>Sale Jaques.</stage>
           <sp who="#jaques">
             <speaker>JAQUES</speaker>
@@ -2591,7 +2594,7 @@
             <l>la lealtad con que te sirvo.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="5">
+        <div type="scene" resp="#rojas" n="6">
           <stage>Vase, y sale Elvira.</stage>
           <sp who="#dona-elvira">
             <speaker>D. ELVIRA</speaker>
@@ -2601,21 +2604,21 @@
           </sp>
           <sp who="#don-garcia">
             <speaker>DON GARCÍA</speaker>
+            <stage>[Aparte]</stage>
             <l>(La primera vez ha sido</l>
             <l>que por la casa del Sol</l>
             <l>preguntó tan bello signo;</l>
             <l>no vi zagala más bella</l>
             <l part="I">en mi vida.)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#dona-elvira">
             <speaker>D. ELVIRA</speaker>
+            <stage>[Aparte]</stage>
             <l part="F">(Yo no he visto</l>
             <l>villano más cortesano.)</l>
             <l>Respondedme a lo que os digo,</l>
             <l>por vuestra vida, señor.</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#don-garcia">
             <speaker>DON GARCÍA</speaker>
             <l>Errado habéis el camino,</l>
@@ -2626,6 +2629,7 @@
           </sp>
           <sp who="#dona-elvira">
             <speaker>D. ELVIRA</speaker>
+            <stage>Aparte</stage>
             <l>(Si advertida correspondo,</l>
             <l>será dar algún indicio</l>
             <l>de quién soy; disimulemos.)</l>
@@ -2633,9 +2637,9 @@
             <l>no entiendo, lo que os pescudo</l>
             <l part="I">me decid.</l>
           </sp>
-          <stage>Aparte</stage>
           <sp who="#don-garcia">
             <speaker>DON GARCÍA</speaker>
+            <stage>Aparte</stage>
             <l part="F">(Inadvertido</l>
             <l>anduve en hablarla así,</l>
             <l>mas ya disimulo y finjo.)</l>
@@ -2654,7 +2658,6 @@
             <l>en su horóscopo felice,</l>
             <l>pues siempre amor ha rendido...</l>
           </sp>
-          <stage>Aparte</stage>
           <sp who="#dona-elvira">
             <speaker>D. ELVIRA</speaker>
             <l>¡Oh qué presto os descuidasteis,</l>
@@ -2775,10 +2778,11 @@
             <l>por serrana, por hechizo!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="6">
+        <div type="scene" resp="#rojas" n="7">
           <stage>Sale Sol.</stage>
           <sp who="#dona-sol">
             <speaker>DOÑA SOL</speaker>
+            <stage>Aparte</stage>
             <l>¡Válgame el cielo! ¿Qué es esto</l>
             <l>que vive en el pecho mío?</l>
             <l>¡Un hombre que a mis umbrales,</l>
@@ -2786,7 +2790,6 @@
             <l>llegó! (Mas disimulemos,</l>
             <l>alma, ¿qué es el que hemos visto?)</l>
           </sp>
-          <stage>Aparte</stage>
           <sp who="#don-garcia">
             <speaker>DON GARCÍA</speaker>
             <l part="I">Sol es esta.</l>
@@ -2817,6 +2820,7 @@
           </sp>
           <sp who="#dona-sol">
             <speaker>DOÑA SOL</speaker>
+            <stage>[Aparte]</stage>
             <l part="F">(¡Oh qué mal finjo</l>
             <l>mi pesar y mis desdichas!</l>
             <l>Tened las riendas, suspiros,</l>
@@ -2824,7 +2828,6 @@
             <l>lo que el amor no ha podido.)</l>
             <l>¿Qué queréis, bella serrana?</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#dona-elvira">
             <speaker>D. ELVIRA</speaker>
             <l>Vuestro padre y dueño mío</l>
@@ -2875,10 +2878,10 @@
           </sp>
           <sp who="#dona-sol">
             <speaker>DOÑA SOL</speaker>
+            <stage>Aparte</stage>
             <l>(¡Paciencia, cielos divinos!)</l>
             <l>Ya, serrana, estáis en casa.</l>
           </sp>
-          <stage>Aparte</stage>
           <sp who="#dona-elvira">
             <speaker>D. ELVIRA</speaker>
             <l>Hable el pecho agradecido.</l>
@@ -2922,7 +2925,8 @@
             <l>los ajenos beneficios,</l>
             <l>porque agradecido os quiero,</l>
             <l>mas no tan agradecido.</l>
-            <l>(Ap. Así quiero averiguar</l>
+            <stage>Aparte</stage>
+            <l>(Así quiero averiguar</l>
             <l>si es verdad lo que imagino</l>
             <l>desta fingida villana</l>
             <l>y este mercader fingido.</l>
@@ -2961,7 +2965,7 @@
             <l>de tan ciego laberinto!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="7">
+        <div type="scene" resp="#rojas" n="8">
           <stage>Vanse los dos y sale don Vela.</stage>
           <sp who="#don-vela">
             <speaker>DON VELA</speaker>
@@ -2994,11 +2998,12 @@
             <l>es tuya y que responderte</l>
             <l>no puedo más de que soy,</l>
             <l>no hija tuya, sino esclava.</l>
-            <l>(Ap. Esto solo me faltaba,</l>
+            <stage>Aparte</stage>
+            <l>(Esto solo me faltaba,</l>
             <l>¡ay Fortuna, muerta estoy!)</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="8">
+        <div type="scene" resp="#rojas" n="9">
           <stage>Ruido de villanos, y sale Dominga.</stage>
           <sp who="#don-vela">
             <speaker>DON VELA</speaker>
@@ -3020,7 +3025,7 @@
             <l>con bailes a despedirse.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="9">
+        <div type="scene" resp="#rojas" n="10">
           <stage>Salen todos bailando de villanos; y Jaques de villano y Ramiro.</stage>
           <sp who="#belardo">
             <speaker>BELARDO</speaker>
@@ -3052,7 +3057,7 @@
             <l>Llegue él [a] habrarme, par Dios.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="10">
+        <div type="scene" resp="#rojas" n="11">
           <stage>Entra García por otra puerta.</stage>
           <sp who="#don-garcia">
             <speaker>DON GARCÍA</speaker>
@@ -3093,12 +3098,11 @@
             <l>que no es ventaja, advertí,</l>
             <l>pues si más dichoso fui,</l>
             <l>debo de ser el más necio;</l>
-            <l>pero ya llego. (¡Que crean</l>
+            <l>pero ya llego.<stage>[Aparte]</stage> (¡Que crean</l>
             <l>estos que tan simple soy!)</l>
             <l>¡Vive Cristo!, que ya estoy</l>
             <l>por cansarme, y porque vean...</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#uno">
             <speaker>UNO</speaker>
             <l>Dejad prolijas molestias.</l>
@@ -3191,12 +3195,12 @@
           </sp>
           <sp who="#dominga">
             <speaker>DOMINGA</speaker>
+            <stage>[Aparte]</stage>
             <l>(En mi vida he visto yo</l>
             <l>en este valle zagal</l>
             <l>más galán ni más erguido,</l>
             <l>más calletrudo y sabido.)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#don-garcia">
             <speaker>DON GARCÍA</speaker>
             <l>(¿Quién de ti creyera tal?)</l>
@@ -3209,7 +3213,7 @@
             <l>déjame, estrella importuna.)</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="11">
+        <div type="scene" resp="#rojas" n="12">
           <stage>[Salen Ramiro y Nuño.]</stage>
           <sp who="#ramiro">
             <speaker>RAMIRO</speaker>
@@ -3223,6 +3227,7 @@
           </sp>
           <sp who="#dominga">
             <speaker>DOMINGA</speaker>
+            <stage>Aparte</stage>
             <l>(¿Esta no es la que me dio,</l>
             <l>cuando en el monte la vi,</l>
             <l>su vestido y yo la di</l>
@@ -3233,17 +3238,16 @@
             <l>no se le pienso tornar.)</l>
             <l>Belardo, Sol está triste.</l>
           </sp>
-          <stage>Aparte</stage>
           <sp who="#belardo">
             <speaker>BELARDO</speaker>
             <l>Vámonos luego de aquí.</l>
           </sp>
           <sp who="#jaques">
             <speaker>JAQUES</speaker>
+            <stage>[Aparte]</stage>
             <l>(García me ha dicho a mí</l>
             <l>en lo cual su mal consiste.)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#belardo">
             <speaker>BELARDO</speaker>
             <l>Vámonos a la labor,</l>
@@ -3251,10 +3255,10 @@
           </sp>
           <sp who="#dona-elvira">
             <speaker>D. ELVIRA</speaker>
+            <stage>[Aparte]</stage>
             <l>(Mucho hace mi sufrimiento</l>
             <l>en no decirle mi amor.)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#jaques">
             <speaker>JAQUES</speaker>
             <l part="I">(¿No vienes tú?)</l>
@@ -3268,11 +3272,11 @@
           </sp>
           <sp who="#ramiro">
             <speaker>RAMIRO</speaker>
+            <stage>Aparte</stage>
             <l>(Allí está la que causó</l>
             <l>que yo a Galicia volviera,</l>
             <l>que si por ella no fuera...)</l>
           </sp>
-          <stage>Aparte</stage>
           <sp who="#don-vela">
             <speaker>DON VELA</speaker>
             <l>Ya don Ramiro llegó;</l>
@@ -3281,9 +3285,9 @@
           <sp who="#dona-sol">
             <speaker>DOÑA SOL</speaker>
             <l part="M">Nada</l>
-            <l part="F">¡ay de mí!).</l>
+            <stage>[Aparte]</stage>
+            <l part="F">(¡ay de mí!).</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#don-vela">
             <speaker>DON VELA</speaker>
             <l>Es la vergüenza forzosa.</l>
@@ -3294,9 +3298,9 @@
           </sp>
           <sp who="#ramiro">
             <speaker>RAMIRO</speaker>
+            <stage>[Aparte]</stage>
             <l part="F">(¿Qué veo?)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#don-vela">
             <speaker>DON VELA</speaker>
             <l>Ya su desengaño creo.</l>
@@ -3380,12 +3384,12 @@
           </sp>
           <sp who="#dona-elvira">
             <speaker>D. ELVIRA</speaker>
+            <stage>[Aparte]</stage>
             <l>(Con equívoco sentido</l>
             <l>habló mirándome a mí;</l>
             <l>sin duda que quiso así</l>
             <l>dárseme por entendido.)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#dona-sol">
             <speaker>DOÑA SOL</speaker>
             <l>No estáis en eso engañado,</l>
@@ -3399,24 +3403,24 @@
           </sp>
           <sp who="#don-garcia">
             <speaker>DON GARCÍA</speaker>
+            <stage>[Aparte]</stage>
             <l>(Sol, en su pasión, no puede</l>
             <l>reprimirse, loca y ciega,</l>
             <l>pues con el semblante niega</l>
             <l>lo que con la voz concede.)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#ramiro">
             <speaker>RAMIRO</speaker>
+            <stage>[Aparte]</stage>
             <l>(¡Dichoso mil veces yo,</l>
             <l>que así lo llega a entender!)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#dona-sol">
             <speaker>DOÑA SOL</speaker>
+            <stage>[Aparte]</stage>
             <l>(Ay necio, ¿no echas de ver</l>
             <l>que no lo digo por ti?)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <stage>Sale Dominga.</stage>
           <sp who="#dominga">
             <speaker>DOMINGA</speaker>
@@ -3424,7 +3428,7 @@
             <l part="I">entrad presto.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="12">
+        <div type="scene" resp="#rojas" n="13">
           <stage>Vase.</stage>
           <sp who="#dona-sol">
             <speaker>DOÑA SOL</speaker>
@@ -3435,13 +3439,13 @@
           <sp who="#dominga">
             <speaker>DOMINGA</speaker>
             <l>Pues ¿por qué así me has hablado?</l>
+            <stage>[Aparte]</stage>
             <l>(Ay, ¿no es este el caballero</l>
             <l>que Sol me llamó? ¿Qué espero?)</l>
             <l>Seáis, señor, bien llegado,</l>
             <l>que ya sentía la ausencia</l>
             <l>de vuestro pecho traidor.</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#don-vela">
             <speaker>DON VELA</speaker>
             <l part="I">¿Qué es eso?</l>
@@ -3513,13 +3517,13 @@
           </sp>
           <sp who="#dona-sol">
             <speaker>DOÑA SOL</speaker>
+            <stage>[Aparte]</stage>
             <l>(Llegó de mi vida ya</l>
             <l>el fin, y más si Fortuna</l>
             <l>se queda aquí con Aurora,</l>
             <l>cuando mi amor siente y llora</l>
             <l>sin esperanza ninguna.)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <stage>[Vanse don Vela, doña Sol, Dominga y Ramiro.]</stage>
           <sp who="#don-garcia">
             <speaker>DON GARCÍA</speaker>
@@ -3718,42 +3722,42 @@
           </sp>
           <sp who="#dona-elvira">
             <speaker>D. ELVIRA</speaker>
+            <stage>[Aparte]</stage>
             <l>(Veré así, si este es, señor,</l>
             <l>como lo presume en mí</l>
             <l>mi astrólogo corazón,</l>
             <l>porque hombre que supo amar</l>
             <l>sin duda noble nació.</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#don-garcia">
             <speaker>DON GARCÍA</speaker>
+            <stage>[Aparte]</stage>
             <l>(Así tengo de saber</l>
             <l>hoy si mi imaginación</l>
             <l part="I">miente.)</l>
           </sp>
-          <stage>Aparte</stage>
           <sp who="#dona-elvira">
             <speaker>D. ELVIRA</speaker>
+            <stage>[Aparte]</stage>
             <l part="F">(¡Oh si fueseis mi igual,</l>
             <l>cortesano labrador!)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#don-garcia">
             <speaker>DON GARCÍA</speaker>
+            <stage>[Aparte]</stage>
             <l>(¡Oh labradora fingida,</l>
             <l>si fuésedeis mi igual vos!)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#dona-elvira">
             <speaker>D. ELVIRA</speaker>
+            <stage>[Aparte]</stage>
             <l>(¿Hay tormento tan extraño?)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#don-garcia">
             <speaker>DON GARCÍA</speaker>
+            <stage>[Aparte]</stage>
             <l>(¿Hay tan rara confusión?)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#dona-elvira">
             <speaker>D. ELVIRA</speaker>
             <l>Fortuna, yo me despido.</l>
@@ -3993,11 +3997,11 @@
           </sp>
           <sp who="#dona-elvira">
             <speaker>D. ELVIRA</speaker>
+            <stage>[Aparte]</stage>
             <l>(¡Pluguiera a Dios no lo fuera!)</l>
             <l>Proseguid, que es bien que oiga</l>
             <l>mentira tan bien fingida.</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#don-garcia">
             <speaker>DON GARCÍA</speaker>
             <l>Donde las verdades sobran,</l>
@@ -4037,10 +4041,10 @@
           </sp>
           <sp who="#jaques">
             <speaker>JAQUES</speaker>
+            <stage>[Aparte]</stage>
             <l>(¡Plegue a Dios que diga Infanta</l>
             <l>de Manuela u de Polonia!)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#dona-elvira">
             <speaker>D. ELVIRA</speaker>
             <l>...la verdad no ha de encubrirse,...</l>
@@ -4055,10 +4059,10 @@
           </sp>
           <sp who="#jaques">
             <speaker>JAQUES</speaker>
+            <stage>[Aparte]</stage>
             <l>(¡Alto pica la señora:</l>
             <l>Reina dijo, por lo menos!)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#dona-elvira">
             <speaker>D. ELVIRA</speaker>
             <l>...y de Sancho, Rey de toda</l>
@@ -4254,6 +4258,7 @@
           </sp>
           <sp who="#don-garcia">
             <speaker>DON GARCÍA</speaker>
+            <stage>Aparte</stage>
             <l part="F">(Pues llegar quiero</l>
             <l>con la industria que primero;</l>
             <l>porque tengo de seguir</l>
@@ -4267,6 +4272,7 @@
           </sp>
           <sp who="#dona-sol">
             <speaker>DOÑA SOL</speaker>
+            <stage>Aparte</stage>
             <l>(Ay, ¡cielos!, ¿quién puede ser</l>
             <l>a quien habla desta suerte</l>
             <l>Fortuna? ¿Altezas, aquí?</l>
@@ -4275,7 +4281,6 @@
             <l>mi temor, el preguntaros</l>
             <l part="I">quién sois.</l>
           </sp>
-          <stage>Aparte</stage>
           <sp who="#don-garcia">
             <speaker>DON GARCÍA</speaker>
             <l part="F">Pues, ¿ya os olvidáis,</l>
@@ -4284,10 +4289,10 @@
           </sp>
           <sp who="#dona-sol">
             <speaker>DOÑA SOL</speaker>
+            <stage>[Aparte]</stage>
             <l>(Elvira dijo) ¿Y quién es</l>
             <l part="I">quien os acompaña?</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#don-garcia">
             <speaker>DON GARCÍA</speaker>
             <l part="F">El brío</l>
@@ -4790,9 +4795,9 @@
           </sp>
           <sp who="#ramiro">
             <speaker>RAMIRO</speaker>
+            <stage>[Aparte]</stage>
             <l>(¿Hay hombre más venturoso?)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#dona-elvira">
             <speaker>D. ELVIRA</speaker>
             <l>Ella, señor, viene allí.</l>
@@ -5005,6 +5010,7 @@
           </sp>
           <sp who="#dona-elvira">
             <speaker>D. ELVIRA</speaker>
+            <stage>Aparte</stage>
             <l part="F">(¡Válganme los cielos,</l>
             <l>ya mi industria acabó aquí!</l>
             <l>Habiendo quien me conozca,</l>
@@ -5022,7 +5028,6 @@
             <l>a Sol, y para más prueba</l>
             <l>todos mi suceso oíd.</l>
           </sp>
-          <stage>Aparte</stage>
           <sp who="#dona-sol">
             <speaker>DOÑA SOL</speaker>
             <l>¿Qué dirás, señor, ahora?</l>
@@ -5046,12 +5051,12 @@
           </sp>
           <sp who="#jaques">
             <speaker>JAQUES</speaker>
+            <stage>[Aparte]</stage>
             <l>(¡Qué fuera, burla burlando,</l>
             <l>que esta viniese a salir</l>
             <l>con ser una Infanta hongo</l>
             <l>hecha de la tierra aquí!)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#dona-elvira">
             <speaker>D. ELVIRA</speaker>
             <l>Hija del Magno Fernando,</l>
@@ -5182,14 +5187,15 @@
           </sp>
           <sp who="#dona-elvira">
             <speaker>D. ELVIRA</speaker>
+            <stage>[Aparte]</stage>
             <l>(¿Si fuese verdad aquí</l>
             <l>lo que Fortuna fingió,</l>
             <l>y él con la misma que yo</l>
             <l>me hubiese engañado a mí?)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#don-vela">
             <speaker>DON VELA</speaker>
+            <stage>Aparte</stage>
             <l>(¡Oh, si este villano ahora</l>
             <l>ingenio también tuviese,</l>
             <l>y otra mentira fingiese</l>
@@ -5203,15 +5209,14 @@
             <l>(Mengo, ven con lo que digo,</l>
             <l>que un vestido te prometo.)</l>
           </sp>
-          <stage>Aparte</stage>
           <sp who="#jaques">
             <speaker>JAQUES</speaker>
+            <stage>[Aparte]</stage>
             <l>(Si yo digo que es verdad</l>
             <l>antes que García venga,</l>
             <l>podrá ser que enojo tenga</l>
             <l>de ver mi facilidad.)</l>
           </sp>
-          <stage>[Aparte]</stage>
           <sp who="#ramiro">
             <speaker>RAMIRO</speaker>
             <l>(Di, Mengo, que un caballero</l>
@@ -5337,6 +5342,7 @@
           </sp>
           <sp who="#don-vela">
             <speaker>DON VELA</speaker>
+            <stage>Aparte</stage>
             <l>(¿No veis que yo he mandado</l>
             <l part="I">que esto se finja así?)</l>
           </sp>
@@ -5513,7 +5519,7 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="16">
-          <stage>Sale doña Sol.</stage>
+          <stage>Sale [doña] Sol.</stage>
           <sp who="#dona-elvira">
             <speaker>D. ELVIRA</speaker>
             <l>¿Qué extremos son los qué miro?</l>
