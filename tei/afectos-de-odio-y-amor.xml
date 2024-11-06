@@ -1882,7 +1882,7 @@
           </sp>
           <sp who="#turín">
             <speaker>TURÍN</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>¿No fuera bueno ponerme</l>
             <l n="1150">yo ahora a su lado, diciendo:</l>
             <l>«Huye, mientras yo te amparo»?</l>
@@ -1929,7 +1929,7 @@
             <l part="F">Aún no ha muerto,</l>
             <l>que con más vidas que un gato</l>
             <l n="1170">está vivo como un perro.</l>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>Calle quién es, y quién soy.</l>
           </sp>
           <sp who="#cristerna">
@@ -2564,8 +2564,8 @@
             <l>osó entrar aquí, me ha dicho</l>
             <l>dos novedades que os tocan,</l>
             <l>y habiéndolas yo sabido</l>
-            <stage>Aparte.</stage>
-            <l n="315">Hagamos del ladrón fiel,</l>
+            <stage>[Aparte.]</stage>
+            <l n="315">(Hagamos del ladrón fiel,</l>
             <l>pues saberlo ella es preciso,</l>
             <l>día más a menos), fuera</l>
             <l>ignorarlas vós delito;</l>
@@ -2616,8 +2616,8 @@
           </sp>
           <sp who="#sigismundo">
             <speaker>SIGISMUNDO</speaker>
-            <stage>Aparte.</stage>
-            <l n="345">¿Aquí estaba este soldado?</l>
+            <stage>[Aparte.]</stage>
+            <l n="345">(¿Aquí estaba este soldado?</l>
             <l>Con tanto rencor le miro</l>
             <l>como causa de mis penas,</l>
             <l>que haré, si lo finjo, mucho.)</l>
@@ -3041,6 +3041,8 @@
             <l>que la hora no ve la saña mía</l>
             <l n="580">de que me vuelvas a traer el día!</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="8">
           <stage>Canta dentro un SOLDADO.</stage>
           <sp who="#soldado-1">
             <speaker>SOLDADO</speaker>
@@ -3055,7 +3057,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="8">
+        <div type="scene" resp="#rojas" n="9">
           <stage>Sale.</stage>
           <sp who="#arnesto">
             <speaker>ARNESTO</speaker>
@@ -3097,7 +3099,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="9">
+        <div type="scene" resp="#rojas" n="10">
           <stage>Vase.</stage>
           <sp who="#auristela">
             <speaker>AURISTELA</speaker>
@@ -3112,9 +3114,8 @@
             <l>que en Suevia Sigismundo</l>
             <l part="I">prisionero está.</l>
           </sp>
-          <stage>Músicos y ella.</stage>
           <sp who="#auristela #soldado-2 #soldado-3 #flora #nise #lesbia">
-            <speaker>[VOCES]</speaker>
+            <speaker>Músicos y ella.</speaker>
             <l part="F">Mas ¿quién</l>
             <l n="615">pudo blasonar de amante,</l>
             <l>que prisionero no esté?</l>
@@ -3126,9 +3127,8 @@
             <l>dulcemente se consuela,</l>
             <l n="620">diciendo una y otra vez:</l>
           </sp>
-          <stage>Toda la música.</stage>
           <sp who="#soldado-2 #soldado-3 #flora #nise #lesbia">
-            <speaker>[VOCES]</speaker>
+            <speaker>Toda la música.</speaker>
             <l>Prisionero me tiene</l>
             <l>por un buen querer.</l>
           </sp>
@@ -3137,9 +3137,8 @@
             <l>Y responden todos, envidiosos dél:</l>
             <l>«Si el querer es delito...»</l>
           </sp>
-          <stage>Músicos todos.</stage>
           <sp who="#soldado-2 #soldado-3 #flora #nise #lesbia">
-            <speaker>[VOCES]</speaker>
+            <speaker>Músicos todos.</speaker>
             <l n="625">... préndanme también.</l>
           </sp>
           <sp who="#auristela">
@@ -3149,14 +3148,13 @@
             <l>a las fantasmas del sueño,</l>
             <l>que ya en mi triunfar se ve.</l>
           </sp>
-          <stage>Músicos y ella.</stage>
           <sp who="#auristela #soldado-2 #soldado-3 #flora #nise #lesbia">
-            <speaker>[VOCES]</speaker>
+            <speaker>Músicos y ella.</speaker>
             <l n="630">Si el querer es delito,</l>
             <l>préndanme también.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="10">
+        <div type="scene" resp="#rojas" n="11">
           <stage>Salen CASIMIRO, con una banda en el rostro, soldados y ROBERTO.</stage>
           <sp who="#roberto">
             <speaker>ROBERTO</speaker>
@@ -3205,7 +3203,7 @@
             <l>pues que durmiendo está allí.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="11">
+        <div type="scene" resp="#rojas" n="12">
           <stage>Vanse los soldados.</stage>
           <sp who="#casimiro">
             <speaker>CASIMIRO</speaker>
@@ -3268,7 +3266,7 @@
             <l part="I">¡Ay de mí!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="12">
+        <div type="scene" resp="#rojas" n="13">
           <stage>Salen los soldados, y llévanla vendada, y sale ARNESTO.</stage>
           <sp who="#casimiro">
             <speaker>CASIMIRO</speaker>
@@ -3310,7 +3308,7 @@
             <l part="I">¡Traición, traición!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="13">
+        <div type="scene" resp="#rojas" n="14">
           <stage>La caja, y sale ARNESTO.</stage>
           <sp who="#auristela #casimiro #roberto #soldado-1 #soldado-2 #soldado-3">
             <speaker>TODOS</speaker>
@@ -3446,7 +3444,7 @@
             <l part="F">¡A la sierra!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="14">
+        <div type="scene" resp="#rojas" n="15">
           <stage>Sale un SOLDADO.</stage>
           <sp who="#soldado-1">
             <speaker>SOLDADO</speaker>
@@ -3460,7 +3458,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="15">
+        <div type="scene" resp="#rojas" n="16">
           <stage>Vase.</stage>
           <sp who="#casimiro">
             <speaker>CASIMIRO</speaker>
@@ -3541,7 +3539,7 @@
             <l part="I">duquesa de Rusia.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="16">
+        <div type="scene" resp="#rojas" n="17">
           <stage>Sale SOLDADO.</stage>
           <sp who="#soldado-1">
             <speaker>[SOLDADO]</speaker>
@@ -3598,7 +3596,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="17">
+        <div type="scene" resp="#rojas" n="18">
           <stage>Vase.</stage>
           <sp who="#casimiro">
             <speaker>CASIMIRO</speaker>
@@ -3608,7 +3606,7 @@
             <l n="815">y en que hable su venganza?</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="18">
+        <div type="scene" resp="#rojas" n="19">
           <stage>Salen CRISTERNA y LESBIA.</stage>
           <sp who="#lesbia">
             <speaker>LESBIA</speaker>
@@ -3673,7 +3671,7 @@
             <l>ser, que averigüemos algo.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="19">
+        <div type="scene" resp="#rojas" n="20">
           <stage>Sale TURÍN.</stage>
           <sp who="#turín">
             <speaker>TURÍN</speaker>
@@ -3767,7 +3765,7 @@
             <l>filigrana de hombre bajo.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="20">
+        <div type="scene" resp="#rojas" n="21">
           <stage>Sale SIGISMUNDO.</stage>
           <sp who="#cristerna">
             <speaker>CRISTERNA</speaker>
@@ -3830,7 +3828,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="21">
+        <div type="scene" resp="#rojas" n="22">
           <stage>Vase.</stage>
           <sp who="#lesbia">
             <speaker>LESBIA</speaker>
@@ -3872,7 +3870,7 @@
             <l part="I">quizá son suyas.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="22">
+        <div type="scene" resp="#rojas" n="23">
           <stage>Sale CASIMIRO.</stage>
           <sp who="#casimiro">
             <speaker>CASIMIRO</speaker>
@@ -3954,8 +3952,8 @@
             <l>Donde, aunque seáis prisionera,</l>
             <l n="995">seáis tan dueño de mi estado,</l>
             <l>como de mi vida dueño.</l>
-            <stage>Aparte.</stage>
-            <l>¿Cómo desta suerte hablo</l>
+            <stage>[Aparte.]</stage>
+            <l>(¿Cómo desta suerte hablo</l>
             <l>a sangre de mi enemigo?)</l>
             <l>Mas una cosa es mi agravio</l>
             <l part="I">y otra mi vanidad.</l>
@@ -3972,12 +3970,12 @@
             <speaker>CRISTERNA</speaker>
             <l part="F">¿Qué hacéis? Levantaos</l>
             <l>y pensad que en mí tenéis</l>
-            <stage>Aparte.</stage>
-            <l n="1005">el pecho me está temblando</l>
+            <stage>[Aparte.]</stage>
+            <l n="1005">(el pecho me está temblando</l>
             <l>de cólera), no prisión,</l>
             <l part="I">sino albergue.</l>
-            <stage>Aparte.</stage>
-            <l part="F">En el contacto</l>
+            <stage>[Aparte.]</stage>
+            <l part="F">(En el contacto</l>
             <l>que comunica a mi pecho</l>
             <l>la vil sangre de su hermano.)</l>
           </sp>
@@ -4093,7 +4091,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="23">
+        <div type="scene" resp="#rojas" n="24">
           <stage>Vase.</stage>
           <sp who="#lesbia">
             <speaker>LESBIA</speaker>
@@ -4103,7 +4101,7 @@
             <l part="I">y yo?</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="24">
+        <div type="scene" resp="#rojas" n="25">
           <stage>Sale SIGISMUNDO.</stage>
           <sp who="#sigismundo">
             <speaker>SIGISMUNDO</speaker>
@@ -4111,8 +4109,8 @@
             <l>sin saber qué novedad</l>
             <l>tocó ese clarín, he estado</l>
             <l>solo atento, Lesbia hermosa</l>
-            <stage>Aparte.</stage>
-            <l>¿Qué he de hacer? Alma, finjamos,</l>
+            <stage>[Aparte.]</stage>
+            <l>(¿Qué he de hacer? Alma, finjamos,</l>
             <l n="1070">por ver si lo que por ella</l>
             <l>pierdo, por ella lo gano,</l>
             <l>y huyendo de aquí pudiese</l>
@@ -4134,7 +4132,7 @@
             <l part="I">ni pena, si es pena.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="25">
+        <div type="scene" resp="#rojas" n="26">
           <stage>Sale AURISTELA.</stage>
           <sp who="#auristela">
             <speaker>AURISTELA</speaker>
@@ -4194,7 +4192,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="26">
+        <div type="scene" resp="#rojas" n="27">
           <stage>Vase.</stage>
           <sp who="#sigismundo">
             <speaker>SIGISMUNDO</speaker>
@@ -4204,7 +4202,7 @@
             <l part="I">huyes?</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="27">
+        <div type="scene" resp="#rojas" n="28">
           <stage>Al ir tras ella, sale AURISTELA.</stage>
           <sp who="#auristela">
             <speaker>AURISTELA</speaker>
@@ -4283,7 +4281,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="28">
+        <div type="scene" resp="#rojas" n="29">
           <stage>Vase.</stage>
           <sp who="#auristela">
             <speaker>AURISTELA</speaker>
@@ -4293,7 +4291,7 @@
             <l>creyera a su sobresalto.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="29">
+        <div type="scene" resp="#rojas" n="30">
           <stage>Salen CASIMIRO y TURÍN.</stage>
           <sp who="#casimiro">
             <speaker>CASIMIRO</speaker>
@@ -4330,7 +4328,7 @@
             <l>Esperaré a que se vaya.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="30">
+        <div type="scene" resp="#rojas" n="31">
           <stage>Escóndese a una parte, y sale por la otra CRISTERNA.</stage>
           <sp who="#cristerna">
             <speaker>CRISTERNA</speaker>
@@ -4462,7 +4460,7 @@
             <l part="I">la planta.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="31">
+        <div type="scene" resp="#rojas" n="32">
           <stage>Al entrarse cada uno por su puerta, topa AURISTELA con SIGISMUNDO, y CASIMIRO con CRISTERNA.</stage>
           <sp who="#cristerna">
             <speaker>CRISTERNA</speaker>
@@ -4487,8 +4485,8 @@
           <sp who="#cristerna">
             <speaker>CRISTERNA</speaker>
             <l part="F">Quien...</l>
-            <stage>Aparte.</stage>
-            <l>Disimule mi recato.)</l>
+            <stage>[Aparte.]</stage>
+            <l>(Disimule mi recato.)</l>
             <l>... ha oído que un cargo os hace,</l>
             <l n="1235">quien antes os dio otro cargo.</l>
           </sp>
@@ -4553,7 +4551,7 @@
             <l>si con afectos contrarios</l>
             <l>perdonaré el proprio gusto</l>
             <l>a costa del proprio daño.</l>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>Corazón, disimulemos.</l>
           </sp>
           <sp who="#cristerna">
@@ -4570,7 +4568,7 @@
           </sp>
           <sp who="#turín">
             <speaker>TURÍN</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>Viendo hablar a cada uno</l>
             <l>entre sí, yo también hablo</l>
             <l n="1260">entre mí. ¿Pero qué es esto?</l>
@@ -4582,7 +4580,7 @@
             <l part="I">a esas puertas?</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="32">
+        <div type="scene" resp="#rojas" n="33">
           <stage>Sale FEDERICO, y con él un paje armado con una rodela, y en ella un cartel, y el otro en la mano.</stage>
           <sp who="#federico">
             <speaker>FEDERICO</speaker>
@@ -4639,7 +4637,7 @@
             <l n="1305">a las puertas de palacio.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="33">
+        <div type="scene" resp="#rojas" n="34">
           <stage>Tocan y vanse, dejándola un papel.</stage>
           <sp who="#casimiro">
             <speaker>CASIMIRO</speaker>
@@ -4654,7 +4652,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="34">
+        <div type="scene" resp="#rojas" n="35">
           <stage>Vase.</stage>
           <sp who="#auristela">
             <speaker>AURISTELA</speaker>
@@ -4666,7 +4664,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="35">
+        <div type="scene" resp="#rojas" n="36">
           <stage>Vase.</stage>
           <sp who="#sigismundo">
             <speaker>SIGISMUNDO</speaker>
@@ -4677,7 +4675,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="36">
+        <div type="scene" resp="#rojas" n="37">
           <stage>Vase.</stage>
           <sp who="#cristerna">
             <speaker>CRISTERNA</speaker>
@@ -5751,11 +5749,10 @@
             <l n="510">le decid. Mal me reprimo,</l>
             <l>pues cuando huye lo que estimo,</l>
             <l>se acerca lo que aborrezco.</l>
-
+          <stage>Vase.</stage>
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="19">
-          <stage>Vase.</stage>
           <stage>Salen por una parte FEDERICO y por otra SIGISMUNDO.</stage>
           <sp who="#federico">
             <speaker>FEDERICO</speaker>
@@ -5931,7 +5928,7 @@
           <stage>Sale AURISTELA.</stage>
           <sp who="#auristela">
             <speaker>AURISTELA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>Que estaba el embajador</l>
             <l>aquí de mi hermano he oído,</l>
             <l>y a hablarle y saber quién fue</l>
@@ -5949,13 +5946,13 @@
           </sp>
           <sp who="#auristela">
             <speaker>AURISTELA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F">¿Yo testigo,</l>
             <l>aunque sea parte y juez?</l>
           </sp>
           <sp who="#lesbia">
             <speaker>LESBIA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>Pues hubo otra vez de estar</l>
             <l>tan a mano mi pesar,</l>
             <l n="620">huya su vista otra vez.</l>
@@ -6156,12 +6153,12 @@
           <stage>Las chirimías, cajas y clarines, y por una parte CRISTERNA, damas y FEDERICO. Por otra, CASIMIRO, ARNESTO y acompañamiento.</stage>
           <sp who="#cristerna">
             <speaker>CRISTERNA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>En fin, Fortuna, has rodeado...</l>
           </sp>
           <sp who="#casimiro">
             <speaker>CASIMIRO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>En fin, Fortuna, has sabido...</l>
           </sp>
           <sp who="#cristerna">
@@ -6171,43 +6168,43 @@
           </sp>
           <sp who="#casimiro">
             <speaker>CASIMIRO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>... hacer que la que he adorado...</l>
           </sp>
           <sp who="#cristerna">
             <speaker>CRISTERNA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>... haya a mi vista llegado.</l>
           </sp>
           <sp who="#casimiro">
             <speaker>CASIMIRO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>... haya de saber quién soy.</l>
           </sp>
           <sp who="#cristerna">
             <speaker>CRISTERNA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="I">Muerta llego.</l>
           </sp>
           <sp who="#casimiro">
             <speaker>CASIMIRO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F">Ciego voy.</l>
           </sp>
           <sp who="#cristerna">
             <speaker>CRISTERNA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="I">¡Qué temores!</l>
           </sp>
           <sp who="#casimiro">
             <speaker>CASIMIRO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="700" part="F">¡Qué recelos!</l>
             <l part="I">Humilde a vuestros pies...</l>
           </sp>
           <sp who="#cristerna">
             <speaker>CRISTERNA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F">¡Cielos!,</l>
             <l>¿qué es lo que mirando estoy?</l>
           </sp>
@@ -6218,17 +6215,17 @@
           </sp>
           <sp who="#cristerna">
             <speaker>CRISTERNA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="705">Otra y mil veces me admiro.</l>
           </sp>
           <sp who="#federico">
             <speaker>FEDERICO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>¿No es el soldado el que veo?</l>
           </sp>
           <sp who="#sigismundo">
             <speaker>SIGISMUNDO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>Mis venturas dudo y creo.</l>
           </sp>
           <sp who="#auristela">
