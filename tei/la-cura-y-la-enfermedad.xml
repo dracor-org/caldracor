@@ -1080,7 +1080,7 @@
           </sp>
           <sp who="#sombra">
             <speaker>SOMBRA</speaker>
-            <stage>Ap</stage>
+            <stage>Aparte.</stage>
             <l>(Yo te haré presto malicia.)</l>
           </sp>
           <sp who="#inociencia">
@@ -2691,7 +2691,7 @@
           <stage>Retírase.</stage>
           <sp who="#culpa">
             <speaker>CULPA</speaker>
-            <stage>Ap</stage>
+            <stage>Aparte.</stage>
             <l>Buena ignorancia es pensar</l>
             <l n="1240">que no están tocados ellos</l>
             <l>de su mismo mal; mas uno</l>
@@ -3460,7 +3460,7 @@
           </sp>
           <sp who="#lucero">
             <speaker>LUCERO</speaker>
-            <stage>Ap.</stage>
+            <stage>Aparte.</stage>
             <l part="F">(Tiemblo al mirarle.)</l>
             <l>Compadecido de que</l>
             <l n="1610">padezcas ajenos males,</l>
