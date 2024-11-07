@@ -408,7 +408,6 @@
           </sp>
           <sp who="#lisardo">
             <speaker rend="caps">Lisardo</speaker>
-            <stage type="withText"> </stage>
 
 
             <l>Hernando,</l>
@@ -981,7 +980,7 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="6">
-          <stage>(Vase con HERNANDO.)</stage>
+          <stage>(Vase [con HERNANDO].)</stage>
           <sp who="#don-félix">
             <speaker rend="caps">Don Félix</speaker>
             <stage type="withText"> [Aparte] </stage>
@@ -991,7 +990,7 @@
             <l>de la ventura que gano,</l>
             <l>poco su decoro ofendo,</l>
             <l>poco su respeto agravio.</l>
-            <stage>(Vase con MENDOZA.)</stage>
+            <stage>(Vase [con MENDOZA].)</stage>
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="7">
@@ -1015,7 +1014,6 @@
           </sp>
           <sp who="#laura">
             <speaker rend="caps">Laura</speaker>
-            <stage type="withText"> </stage>
 
 
             <l>Pues, ¿qué he de hacer</l>
@@ -1235,9 +1233,11 @@
             <l>flores a la Primavera,</l>
             <l>aceté la comisión.</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="11">
+          <stage>Sale Don Íñigo.</stage>
           <sp who="#don-íñigo">
             <speaker rend="caps">Don Íñigo</speaker>
-            <stage type="withText">[Dentro.] </stage>
 
 
             <l>Esperadme, Fabio, aquí.</l>
@@ -1276,9 +1276,6 @@
             <l>como el mismo disparate</l>
             <l>de hacerle entrar...</l>
           </sp>
-        </div>
-        <div type="scene" resp="#rojas" n="11">
-          <stage>(Sale DON ÍÑIGO.)</stage>
           <sp who="#don-íñigo">
             <speaker rend="caps">Don Íñigo</speaker>
 
@@ -1330,7 +1327,6 @@
             <stage type="withText">[A su hija.] </stage>
 
 
-            <l/>
             <l>¿No podía</l>
             <l>más afuera esperar?</l>
           </sp>
@@ -1390,6 +1386,8 @@
             <l>No en vano por ti me muero.</l>
             <stage>(Vase.)</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="12">
           <sp who="#beatriz">
             <speaker rend="caps">Beatriz</speaker>
             <stage type="withText">[Aparte.]</stage>
@@ -1401,7 +1399,7 @@
           </sp>
           <sp who="#laura">
             <speaker rend="caps">Laura</speaker>
-            <stage type="withText">[Aparte.]</stage>
+            <stage type="withText">(Aparte.)</stage>
 
 
             <l>De estraño susto salí.</l>
@@ -1456,8 +1454,8 @@
             <l>amigo y a quien debí</l>
             <l>la vida y honor también</l>
             <l>en ciertas adversidades.</l>
-            <stage>([Aparte.]</stage>
-            <l>De que el silencio sea juez,</l>
+            <stage>[Aparte.]</stage>
+            <l>(De que el silencio sea juez,</l>
             <l>que se corre la vejez</l>
             <l>de escuchar sus mocedades.)</l>
             <l>Pídeme que busque aquí</l>
@@ -1490,7 +1488,7 @@
             <l>presto escribiré.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="12">
+        <div type="scene" resp="#rojas" n="13">
           <stage>(Vase.)</stage>
           <sp who="#laura">
             <speaker rend="caps">Laura</speaker>
@@ -1611,7 +1609,7 @@
             <stage>(Vanse.)</stage>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="13">
+        <div type="scene" resp="#rojas" n="14">
           <stage>(Salen LISARDO y HERNANDO.)</stage>
           <sp who="#lisardo">
             <speaker rend="caps">Lisardo</speaker>
@@ -1723,7 +1721,7 @@
             <l>Bien reparas.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="14">
+        <div type="scene" resp="#rojas" n="15">
           <stage>(Sale BEATRIZ.)</stage>
           <sp who="#beatriz">
             <speaker rend="caps">Beatriz</speaker>
@@ -1771,7 +1769,7 @@
             <l>sin conocerla.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="15">
+        <div type="scene" resp="#rojas" n="16">
           <stage>[BEATRIZ se entra en su casa.]</stage>
           <sp who="#hernando">
             <speaker rend="caps">Hernando</speaker>
@@ -1794,7 +1792,7 @@
             <l>y es fuerza llegar a hablarla.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="16">
+        <div type="scene" resp="#rojas" n="17">
           <stage>(Salen DOÑA CLARA y LEONOR con mantos, y DOÑA CLARA trae puesta la banda.)</stage>
           <sp who="#leonor">
             <speaker rend="caps">Leonor</speaker>
@@ -1822,7 +1820,7 @@
             <l>salís, mal podré, señora,</l>
             <l>pensar que disculpa haya</l>
             <l>de no iros sirviendo.</l>
-            <stage>[Aparte.]</stage>
+            <stage>(Aparte.)</stage>
             <l>¡Cielos!</l>
             <l>¿Qué miro? ¿Esta no es la banda</l>
             <l>que envió don Félix?</l>
@@ -1837,7 +1835,7 @@
           </sp>
           <sp who="#lisardo">
             <speaker rend="caps">Lisardo</speaker>
-            <stage type="withText">[Aparte.]</stage>
+            <stage type="withText">(Aparte.)</stage>
 
 
             <l>Sí, ella es,</l>
@@ -1846,7 +1844,6 @@
           </sp>
           <sp who="#clara">
             <speaker rend="caps">Clara</speaker>
-            <stage type="withText"> </stage>
 
 
             <l>Mas mirad</l>
@@ -2000,7 +1997,7 @@
             <l>aunque todas somos damas.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="17">
+        <div type="scene" resp="#rojas" n="18">
           <stage>(Vanse DOÑA CLARA y LEONOR.)</stage>
           <sp who="#hernando">
             <speaker rend="caps">Hernando</speaker>
@@ -2069,7 +2066,6 @@
           </sp>
           <sp who="#hernando">
             <speaker rend="caps">Hernando</speaker>
-            <stage type="withText"> </stage>
 
 
             <l>Pudo, pero muy estrañas</l>
@@ -2089,7 +2085,7 @@
             <l>Dejarla.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="18">
+        <div type="scene" resp="#rojas" n="19">
           <stage>(Salen DON FÉLIX y MENDOZA.)</stage>
           <sp who="#don-félix">
             <speaker rend="caps">Don Félix</speaker>
@@ -2148,7 +2144,6 @@
           </sp>
           <sp who="#don-félix">
             <speaker rend="caps">Don Félix</speaker>
-            <stage type="withText"> </stage>
 
 
             <l>Pues, ¿qué os turba?, ¿qué os espanta?,</l>
@@ -2156,7 +2151,6 @@
           </sp>
           <sp who="#lisardo">
             <speaker rend="caps">Lisardo</speaker>
-            <stage type="withText"> </stage>
 
 
             <l>Hoy me dijisteis</l>
@@ -2217,7 +2211,7 @@
             <l>de Madrid, y en todo miente.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="19">
+        <div type="scene" resp="#rojas" n="20">
           <stage>(Sale DON ÍÑIGO.)</stage>
           <sp who="#don-íñigo">
             <speaker rend="caps">Don Íñigo</speaker>
@@ -2228,7 +2222,7 @@
             <l>a este don Félix la carta.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="20">
+        <div type="scene" resp="#rojas" n="21">
           <stage>(Vase.)</stage>
           <sp who="#don-félix">
             <speaker rend="caps">Don Félix</speaker>
@@ -2331,7 +2325,7 @@
             <stage>(Vanse.)</stage>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="21">
+        <div type="scene" resp="#rojas" n="22">
           <stage>(Salen LAURA, con la banda puesta, DOÑA CLARA, BEATRIZ y LEONOR.)</stage>
           <sp who="#laura">
             <speaker rend="caps">Laura</speaker>
@@ -2385,7 +2379,7 @@
             <l>Aguarda,</l>
             <l>que mejor es que yo entre</l>
             <l>a escribir.</l>
-            <stage>[Aparte.]</stage>
+            <stage>(Aparte.)</stage>
             <l>En fin, tirana</l>
             <l>pasión, ¿te sales con todo?</l>
             <l>Veré si el pecho descansa</l>
@@ -2393,7 +2387,7 @@
             <l>lo mismo que de palabra.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="22">
+        <div type="scene" resp="#rojas" n="23">
           <stage>(Vanse.)</stage>
           <sp who="#laura">
             <speaker rend="caps">Laura</speaker>
@@ -2404,15 +2398,14 @@
           </sp>
           <sp who="#leonor">
             <speaker rend="caps">Leonor</speaker>
-            <stage type="withText"> </stage>
 
 
             <l>No sé qué tiene mi ama.</l>
             <l>Voy a ver si manda algo.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="23">
-          <stage>[Vase.]</stage>
+        <div type="scene" resp="#rojas" n="24">
+          <stage>(Vase.)</stage>
           <sp who="#beatriz">
             <speaker rend="caps">Beatriz</speaker>
 
@@ -2421,7 +2414,7 @@
             <l>se ha entrado.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="24">
+        <div type="scene" resp="#rojas" n="25">
           <stage>(Sale DON FÉLIX.)</stage>
           <sp who="#laura">
             <speaker rend="caps">Laura</speaker>
@@ -2432,7 +2425,7 @@
             <l>que a estas horas...?</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="25">
+        <div type="scene" resp="#rojas" n="26">
           <stage>[Vase BEATRIZ.]</stage>
           <sp who="#don-félix">
             <speaker rend="caps">Don Félix</speaker>
@@ -2584,7 +2577,7 @@
             <l>de tan grande laberinto.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="26">
+        <div type="scene" resp="#rojas" n="27">
           <stage>(Vase DON FÉLIX, y salen DOÑA CLARA y LEONOR.)</stage>
           <sp who="#clara">
             <speaker rend="caps">Clara</speaker>
@@ -2610,7 +2603,7 @@
             <l>pues ya no puedo escusarlo.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="27">
+        <div type="scene" resp="#rojas" n="28">
           <stage>(Salen DON FÉLIX y LISARDO.)</stage>
           <sp who="#don-félix">
             <speaker rend="caps">Don Félix</speaker>
@@ -2696,8 +2689,8 @@
             <l>el...</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="28">
-          <stage>[Salen LEONOR y BEATRIZ.]</stage>
+        <div type="scene" resp="#rojas" n="29">
+          <stage>(Salen LEONOR [y BEATRIZ].)</stage>
           <sp who="#leonor">
             <speaker rend="caps">Leonor</speaker>
 
@@ -2712,7 +2705,6 @@
           </sp>
           <sp who="#leonor">
             <speaker rend="caps">Leonor</speaker>
-            <stage type="withText"> </stage>
 
 
             <l>Que en casa</l>
@@ -2743,7 +2735,6 @@
           </sp>
           <sp who="#clara">
             <speaker rend="caps">Clara</speaker>
-            <stage type="withText"> </stage>
 
 
             <l>Yo estoy muerta.</l>
@@ -2756,7 +2747,6 @@
           </sp>
           <sp who="#beatriz">
             <speaker rend="caps">Beatriz</speaker>
-            <stage type="withText"> </stage>
 
 
             <l>Pues ni te turbes, ni mueras,</l>
@@ -3340,10 +3330,10 @@
           </sp>
           <sp who="#lisardo">
             <speaker rend="caps">Lisardo</speaker>
-            <stage type="withText">([Aparte.]</stage>
+            <stage type="withText">[Aparte.]</stage>
 
 
-            <l>Que le he conocido habré</l>
+            <l>(Que le he conocido habré</l>
             <l>de disimular por fuerza.)</l>
             <l>Caballero, ¿qué mandáis?</l>
           </sp>
@@ -3367,14 +3357,14 @@
           </sp>
           <sp who="#lisardo">
             <speaker rend="caps">Lisardo</speaker>
-            <stage type="withText">[Aparte.]</stage>
+            <stage type="withText">(Aparte.)</stage>
 
 
             <l>No fue vana mi sospecha.</l>
           </sp>
           <sp who="#hernando">
             <speaker rend="caps">Hernando</speaker>
-            <stage type="withText">[Aparte.]</stage>
+            <stage type="withText">(Aparte.)</stage>
 
 
             <l>De todo viene informado.</l>
@@ -3535,10 +3525,10 @@
           </sp>
           <sp who="#lisardo">
             <speaker rend="caps">Lisardo</speaker>
-            <stage type="withText">([Aparte.]</stage>
+            <stage type="withText">[Aparte.]</stage>
 
 
-            <l>Fuerza es leerla,</l>
+            <l>(Fuerza es leerla,</l>
             <l>ya empeñado en que soy Félix.)</l>
             <l>Leo, pues me dais licencia.</l>
             <stage> (Lee.) </stage>
@@ -3733,7 +3723,6 @@
           </sp>
           <sp who="#don-íñigo">
             <speaker rend="caps">Don Íñigo</speaker>
-            <stage type="withText"> </stage>
 
 
             <l>Con todo eso, es gran descuido</l>
@@ -3810,6 +3799,8 @@
             <l>De su padre es un retrato.</l>
             <stage>(Vase.)</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="5">
           <sp who="#don-félix">
             <speaker rend="caps">Don Félix</speaker>
 
@@ -3941,11 +3932,10 @@
             <l>Cuando lo sea,</l>
             <l>¿qué importa si es cierto que</l>
             <l>no quiere el que no se arriesga?</l>
-            <stage>(Vanse.)</stage>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="5">
-          <stage>(Salen DOÑA CLARA y DON ANTONIO.)</stage>
+        <div type="scene" resp="#rojas" n="6">
+          <stage>(Vanse y sale[n] DOÑA CLARA y DON ANTONIO.)</stage>
           <sp who="#don-antonio">
             <speaker rend="caps">Don Antonio</speaker>
 
@@ -4165,7 +4155,7 @@
             <l>de tanto amar y sentir.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="6">
+        <div type="scene" resp="#rojas" n="7">
           <stage>(Vase.)</stage>
           <sp who="#clara">
             <speaker rend="caps">Clara</speaker>
@@ -4197,7 +4187,7 @@
             <l>voluntarioso a sus celos.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="7">
+        <div type="scene" resp="#rojas" n="8">
           <stage>(Sale LEONOR.)</stage>
           <sp who="#leonor">
             <speaker rend="caps">Leonor</speaker>
@@ -4242,7 +4232,7 @@
             <stage>(Vanse.)</stage>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="8">
+        <div type="scene" resp="#rojas" n="9">
           <stage>(Sale[n] LAURA, BEATRIZ y DON FÉLIX.)</stage>
           <sp who="#laura">
             <speaker rend="caps">Laura</speaker>
@@ -4281,6 +4271,9 @@
 
             <l>¡Yo estoy muerta!</l>
           </sp>
+          <stage>Vase Beatriz.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="10">
           <sp who="#laura">
             <speaker rend="caps">Laura</speaker>
 
@@ -4427,7 +4420,7 @@
             <l>Buscándome...</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="9">
+        <div type="scene" resp="#rojas" n="11">
           <stage>(Sale BEATRIZ.)</stage>
           <sp who="#beatriz">
             <speaker rend="caps">Beatriz</speaker>
@@ -4520,7 +4513,7 @@
             <l>del hombre! ¿Qué no puede vuestro llanto?</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="10">
+        <div type="scene" resp="#rojas" n="12">
           <stage>(Escóndese DON FÉLIX y sale DON ANTONIO.)</stage>
           <sp who="#don-antonio">
             <speaker rend="caps">Don Antonio</speaker>
@@ -4563,7 +4556,7 @@
             <l>Solo a lo que venís es lo que espero.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="11">
+        <div type="scene" resp="#rojas" n="13">
           <stage>(Sale DON FÉLIX al paño y repara en DON ANTONIO.)</stage>
           <sp who="#don-félix">
             <speaker rend="caps">Don Félix</speaker>
@@ -4619,7 +4612,6 @@
           </sp>
           <sp who="#don-antonio">
             <speaker rend="caps">Don Antonio</speaker>
-            <stage type="withText"> </stage>
 
 
             <l>Si había de venir un criado suyo</l>
@@ -4672,7 +4664,7 @@
             <l>Voy volando.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="12">
+        <div type="scene" resp="#rojas" n="14">
           <stage>(Entra BEATRIZ donde está DON FÉLIX.)</stage>
           <sp who="#don-antonio">
             <speaker rend="caps">Don Antonio</speaker>
@@ -4804,7 +4796,7 @@
             <l>con que se irá.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="13">
+        <div type="scene" resp="#rojas" n="15">
           <stage>[Sale.]</stage>
           <sp who="#don-antonio">
             <speaker rend="caps">Don Antonio</speaker>
@@ -4931,7 +4923,6 @@
           </sp>
           <sp who="#laura">
             <speaker rend="caps">Laura</speaker>
-            <stage type="withText"> </stage>
 
 
             <l>Mi padre os responderá,</l>
@@ -4952,7 +4943,7 @@
             <l>también podré...</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="14">
+        <div type="scene" resp="#rojas" n="16">
           <stage>(Al ir a tomarle la mano, sale DON FÉLIX.)</stage>
           <sp who="#don-félix">
             <speaker rend="caps">Don Félix</speaker>
@@ -5019,9 +5010,9 @@
 
             <l>Mirad...</l>
           </sp>
+          <stage>Dentro Don Íñigo.</stage>
           <sp who="#don-íñigo">
             <speaker rend="caps">Don Íñigo</speaker>
-            <stage type="withText">(Dentro.)</stage>
 
 
             <l>¿Cómo está aquí abierto?</l>
@@ -5063,7 +5054,7 @@
             <l>a la calle.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="15">
+        <div type="scene" resp="#rojas" n="17">
           <stage>(Escóndese DON FÉLIX y sale DON ÍÑIGO.)</stage>
           <sp who="#don-íñigo">
             <speaker rend="caps">Don Íñigo</speaker>
@@ -5075,10 +5066,10 @@
           </sp>
           <sp who="#don-antonio">
             <speaker rend="caps">Don Antonio</speaker>
-            <stage type="withText">([Aparte.]</stage>
+            <stage type="withText">(Aparte.)</stage>
 
 
-            <l>Paciencia, cielos,</l>
+            <l>(Paciencia, cielos,</l>
             <l>que soy quien soy y no es bien</l>
             <l>vengarme por bajos medios.)</l>
             <l>A pedir aquestas joyas</l>
@@ -5186,7 +5177,7 @@
           </sp>
           <sp who="#don-antonio">
             <speaker rend="caps">Don Antonio</speaker>
-            <stage type="withText">[Aparte.]</stage>
+            <stage type="withText">(Aparte.)</stage>
 
 
             <l>Iré a mi casa corriendo</l>
@@ -5195,7 +5186,7 @@
             <l>le mataré cuando salga.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="16">
+        <div type="scene" resp="#rojas" n="18">
           <stage>[Se van DON ÍÑIGO, DON ANTONIO y BEATRIZ. Sale DON FÉLIX.]</stage>
           <sp who="#laura">
             <speaker rend="caps">Laura</speaker>
@@ -5246,7 +5237,7 @@
             <l>me saque de aquí, porque...</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="17">
+        <div type="scene" resp="#rojas" n="19">
           <stage>(Sale BEATRIZ.)</stage>
           <sp who="#beatriz">
             <speaker rend="caps">Beatriz</speaker>
@@ -5265,7 +5256,7 @@
             <l>aunque por un balcón sea.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="18">
+        <div type="scene" resp="#rojas" n="20">
           <stage>(Sale DON ÍÑIGO y retírase DON FÉLIX.)</stage>
           <sp who="#don-íñigo">
             <speaker rend="caps">Don Íñigo</speaker>
@@ -5282,7 +5273,7 @@
           </sp>
           <sp who="#laura">
             <speaker rend="caps">Laura</speaker>
-            <stage type="withText">[Aparte.]</stage>
+            <stage type="withText">(Aparte.)</stage>
 
 
             <l>¡Muerta estoy!</l>
@@ -5352,7 +5343,7 @@
           </sp>
           <sp who="#laura">
             <speaker rend="caps">Laura</speaker>
-            <stage type="withText">[Aparte, al paño.]</stage>
+            <stage type="withText">(Aparte[, al paño.])</stage>
 
 
             <l>¡Qué bien suena a quien bien quiere</l>
@@ -5387,7 +5378,6 @@
           </sp>
           <sp who="#don-íñigo">
             <speaker rend="caps">Don Íñigo</speaker>
-            <stage type="withText"> </stage>
 
 
             <l>¡Oh, cuánto</l>
@@ -5419,7 +5409,7 @@
             <l>Dimos al traste con todo.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="19">
+        <div type="scene" resp="#rojas" n="21">
           <stage>(Quiere entrar DON ÍÑIGO y detiénele LAURA.)</stage>
           <sp who="#laura">
             <speaker rend="caps">Laura</speaker>
@@ -5446,7 +5436,7 @@
           </sp>
           <sp who="#laura">
             <speaker rend="caps">Laura</speaker>
-            <stage type="withText">[Aparte.]</stage>
+            <stage type="withText">(Aparte.)</stage>
 
 
             <l>¡Cielos!</l>
@@ -5457,8 +5447,8 @@
             <stage>(Vanse.)</stage>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="20">
-          <stage>(Sale DON FÉLIX.)</stage>
+        <div type="scene" resp="#rojas" n="22">
+          <stage>[Sale DON FÉLIX.]</stage>
           <sp who="#don-félix">
             <speaker rend="caps">Don Félix</speaker>
 
@@ -5520,7 +5510,7 @@
             <stage>(Vanse.)</stage>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="21">
+        <div type="scene" resp="#rojas" n="23">
           <stage>(Salen a una ventana en lo alto DOÑA CLARA y LISARDO.)</stage>
           <sp who="#clara">
             <speaker rend="caps">Clara</speaker>
@@ -5599,6 +5589,8 @@
             <l>no hay que temer.</l>
             <stage>(Vase.)</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="24">
           <stage>(Suena dentro ruido.)</stage>
           <sp who="#don-íñigo">
             <speaker rend="caps">Don Íñigo</speaker>
@@ -5615,7 +5607,7 @@
             <l>Ya me han sentido.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="22">
+        <div type="scene" resp="#rojas" n="25">
           <stage type="withText">[Entra por el balcón.]</stage>
           <sp who="#laura">
             <speaker rend="caps">Laura</speaker>
@@ -5635,7 +5627,6 @@
           </sp>
           <sp who="#lisardo">
             <speaker rend="caps">Lisardo</speaker>
-            <stage type="withText"> </stage>
 
 
             <l>De algo servirá</l>
@@ -5650,7 +5641,7 @@
             <l>entraré por aquí dentro.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="23">
+        <div type="scene" resp="#rojas" n="26">
           <stage>(Escóndese donde estaba DON FÉLIX y salen DON ÍÑIGO con la espada desnuda, LAURA deteniéndole y criados con luces y espadas desnudas.)</stage>
           <sp who="#laura">
             <speaker rend="caps">Laura</speaker>
@@ -5666,7 +5657,7 @@
             <l>¡Ver toda la casa tengo!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="24">
+        <div type="scene" resp="#rojas" n="27">
           <stage>(Sale BEATRIZ por otra puerta.)</stage>
           <sp who="#beatriz">
             <speaker rend="caps">Beatriz</speaker>
@@ -5844,7 +5835,7 @@
             <l>si ya no hay nadie allá dentro?</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="25">
+        <div type="scene" resp="#rojas" n="28">
           <stage>(Entra LAURA y saca a LISARDO.)</stage>
           <sp who="#laura">
             <speaker rend="caps">Laura</speaker>
@@ -6104,7 +6095,7 @@
             <l>mi dama ha de ser primero.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="26">
+        <div type="scene" resp="#rojas" n="29">
           <stage>(Vase.)</stage>
           <sp who="#don-íñigo">
             <speaker rend="caps">Don Íñigo</speaker>
@@ -6133,7 +6124,7 @@
             <l>No le dejaré del lado.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="27">
+        <div type="scene" resp="#rojas" n="30">
           <stage>(Vase.)</stage>
           <sp who="#laura">
             <speaker rend="caps">Laura</speaker>
@@ -6422,7 +6413,7 @@
             <l>importa que no me vea.</l>
             <l>Despedidle brevemente.</l>
           </sp>
-          <stage>(Escóndese).</stage>
+          <stage>(Escóndese Lisardo.)</stage>
           <sp who="#don-félix">
             <speaker rend="caps">Don Félix</speaker>
 
@@ -6432,6 +6423,8 @@
             <stage>(Sale DON ÍÑIGO.)</stage>
             <l>¿Qué es, señor, lo que mandáis?</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="4">
           <sp who="#don-íñigo">
             <speaker rend="caps">Don Íñigo</speaker>
 
@@ -6576,7 +6569,7 @@
             <l>se hacen las causas secretas.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="4">
+        <div type="scene" resp="#rojas" n="5">
           <stage>(Vase.)</stage>
           <sp who="#don-félix">
             <speaker rend="caps">Don Félix</speaker>
@@ -6637,7 +6630,7 @@
             <l>la respuesta que él os diere.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="5">
+        <div type="scene" resp="#rojas" n="6">
           <stage>(Vase.)</stage>
           <sp who="#don-félix">
             <speaker rend="caps">Don Félix</speaker>
@@ -6647,7 +6640,7 @@
             <l>cielos? ¿Qué encanto es aqueste?</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="6">
+        <div type="scene" resp="#rojas" n="7">
           <stage>(Sale LISARDO.)</stage>
           <sp who="#lisardo">
             <speaker rend="caps">Lisardo</speaker>
@@ -6835,7 +6828,7 @@
             <stage>[Vase.]</stage>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="7">
+        <div type="scene" resp="#rojas" n="8">
           <stage>(Salen LAURA y BEATRIZ.)</stage>
           <sp who="#laura">
             <speaker rend="caps">Laura</speaker>
@@ -6935,7 +6928,7 @@
             <l>la vida, Beatriz, guardar.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="8">
+        <div type="scene" resp="#rojas" n="9">
           <stage>(Sale DON ÍÑIGO.)</stage>
           <sp who="#don-íñigo">
             <speaker rend="caps">Don Íñigo</speaker>
@@ -7036,7 +7029,7 @@
             <l>Mas sabe que es Félix...</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="9">
+        <div type="scene" resp="#rojas" n="10">
           <stage>(Sale DON FÉLIX.)</stage>
           <sp who="#don-félix">
             <speaker rend="caps">Don Félix</speaker>
@@ -7111,7 +7104,6 @@
             <stage type="withText">(Lee.)</stage>
 
 
-            <l/>
             <l>«Para ajustar ciertas conveniencias entre</l>
             <l>los dos, me importa hablaros, así en la</l>
             <l>disculpa de haberme ausentado anoche</l>
@@ -7129,7 +7121,7 @@
             <l>Pues id presto.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="10">
+        <div type="scene" resp="#rojas" n="11">
           <stage>(Vase.)</stage>
           <sp who="#laura">
             <speaker rend="caps">Laura</speaker>
@@ -7165,7 +7157,7 @@
             <stage>(Vase.)</stage>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="11">
+        <div type="scene" resp="#rojas" n="12">
           <stage>[Salen del cuarto LAURA y BEATRIZ.]</stage>
           <sp who="#laura">
             <speaker rend="caps">Laura</speaker>
@@ -7190,7 +7182,7 @@
             <l>a quien esto me dijera.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="12">
+        <div type="scene" resp="#rojas" n="13">
           <stage>(Sale DON FÉLIX.)</stage>
           <sp who="#don-félix">
             <speaker rend="caps">Don Félix</speaker>
@@ -7504,7 +7496,7 @@
             <l>Duélase de mí el honor.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="13">
+        <div type="scene" resp="#rojas" n="14">
           <stage>(Vase.)</stage>
           <sp who="#don-félix">
             <speaker rend="caps">Don Félix</speaker>
@@ -7513,7 +7505,7 @@
             <l>Duélase el amor de mí.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="14">
+        <div type="scene" resp="#rojas" n="15">
           <stage>(Vase.)</stage>
           <sp who="#beatriz">
             <speaker rend="caps">Beatriz</speaker>
@@ -7534,7 +7526,7 @@
             <stage>[Vase.]</stage>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="15">
+        <div type="scene" resp="#rojas" n="16">
           <stage>(Salen DON ANTONIO y DON ÍÑIGO.)</stage>
           <sp who="#don-íñigo">
             <speaker rend="caps">Don Íñigo</speaker>
@@ -7754,7 +7746,7 @@
             <l>Que os desengañaréis bien presto fío.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="16">
+        <div type="scene" resp="#rojas" n="17">
           <stage>(Salen HERNANDO y LISARDO.)</stage>
           <sp who="#lisardo">
             <speaker rend="caps">Lisardo</speaker>
@@ -7893,7 +7885,7 @@
             <l>Ya para el desengaño me prevengo.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="17">
+        <div type="scene" resp="#rojas" n="18">
           <stage>(Sale DON FÉLIX.)</stage>
           <sp who="#don-félix">
             <speaker rend="caps">Don Félix</speaker>
@@ -7906,7 +7898,7 @@
             <l>he de estar viendo el fin de mi cuidado.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="18">
+        <div type="scene" resp="#rojas" n="19">
           <stage>[Éntrase en un portal.]</stage>
           <sp who="#don-íñigo">
             <speaker rend="caps">Don Íñigo</speaker>
@@ -8193,7 +8185,7 @@
           </sp>
           <sp who="#don-antonio">
             <speaker rend="caps">Don Antonio</speaker>
-            <stage type="withText">[Aparte.]</stage>
+            <stage type="withText">(Aparte.)</stage>
 
 
             <l>¿Qué escucho?</l>
@@ -8235,10 +8227,10 @@
           <stage>(Sacan las espadas.)</stage>
           <sp who="#don-félix">
             <speaker rend="caps">Don Félix</speaker>
-            <stage type="withText">([Aparte.]</stage>
+            <stage type="withText">[Aparte.]</stage>
 
 
-            <l>Las espadas han sacado</l>
+            <l>(Las espadas han sacado</l>
             <l>y, aunque sea padre de Laura,</l>
             <l>antes que todo es mi amigo.)</l>
             <l>Lisardo, a tu lado me hallas.</l>
@@ -8262,7 +8254,7 @@
             <stage>[Riñen.]</stage>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="19">
+        <div type="scene" resp="#rojas" n="20">
           <stage>(Salen algunos.)</stage>
           <sp who="#algunos">
             <speaker rend="caps">Algunos</speaker>
@@ -8305,11 +8297,10 @@
             <l>hacer cosa que resulte</l>
             <l>contra mi honor y su fama.</l>
             <stage>(Vase.)</stage>
-            <stage>(Éntranse riñendo [los demás].)</stage>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="20">
-          <stage>[Salen DON FÉLIX y HERNANDO.]</stage>
+        <div type="scene" resp="#rojas" n="21">
+          <stage>(Éntranse riñendo [los demás] y vuelve a salir [DON] FÉLIX [y HERNANDO].)</stage>
           <sp who="#don-félix">
             <speaker rend="caps">Don Félix</speaker>
 
@@ -8353,7 +8344,7 @@
             <l>entraré, señor, a hablarla.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="21">
+        <div type="scene" resp="#rojas" n="22">
           <stage>(Vase HERNANDO y sale MENDOZA.)</stage>
           <sp who="#don-félix">
             <speaker rend="caps">Don Félix</speaker>
@@ -8404,7 +8395,7 @@
             <l>Iré.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="22">
+        <div type="scene" resp="#rojas" n="23">
           <stage>(Salen DOÑA CLARA, con manto, y HERNANDO.)</stage>
           <sp who="#clara">
             <speaker rend="caps">Clara</speaker>
@@ -8477,7 +8468,7 @@
             <l>nos vamos, pues él lo manda.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="23">
+        <div type="scene" resp="#rojas" n="24">
           <stage>(Vanse y sale DON ANTONIO.)</stage>
           <sp who="#don-antonio">
             <speaker rend="caps">Don Antonio</speaker>
@@ -8561,9 +8552,9 @@
             <l>¿Habéis de dejarme</l>
             <l>en tanto riesgo empeñada?</l>
           </sp>
+          <stage>(Dentro LISARDO.)</stage>
           <sp who="#lisardo">
             <speaker rend="caps">Lisardo</speaker>
-            <stage type="withText">(Dentro.)</stage>
 
 
             <l>Aunque me hagáis mil pedazos,</l>
@@ -8632,9 +8623,9 @@
 
             <l>Félix, en vano la guardas.</l>
           </sp>
+          <stage>(LAURA a la ventana.)</stage>
           <sp who="#laura">
             <speaker rend="caps">Laura</speaker>
-            <stage type="withText">(En una ventana.) </stage>
 
 
             <l>Félix, pues es mi ventura</l>
@@ -8696,7 +8687,7 @@
             <l>rompe mi padre. ¿Qué aguardas?</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="24">
+        <div type="scene" resp="#rojas" n="25">
           <stage>(Sale LISARDO.)</stage>
           <sp who="#lisardo">
             <speaker rend="caps">Lisardo</speaker>
@@ -8709,10 +8700,10 @@
           </sp>
           <sp who="#don-félix">
             <speaker rend="caps">Don Félix</speaker>
-            <stage type="withText">([A LISARDO.]</stage>
+            <stage type="withText">[A LISARDO.]</stage>
 
 
-            <l>Lisardo, pues has venido</l>
+            <l>(Lisardo, pues has venido</l>
             <l>a tan buen tiempo, repara</l>
             <l>en que doña Clara es esta.</l>
             <l>Su hermano intenta matarla;</l>
@@ -8734,7 +8725,7 @@
             <l>que antes que todo es mi dama.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="25">
+        <div type="scene" resp="#rojas" n="26">
           <stage>(Vase.)</stage>
           <sp who="#lisardo">
             <speaker rend="caps">Lisardo</speaker>
@@ -8769,7 +8760,7 @@
             <l>que yo a don Íñigo vaya.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="26">
+        <div type="scene" resp="#rojas" n="27">
           <stage>(Va a entrar, y salen DON FÉLIX, LAURA y BEATRIZ.)</stage>
           <sp who="#don-félix">
             <speaker rend="caps">Don Félix</speaker>
@@ -8779,7 +8770,7 @@
             <l>segura vais.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="27">
+        <div type="scene" resp="#rojas" n="28">
           <stage>(Sale DON ÍÑIGO.)</stage>
           <sp who="#don-íñigo">
             <speaker rend="caps">Don Íñigo</speaker>
@@ -8903,6 +8894,7 @@
             <l>con mal nos habrá sacado.</l>
             <l>Pero perdonad las faltas.</l>
           </sp>
+          <trailer>FIN</trailer>
         </div>
 
       </div>
