@@ -804,6 +804,8 @@
             <l n="495">Porque hago este papel.</l>
             <stage type="exit">Enséñale el papel, y toma la púrpura y corona, y vase.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="7">
           <sp who="#el-mundo">
             <speaker>MUNDO</speaker>
             <l>Ya aquí prevenido está.</l>
@@ -855,7 +857,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="7">
+        <div type="scene" resp="#rojas" n="8">
           <stage type="exit">Vase.</stage>
           <sp who="#el-rico">
             <speaker>RICO</speaker>
@@ -881,7 +883,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="8">
+        <div type="scene" resp="#rojas" n="9">
           <stage type="exit">Vase.</stage>
           <sp who="#la-discreción">
             <speaker>DISCRECIÓN</speaker>
@@ -909,7 +911,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="9">
+        <div type="scene" resp="#rojas" n="10">
           <stage type="exit">Vase.</stage>
           <sp who="#el-mundo">
             <speaker>MUNDO</speaker>
@@ -929,7 +931,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="10">
+        <div type="scene" resp="#rojas" n="11">
           <stage type="exit">Vase.</stage>
           <sp who="#el-mundo">
             <speaker>MUNDO</speaker>
@@ -978,7 +980,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="11">
+        <div type="scene" resp="#rojas" n="12">
           <stage type="exit">Vase.</stage>
           <sp who="#el-pobre">
             <speaker>POBRE</speaker>
@@ -1073,7 +1075,7 @@
             <l>que os ve el Autor desde el cielo.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="12">
+        <div type="scene" resp="#rojas" n="13">
           <stage type="unassigned">Sale la DISCRECIÓN con un instrumento, y canta.</stage>
           <sp who="#la-discreción">
             <speaker>DISCRECIÓN</speaker>
@@ -1090,7 +1092,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="13">
+        <div type="scene" resp="#rojas" n="14">
           <stage type="exit">Vase.</stage>
           <sp who="#el-autor">
             <speaker>AUTOR</speaker>
@@ -1134,7 +1136,7 @@
             <l>ya la representación.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="14">
+        <div type="scene" resp="#rojas" n="15">
           <stage type="unassigned">Sale la HERMOSURA y la DISCRECIÓN por la puerta de la cuna.</stage>
           <sp who="#la-hermosura">
             <speaker>HERMOSURA</speaker>
@@ -1233,7 +1235,6 @@
             <speaker>LEY</speaker>
             <stage type="entrance">Canta.</stage>
             <l>Obrar bien, que Dios es Dios.</l>
-            <stage type="exit">Canta.</stage>
           </sp>
           <sp who="#el-mundo">
             <speaker>MUNDO</speaker>
@@ -1241,7 +1242,7 @@
             <l>la Hermosura no le oyó.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="15">
+        <div type="scene" resp="#rojas" n="16">
           <stage type="unassigned">Sale el RICO.</stage>
           <sp who="#el-rico">
             <speaker>RICO</speaker>
@@ -1260,7 +1261,7 @@
             <l>hoy mis sentidos posean.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="16">
+        <div type="scene" resp="#rojas" n="17">
           <stage type="unassigned">Sale el LABRADOR.</stage>
           <sp who="#el-labrador">
             <speaker>LABRADOR</speaker>
@@ -1307,7 +1308,6 @@
             <speaker>LEY</speaker>
             <stage type="entrance">Canta.</stage>
             <l n="790">Obrar bien, que Dios es Dios.</l>
-            <stage type="exit">Canta.</stage>
           </sp>
           <sp who="#la-discreción">
             <speaker>DISCRECIÓN</speaker>
@@ -1326,7 +1326,7 @@
             <l>Y aun en mis catorce estoy.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="17">
+        <div type="scene" resp="#rojas" n="18">
           <stage type="unassigned">Sale el POBRE.</stage>
           <sp who="#el-pobre">
             <speaker>POBRE</speaker>
@@ -1355,7 +1355,6 @@
             <speaker>LEY</speaker>
             <stage type="entrance">Canta.</stage>
             <l>Obrar bien, que Dios es Dios.</l>
-            <stage type="exit">Canta.</stage>
           </sp>
           <sp who="#el-pobre">
             <speaker>POBRE</speaker>
@@ -1389,7 +1388,7 @@
             <l n="820">pues no espero otro favor.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="18">
+        <div type="scene" resp="#rojas" n="19">
           <stage type="unassigned">Sale el REY.</stage>
           <sp who="#el-rey">
             <speaker>REY</speaker>
@@ -1409,7 +1408,6 @@
             <speaker>LEY</speaker>
             <stage type="entrance">Canta.</stage>
             <l>Obrar bien, que Dios es Dios.</l>
-            <stage type="exit">Canta.</stage>
           </sp>
           <sp who="#el-mundo">
             <speaker>MUNDO</speaker>
@@ -1626,9 +1624,9 @@
             <l>y a todos juntos, mi voz</l>
             <l n="945">ha advertido; ya con esto</l>
             <l>su culpa será su error.</l>
+            <stage type="exit">Canta.</stage>
             <l>Ama al otro como a ti,</l>
             <l>y obrar bien, que Dios es Dios.</l>
-            <stage type="exit">Canta.Recita.Canta.</stage>
           </sp>
           <sp who="#el-rey">
             <speaker>REY</speaker>
@@ -1715,7 +1713,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="19">
+        <div type="scene" resp="#rojas" n="20">
           <stage type="exit">Vase por la puerta del ataúd, y todos se han de ir por ella.</stage>
           <sp who="#el-mundo">
             <speaker>MUNDO</speaker>
@@ -1795,7 +1793,6 @@
             <l>en una temprana flor,</l>
             <l n="1045">marchítese, pues la noche</l>
             <l>ya de su aurora llegó.</l>
-            <stage type="exit">Canta.</stage>
           </sp>
           <sp who="#la-hermosura">
             <speaker>HERMOSURA</speaker>
@@ -1843,7 +1840,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="20">
+        <div type="scene" resp="#rojas" n="21">
           <stage type="exit">Vase.</stage>
           <sp who="#el-mundo">
             <speaker>MUNDO</speaker>
@@ -1949,7 +1946,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="21">
+        <div type="scene" resp="#rojas" n="22">
           <stage type="exit">Vase.</stage>
           <sp who="#el-mundo">
             <speaker>MUNDO</speaker>
@@ -2145,7 +2142,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="22">
+        <div type="scene" resp="#rojas" n="23">
           <stage type="exit">Vanse los dos.</stage>
           <sp who="#el-mundo">
             <speaker>MUNDO</speaker>
@@ -2209,7 +2206,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="23">
+        <div type="scene" resp="#rojas" n="24">
           <stage type="exit">Sale el REY.</stage>
           <sp who="#el-rey">
             <speaker>REY</speaker>
@@ -2277,7 +2274,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="24">
+        <div type="scene" resp="#rojas" n="25">
           <stage type="exit">Sale la HERMOSURA.</stage>
           <sp who="#la-hermosura">
             <speaker>HERMOSURA</speaker>
@@ -2334,7 +2331,7 @@
             <l>allí aún no toparás sombras y lejos.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="25">
+        <div type="scene" resp="#rojas" n="26">
           <stage type="unassigned">Sale el LABRADOR.</stage>
           <sp who="#el-mundo">
             <speaker>MUNDO</speaker>
@@ -2380,7 +2377,7 @@
             <l n="1350">aun no le han de dejar llevar consigo?</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="26">
+        <div type="scene" resp="#rojas" n="27">
           <stage type="unassigned">Salen el RICO y el POBRE.</stage>
           <sp who="#el-mundo">
             <speaker>MUNDO</speaker>
@@ -2420,7 +2417,7 @@
             <l>no tener que sentir dejar el mundo.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="27">
+        <div type="scene" resp="#rojas" n="28">
           <stage type="unassigned">Sale el NIÑO.</stage>
           <sp who="#el-mundo">
             <speaker>MUNDO</speaker>
@@ -2433,7 +2430,7 @@
             <l>Allí te dejo lo que tú me diste.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="28">
+        <div type="scene" resp="#rojas" n="29">
           <stage type="unassigned">Sale la DISCRECIÓN.</stage>
           <sp who="#el-mundo">
             <speaker>MUNDO</speaker>
@@ -2585,7 +2582,7 @@
             <l>aquellas cándidas hojas.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="29">
+        <div type="scene" resp="#rojas" n="30">
           <stage type="unassigned">Con música se descubre otra vez el globo celeste, y en él una mesa con cáliz y ostia, y el AUTOR sentado a ella, y sale el MUNDO.</stage>
           <sp who="#el-autor">
             <speaker>AUTOR</speaker>
@@ -2833,7 +2830,7 @@
             <l>merezca alcanzar perdón</l>
             <l>de las unas y las otras.</l>
           </sp>
-          <stage>FIN</stage>
+          <trailer>FIN</trailer>
         </div>
 
       </div>
