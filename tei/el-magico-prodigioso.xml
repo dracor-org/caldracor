@@ -266,7 +266,7 @@
           </sp>
           <sp who="#moscón">
             <speaker>MOSCÓN</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> Por ver a Libia, </l>
             <l n="70"> vestirme quisiera de alas. </l>
 
@@ -276,7 +276,7 @@
           <stage>Vase.</stage>
           <sp who="#clarín">
             <speaker>CLARÍN</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Aunque, si digo verdad, </l>
             <l> Libia es la que me arrebata </l>
             <l> los sentidos. Pues ya tienes </l>
@@ -308,7 +308,7 @@
           <stage>Pónese a leer CIPRIANO, y sale el DEMONIO vestido de gala.</stage>
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> Aunque hagas </l>
             <l> más discursos, Ciprïano, </l>
             <l n="90"> no has de llegar a alcanzarla, </l>
@@ -641,7 +641,7 @@
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
             <l part="F"> Quedad en paz. </l>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="310"> Pues tanto tu estudio alcanza, </l>
             <l> yo haré que el estudio olvides </l>
             <l> suspendido en una rara </l>
@@ -1332,11 +1332,17 @@
             <l> de vuestra casa, se atreve </l>
             <l n="755"> a entrar aquí mi amistad </l>
             <l> por la que a Lisandro debe, </l>
-            <stage>Aparte.</stage>
-            <stage>Aparte.</stage>
+            <l part="I"> a solo saber </l>
+            <stage>[Aparte.]</stage>
+            <l part="F"> (¡Turbado </l>
+            <l part="I"> estoy!) si acaso </l>
+            <stage>[Aparte.]</stage>
+            <l part="F"> (¡Qué fuerte </l>
             <l> yelo discurre mis venas!) </l>
             <l n="760"> si en algo serviros puede </l>
-            <stage>Aparte.</stage>
+            <l part="I"> mi deseo. </l>
+            <stage>[Aparte.]</stage>
+            <l part="F"> ¡Qué mal dije! </l>
             <l> Que no es yelo, fuego es este. </l>
           </sp>
           <sp who="#justina">
@@ -1350,7 +1356,7 @@
             <speaker>CIPRIANO</speaker>
             <l part="F"> Siempre </l>
             <l> estaré para serviros. </l>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> ¿Qué me turba y enmudece? </l>
           </sp>
           <sp who="#justina">
@@ -1388,15 +1394,17 @@
             <l> Floro, de su amor llevado </l>
             <l n="790"> (no vi error más permitido), </l>
             <l> el uno y otro han querido </l>
-            <l> por vós matarse los dos; </l>
-            <stage>Aparte.</stage>
+            <l part="I"> por vós matarse los dos; </l>
+            <stage>[Aparte.]</stage>
+            <l part="F"> (¡ay Dios!) </l>
             <l> pero ved que es error fuerte </l>
             <l n="795"> que yo quite a otros la muerte </l>
             <l> para que me la deis vós. </l>
             <l> Por excusar el que hubiera </l>
             <l> escándalo en el lugar, </l>
-            <l> de su parte os vengo a hablar </l>
-            <stage>Aparte.</stage>
+            <l part="I"> de su parte os vengo a hablar </l>
+            <stage>[Aparte.]</stage>
+            <l part="F"> (¡Oh nunca a hablaros viniera!) </l>
             <l> porque vuestra elección fuera </l>
             <l> árbitro de sus recelos </l>
             <l> como juez de sus desvelos; </l>
@@ -1406,11 +1414,19 @@
             <l> Hablaros, pues, ofrecí, </l>
             <l> señora, para que vós </l>
             <l> escogierais de los dos </l>
-            <stage>Aparte.</stage>
-            <stage>Aparte.</stage>
+            <l part="I"> cuál queréis </l>
+            <stage>[Aparte.]</stage>
+            <l part="F"> (¡infeliz fui!) </l>
+            <l part="I"> que a vuestro padre </l>
+            <stage>[Aparte.]</stage>
+            <l part="F"> (¡ay de mí!) </l>
             <l> os pida. Aquesto pretendo; </l>
-            <stage>Aparte.</stage>
-            <stage>Aparte.</stage>
+            <l part="I"> pero ved </l>
+            <stage>[Aparte.]</stage>
+            <l part="F"> (¡estoy muriendo!) </l>
+            <l part="I"> que es injusto </l>
+            <stage>[Aparte.]</stage>
+            <l part="F"> (¡estoy temblando!) </l>
             <l n="815"> que esté por ellos hablando </l>
             <l> y que esté por mí sintiendo. </l>
           </sp>
@@ -1595,11 +1611,10 @@
             <speaker>CLARÍN</speaker>
             <l n="885"> Porque sepa que no es suya, </l>
             <l> así como den las doce. </l>
-
+          <stage>Vase.</stage>
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="17">
-          <stage>Vase.</stage>
           <stage>Salen FLORO y LELIO, de noche, cada uno por su puerta.</stage>
           <sp who="#lelio">
             <speaker>LELIO</speaker>
@@ -1633,6 +1648,8 @@
             <l part="F"> Ruido han hecho </l>
             <l part="I"> en aquel balcón. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="18">
           <stage>El DEMONIO al balcón.</stage>
           <sp who="#lelio">
             <speaker>LELIO</speaker>
@@ -1647,7 +1664,7 @@
           </sp>
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Para las persecuciones </l>
             <l n="910"> que hacer en Justina intento, </l>
             <l> a disfamar su virtud </l>
@@ -1682,7 +1699,7 @@
           <stage>Llegan los dos con las espadas desnudas a reconocer quién bajó; el DEMONIO, habiendo bajado, se hunde, y los dos quedan afirmados, queriendo reconocerse.</stage>
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> No solo he de conseguir </l>
             <l> hoy de Justina el desprecio, </l>
             <l n="925"> sino rencores y muertes. </l>
@@ -1757,7 +1774,7 @@
             <l> moriré o sabré quién sois. </l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="18">
+        <div type="scene" resp="#rojas" n="19">
           <stage>Sale CIPRIANO, MOSCÓN y CLARÍN.</stage>
           <sp who="#cipriano">
             <speaker>CIPRIANO</speaker>
@@ -1829,7 +1846,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="19">
+        <div type="scene" resp="#rojas" n="20">
           <stage>Vase.</stage>
           <sp who="#floro">
             <speaker>FLORO</speaker>
@@ -1838,7 +1855,7 @@
           <sp who="#cipriano">
             <speaker>CIPRIANO</speaker>
             <l part="F"> No has de seguirle </l>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> (De haberle oído estoy muerto); </l>
             <l> que si es él el que ha perdido </l>
             <l n="1000"> lo que has ganado, y dispuesto </l>
@@ -1860,11 +1877,11 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="20">
+        <div type="scene" resp="#rojas" n="21">
           <stage>Vase.</stage>
           <sp who="#cipriano">
             <speaker>CIPRIANO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> ¿Qué es esto, cielos? ¿Qué escucho? </l>
             <l> ¿El uno del otro a un tiempo </l>
             <l n="1015"> unos mismos celos tienen? </l>
@@ -1980,7 +1997,7 @@
           </sp>
           <sp who="#cipriano">
             <speaker>CIPRIANO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> (Disimular me conviene </l>
             <l n="45"> de mis celos los desvelos </l>
             <l> hasta apurarlos mejor; </l>
@@ -2304,7 +2321,7 @@
           <stage>Sale el DEMONIO, mojado, como que sale del mar.</stage>
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> (Para el prodigio que intento, </l>
             <l> hoy me ha importado fingir </l>
             <l> sobre campos de zafir </l>
@@ -2545,7 +2562,7 @@
           </sp>
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Ya al ingenio y amor le miro atento. </l>
           </sp>
         </div>
@@ -2605,7 +2622,7 @@
           </sp>
           <sp who="#cipriano">
             <speaker>CIPRIANO</speaker>
-            <stage>Al DEMONIO.</stage>
+            <stage>[Al DEMONIO.]</stage>
             <l> Lo que merece tu valor ignora. </l>
           </sp>
           <sp who="#moscón">
@@ -2664,7 +2681,7 @@
           <stage>Vase.</stage>
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> Yo tu muerte; </l>
             <l> y pues ya he conseguido </l>
             <l> el mirarme contigo introducido, </l>
@@ -2710,11 +2727,10 @@
           <sp who="#moscón">
             <speaker>MOSCÓN</speaker>
             <l part="F"> En ello has dado. </l>
-
+          <stage>Vase.</stage>
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="10">
-          <stage>Vase.</stage>
           <stage>Salen LELIO y FABIO, CRIADO.</stage>
           <sp who="#fabio">
             <speaker>FABIO</speaker>
@@ -2863,7 +2879,7 @@
           <stage>Sale el DEMONIO por la puerta que está a espaldas de JUSTINA.</stage>
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Acudiendo mi furor </l>
             <l n="505"> a los dos cargos que tengo, </l>
             <l> a esta casa a entablar vengo </l>
@@ -2936,9 +2952,9 @@
             <l> desvanezca la paciencia </l>
             <l n="535"> de la noche con el día. </l>
           </sp>
+          <stage>Vase [LELIO].</stage>
         </div>
         <div type="scene" resp="#rojas" n="16">
-          <stage>Vase LELIO.</stage>
           <stage>Sale LISANDRO, viejo.</stage>
           <sp who="#lisandro">
             <speaker>LISANDRO</speaker>
@@ -2971,7 +2987,7 @@
           <stage>Sale LELIO.</stage>
           <sp who="#lelio">
             <speaker>LELIO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Ahora acabo de creer </l>
             <l> que sombras los celos hacen, </l>
             <l> pues no está en este aposento </l>
@@ -2980,7 +2996,7 @@
           </sp>
           <sp who="#justina">
             <speaker>JUSTINA</speaker>
-            <stage>Aparte a LELIO.</stage>
+            <stage>[Aparte a LELIO.]</stage>
             <l n="550" part="F">No salgas, </l>
             <l> Lelio, que está aquí mi padre. </l>
           </sp>
@@ -3009,7 +3025,7 @@
           </sp>
           <sp who="#justina">
             <speaker>JUSTINA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="565"> ¿Quién vio pena semejante? </l>
             <l> Lisandro compadecido </l>
             <l> de los cristianos ultrajes, </l>
@@ -3059,7 +3075,7 @@
           </sp>
           <sp who="#lelio">
             <speaker>LELIO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="590"> No oigo todo lo que hablan, </l>
             <l> sino destroncado a partes. </l>
           </sp>
@@ -3082,7 +3098,7 @@
           </sp>
           <sp who="#floro">
             <speaker>FLORO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="600"> (Ya no es posible, ¡ay de mí!, </l>
             <l> que me vuelva sin hablarle; </l>
             <l> darele alguna disculpa.) </l>
@@ -3115,7 +3131,7 @@
           </sp>
           <sp who="#lelio">
             <speaker>LELIO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="610"> ¿Floro en casa de Justina </l>
             <l> con libertad entra y sale? </l>
             <l> No son fingidos aquellos </l>
@@ -3136,7 +3152,7 @@
           </sp>
           <sp who="#lisandro">
             <speaker>LISANDRO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> (Sin duda que Floro sabe </l>
             <l> que yo soy cristiano, y viene </l>
             <l> con esta causa a avisarme </l>
@@ -3219,7 +3235,7 @@
           </sp>
           <sp who="#lelio">
             <speaker>LELIO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Floro no fue el del balcón; </l>
             <l> sin duda que hay otro amante, </l>
             <l> puesto que ni él ni yo fuimos. </l>
@@ -3241,7 +3257,7 @@
           </sp>
           <sp who="#lelio">
             <speaker>LELIO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="I"> De mí habla. </l>
           </sp>
           <sp who="#floro">
@@ -3455,9 +3471,9 @@
             <l> Pierda yo a tus pies la vida, </l>
             <l n="745"> pero no me desampares. </l>
           </sp>
+          <stage>Vanse.</stage>
         </div>
         <div type="scene" resp="#rojas" n="24">
-          <stage>Vanse.</stage>
           <stage>Salen el DEMONIO y CIPRIANO.</stage>
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
@@ -3598,7 +3614,7 @@
           <sp who="#clarín">
             <speaker>CLARÍN</speaker>
             <l n="840" part="F">Y yo también. </l>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> El tal huésped es el diablo. </l>
             <stage>Escóndese.</stage>
           </sp>
@@ -3608,7 +3624,8 @@
           </sp>
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
-            <l part="F"> [Aparte.]Poco importa </l>
+            <stage>[Aparte.]</stage>
+            <l part="F"> Poco importa </l>
             <l> que Clarín se haya quedado. </l>
           </sp>
           <sp who="#cipriano">
@@ -3678,7 +3695,7 @@
           </sp>
           <sp who="#clarín">
             <speaker>CLARÍN</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> ¡Mal año! </l>
             <l> Según lo que ahora he visto, </l>
             <l> no es muy bobo aqueste diablo. </l>
@@ -3819,14 +3836,14 @@
             <l> y tinta para escribirlo </l>
             <l> la sangre es ya de mis brazos. </l>
             <stage>Escribe con la daga en un lienzo, habiéndose sacado sangre de un brazo.</stage>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> (¡Qué yelo! ¡Qué horror! ¡Qué asombro!) </l>
             <l> Digo yo, el gran Ciprïano, </l>
             <l n="940"> que daré el alma inmortal </l>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> (¡Qué frenesí! ¡Qué letargo!) </l>
             <l> a quien me enseñare ciencias </l>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> (¡Qué confusiones! ¡Qué espantos!) </l>
             <l> con que pueda atraer a mí </l>
             <l n="945"> a Justina, dueño ingrato; </l>
@@ -3834,7 +3851,7 @@
           </sp>
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> (Ya se rindió a mis engaños </l>
             <l> el homenaje valiente </l>
             <l> donde estaban tremolando </l>
@@ -3914,7 +3931,7 @@
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
             <l n="980" part="F">Ven con nosotros. </l>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Ya vencí el mayor contrario. </l>
           </sp>
           <sp who="#cipriano">
@@ -3924,7 +3941,7 @@
           </sp>
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> (No ha de sosegar mi envidia </l>
             <l n="985"> hasta que los gane a entrambos.) </l>
             <l> Vamos, y de aqueste monte </l>
@@ -3944,7 +3961,7 @@
 
 
       </div>
-      <div type="act" n="1">
+      <div type="act" n="3">
         <div type="scene" resp="#rojas" n="1">
           <head>Jornada III</head>
           <stage>Sale CIPRIANO de una gruta.</stage>
@@ -4562,7 +4579,7 @@
           </sp>
           <sp who="#libia">
             <speaker>LIBIA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Y yo volveré a alentar </l>
             <l n="375"> en echándolos de casa. </l>
           </sp>
@@ -5232,8 +5249,6 @@
             <speaker>CIPRIANO</speaker>
             <l part="I"> De esta suerte. </l>
           </sp>
-        </div>
-        <div type="scene" resp="#rojas" n="18">
           <stage>Saca la espada, tírale al DEMONIO y no le encuentra.</stage>
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
@@ -5376,7 +5391,7 @@
             <l> Más me ha de dar, pues le busco. </l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="19">
+        <div type="scene" resp="#rojas" n="18">
           <stage>Vase cada uno por su puerta, y sale el GOBERNADOR, FABIO y gente.</stage>
           <sp who="#gobernador">
             <speaker>GOBERNADOR</speaker>
@@ -5455,7 +5470,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="20">
+        <div type="scene" resp="#rojas" n="19">
           <stage>Vase FABIO.</stage>
           <sp who="#gobernador">
             <speaker>GOBERNADOR</speaker>
@@ -5466,7 +5481,7 @@
             <l> los enojos que me ha dado? </l>
             <l> A sangrientas manos muera </l>
             <l> de un verdugo. Vós mirad; </l>
-            <stage>A un soldado.</stage>
+            <stage>[A un soldado.]</stage>
             <l n="790"> que aquí la traigáis os mando </l>
             <l> hoy a la vergüenza, dando </l>
             <l> escándalo en la ciudad; </l>
@@ -5474,7 +5489,7 @@
             <l> nada a darla vida baste. </l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="21">
+        <div type="scene" resp="#rojas" n="20">
           <stage>Salen FABIO, LELIO y FLORO.</stage>
           <sp who="#fabio">
             <speaker>FABIO</speaker>
@@ -5534,7 +5549,7 @@
           </sp>
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
-            <stage>Dentro.</stage>
+            <stage>[Dentro.]</stage>
             <l> ¡Guarda el loco, guarda el loco! </l>
           </sp>
           <sp who="#gobernador">
@@ -5574,7 +5589,7 @@
             <l> ¡Guarda el loco, guarda el loco! </l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="22">
+        <div type="scene" resp="#rojas" n="21">
           <stage>Salen todos y CIPRIANO medio desnudo.</stage>
           <sp who="#cipriano">
             <speaker>CIPRIANO</speaker>
@@ -5694,7 +5709,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="23">
+        <div type="scene" resp="#rojas" n="22">
           <stage>Vase.</stage>
           <sp who="#lelio">
             <speaker>LELIO</speaker>
@@ -5703,7 +5718,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="24">
+        <div type="scene" resp="#rojas" n="23">
           <stage>Vase.</stage>
           <sp who="#floro">
             <speaker>FLORO</speaker>
@@ -5712,7 +5727,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="25">
+        <div type="scene" resp="#rojas" n="24">
           <stage>Vase.</stage>
           <sp who="#justina">
             <speaker>JUSTINA</speaker>
@@ -5905,7 +5920,7 @@
             <l> de un riesgo a dar a otro riesgo. </l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="26">
+        <div type="scene" resp="#rojas" n="25">
           <stage>Sale un CRIADO.</stage>
           <sp who="#criado">
             <speaker>CRIADO</speaker>
@@ -5935,7 +5950,7 @@
             <l> cumplí mis ofrecimientos. </l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="27">
+        <div type="scene" resp="#rojas" n="26">
           <stage>Vanse, y quedan MOSCÓN, LIBIA y CLARÍN.</stage>
           <sp who="#moscón">
             <speaker>MOSCÓN</speaker>
@@ -6017,7 +6032,7 @@
             <l> todo el hombre. Mas, ¿qué es esto? </l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="28">
+        <div type="scene" resp="#rojas" n="27">
           <stage>Suena gran ruido de tempestad, y salen todos alborotados.</stage>
           <sp who="#libia">
             <speaker>LIBIA</speaker>
@@ -6133,6 +6148,7 @@
             <l> al mágico prodigioso </l>
             <l> pedid perdón de los yerros.</l>
           </sp>
+          <trailer>FIN</trailer>
         </div>
 
       </div>
