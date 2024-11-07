@@ -1596,7 +1596,7 @@
           </sp>
           <sp who="#lebrel">
             <speaker>LEBREL</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="935"> No son muy malas las dos </l>
             <l> Circecillas de a poquito. </l>
             <l> No hay que volver a dar cartas, </l>
@@ -1604,7 +1604,7 @@
           </sp>
           <sp who="#circe">
             <speaker>CIRCE</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Habíanme dicho que eran </l>
             <l n="940"> los griegos, feos y esquivos; </l>
             <l> y ni esquivos son, ni feos, </l>
@@ -1622,19 +1622,19 @@
           </sp>
           <sp who="#circe">
             <speaker>CIRCE</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Vencerale mi hermosura </l>
             <l> pues mi ciencia no ha podido. </l>
           </sp>
           <sp who="#ulises">
             <speaker>ULISES</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Libraré de aquesta fiera </l>
             <l n="950"> a Trinacria si amor finjo. </l>
           </sp>
           <sp who="#arsidas">
             <speaker>ARSIDAS</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Solo celos me faltaban: </l>
             <l> ya está todo el mal cumplido. </l>
           </sp>
@@ -1744,7 +1744,7 @@
           </sp>
           <sp who="#flérida">
             <speaker>FLÉRIDA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Sin duda, ¡cielos!, que intenta </l>
             <l> darme castigo mayor </l>
             <l n="40"> que el que en la dura corteza </l>
@@ -1972,7 +1972,7 @@
           </sp>
           <sp who="#circe">
             <speaker>CIRCE</speaker>
-            <stage>Aparte, a FLÉRIDA.</stage>
+            <stage>[Aparte, a FLÉRIDA.]</stage>
             <l n="195"> No puedo sufrir ya más </l>
             <l> el escuchar mis ofensas. </l>
           </sp>
@@ -2023,7 +2023,7 @@
           </sp>
           <sp who="#clarín">
             <speaker>CLARÍN</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> El cielo quiera </l>
             <l> que no oyese lo demás. </l>
           </sp>
@@ -2105,7 +2105,7 @@
           <stage>Salen ULISES y compañeros.</stage>
           <sp who="#ulises">
             <speaker>ULISES</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Temeroso vengo, ¡ay triste!, </l>
             <l n="240"> a ver a Circe, si es fuerza </l>
             <l> que como sabia la admire </l>
@@ -2185,7 +2185,7 @@
           </sp>
           <sp who="#circe">
             <speaker>CIRCE</speaker>
-            <stage>Aparte, a FLÉRIDA.</stage>
+            <stage>[Aparte, a FLÉRIDA.]</stage>
             <l> Flérida: a entablar empieza </l>
             <l part="I"> lo que has de fingir. </l>
           </sp>
@@ -2199,7 +2199,7 @@
           </sp>
           <sp who="#lisidas">
             <speaker>LISIDAS</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="300" part="F"> ¡Qué llegan </l>
             <l> a ver mis ojos, ay cielos! </l>
             <l> Flérida al lado se sienta </l>
@@ -2208,7 +2208,7 @@
           </sp>
           <sp who="#antistes">
             <speaker>ANTISTES</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="305"> Infelices de nosotros </l>
             <l> si a estas lisonjas se entrega </l>
             <l> Ulises, pues tarde o nunca </l>
@@ -2419,7 +2419,7 @@
           </sp>
           <sp who="#circe">
             <speaker>CIRCE</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> Así </l>
             <l n="430"> abran camino los cielos </l>
             <l> para explicar mis desvelos. </l>
@@ -2432,14 +2432,14 @@
           </sp>
           <sp who="#circe">
             <speaker>CIRCE</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> Desta suerte </l>
             <l n="435"> al uno y el otro advierte </l>
             <l> mi amor lo que deseó. </l>
           </sp>
           <sp who="#flérida">
             <speaker>FLÉRIDA</speaker>
-            <stage>Aparte, a CIRCE.</stage>
+            <stage>[Aparte, a CIRCE.]</stage>
             <l> Si le das a cada uno </l>
             <l> un cuidado, ¿cómo, ¡ay Dios!, </l>
             <l> quieres que yo tenga dos? </l>
@@ -2448,7 +2448,7 @@
           </sp>
           <sp who="#circe">
             <speaker>CIRCE</speaker>
-            <stage>Aparte, a FLÉRIDA.</stage>
+            <stage>[Aparte, a FLÉRIDA.]</stage>
             <l> Si ambos los has de tener, </l>
             <l> ¿quién te metió, di, en saber </l>
             <l> cuál de los dos en rigor </l>
@@ -2457,7 +2457,7 @@
           </sp>
           <sp who="#arsidas">
             <speaker>ARSIDAS</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Circe se va, ingrata y bella; </l>
             <l> y aunque su ausencia sentí, </l>
             <l> no la seguiré, que así </l>
@@ -2465,7 +2465,7 @@
           </sp>
           <sp who="#ulises">
             <speaker>ULISES</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Circe se ausenta. Tras ella </l>
             <l> iré, aunque mi mal infiero </l>
             <l> por mostrarla que la quiero. </l>
@@ -2499,7 +2499,7 @@
             <speaker>CIRCE</speaker>
             <l> Bien a los dos considero </l>
             <l> en el embate primero. </l>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> ¡Oh si este amor, si este olvido, </l>
             <l n="465"> uno no fuera fingido </l>
             <l> y otro fuera verdadero! </l>
@@ -2550,44 +2550,44 @@
             <l> agradezca su trofeo </l>
             <l> con mis brazos mi deseo. </l>
             <stage>Abrázanse; y salen por dos puertas CIRCE y LISIDAS.</stage>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Yo misma de mí me admiro. </l>
           </sp>
           <sp who="#lisidas">
             <speaker>LISIDAS</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="495"> ¡Qué es esto, cielos, que miro! </l>
           </sp>
           <sp who="#circe">
             <speaker>CIRCE</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> ¡Qué esto, dioses, que veo! </l>
           </sp>
           <sp who="#lisidas">
             <speaker>LISIDAS</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> El griego Ulises es quien </l>
             <l> darme vida y muerte espera. </l>
           </sp>
           <sp who="#circe">
             <speaker>CIRCE</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Bien que fingiese quisiera; </l>
             <l n="500"> no que fingiese tan bien. </l>
           </sp>
           <sp who="#lisidas">
             <speaker>LISIDAS</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Muerte mis celos me den. </l>
           </sp>
           <sp who="#circe">
             <speaker>CIRCE</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Mas, ¿de qué debo quejarme? </l>
           </sp>
           <sp who="#lisidas">
             <speaker>LISIDAS</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> La vida intenta quitarme </l>
             <l> que me ha dado, Ulises, ¡cielos!; </l>
             <l n="505"> porque darme vida y celos </l>
@@ -2595,7 +2595,7 @@
           </sp>
           <sp who="#flérida">
             <speaker>FLÉRIDA</speaker>
-            <stage>A ULISES.</stage>
+            <stage>[A ULISES.]</stage>
             <l>Estaré, como te digo, </l>
             <l> de noche en ese jardín </l>
             <l> que cae sobre el mar, a fin </l>
@@ -2626,7 +2626,7 @@
           <stage>Vase.</stage>
           <sp who="#flérida">
             <speaker>FLÉRIDA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> No pudiera responder </l>
             <l> más a mi contento nada, </l>
             <l> pues de verme despreciada </l>
@@ -2635,7 +2635,7 @@
           </sp>
           <sp who="#lisidas">
             <speaker>LISIDAS</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> ¿Qué espero? Mas, ¡ay de mí!; </l>
             <l> que está Circe ingrata allí. </l>
             <l> Ocasión esperaré </l>
@@ -2982,7 +2982,7 @@
             <speaker>DUEÑA</speaker>
             <l> Brunelillo, gente viene </l>
             <l> y no es justo que nos vean. </l>
-            <stage>A CLARÍN.</stage>
+            <stage>[A CLARÍN.]</stage>
             <l>Oye, dóblenos y cierre </l>
             <l part="I"> la caja. </l>
           </sp>
@@ -3027,7 +3027,7 @@
           <stage>Sale LEBREL.</stage>
           <sp who="#lebrel">
             <speaker>LEBREL</speaker>
-            <stage>Para sí.</stage>
+            <stage>[Para sí.]</stage>
             <l n="735"> (¡Que tal pensase de mí </l>
             <l> Circe, y que a Clarín creyese! </l>
             <l> Huyendo vengo a este monte </l>
@@ -3105,7 +3105,7 @@
           </sp>
           <sp who="#clarín">
             <speaker>CLARÍN</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Son muy excelentes joyas </l>
             <l> para el diablo que las lleve. </l>
           </sp>
@@ -3129,7 +3129,7 @@
           </sp>
           <sp who="#clarín">
             <speaker>CLARÍN</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> Viven los cielos </l>
             <l> que es imposible que hubiese </l>
             <l> diamantes donde hubo dueñas. </l>
@@ -3203,7 +3203,7 @@
           </sp>
           <sp who="#clarín">
             <speaker>CLARÍN</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="810" part="F">(¡Qué obediente </l>
             <l> es toda aquesta familia! </l>
             <l> ¡Con la presteza que vienen </l>
@@ -3331,7 +3331,7 @@
           </sp>
           <sp who="#circe">
             <speaker>CIRCE</speaker>
-            <stage>Dentro.</stage>
+            <stage>[Dentro.]</stage>
             <l n="860" part="F"> Sube, </l>
             <l> remontada garza, a hacerte </l>
             <l> estrella viva de pluma. </l>
@@ -3394,7 +3394,7 @@
             <speaker>CIRCE</speaker>
             <l part="F">Un punto no esperes </l>
             <l> hasta mirarte a un espejo. </l>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Ya en su forma no ha de verse. </l>
           </sp>
           <sp who="#clarín">
@@ -3458,7 +3458,7 @@
           </sp>
           <sp who="#ulises">
             <speaker>ULISES</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> Yo estoy loco. </l>
           </sp>
           <sp who="#circe">
@@ -3487,8 +3487,8 @@
           </sp>
           <sp who="#circe">
             <speaker>CIRCE</speaker>
-            <stage>Aparte.</stage>
-            <l part="F"> ¡Oh, mal haya la porfía!) </l>
+            <stage>[Aparte.]</stage>
+            <l part="F"> (¡Oh, mal haya la porfía!) </l>
             <l n="920"> Mas, pues fingidos son esos extremos, </l>
             <l part="I"> hablemos en la caza sola. </l>
           </sp>
@@ -3532,12 +3532,12 @@
           </sp>
           <sp who="#ulises">
             <speaker>ULISES</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> ¡A Júpiter pluguiera! </l>
           </sp>
           <sp who="#circe">
             <speaker>CIRCE</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> (Pluguiera al cielo, ¡ay Dios!, que no lo fuera.) </l>
             <l> Y pues que solo estás aquí conmigo, </l>
             <l part="I"> no finjas y prosigue. </l>
@@ -3648,7 +3648,7 @@
           </sp>
           <sp who="#circe">
             <speaker>CIRCE</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> (¡Oh, bien haya la porfía!) </l>
             <l> Ulises, aunque fuera </l>
             <l> justo que de escarmiento te sirviera </l>
@@ -3662,7 +3662,7 @@
           <stage>Salen todos.</stage>
           <sp who="#arsidas">
             <speaker>ARSIDAS</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> (Aunque en tantos desvelos </l>
             <l> mis agravios se valgan de mis celos, </l>
             <l n="1020"> no darme intentaré por entendido. </l>
@@ -4297,7 +4297,7 @@
           </sp>
           <sp who="#clarín">
             <speaker>CLARÍN</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> (¿No es cosa extraña </l>
             <l n="155"> que hable para mí y discurra </l>
             <l> con sentidos, vida y alma, </l>
@@ -5120,7 +5120,7 @@
           </sp>
           <sp who="#circe #flérida #libia #astrea #tisbe #sirene #clori">
             <speaker>LAS MUJERES</speaker>
-            <stage>Dentro.</stage>
+            <stage>[Dentro.]</stage>
             <l> ¡Cierra Trinacria, cierra! </l>
           </sp>
           <sp who="#lisidas">
@@ -5259,7 +5259,7 @@
             <speaker>CLARÍN</speaker>
             <l n="660"> Ello, en fin, no hay replicar: </l>
             <l> o no comer o voltear. </l>
-            <stage>Voltea.</stage>
+            <stage>[Voltea.]</stage>
           </sp>
           <sp who="#lebrel">
             <speaker>LEBREL</speaker>
@@ -5729,7 +5729,7 @@
           </sp>
           <sp who="#ulises">
             <speaker>ULISES</speaker>
-            <stage>Dentro.</stage>
+            <stage>[Dentro.]</stage>
             <l> Ásperos montes del Flegra, </l>
             <l> cuya eminencia compite </l>
             <l> con el cielo pues sus puntas </l>
