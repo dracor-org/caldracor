@@ -429,7 +429,7 @@
           </sp>
           <sp who="#clarín">
             <speaker>CLARÍN</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> Di que sí.</l>
           </sp>
           <sp who="#rosaura">
@@ -553,9 +553,9 @@
             <l> las que dellas me sobraren. </l>
             <l part="I"> Yo soy... </l>
           </sp>
+          <stage>Dentro CLOTALDO.</stage>
           <sp who="#clotaldo">
             <speaker>CLOTALDO</speaker>
-            <stage>Dentro CLOTALDO.</stage>
             <l part="F"> Guardas desta torre, </l>
             <l> que, dormidas o cobardes, </l>
             <l> disteis paso a dos personas </l>
@@ -730,8 +730,8 @@
           </sp>
           <sp who="#clotaldo">
             <speaker>CLOTALDO</speaker>
-            <stage>Aparte.</stage>
-            <l part="F">¡Santos cielos! </l>
+            <stage>[Aparte.]</stage>
+            <l part="F">(¡Santos cielos! </l>
             <l> ¿Qué es esto? Ya son más graves </l>
             <l> mis penas y confusiones, </l>
             <l n="380"> mis ansias y mis pesares.) </l>
@@ -770,7 +770,7 @@
           </sp>
           <sp who="#clotaldo">
             <speaker>CLOTALDO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="395">¡Válgame el cielo! ¿Qué escucho? </l>
             <l> Aun no sé determinarme </l>
             <l> si tales sucesos son </l>
@@ -852,9 +852,9 @@
             <l> de vivir o de morir, </l>
             <l> no sé cuáles son más grandes. </l>
           </sp>
+          <stage>Vanse.</stage>
         </div>
         <div type="scene" resp="#rojas" n="5">
-          <stage>Vanse.</stage>
           <stage>Sale por una parte ASTOLFO con acompañamiento de SOLDADOS, y por otra ESTRELLA con damas. Suena música.</stage>
           <sp who="#astolfo">
             <speaker>ASTOLFO</speaker>
@@ -1389,8 +1389,8 @@
           <sp who="#clotaldo">
             <speaker>CLOTALDO</speaker>
             <l> ¡Vivas, gran señor, mil siglos! </l>
-            <stage>Aparte.</stage>
-            <l n="890">Mejoró el cielo la suerte. </l>
+            <stage>[Aparte.]</stage>
+            <l n="890">(Mejoró el cielo la suerte. </l>
             <l> Ya no diré que es mi hijo, </l>
             <l> pues que lo puedo excusar.) </l>
             <l> Extranjeros peregrinos, </l>
@@ -1430,7 +1430,7 @@
           <sp who="#rosaura">
             <speaker>ROSAURA</speaker>
             <stage>Aparte.</stage>
-            <l> Bien con aquesto le animo.) </l>
+            <l> (Bien con aquesto le animo.) </l>
             <l> Confieso que no la tengo, </l>
             <l> aunque de ti la recibo; </l>
             <l> pero yo con la venganza </l>
@@ -1477,11 +1477,11 @@
             <l> ganarme a mí con decirlo; </l>
             <l> pues fuera cerrarme el paso </l>
             <l> de ayudar a tu enemigo. </l>
+            <stage>Aparte.</stage>
+            <l n="940"> (¡Oh, si supiera quién es!) </l>
           </sp>
           <sp who="#rosaura">
             <speaker>ROSAURA</speaker>
-            <stage>Aparte.</stage>
-            <l n="940"> ¡Oh, si supiera quién es!) </l>
             <l> Porque no pienses que estimo </l>
             <l> tan poco esa confianza, </l>
             <l> sabe que el contrario ha sido </l>
@@ -1491,7 +1491,7 @@
           <sp who="#clotaldo">
             <speaker>CLOTALDO</speaker>
             <stage>Aparte.</stage>
-            <l n="945" part="F"> Mal resisto </l>
+            <l n="945" part="F"> (Mal resisto </l>
             <l> el dolor, porque es más grave </l>
             <l> que fue imaginado, visto.) </l>
             <l> Apuremos más el caso. </l>
@@ -1513,11 +1513,11 @@
             <l part="F"> No pudo, </l>
             <l> aunque pusiera, atrevido, </l>
             <l part="I"> la mano en tu rostro. </l>
+            <stage>[Aparte.]</stage>
+            <l part="F"> (¡Ay cielos!) </l>
           </sp>
           <sp who="#rosaura">
             <speaker>ROSAURA</speaker>
-            <stage>Aparte.</stage>
-            <l part="F"> ¡Ay cielos!) </l>
             <l> Mayor fue el agravio mío. </l>
           </sp>
           <sp who="#clotaldo">
@@ -1778,8 +1778,8 @@
           <stage>Vase, y sale CLARÍN.</stage>
           <sp who="#clarín">
             <speaker>CLARÍN</speaker>
-            <stage>Aparte.</stage>
-            <l>A costa de cuatro palos </l>
+            <stage>[Aparte.]</stage>
+            <l> A costa de cuatro palos </l>
             <l> que el llegar aquí me cuesta </l>
             <l> de un alabardero rubio </l>
             <l> que barbó de su librea, </l>
@@ -1794,8 +1794,8 @@
           </sp>
           <sp who="#clotaldo">
             <speaker>CLOTALDO</speaker>
-            <stage>Aparte.</stage>
-            <l>Éste es Clarín, el criado </l>
+            <stage>[Aparte.]</stage>
+            <l> (Éste es Clarín, el criado </l>
             <l> de aquella, ¡ay cielos!, de aquella </l>
             <l n="195"> que, tratante de desdichas, </l>
             <l> pasó a Polonia mi afrenta.) </l>
@@ -1950,7 +1950,7 @@
           </sp>
           <sp who="#segismundo">
             <speaker>SEGISMUNDO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Clotaldo es; pues ¿cómo así </l>
             <l n="280"> quien en prisión me maltrata </l>
             <l> con tal respeto me trata? </l>
@@ -2145,11 +2145,11 @@
           </sp>
           <sp who="#criado-2">
             <speaker>[CRIADO] 2.º</speaker>
-            <stage>A ASTOLFO.</stage>
+            <stage>[A ASTOLFO.]</stage>
             <l> Vuestra Alteza considere </l>
             <l n="380"> que como en montes nacido </l>
             <l> con todos ha procedido. </l>
-            <stage>A SEGISMUNDO.</stage>
+            <stage>[A SEGISMUNDO.]</stage>
             <l> Astolfo, señor, prefiere... </l>
           </sp>
           <sp who="#segismundo">
@@ -2229,13 +2229,13 @@
           </sp>
           <sp who="#astolfo">
             <speaker>ASTOLFO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Si él toma la mano, yo </l>
             <l part="I"> soy perdido. </l>
           </sp>
           <sp who="#criado-2">
             <speaker>[CRIADO] 2.º</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> El pesar sé </l>
             <l n="425"> de Astolfo, y le estorbaré. </l>
             <l> Advierte, señor, que no </l>
@@ -2294,7 +2294,7 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="8">
-          <stage>Vase.</stage>
+          <stage>[Vase.]</stage>
           <sp who="#segismundo">
             <speaker>SEGISMUNDO</speaker>
             <l n="445"> Cayó del balcón al mar. </l>
@@ -2517,31 +2517,31 @@
             <l n="590"> que juntando el oriente y el ocaso, </l>
             <l> la lumbre y sombra fría, </l>
             <l> serás sin duda síncopa del día. </l>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Pero ¿qué es lo que veo? </l>
           </sp>
           <sp who="#rosaura">
             <speaker>ROSAURA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Lo mismo que estoy viendo, dudo y creo. </l>
           </sp>
           <sp who="#segismundo">
             <speaker>SEGISMUNDO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="595"> Yo he visto esta belleza </l>
             <l part="I"> otra vez. </l>
           </sp>
           <sp who="#rosaura">
             <speaker>ROSAURA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> Yo, esta pompa, esta grandeza </l>
             <l> he visto reducida </l>
             <l part="I"> a una estrecha prisión. </l>
           </sp>
           <sp who="#segismundo">
             <speaker>SEGISMUNDO</speaker>
-            <stage>Aparte.</stage>
-            <l part="F">Ya hallé mi vida.) </l>
+            <stage>[Aparte.]</stage>
+            <l part="F"> (Ya hallé mi vida.) </l>
             <l> Mujer, que aqueste nombre </l>
             <l n="600"> es el mejor requiebro para el hombre </l>
             <l> ¿quién eres? Que sin verte </l>
@@ -2552,8 +2552,8 @@
           </sp>
           <sp who="#rosaura">
             <speaker>ROSAURA</speaker>
-            <stage>Aparte.</stage>
-            <l>Disimular me importa.) Soy de Estrella </l>
+            <stage>[Aparte.]</stage>
+            <l> (Disimular me importa.) Soy de Estrella </l>
             <l> una infelice dama. </l>
           </sp>
           <sp who="#segismundo">
@@ -2589,7 +2589,7 @@
           <stage>Sale CLOTALDO.</stage>
           <sp who="#clotaldo">
             <speaker>CLOTALDO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> A Segismundo reducir deseo, </l>
             <l> porque en fin lo he criado. Mas ¿qué veo? </l>
           </sp>
@@ -2645,7 +2645,7 @@
           </sp>
           <sp who="#clotaldo">
             <speaker>CLOTALDO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Mucho se va empeñando. </l>
             <l> ¿Qué he de hacer, cielos, cuando </l>
             <l> tras un loco deseo </l>
@@ -2678,7 +2678,7 @@
           <stage>Vase CLARÍN.</stage>
           <sp who="#rosaura">
             <speaker>ROSAURA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="680" part="F"> Yo soy muerta. </l>
             <l part="I"> Advierte... </l>
           </sp>
@@ -2689,7 +2689,7 @@
           </sp>
           <sp who="#clotaldo">
             <speaker>CLOTALDO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> ¡Oh qué lance tan fuerte! </l>
             <l> Saldré a estorbarlo, aunque me dé la muerte. </l>
             <l n="685"> Señor, atiende, mira. </l>
@@ -2748,11 +2748,10 @@
             <speaker>ROSAURA</speaker>
             <l> ¡Acudid todos presto, </l>
             <l part="I"> que matan a Clotaldo! </l>
-
+            <stage>Vase.</stage>
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="14">
-          <stage>Vase.</stage>
           <stage>Sale ASTOLFO a tiempo que cae CLOTALDO a sus pies, y él se pone en medio.</stage>
           <sp who="#astolfo">
             <speaker>ASTOLFO</speaker>
@@ -2797,7 +2796,7 @@
           </sp>
           <sp who="#estrella">
             <speaker>ESTRELLA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Astolfo es. ¡Ay de mí, penas airadas! </l>
           </sp>
           <sp who="#basilio">
@@ -2844,9 +2843,10 @@
             <l> que cuanto te ha pasado, </l>
             <l> como fue bien del mundo, fue soñado. </l>
           </sp>
+          <stage>Vanse el REY y CLOTALDO.</stage>
         </div>
         <div type="scene" resp="#rojas" n="17">
-          <stage>Vanse el REY y CLOTALDO. Quedan ESTRELLA y ASTOLFO.</stage>
+          <stage>Quedan ESTRELLA y ASTOLFO.</stage>
           <sp who="#astolfo">
             <speaker>ASTOLFO</speaker>
             <l> ¡Qué pocas veces el hado </l>
@@ -2898,7 +2898,7 @@
           <stage>Sale ROSAURA al paño.</stage>
           <sp who="#rosaura">
             <speaker>ROSAURA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> ¡Gracias a Dios q[ue] han llegado </l>
             <l n="780"> ya mis desdichas crüeles </l>
             <l> al término suyo, pues </l>
@@ -2924,7 +2924,7 @@
           <stage>Vase.</stage>
           <sp who="#rosaura">
             <speaker>ROSAURA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Nada he podido escuchar, </l>
             <l> temerosa que me viese. </l>
           </sp>
@@ -3211,7 +3211,7 @@
           <sp who="#rosaura">
             <speaker>ROSAURA</speaker>
             <stage>Aparte.</stage>
-            <l part="F">Déme, </l>
+            <l part="F"> (Déme, </l>
             <l> para cobrar mi retrato, </l>
             <l> ingenio el amor.) Si quieres </l>
             <l n="975"> saber lo que es, yo, señora, </l>
@@ -3282,7 +3282,7 @@
           </sp>
           <sp who="#rosaura">
             <speaker>ROSAURA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Yo he cobrado mi retrato </l>
             <l n="1010"> venga ahora lo que viniere. </l>
 
@@ -3302,8 +3302,8 @@
           </sp>
           <sp who="#astolfo">
             <speaker>ASTOLFO</speaker>
-            <stage>Aparte.</stage>
-            <l part="F">¿Cómo puedo </l>
+            <stage>[Aparte.]</stage>
+            <l part="F"> (¿Cómo puedo </l>
             <l> salir de lance tan fuerte?) </l>
             <l> Aunque quiera, hermosa Estrella </l>
             <l n="1020"> servirte y obedecerte, </l>
@@ -3330,11 +3330,10 @@
             <l n="1030"> ¿Dónde, cómo o de qué suerte </l>
             <l> hoy a Polonia has venido </l>
             <l> a perderme y a perderte? </l>
-
+            <stage>Vase.</stage>
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="25">
-          <stage>Vase.</stage>
           <stage>Descúbrese SEGISMUNDO como al principio, con pieles y cadena, durmiendo en el suelo. Salen CLOTALDO, CLARÍN y los dos criados.</stage>
           <sp who="#clotaldo">
             <speaker>CLOTALDO</speaker>
@@ -3397,6 +3396,8 @@
             <l> que es instrumento rüin. </l>
           </sp>
           <stage>Llévanle.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="26">
           <stage>Sale el REY BASILIO rebozado.</stage>
           <sp who="#basilio">
             <speaker>BASILIO</speaker>
@@ -3478,7 +3479,7 @@
             <stage>A CLOTALDO.</stage>
             <l> Pues a mí no me ha de ver. </l>
             <l n="1095"> Ya sabes lo que has de hacer. </l>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Desde allí a escucharte voy. </l>
             <stage>Retírase.</stage>
           </sp>
@@ -3493,7 +3494,7 @@
           </sp>
           <sp who="#clotaldo">
             <speaker>CLOTALDO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> A mí me toca llegar </l>
             <l> a hacer la deshecha ahora. </l>
             <l n="1105"> ¿Es ya de despertar hora? </l>
@@ -3574,12 +3575,12 @@
             <l> y esto solo no se acaba. </l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="26">
+        <div type="scene" resp="#rojas" n="27">
           <stage>Vase el REY.</stage>
           <sp who="#clotaldo">
             <speaker>CLOTALDO</speaker>
-            <stage>Aparte.</stage>
-            <l> Enternecido se ha ido el Rey </l>
+            <stage>[Aparte.]</stage>
+            <l> (Enternecido se ha ido el Rey </l>
             <l> de haberle escuchado.) </l>
             <l n="1155"> Como habíamos hablado </l>
             <l> de aquella águila, dormido, </l>
@@ -3592,7 +3593,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="27">
+        <div type="scene" resp="#rojas" n="28">
           <stage>Vase.</stage>
           <sp who="#segismundo">
             <speaker>SEGISMUNDO</speaker>
@@ -3739,7 +3740,7 @@
           </sp>
           <sp who="#clarín">
             <speaker>CLARÍN</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="55"> ¡Vive Dios, que va de veras! </l>
             <l> ¿Si es costumbre en este reino </l>
             <l> prender uno cada día </l>
@@ -3791,7 +3792,7 @@
           </sp>
           <sp who="#clarín">
             <speaker>CLARÍN</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> ¿Segismundo dicen? Bueno. </l>
             <l> Segismundos llaman todos </l>
             <l> los príncipes contrahechos. </l>
@@ -3805,7 +3806,7 @@
           </sp>
           <sp who="#clarín">
             <speaker>CLARÍN</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="80"> ¡Mas que soy príncipe huero! </l>
           </sp>
           <sp who="#soldado-2">
@@ -3864,11 +3865,11 @@
           </sp>
           <sp who="#criado-1 #criado-2 #guardas">
             <speaker>VOCES</speaker>
+            <stage>Dentro.</stage>
             <l> ¡Viva Segismundo, viva! </l>
           </sp>
           <sp who="#segismundo">
             <speaker>SEGISMUNDO</speaker>
-            <stage>Dentro.</stage>
             <l n="120"> ¿Otra vez (¿qué es esto, cielos?) </l>
             <l> queréis que sueñe grandezas </l>
             <l> que ha de deshacer el tiempo? </l>
@@ -3959,7 +3960,7 @@
             <l> tomar armas y sacar </l>
             <l> verdaderos a los cielos; </l>
             <l n="195"> presto he de verle a mis plantas. </l>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Mas si antes desto despierto </l>
             <l> ¿no será bien no decirlo </l>
             <l> supuesto que no he de hacerlo? </l>
@@ -3988,7 +3989,7 @@
           </sp>
           <sp who="#clarín">
             <speaker>CLARÍN</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> Yo apuesto </l>
             <l> que le despeña del monte. </l>
 
@@ -4037,7 +4038,7 @@
             <speaker>SEGISMUNDO</speaker>
             <l part="F"> ¡Villano, </l>
             <l part="I"> traidor, ingrato! </l>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> Mas ¡cielos! </l>
             <l n="225"> reportarme me conviene, </l>
             <l> que aún no sé si estoy despierto. </l>
@@ -4054,7 +4055,7 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="6">
-          <stage>Vase.</stage>
+          <stage>[Vase.]</stage>
           <sp who="#segismundo">
             <speaker>SEGISMUNDO</speaker>
             <l> A reinar, fortuna, vamos; </l>
@@ -4066,9 +4067,9 @@
             <l> si no, por ganar amigos </l>
             <l n="240"> para cuando despertemos. </l>
           </sp>
+          <stage>Vanse, y tocan el arma.</stage>
         </div>
         <div type="scene" resp="#rojas" n="7">
-          <stage>Vanse, y tocan el arma.</stage>
           <stage>Salen el REY BASILIO y ASTOLFO.</stage>
           <sp who="#basilio">
             <speaker>BASILIO</speaker>
@@ -4175,9 +4176,9 @@
             <l> que he de volar sobre tendidas alas </l>
             <l> a competir con la deidad de Palas. </l>
           </sp>
+          <stage>Vase, y tocan al arma.</stage>
         </div>
         <div type="scene" resp="#rojas" n="12">
-          <stage>Vase, y tocan al arma.</stage>
           <stage>Sale ROSAURA y detiene a CLOTALDO.</stage>
           <sp who="#rosaura">
             <speaker>ROSAURA</speaker>
@@ -4487,11 +4488,10 @@
             <speaker>CLOTALDO</speaker>
             <l> Pues has de perderte, espera, </l>
             <l> hija, y perdámonos todos. </l>
-
+          <stage>Vase.</stage>
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="14">
-          <stage>Vase.</stage>
           <stage>Tocan y salen, marchando, SOLDADOS, CLARÍN y SEGISMUNDO, vestido de pieles.</stage>
           <sp who="#segismundo">
             <speaker>SEGISMUNDO</speaker>
@@ -4788,7 +4788,7 @@
           </sp>
           <sp who="#segismundo">
             <speaker>SEGISMUNDO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="735"> Cielos, si es verdad que sueño, </l>
             <l> suspendedme la memoria, </l>
             <l> que no es posible que quepan </l>
@@ -4892,10 +4892,10 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="17">
-          <stage>Vanse.</stage>
+          <stage>Va[n]se.</stage>
           <sp who="#rosaura">
             <speaker>ROSAURA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> ¿Qué enigmas, cielos, son éstas? </l>
             <l n="830"> Después de tanto pesar, </l>
             <l> ¡aún me queda que dudar </l>
@@ -4986,8 +4986,10 @@
             <l> la muerte no me hallará, </l>
             <l> dos higas para la muerte. </l>
           </sp>
-          <stage>Escóndese. Suena ruido de armas.</stage>
-          <stage>Salen el REY, CLOTALDO y ASTOLFO, huyendo.</stage>
+          <stage>Escóndese.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="20">
+          <stage>Suena ruido de armas. Salen el REY, CLOTALDO y ASTOLFO, huyendo.</stage>
           <sp who="#basilio">
             <speaker>BASILIO</speaker>
             <l> ¿Hay más infelice rey? </l>
@@ -5049,6 +5051,8 @@
             <l> si está de Dios que muráis. </l>
             <stage>Cae dentro.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="21">
           <sp who="#basilio">
             <speaker>BASILIO</speaker>
             <l> Mirad que vais a morir, </l>
@@ -5102,7 +5106,7 @@
             <l> esperando cara a cara. </l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="20">
+        <div type="scene" resp="#rojas" n="22">
           <stage>Tocan al arma, y sale SEGISMUNDO y toda la compañía.</stage>
           <sp who="#segismundo">
             <speaker>SEGISMUNDO</speaker>
