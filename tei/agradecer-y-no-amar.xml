@@ -364,7 +364,7 @@
             <l>¿Quién creyera. . .?</l>
           </sp>
           <sp who="#roberto">
-            <speaker rend="caps">Roberto</speaker>
+            <speaker rend="caps">[Roberto]</speaker>
             <stage type="withText">dentro.</stage>
 
 
@@ -380,7 +380,7 @@
           </sp>
           <sp who="#roberto">
             <speaker rend="caps">Roberto</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>¡Hola, aho!</l>
@@ -396,7 +396,7 @@
           </sp>
           <sp who="#roberto">
             <speaker rend="caps">Roberto</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>¡Laurencio!</l>
@@ -410,7 +410,7 @@
           </sp>
           <sp who="#roberto">
             <speaker rend="caps">Roberto</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>¿Dónde</l>
@@ -420,7 +420,7 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="4">
-          <stage>Sale Roberto en lo alto.</stage>
+          <stage>[Sale Roberto en lo alto.]</stage>
           <sp who="#laurencio">
             <speaker rend="caps">Laurencio</speaker>
 
@@ -523,7 +523,7 @@
             <l>lo pague que pies y piernas,</l>
             <l>que son frágiles canillas?</l>
             <l>¡Dios vaya conmigo! ¡Ah! Pesia</l>
-            <stage>Rueda.</stage>
+            <stage>[Rueda.]</stage>
             <l>el primero que inventó</l>
             <l>andar por montes y selvas</l>
             <l>tras de un conejo, arrastrado</l>
@@ -1099,14 +1099,14 @@
           </sp>
           <sp who="#laurencio">
             <speaker rend="caps">Laurencio</speaker>
-            <stage type="withText">A Roberto.</stage>
+            <stage type="withText">[A Roberto.]</stage>
 
 
             <l>(Pasa, Roberto, al descuido.)</l>
           </sp>
           <sp who="#roberto">
             <speaker rend="caps">Roberto</speaker>
-            <stage type="withText">A Laurencio.</stage>
+            <stage type="withText">[A Laurencio.]</stage>
 
 
             <l>(¡Por Dios, con gentil librea</l>
@@ -1139,21 +1139,21 @@
           </sp>
           <sp who="#laurencio">
             <speaker rend="caps">Laurencio</speaker>
-            <stage type="withText">A Roberto.</stage>
+            <stage type="withText">[A Roberto.]</stage>
 
 
             <l>(¿Llaman?)</l>
           </sp>
           <sp who="#roberto">
             <speaker rend="caps">Roberto</speaker>
-            <stage type="withText">A Laurencio.</stage>
+            <stage type="withText">[A Laurencio.]</stage>
 
 
             <l>(Sí.)</l>
           </sp>
           <sp who="#laurencio">
             <speaker rend="caps">Laurencio</speaker>
-            <stage type="withText">A Roberto.</stage>
+            <stage type="withText">[A Roberto.]</stage>
 
 
             <l>(Llega</l>
@@ -1164,7 +1164,7 @@
           </sp>
           <sp who="#roberto">
             <speaker rend="caps">Roberto</speaker>
-            <stage type="withText">A Laurencio.</stage>
+            <stage type="withText">[A Laurencio.]</stage>
 
 
             <l>(Como lo que en mí se quiebre</l>
@@ -1188,7 +1188,7 @@
           </sp>
           <sp who="#laurencio">
             <speaker rend="caps">Laurencio</speaker>
-            <stage type="withText">A Roberto.</stage>
+            <stage type="withText">[A Roberto.]</stage>
 
 
             <l>(Bestia,</l>
@@ -1196,7 +1196,7 @@
           </sp>
           <sp who="#roberto">
             <speaker rend="caps">Roberto</speaker>
-            <stage type="withText">A Laurencio.</stage>
+            <stage type="withText">[A Laurencio.]</stage>
 
 
             <l>(Pues ¿no es verdad?)</l>
@@ -1229,7 +1229,7 @@
           </sp>
           <sp who="#laurencio">
             <speaker rend="caps">Laurencio</speaker>
-            <stage type="withText">A Roberto.</stage>
+            <stage type="withText">[A Roberto.]</stage>
 
 
             <l>(¿Qué? ¡Loco!)</l>
@@ -1242,7 +1242,7 @@
           </sp>
           <sp who="#laurencio">
             <speaker rend="caps">Laurencio</speaker>
-            <stage type="withText">A Roberto.</stage>
+            <stage type="withText">[A Roberto.]</stage>
 
 
             <l>(¡Vive Dios!...)</l>
@@ -1305,7 +1305,7 @@
           </sp>
           <sp who="#roberto">
             <speaker rend="caps">Roberto</speaker>
-            <stage type="withText">A Laurencio.</stage>
+            <stage type="withText">[A Laurencio.]</stage>
 
 
             <l>(¡Ten, que vale cien escudos!</l>
@@ -1460,7 +1460,7 @@
             <l>tomad vos lo que os parezca.</l>
             <l>Venid, dejad ese loco.</l>
           </sp>
-          <stage>Quítanse del balcón Flérida y sus damas.</stage>
+          <stage>[Quítanse del balcón Flérida y sus damas.]</stage>
           <sp who="#lísida">
             <speaker rend="caps">Lísida</speaker>
 
@@ -1522,9 +1522,9 @@
             <l>con tan costosa experiencia?</l>
             <l>¿Qué te va en...?</l>
           </sp>
+          <stage>Dentro Lisardo.</stage>
           <sp who="#lisardo">
             <speaker rend="caps">Lisardo</speaker>
-            <stage type="withText">dentro.</stage>
 
 
             <l>¡Valedme, cielos!</l>
@@ -1558,7 +1558,7 @@
             <l>chocando en aquella arena,</l>
             <l>le arrojó?</l>
           </sp>
-          <stage>Cae al tablado Lisardo.</stage>
+          <stage>[Cae al tablado Lisardo.]</stage>
           <sp who="#lisardo">
             <speaker rend="caps">Lisardo</speaker>
 
@@ -1591,7 +1591,7 @@
             <l>a quien el dolor reserva</l>
             <l>para consuelo de un triste...</l>
           </sp>
-          <stage>Quédase elevado.</stage>
+          <stage>[Quédase elevado.]</stage>
           <sp who="#roberto">
             <speaker rend="caps">Roberto</speaker>
 
@@ -1683,9 +1683,9 @@
 
             <l>No le dejes.</l>
           </sp>
+          <stage>Dentro el Príncipe</stage>
           <sp who="#príncipe">
             <speaker rend="caps">Príncipe</speaker>
-            <stage type="withText">dentro.</stage>
 
 
             <l>¡Ah del monte!</l>
@@ -1693,7 +1693,7 @@
             <l>penetráis...</l>
           </sp>
           <sp who="#voces">
-            <speaker rend="caps">Voces</speaker>
+            <speaker rend="caps">[Voces]</speaker>
             <stage type="withText">dentro.</stage>
 
 
@@ -1728,12 +1728,12 @@
 
 
             <l>(Harto más me pesa a mí.)</l>
-            <stage>A Laurencio.</stage>
+            <stage>[A Laurencio.]</stage>
             <l>(¿Quién es?)</l>
           </sp>
           <sp who="#laurencio">
             <speaker rend="caps">Laurencio</speaker>
-            <stage type="withText">A Roberto.</stage>
+            <stage type="withText">[A Roberto.]</stage>
 
 
             <l>(Yo no sé quién sea.)</l>
@@ -1801,12 +1801,12 @@
 
             <l>Esperad con ellos</l>
             <l>en esos jardines bellos.</l>
-            <stage>Vanse Flora y las damas.</stage>
-            <stage>A Lísida.</stage>
+            <stage>[Vanse Flora y las damas.]</stage>
+            <stage>[A Lísida.]</stage>
             <l>Espérate tú, que a ti</l>
             <l>no hay secreto reservado</l>
             <l>en mis penas o alegrías.</l>
-            <stage>A Fabio.</stage>
+            <stage>[A Fabio.]</stage>
             <l>Di tú lo que me querías</l>
             <l>decir, pues sola he quedado.</l>
             <l>(Que ya mi amor lo esperó.)</l>
@@ -1933,13 +1933,12 @@
             <l>y porque es de un criado tuyo</l>
             <l>esta carta que te fío.</l>
           </sp>
-          <stage>Dásela.</stage>
+          <stage>[Dásela.]</stage>
           <sp who="#flérida">
             <speaker rend="caps">Flérida</speaker>
             <stage type="withText">Lee.</stage>
 
 
-            <l/>
             <l>“El príncipe, mi señor, por no echar más a sus oídos</l>
             <l>que a sus ojos la culpa, por no llegar a las felicidades de esposo</l>
             <l>sin pasar por los méritos de amante, acompañado solamente de</l>
@@ -1983,7 +1982,7 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="9">
-          <stage>Vase.</stage>
+          <stage>[Vase.]</stage>
           <sp who="#flérida">
             <speaker rend="caps">Flérida</speaker>
 
@@ -2197,7 +2196,7 @@
           <stage>Vanse.</stage>
           <sp who="#música">
             <speaker rend="caps">Música</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>A nadie puede ofender</l>
@@ -2205,7 +2204,7 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="11">
-          <stage>Salen Laurencio y Roberto.</stage>
+          <stage>Salen Laurencio [y Roberto].</stage>
           <sp who="#laurencio">
             <speaker rend="caps">Laurencio</speaker>
 
@@ -2359,7 +2358,7 @@
           </sp>
           <sp who="#música">
             <speaker rend="caps">Música</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>a nadie puede ofender</l>
@@ -2385,10 +2384,10 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="13">
-          <stage>Vase.</stage>
+          <stage>[Vase.]</stage>
           <sp who="#música">
             <speaker rend="caps">Música</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>a nadie puede ofender</l>
@@ -2396,7 +2395,7 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="14">
-          <stage>Sale Laurencio.</stage>
+          <stage>[Sale Laurencio.]</stage>
           <sp who="#laurencio">
             <speaker rend="caps">Laurencio</speaker>
 
@@ -2417,7 +2416,7 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="15">
-          <stage>Escóndese y sale Flérida.</stage>
+          <stage>[Escóndese y] sale Flérida.</stage>
           <sp who="#flérida">
             <speaker rend="caps">Flérida</speaker>
 
@@ -2579,13 +2578,14 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="16">
-          <stage>Salen Lísida, Flora, Ismenia, dama y Fabio.</stage>
+          <stage>Salen [Lísida, Flora, Ismenia,] dama [y Fabio].</stage>
           <sp who="#todas">
             <speaker rend="caps">Todas</speaker>
 
 
             <l>Señora.</l>
           </sp>
+          <stage>Sale Fabio.</stage>
           <sp who="#fabio">
             <speaker rend="caps">Fabio</speaker>
 
@@ -3213,6 +3213,9 @@
             <l>en obligación de ser</l>
             <l>su amigo.</l>
           </sp>
+          <stage>Vanse [el Príncipe y Lisardo].</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="3">
           <sp who="#roberto">
             <speaker rend="caps">Roberto</speaker>
 
@@ -3220,7 +3223,6 @@
             <l>Vivas mil años, que</l>
             <l>él desea serlo vuestro...</l>
             <l>(como de todos los diablos.)</l>
-            <stage>Vanse el Príncipe y Lisardo.</stage>
             <l>Ve aquí que en obligación</l>
             <l>de filosofar un rato</l>
             <l>quedo, pues que solo quedo.</l>
@@ -3244,7 +3246,7 @@
             <stage>Vase.</stage>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="3">
+        <div type="scene" resp="#rojas" n="4">
           <stage>Cantan y sale Lísida.</stage>
           <sp who="#música">
             <speaker rend="caps">Música</speaker>
@@ -3300,8 +3302,8 @@
             <l>ni el llanto consume el fuego.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="4">
-          <stage>Salen Flérida, Flora, Ismenia y damas.</stage>
+        <div type="scene" resp="#rojas" n="5">
+          <stage>Salen Flérida, y los démas [(Flora, Ismenia y damas)].</stage>
           <sp who="#flérida">
             <speaker rend="caps">Flérida</speaker>
 
@@ -3318,7 +3320,7 @@
             <l>la carroza?</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="5">
+        <div type="scene" resp="#rojas" n="6">
           <stage>Sale Laurencio.</stage>
           <sp who="#laurencio">
             <speaker rend="caps">Laurencio</speaker>
@@ -3354,7 +3356,7 @@
             <l>“Ardo y lloro sin sosiego.”</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="6">
+        <div type="scene" resp="#rojas" n="7">
           <stage>Vase.</stage>
           <sp who="#flérida">
             <speaker rend="caps">Flérida</speaker>
@@ -3384,7 +3386,7 @@
             <l>la casa y monteros?</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="7">
+        <div type="scene" resp="#rojas" n="8">
           <stage>Sale Laurencio.</stage>
           <sp who="#laurencio">
             <speaker rend="caps">Laurencio</speaker>
@@ -3409,7 +3411,7 @@
             <l>“llorando y ardiendo tanto”.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="8">
+        <div type="scene" resp="#rojas" n="9">
           <stage>Vase.</stage>
           <sp who="#flérida">
             <speaker rend="caps">Flérida</speaker>
@@ -3425,7 +3427,7 @@
             <l>¡Ah jardineros!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="9">
+        <div type="scene" resp="#rojas" n="10">
           <stage>Sale Laurencio.</stage>
           <sp who="#laurencio">
             <speaker rend="caps">Laurencio</speaker>
@@ -3483,8 +3485,8 @@
             <l>“ni al llanto consume el fuego”.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="10">
-          <stage>Vase.</stage>
+        <div type="scene" resp="#rojas" n="11">
+          <stage>[Vase.]</stage>
           <sp who="#flérida">
             <speaker rend="caps">Flérida</speaker>
 
@@ -3494,7 +3496,7 @@
             <l>¡Fabio! ¡Hola!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="11">
+        <div type="scene" resp="#rojas" n="12">
           <stage>Sale Fabio.</stage>
           <sp who="#fabio">
             <speaker rend="caps">Fabio</speaker>
@@ -3658,7 +3660,7 @@
             <l>a ajenas manos.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="12">
+        <div type="scene" resp="#rojas" n="13">
           <stage>Sale Fabio.</stage>
           <sp who="#fabio">
             <speaker rend="caps">Fabio</speaker>
@@ -3718,7 +3720,7 @@
             <l>No una cólera me ciegue</l>
             <l>a hacer de las burlas veras</l>
             <l>con un mísero rendido.</l>
-            <stage>A Lísida.</stage>
+            <stage>[A Lísida.]</stage>
             <l>(Ves que he hecho lo que he podido.)</l>
           </sp>
           <sp who="#lísida">
@@ -3816,7 +3818,7 @@
           </sp>
           <sp who="#flérida">
             <speaker rend="caps">Flérida</speaker>
-            <stage type="withText">A Lísida.</stage>
+            <stage type="withText">[A Lísida.]</stage>
 
 
             <l>Llega.</l>
@@ -3947,10 +3949,12 @@
             <l>desagrádate de todo.</l>
             <l>Vuelva su curiosidad</l>
             <l>castigada.</l>
-            <stage>Vanse Lísida y las damas.</stage>
+            <stage>Va[n]se Lísida [y las damas].</stage>
             <l>Decid vos,</l>
             <l>Fabio,...</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="14">
           <sp who="#fabio">
             <speaker rend="caps">Fabio</speaker>
 
@@ -3963,19 +3967,14 @@
 
             <l>...que entren los dos.</l>
             <l>Aquí de mi vanidad.</l>
-          </sp>
-        </div>
-        <div type="scene" resp="#rojas" n="13">
-          <stage>Vase Fabio y salen el Príncipe y Lisardo.</stage>
-          <sp who="#flérida">
-            <speaker rend="caps">Flérida</speaker>
-
-
             <l>La princesa, mi señora,</l>
             <l>conmigo a decir envía</l>
             <l>que en aquesta galería</l>
             <l>la esperéis.</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="15">
+          <stage>[Vase Fabio y] sale[n] el Príncipe y Lisardo.</stage>
           <sp who="#príncipe">
             <speaker rend="caps">Príncipe</speaker>
 
@@ -4074,7 +4073,7 @@
             <l>el juicio por tal locura.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="14">
+        <div type="scene" resp="#rojas" n="16">
           <stage>Sale Fabio.</stage>
           <sp who="#fabio">
             <speaker rend="caps">Fabio</speaker>
@@ -4083,11 +4082,11 @@
             <l>Su Alteza sale.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="15">
-          <stage>Sale Lísida con las otras damas.</stage>
+        <div type="scene" resp="#rojas" n="17">
+          <stage>Sale Lísida y [las otras] damas.</stage>
           <sp who="#príncipe">
             <speaker rend="caps">Príncipe</speaker>
-            <stage type="withText">A Lisardo.</stage>
+            <stage type="withText">[A Lisardo.]</stage>
 
 
             <l>(¡Ay de mí,</l>
@@ -4115,7 +4114,7 @@
             <l>siquiera por forastero,</l>
             <l>un humilde mercader</l>
             <l>besar vuestra mano (¡ay cielos!),</l>
-            <stage>Conócela.</stage>
+            <stage>[Conócela.]</stage>
             <l>dadle licencia (¡ay de mí!)</l>
             <l>para que pueda (¿qué es esto?)</l>
             <l>a vuestras plantas lograr</l>
@@ -4128,7 +4127,7 @@
             <l>Alzad del suelo;</l>
             <l>que la lisonja de haber</l>
             <l>venido (¿qué es lo que veo?)</l>
-            <stage>Conócele.</stage>
+            <stage>[Conócele.]</stage>
             <l>con intento de servirme...</l>
             <l>(¡Turbada estoy!)</l>
           </sp>
@@ -4176,14 +4175,14 @@
           </sp>
           <sp who="#ismenia">
             <speaker rend="caps">Ismenia</speaker>
-            <stage type="withText">A Flérida y Flora.</stage>
+            <stage type="withText">[A Flérida y Flora.]</stage>
 
 
             <l>(Él se ha turbado de verla.)</l>
           </sp>
           <sp who="#flora">
             <speaker rend="caps">Flora</speaker>
-            <stage type="withText">A Ismenia y Flérida.</stage>
+            <stage type="withText">[A Ismenia y Flérida.]</stage>
 
 
             <l>(Claro nos ha dicho en eso</l>
@@ -4191,21 +4190,21 @@
           </sp>
           <sp who="#flérida">
             <speaker rend="caps">Flérida</speaker>
-            <stage type="withText">A Ismenia y Flora.</stage>
+            <stage type="withText">[A Ismenia y Flora.]</stage>
 
 
             <l>(En otra cosa es más cierto.)</l>
           </sp>
           <sp who="#ismenia">
             <speaker rend="caps">Ismenia</speaker>
-            <stage type="withText">A Flérida e Ismenia.</stage>
+            <stage type="withText">[A Flérida e Ismenia.]</stage>
 
 
             <l>(¿En qué?)</l>
           </sp>
           <sp who="#flérida">
             <speaker rend="caps">Flérida</speaker>
-            <stage type="withText">A Ismenia y Flora.</stage>
+            <stage type="withText">[A Ismenia y Flora.]</stage>
 
 
             <l>(En que no es de los dos...</l>
@@ -4322,7 +4321,7 @@
           </sp>
           <sp who="#flérida">
             <speaker rend="caps">Flérida</speaker>
-            <stage type="withText">A Lísida.</stage>
+            <stage type="withText">[A Lísida.]</stage>
 
 
             <l>(¡Qué bien lo finges! De todo</l>
@@ -4361,7 +4360,7 @@
           </sp>
           <sp who="#flérida">
             <speaker rend="caps">Flérida</speaker>
-            <stage type="withText">A Lísida.</stage>
+            <stage type="withText">[A Lísida.]</stage>
 
 
             <l>(Bien respondes.)</l>
@@ -4471,7 +4470,7 @@
           </sp>
           <sp who="#flérida">
             <speaker rend="caps">Flérida</speaker>
-            <stage type="withText">A Lísida.</stage>
+            <stage type="withText">[A Lísida.]</stage>
 
 
             <l>(En tu vida has hecho cosa</l>
@@ -4490,7 +4489,7 @@
           </sp>
           <sp who="#flérida">
             <speaker rend="caps">Flérida</speaker>
-            <stage type="withText">A Lísida.</stage>
+            <stage type="withText">[A Lísida.]</stage>
 
 
             <l>(¡Qué bien has hecho el papel!)</l>
@@ -4516,8 +4515,8 @@
             <l>que allá fuera trataremos.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="16">
-          <stage>Vanse todos, quedando el Príncipe y Flérida.</stage>
+        <div type="scene" resp="#rojas" n="18">
+          <stage>[Vanse todos, quedando el Príncipe y Flérida.]</stage>
           <sp who="#príncipe">
             <speaker rend="caps">Príncipe</speaker>
 
@@ -4632,7 +4631,7 @@
             <stage>Vanse.</stage>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="17">
+        <div type="scene" resp="#rojas" n="19">
           <stage>Salen Laurencio y Roberto.</stage>
           <sp who="#laurencio">
             <speaker rend="caps">Laurencio</speaker>
@@ -4909,7 +4908,7 @@
             <l>pues él me viene al encuentro.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="18">
+        <div type="scene" resp="#rojas" n="20">
           <stage>Salen el Príncipe y Lisardo.</stage>
           <sp who="#lisardo">
             <speaker rend="caps">Lisardo</speaker>
@@ -4947,7 +4946,7 @@
             <l>de las dudas que padezco.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="19">
+        <div type="scene" resp="#rojas" n="21">
           <stage>Vase.</stage>
           <sp who="#roberto">
             <speaker rend="caps">Roberto</speaker>
@@ -5046,7 +5045,7 @@
             <l>que vuelve Lisardo.)</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="20">
+        <div type="scene" resp="#rojas" n="22">
           <stage>Sale Lisardo.</stage>
           <sp who="#lisardo">
             <speaker rend="caps">Lisardo</speaker>
@@ -5083,7 +5082,7 @@
 
             <l>Dadme mil veces</l>
             <l>los brazos, para que en ellos...</l>
-            <stage>Vale a abrazar y, al conocerle, se apartan y sacan las espadas los dos.</stage>
+            <stage>[Vale a abrazar y, al conocerle, se apartan y sacan las espadas los dos.]</stage>
             <l>¡os dé muerte!</l>
           </sp>
           <sp who="#laurencio">
@@ -5121,7 +5120,7 @@
             <l>por una espada corriendo.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="21">
+        <div type="scene" resp="#rojas" n="23">
           <stage>Vase.</stage>
           <sp who="#príncipe">
             <speaker rend="caps">Príncipe</speaker>
@@ -5459,16 +5458,19 @@
             <l>pues dos pueden matar uno</l>
             <l>cuando uno se atreve a dos.</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="24">
+          <stage>Salen Fabio, Flérida, Lísida y Flora.</stage>
           <sp who="#lísida">
             <speaker rend="caps">Lísida</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>¡Las espadas han sacado!</l>
           </sp>
           <sp who="#flérida">
             <speaker rend="caps">Flérida</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>¡Acudid, acudid presto!</l>
@@ -5479,9 +5481,6 @@
 
             <l>Su Alteza está aquí.</l>
           </sp>
-        </div>
-        <div type="scene" resp="#rojas" n="22">
-          <stage>Salen Flérida, Lísida, Flora y Fabio.</stage>
           <sp who="#flérida">
             <speaker rend="caps">Flérida</speaker>
 
@@ -5503,7 +5502,7 @@
             <l>y no otra de respetaros.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="23">
+        <div type="scene" resp="#rojas" n="25">
           <stage>Vase.</stage>
           <sp who="#flérida">
             <speaker rend="caps">Flérida</speaker>
@@ -5535,14 +5534,14 @@
             <l>ocasión para vengarme.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="24">
+        <div type="scene" resp="#rojas" n="26">
           <stage>Vase.</stage>
           <sp who="#flérida">
             <speaker rend="caps">Flérida</speaker>
 
 
             <l>Seguildos, Fabio. ¿Qué ha sido?</l>
-            <stage>Vase Fabio.</stage>
+            <stage>[Vase Fabio.]</stage>
             <l>Decid vos lo que ha pasado.</l>
           </sp>
           <sp who="#laurencio">
@@ -5618,7 +5617,7 @@
             <l>me tiene el temor. Adiós.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="25">
+        <div type="scene" resp="#rojas" n="27">
           <stage>Vase.</stage>
           <sp who="#flérida">
             <speaker rend="caps">Flérida</speaker>
@@ -5819,7 +5818,7 @@
           </sp>
           <sp who="#laurencio">
             <speaker rend="caps">Laurencio</speaker>
-            <stage type="withText">Vele la cadena.</stage>
+            <stage type="withText">[Vele la cadena.]</stage>
 
 
             <l>Aguarda.</l>
@@ -6069,7 +6068,7 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="4">
-          <stage>Vanse Laurencio y Flora.</stage>
+          <stage>Vanse los dos [(Laurencio y Flora)].</stage>
           <sp who="#roberto">
             <speaker rend="caps">Roberto</speaker>
 
@@ -6204,6 +6203,9 @@
             <l>Haz, Lísida, lo que digo.</l>
           </sp>
           <stage>Escóndese.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="6">
+          <stage>Salen al paño Flora y Laurencio.</stage>
           <sp who="#lísida">
             <speaker rend="caps">Lísida</speaker>
 
@@ -6212,12 +6214,9 @@
             <l>pues, sin saberlo Laurencio,</l>
             <l>Flérida oye lo que él habla.)</l>
           </sp>
-        </div>
-        <div type="scene" resp="#rojas" n="6">
-          <stage>Salen al paño Flora y Laurencio.</stage>
           <sp who="#flora">
             <speaker rend="caps">Flora</speaker>
-            <stage type="withText">A Laurencio.</stage>
+            <stage type="withText">[A Laurencio.]</stage>
 
 
             <l>(Allí la dejé y allí</l>
@@ -6351,7 +6350,9 @@
 
 
             <l>¿Yo? ¿A qué efeto, si a Lisardo</l>
-            <l>ni a ti conozco? (¡Que no haya</l>
+            <l part="I">ni a ti conozco?</l>
+            <stage>Aparte.</stage>
+            <l part="F">(¡Que no haya</l>
             <l>entendídome una seña</l>
             <l>aun con haberle hecho tantas!)</l>
           </sp>
@@ -6366,6 +6367,7 @@
             <speaker rend="caps">Lísida</speaker>
 
 
+            <stage>Aparte.</stage>
             <l>(¡Ay de mí! Atajar no puedo</l>
             <l>mi llanto ni sus palabras.)</l>
           </sp>
@@ -6491,9 +6493,9 @@
             <l>lustre, honor, nobleza y fama,</l>
             <l>en Nápoles...</l>
           </sp>
-          <stage>dentro cuchilladas.</stage>
+          <stage>Dentro [cuchilladas].</stage>
           <sp who="#uno">
-            <speaker rend="caps">Uno</speaker>
+            <speaker rend="caps">[Uno]</speaker>
             <stage type="withText">dentro.</stage>
 
 
@@ -6582,7 +6584,7 @@
 
 
             <l>¡Basta, basta!</l>
-            <stage>A Laurencio.</stage>
+            <stage>[A Laurencio.]</stage>
             <l>Por esta puerta que al parque</l>
             <l>sale de la muerte escapa,</l>
             <l>que yo te defiendo.</l>
@@ -6601,7 +6603,7 @@
           <stage>Vase.</stage>
           <sp who="#flérida">
             <speaker rend="caps">Flérida</speaker>
-            <stage type="withText">A Roberto.</stage>
+            <stage type="withText">[A Roberto.]</stage>
 
 
             <l>Id vos con él.</l>
@@ -6611,8 +6613,11 @@
 
 
             <l>Cosa es ésa</l>
-            <l>que haré de muy buena gana. Vase.</l>
+            <l>que haré de muy buena gana.</l>
+            <stage>Vase.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="12">
           <sp who="#flérida">
             <speaker rend="caps">Flérida</speaker>
 
@@ -6636,7 +6641,7 @@
           </sp>
           <sp who="#fabio">
             <speaker rend="caps">Fabio</speaker>
-            <stage type="withText">A los Criados.</stage>
+            <stage type="withText">[A los Criados.]</stage>
 
 
             <l>(Venid, que en vano le ampara;</l>
@@ -6644,8 +6649,8 @@
             <l>de esotra puerta le aguarda.)</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="12">
-          <stage>Vase con los criados.</stage>
+        <div type="scene" resp="#rojas" n="13">
+          <stage>Vase [con los criados].</stage>
           <sp who="#flérida">
             <speaker rend="caps">Flérida</speaker>
 
@@ -6662,7 +6667,7 @@
             <l>y, debajo de palabra</l>
             <l>de esposo...</l>
           </sp>
-          <stage>dentro cuchilladas.</stage>
+          <stage>Dentro cuchilladas.</stage>
           <sp who="#príncipe">
             <speaker rend="caps">Príncipe</speaker>
             <stage type="withText">dentro.</stage>
@@ -6674,7 +6679,7 @@
           </sp>
           <sp who="#laurencio">
             <speaker rend="caps">Laurencio</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>Uno que por los dos basta.</l>
@@ -6714,8 +6719,8 @@
             <l>¡Teneos todos! ¿Qué es aquesto?</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="13">
-          <stage>Salen riñendo el Príncipe y Lisardo, Laurencio y Roberto.</stage>
+        <div type="scene" resp="#rojas" n="14">
+          <stage>[Salen riñendo el Príncipe y Lisardo, Laurencio y Roberto.]</stage>
           <sp who="#roberto">
             <speaker rend="caps">Roberto</speaker>
 
@@ -6735,7 +6740,7 @@
             <l>Aunque la tierra me falta,</l>
             <l>no el valor que vive en mí.</l>
           </sp>
-          <stage>Cae.</stage>
+          <stage>[Cae.]</stage>
           <sp who="#flérida">
             <speaker rend="caps">Flérida</speaker>
 
@@ -6759,8 +6764,8 @@
             <l>ángel segundo de guarda.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="14">
-          <stage>Vase.</stage>
+        <div type="scene" resp="#rojas" n="15">
+          <stage>[Vase.]</stage>
           <sp who="#flérida">
             <speaker rend="caps">Flérida</speaker>
 
@@ -6801,7 +6806,7 @@
             <l>¿Quién vió confusiones tantas?</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="15">
+        <div type="scene" resp="#rojas" n="16">
           <stage>Vase.</stage>
           <sp who="#flérida">
             <speaker rend="caps">Flérida</speaker>
@@ -6892,7 +6897,7 @@
             <l>y hasta tener orden mía,</l>
             <l>destos jardines no salgas.</l>
           </sp>
-          <stage>Retírase al paño.</stage>
+          <stage>Vase [(Retírase al paño)].</stage>
           <sp who="#laurencio">
             <speaker rend="caps">Laurencio</speaker>
 
@@ -6932,7 +6937,7 @@
 
 
             <l>¿Eso hablas?</l>
-            <stage>A Laurencio.</stage>
+            <stage>[A Laurencio.]</stage>
             <l>(Mira que Flérida escucha;</l>
             <l>porque detrás de esas ramas</l>
             <l>se ha parado y oye cuanto</l>
@@ -6940,7 +6945,7 @@
           </sp>
           <sp who="#laurencio">
             <speaker rend="caps">Laurencio</speaker>
-            <stage type="withText">A Roberto.</stage>
+            <stage type="withText">[A Roberto.]</stage>
 
 
             <l>(No vuelvas la cara,</l>
@@ -6972,7 +6977,7 @@
             <l>por más que uno las escuche.)</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="16">
+        <div type="scene" resp="#rojas" n="17">
           <stage>Sale Lísida.</stage>
           <sp who="#lísida">
             <speaker rend="caps">Lísida</speaker>
@@ -7140,7 +7145,7 @@
             <l>No manda, traidor.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="17">
+        <div type="scene" resp="#rojas" n="18">
           <stage>Sale Flérida.</stage>
           <sp who="#flérida">
             <speaker rend="caps">Flérida</speaker>
@@ -7157,7 +7162,7 @@
             <l>(¿Hay hombre más infelice?)</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="18">
+        <div type="scene" resp="#rojas" n="19">
           <stage>Vase.</stage>
           <sp who="#lísida">
             <speaker rend="caps">Lísida</speaker>
@@ -7166,7 +7171,7 @@
             <l>(¿Hay mujer más desdichada?)</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="19">
+        <div type="scene" resp="#rojas" n="20">
           <stage>Vase.</stage>
           <sp who="#roberto">
             <speaker rend="caps">Roberto</speaker>
@@ -7178,8 +7183,8 @@
             <l>¿O es lo que el hado nos guarda?)</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="20">
-          <stage>Vase.</stage>
+        <div type="scene" resp="#rojas" n="21">
+          <stage>[Vase.]</stage>
           <sp who="#flérida">
             <speaker rend="caps">Flérida</speaker>
 
@@ -7319,7 +7324,7 @@
             <stage>Vase.</stage>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="21">
+        <div type="scene" resp="#rojas" n="22">
           <stage>Salen Lisardo y el Príncipe.</stage>
           <sp who="#príncipe">
             <speaker rend="caps">Príncipe</speaker>
@@ -7385,7 +7390,7 @@
             <l>con otra, porque sepa dónde estamos.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="22">
+        <div type="scene" resp="#rojas" n="23">
           <stage>Sale Fabio.</stage>
           <sp who="#fabio">
             <speaker rend="caps">Fabio</speaker>
@@ -7442,10 +7447,10 @@
             <l>muestras que cuerpo a cuerpo en menor duelo</l>
             <l>pude reñir con él...</l>
           </sp>
-          <stage>Disparan dentro una pistola y dice Laurencio.</stage>
+          <stage>Dentro Laurencio disparando una pistola.</stage>
           <sp who="#laurencio">
             <speaker rend="caps">Laurencio</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>¡Válgame el Cielo!</l>
@@ -7478,18 +7483,16 @@
             <l>La misma confusión que tú padeces,</l>
             <l>padezco yo. Venid.</l>
           </sp>
-        </div>
-        <div type="scene" resp="#rojas" n="23">
           <stage>Vanse.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="24">
+          <stage>Salen Laurencio, Roberto y Flora.</stage>
           <sp who="#laurencio">
             <speaker rend="caps">Laurencio</speaker>
 
 
             <l>¡Jesús mil veces!</l>
           </sp>
-        </div>
-        <div type="scene" resp="#rojas" n="24">
-          <stage>Salen Laurencio, Roberto y Flora.</stage>
           <sp who="#flora">
             <speaker rend="caps">Flora</speaker>
 
@@ -7773,10 +7776,10 @@
             <l>se ofendieron las mujeres.</l>
             <l>¡Mal haya el alma y la vida</l>
             <l>que bien a ninguna quiere!</l>
-            <stage>De lo alto ha de caer un billete.</stage>
             <l>Y más ahora, que del aire</l>
             <l>no sé qué es lo que desciende.</l>
           </sp>
+          <stage>De lo alto ha de caer un billete.</stage>
           <sp who="#laurencio">
             <speaker rend="caps">Laurencio</speaker>
 
@@ -7795,7 +7798,7 @@
 
 
             <l>Aguarda a ver lo que dice.</l>
-            <stage type="withText">Lee.</stage>
+            <stage type="withText">[Lee.]</stage>
             <l>“Así quien no ama agradece.”</l>
             <l>¿Qué querrá decir el mote?</l>
           </sp>
@@ -7879,11 +7882,11 @@
             <l>a Flérida y sus mujeres.</l>
             <l>Pues atendamos a ver</l>
             <l>qué nuevo capricho es éste.</l>
-            <stage>Vanse.</stage>
+            <stage>[Vanse.]</stage>
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="26">
-          <stage>Salen el Príncipe, Lisardo y Fabio.</stage>
+          <stage>Salen el Lisardo, el Príncipe y Fabio.</stage>
           <sp who="#príncipe">
             <speaker rend="caps">Príncipe</speaker>
 
@@ -7925,13 +7928,13 @@
           <stage>Salen Flérida, Flora y Lísida.</stage>
           <sp who="#flérida">
             <speaker rend="caps">Flérida</speaker>
-            <stage type="withText">A Lísida.</stage>
+            <stage type="withText">[A Lísida.]</stage>
 
 
             <l>(Lísida, quédate aquí;</l>
             <l>y a nada que oigas ahora,</l>
             <l>salgas.)</l>
-            <stage>A Flora.</stage>
+            <stage>[A Flora.]</stage>
             <l>(¿Dijiste tú, Flora,</l>
             <l>que escuche a Laurencio?)</l>
           </sp>
@@ -8010,7 +8013,7 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="28">
-          <stage>Sale Lísida.</stage>
+          <stage>[Sale Lísida.]</stage>
           <sp who="#lísida">
             <speaker rend="caps">Lísida</speaker>
 
@@ -8129,7 +8132,7 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="29">
-          <stage>Salen Laurencio y Roberto.</stage>
+          <stage>Sale[n] Laurencio [y Roberto].</stage>
           <sp who="#laurencio">
             <speaker rend="caps">Laurencio</speaker>
 
