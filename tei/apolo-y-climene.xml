@@ -193,6 +193,7 @@
     <body>
       <div type="act" n="1">
         <head rend="caps">Jornada Primera</head>
+        <stage>A los primeros versos que se dicen dentro sale Céfiro galán y atravesando el tablado como a obscuras, se entra por la boca de una gruta, llevandose tras sí un bastidor de yerba, con que quedará cerrada, uniéndose con lo demás del teatro; y salen después por una parte Climene, y por otra Lesbia, Cintia, Clicie, y Flora, con arcos y flechas y luces.</stage>
         <div type="scene" resp="#rojas" n="1">
           <sp who="#climene">
             <speaker rend="caps">Climene</speaker>
@@ -216,7 +217,7 @@
           </sp>
           <sp who="#todos">
             <speaker rend="caps">Todos</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>¿Qué esperamos</l>
@@ -233,14 +234,14 @@
           </sp>
           <sp who="#todos">
             <speaker rend="caps">Todos</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>¡Alerta!</l>
           </sp>
           <sp who="#todas">
             <speaker rend="caps">Todas</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>¡A la gruta, al cenador!</l>
@@ -255,7 +256,7 @@
         <div type="scene" resp="#rojas" n="2">
           <stage>Sale Céfiro.</stage>
           <sp who="#céfiro">
-            <speaker rend="caps">Céfiro</speaker>
+            <speaker rend="caps">[Céfiro]</speaker>
 
 
             <l>¡Qué cierta</l>
@@ -494,7 +495,7 @@
           </sp>
           <sp who="#todos">
             <speaker rend="caps">Todos</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>. ¡Traición hay en los jardines!</l>
@@ -502,20 +503,22 @@
           </sp>
           <sp who="#hombres">
             <speaker rend="caps">Hombres</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>¡Al muro! ¡Al foso!</l>
           </sp>
           <sp who="#mujeres">
             <speaker rend="caps">Mujeres</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>¡A la gruta!</l>
             <l>¡A la fuente!</l>
             <stage>Con esta repetición se entran todos y sale Sátiro, villano, armado ridículamente.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="3">
           <sp who="#sátiro">
             <speaker rend="caps">Sátiro</speaker>
 
@@ -560,8 +563,10 @@
             <l>con que dé todo el secreto</l>
             <l>al traste, si en él le encuentran,</l>
             <l>y es él por quien todos dicen…</l>
-            <stage>dentro Céfiro, y sale después por un escotillón que estará abierto en el tablado a la parte contraria de la gruta.</stage>
+            <stage>Dentro Céfiro, y sale después por un escotillón que estará abierto en el tablado a la parte contraria de la gruta.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="4">
           <sp who="#céfiro">
             <speaker rend="caps">Céfiro</speaker>
 
@@ -782,7 +787,7 @@
             <l>el menor.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="3">
+        <div type="scene" resp="#rojas" n="5">
           <stage>Vase.</stage>
           <sp who="#céfiro">
             <speaker rend="caps">Céfiro</speaker>
@@ -790,16 +795,27 @@
 
             <l>No sé cuál sea</l>
             <l>menor, supuesto que iguales</l>
-            <l>dicen los unos:</l>
+          </sp>
+          <sp who="#voces">
+            <speaker rend="caps">Voces</speaker>
+            <stage type="withText">En lo bajo.</stage>
+
+
             <l>A aquella</l>
             <l>parte se mueven las ramas.</l>
-            <stage>El terremoto, el arma y otro tiro.</stage>
+            <stage>El terremoto, el arma y otro tiro y dice Apolo en lo alto.</stage>
           </sp>
           <sp who="#céfiro">
             <speaker rend="caps">Céfiro</speaker>
 
 
             <l>Y los otros dicen:</l>
+          </sp>
+          <sp who="#apolo">
+            <speaker rend="caps">Voz</speaker>
+            <stage type="withText">En lo alto.</stage>
+
+
             <l>¡Muera</l>
             <l>precipitado a los montes!</l>
           </sp>
@@ -810,8 +826,10 @@
             <l>Con que en arma cielo y tierra,</l>
             <l>todo es horrores.</l>
             <stage>Vase.</stage>
-            <stage>Cae Apolo de lo alto en un pescante como que baja despeñado.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="6">
+          <stage>Cae Apolo de lo alto en un pescante como que baja despeñado.</stage>
           <sp who="#apolo">
             <speaker rend="caps">Apolo</speaker>
 
@@ -857,6 +875,8 @@
             <l>voy a dar. ¡Qué horror! ¡Qué pena!</l>
             <l>¡Qué abismo!</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="7">
           <sp who="#climene">
             <speaker rend="caps">Climene</speaker>
 
@@ -1168,7 +1188,7 @@
             <l>El obedecer es fuerza.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="4">
+        <div type="scene" resp="#rojas" n="8">
           <stage>Vase.</stage>
           <sp who="#lesbia">
             <speaker rend="caps">Lesbia</speaker>
@@ -1178,7 +1198,7 @@
             <l>de mí la aseguren).</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="5">
+        <div type="scene" resp="#rojas" n="9">
           <stage>Vase.</stage>
           <sp who="#flora">
             <speaker rend="caps">Flora</speaker>
@@ -1189,7 +1209,7 @@
             <l>sus presunciones convenzan).</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="6">
+        <div type="scene" resp="#rojas" n="10">
           <stage>Vase.</stage>
           <sp who="#clicie">
             <speaker rend="caps">Clicie</speaker>
@@ -1201,7 +1221,7 @@
             <l>cuando hay para otra fineza!).</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="7">
+        <div type="scene" resp="#rojas" n="11">
           <stage>Vase.</stage>
           <sp who="#climene">
             <speaker rend="caps">Climene</speaker>
@@ -1231,6 +1251,8 @@
             <l>el alivio de la queja!</l>
             <stage>Pónese el lienzo en los ojos y entreabre Apolo el bastidor sin salir.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="12">
           <sp who="#apolo">
             <speaker rend="caps">Apolo</speaker>
 
@@ -1247,9 +1269,8 @@
             <l>¿qué aguardo para romperlas</l>
             <l>y salir a ver adónde</l>
             <l>vine a dar?</l>
-            <stage>Sale al tablado.</stage>
-            <stage>Climene aparta el lienzo y vuelve a cubrirse otra vez los ojos.</stage>
           </sp>
+          <stage>Sale al tablado. Climene aparta el lienzo y vuelve a cubrirse otra vez los ojos.</stage>
           <sp who="#climene">
             <speaker rend="caps">Climene</speaker>
 
@@ -1339,9 +1360,9 @@
 
             <l>Merezca…</l>
           </sp>
+          <stage>Flecha el arco.</stage>
           <sp who="#climene">
             <speaker rend="caps">Climene</speaker>
-            <stage type="withText">Flecha el arco.</stage>
 
 
             <l>¿Qué has de merecer, aleve</l>
@@ -1488,12 +1509,12 @@
             <l>¿qué ha de temer a tus flechas?</l>
             <l>Dispara, pues.</l>
           </sp>
+            <stage>Al disparar se le cae el arco de la mano.</stage>
           <sp who="#climene">
             <speaker rend="caps">Climene</speaker>
 
 
             <l>Sí haré. ¡Cielo!</l>
-            <stage>Al disparar se le cae el arco de la mano.</stage>
             <l>¿Quién el impulso retira</l>
             <l>y, siendo fuego la ira,</l>
             <l>quiere que la acción sea hielo?</l>
@@ -1517,6 +1538,7 @@
             <l>labrar tu felicidad,</l>
             <l>a pesar de mi impaciencia</l>
             <l>dictamen he de mudar.</l>
+            <stage>Aparte.</stage>
             <l>(No es sino hacer, a pesar</l>
             <l>del valor, otra experiencia).</l>
             <l>¡Ah del templo!</l>
@@ -1771,7 +1793,7 @@
             <l>entrad a favorecernos.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="8">
+        <div type="scene" resp="#rojas" n="13">
           <stage>Vanse.</stage>
           <sp who="#uno">
             <speaker rend="caps">Uno</speaker>
@@ -1803,7 +1825,7 @@
 
 
             <l>(…no sé de mí).</l>
-            <stage>dentro golpes y ruido.</stage>
+            <stage>Dentro golpes y ruido.</stage>
           </sp>
           <sp who="#admeto">
             <speaker rend="caps">Admeto</speaker>
@@ -1899,7 +1921,7 @@
             <l>oye, aguarda!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="9">
+        <div type="scene" resp="#rojas" n="14">
           <stage>Sale Admeto.</stage>
           <sp who="#admeto">
             <speaker rend="caps">Admeto</speaker>
@@ -2148,7 +2170,7 @@
             <l>…la causa que yo no he dado.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="10">
+        <div type="scene" resp="#rojas" n="15">
           <stage>Vase.</stage>
           <sp who="#clicie">
             <speaker rend="caps">Clicie</speaker>
@@ -2157,7 +2179,7 @@
             <l>…la culpa que yo no tengo.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="11">
+        <div type="scene" resp="#rojas" n="16">
           <stage>Vase.</stage>
           <sp who="#climene">
             <speaker rend="caps">Climene</speaker>
@@ -2357,7 +2379,7 @@
             <l>la mató con el remedio».</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="12">
+        <div type="scene" resp="#rojas" n="17">
           <stage>Vase.</stage>
           <sp who="#admeto">
             <speaker rend="caps">Admeto</speaker>
@@ -2404,7 +2426,7 @@
           </sp>
           <sp who="#todos">
             <speaker rend="caps">Todos</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>¡Viva Climene, y no quede</l>
@@ -2426,7 +2448,7 @@
             <l>disculparme y reducirlos.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="13">
+        <div type="scene" resp="#rojas" n="18">
           <stage>Vase.</stage>
           <sp who="#céfiro">
             <speaker rend="caps">Céfiro</speaker>
@@ -2482,11 +2504,13 @@
           </sp>
           <sp who="#céfiro">
             <speaker rend="caps">Céfiro</speaker>
-            <stage type="withText">Al irla a cerrar, sale Apolo.</stage>
 
 
             <l>Llega, pues.</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="19">
+          <stage>Al irla a cerrar, sale Apolo.</stage>
           <sp who="#apolo">
             <speaker rend="caps">Apolo</speaker>
 
@@ -2527,7 +2551,7 @@
           </sp>
           <stage>Embózase Apolo.</stage>
           <sp who="#apolo">
-            <speaker rend="caps">Apolo</speaker>
+            <speaker rend="caps">[Apolo]</speaker>
 
 
             <l>Poco</l>
@@ -2557,7 +2581,7 @@
             <l>y vos quedáis sin saberlo.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="14">
+        <div type="scene" resp="#rojas" n="20">
           <stage>Vase.</stage>
           <sp who="#céfiro">
             <speaker rend="caps">Céfiro</speaker>
@@ -2569,7 +2593,7 @@
             <l>Sígueme, Sátiro.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="15">
+        <div type="scene" resp="#rojas" n="21">
           <stage>Vase.</stage>
           <sp who="#sátiro">
             <speaker rend="caps">Sátiro</speaker>
@@ -2596,16 +2620,17 @@
       <div type="act" n="2">
         <head rend="caps">Jornada Segunda</head>
         <div type="scene" resp="#rojas" n="1">
+          <stage>Dentro [dicen] las primeras voces y salen luego los que pudieren con Climene, y damas por una parte, y por otra Admeto.</stage>
           <sp who="#todos">
             <speaker rend="caps">Todos</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>¡Viva la hermosa Climene!</l>
           </sp>
           <sp who="#uno">
             <speaker rend="caps">Uno</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>¡Viva!, y en público salga</l>
@@ -3110,7 +3135,7 @@
           </sp>
           <sp who="#música">
             <speaker rend="caps">Música</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>Venturoso es el día</l>
@@ -3191,10 +3216,10 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="3">
-          <stage>Vanse.</stage>
+          <stage>[Vanse.]</stage>
           <sp who="#música">
             <speaker rend="caps">Música</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>Venturoso es el día</l>
@@ -3370,6 +3395,7 @@
             <l>Ya que en nombre de todos,</l>
             <l>galán pastor, me hablas,</l>
             <l>por ti a todos responda.</l>
+            <stage>Aparte.</stage>
             <l>(¿Quién creerá que, turbada</l>
             <l>al verle en este traje,</l>
             <l>no encuentre las palabras</l>
@@ -3544,9 +3570,11 @@
             <l>verme apartado y solo no conviene.</l>
             <l>Iré por otra parte,</l>
             <l>pues que todo es buscarla.</l>
-            <stage>Vase.</stage>
-            <stage>Salen Céfiro y Sátiro.</stage>
+            <stage>[Vase.]</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="5">
+          <stage>[Salen Céfiro y Sátiro.]</stage>
           <sp who="#sátiro">
             <speaker rend="caps">Sátiro</speaker>
 
@@ -3693,6 +3721,7 @@
             <l>aquella en que cantar sueles</l>
             <l>que en busca de Endimión</l>
             <l>de sus esferas desciende.</l>
+            <stage>Aparte.</stage>
             <l>(Sepa Diana que amó,</l>
             <l>por lo que me sucediere;</l>
             <l>que al delincuente aseguran</l>
@@ -3706,7 +3735,9 @@
             <l>qué letra, qué tono es ese;</l>
             <l>mas ya que sé que te agrada,</l>
             <l>solicitaré traerle</l>
-            <l>a la memoria. (Esto es,</l>
+            <l part="I">a la memoria.</l>
+            <stage>Aparte.</stage>
+            <l part="F">(Esto es,</l>
             <l>porque si Apolo le atiende,</l>
             <l>será decirle que venga</l>
             <l>a mala ocasión).</l>
@@ -3756,6 +3787,7 @@
           </sp>
           <sp who="#climene">
             <speaker rend="caps">Climene</speaker>
+            <stage type="withText">Aparte.</stage>
 
 
             <l>(No hay cosa que sienta tanto</l>
@@ -3779,10 +3811,11 @@
             <l>Preciso es obedecerte.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="5">
-          <stage>Vanse.</stage>
+        <div type="scene" resp="#rojas" n="6">
+          <stage>[Vanse.]</stage>
           <sp who="#flora">
             <speaker rend="caps">Flora</speaker>
+            <stage type="withText">Aparte.</stage>
 
 
             <l>(Aun bien que Céfiro no</l>
@@ -3790,10 +3823,11 @@
             <l>a abrirle la puerta).</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="6">
+        <div type="scene" resp="#rojas" n="7">
           <stage>Vase.</stage>
           <sp who="#clicie">
             <speaker rend="caps">Clicie</speaker>
+            <stage type="withText">Aparte.</stage>
 
 
             <l>(Aún bien</l>
@@ -3801,7 +3835,7 @@
             <l>mientras mi voz no le avise).</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="7">
+        <div type="scene" resp="#rojas" n="8">
           <stage>Vase.</stage>
           <sp who="#climene">
             <speaker rend="caps">Climene</speaker>
@@ -3831,7 +3865,7 @@
             <l>he de acercarme.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="8">
+        <div type="scene" resp="#rojas" n="9">
           <stage>Sale Flora al bastidor.</stage>
           <sp who="#flora">
             <speaker rend="caps">Flora</speaker>
@@ -3886,7 +3920,7 @@
             <l>si es esto.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="9">
+        <div type="scene" resp="#rojas" n="10">
           <stage>Abre el bastidor y sale Céfiro.</stage>
           <sp who="#céfiro">
             <speaker rend="caps">Céfiro</speaker>
@@ -4021,7 +4055,7 @@
             <l>mas no del traidor).</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="10">
+        <div type="scene" resp="#rojas" n="11">
           <stage>Vase.</stage>
           <sp who="#climene">
             <speaker rend="caps">Climene</speaker>
@@ -4037,7 +4071,7 @@
             <l>Yo me vengaré de ti.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="11">
+        <div type="scene" resp="#rojas" n="12">
           <stage>Vase.</stage>
           <sp who="#flora">
             <speaker rend="caps">Flora</speaker>
@@ -4062,7 +4096,7 @@
             <l>para huir de su furor?).</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="12">
+        <div type="scene" resp="#rojas" n="13">
           <stage>Vase.</stage>
           <sp who="#clicie">
             <speaker rend="caps">Clicie</speaker>
@@ -4084,7 +4118,7 @@
             <l>que le cante.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="13">
+        <div type="scene" resp="#rojas" n="14">
           <stage>Sale Climene al bastidor.</stage>
           <sp who="#climene">
             <speaker rend="caps">Climene</speaker>
@@ -4286,7 +4320,7 @@
             <l>A Dios, pues; hasta otra noche.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="14">
+        <div type="scene" resp="#rojas" n="15">
           <stage>Vase.</stage>
           <sp who="#clicie">
             <speaker rend="caps">Clicie</speaker>
@@ -4316,6 +4350,7 @@
           </sp>
           <sp who="#climene">
             <speaker rend="caps">Climene</speaker>
+            <stage type="withText">Aparte.</stage>
 
 
             <l>…(calle, disimule y pene,</l>
@@ -4369,7 +4404,9 @@
 
 
             <l>A servirte</l>
-            <l>voy. (No sé lo que sospeche;</l>
+            <l part="I">voy.</l>
+            <stage>Aparte.</stage>
+            <l part="F">(No sé lo que sospeche;</l>
             <l>que hay razones que en el modo</l>
             <l>uno dicen y otro sienten.</l>
             <l>Sin duda que vio o oyó</l>
@@ -4383,7 +4420,7 @@
             <l>por mí de pastor a Admeto).</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="15">
+        <div type="scene" resp="#rojas" n="16">
           <stage>Vase.</stage>
           <sp who="#climene">
             <speaker rend="caps">Climene</speaker>
@@ -4396,7 +4433,7 @@
             <l>también la que llora miente.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="16">
+        <div type="scene" resp="#rojas" n="17">
           <stage>Sale Flora.</stage>
           <sp who="#flora">
             <speaker rend="caps">Flora</speaker>
@@ -4430,7 +4467,7 @@
             <l>calle, sufra y disimule).</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="17">
+        <div type="scene" resp="#rojas" n="18">
           <stage>Vase.</stage>
           <sp who="#flora">
             <speaker rend="caps">Flora</speaker>
@@ -4447,6 +4484,8 @@
             <l>no innova el que se despeñe.</l>
             <stage>Vase por la puerta, y sale Apolo.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="19">
           <sp who="#apolo">
             <speaker rend="caps">Apolo</speaker>
 
@@ -4495,6 +4534,8 @@
             <l>ver si al jardín va deseo.</l>
             <stage>Al arrojarse a ella sale Céfiro.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="20">
           <sp who="#céfiro">
             <speaker rend="caps">Céfiro</speaker>
 
@@ -4530,6 +4571,8 @@
             <l>a mi desesperación,…</l>
             <stage>Sale Sátiro y detiénese al verlos.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="21">
           <sp who="#sátiro">
             <speaker rend="caps">Sátiro</speaker>
 
@@ -4572,6 +4615,8 @@
             <l>te quedas tú sin sabello.</l>
             <stage>Vase Céfiro y, al ir Apolo tras él, se atraviesa Sátiro y le detiene.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="22">
           <sp who="#apolo">
             <speaker rend="caps">Apolo</speaker>
 
@@ -4663,14 +4708,14 @@
           </sp>
           <sp who="#otros">
             <speaker rend="caps">Otros</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>Tó, Barcino.</l>
           </sp>
           <sp who="#todos">
             <speaker rend="caps">Todos</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>¡Al monte, al valle, a la selva!</l>
@@ -4684,7 +4729,7 @@
             <l>o quédate.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="18">
+        <div type="scene" resp="#rojas" n="23">
           <stage>Vase Sátiro.</stage>
           <sp who="#apolo">
             <speaker rend="caps">Apolo</speaker>
@@ -4699,11 +4744,11 @@
             <l>ni sima ni hombre, supuesto</l>
             <l>que lo uno y otro me dice</l>
             <l>bien claro…</l>
-            <stage>dentro Flora a la boca de la cueva.</stage>
           </sp>
+          <stage>Dentro Flora a la boca de la cueva.</stage>
           <sp who="#flora">
             <speaker rend="caps">Flora</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>¡Ay de mí, infelice!</l>
@@ -4722,7 +4767,7 @@
           </sp>
           <sp who="#flora">
             <speaker rend="caps">Flora</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>¿No habrá quien</l>
@@ -4814,7 +4859,7 @@
           </sp>
           <sp who="#unos">
             <speaker rend="caps">Unos</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>¡Al llano!</l>
@@ -4826,7 +4871,7 @@
             <l>Ven por otra parte.</l>
           </sp>
           <sp who="#voces">
-            <speaker rend="caps">Voces</speaker>
+            <speaker rend="caps">[Voces]</speaker>
             <stage type="withText">dentro.</stage>
 
 
@@ -4855,6 +4900,8 @@
             <l>para que en ti no repare.</l>
             <stage>Escóndese Flora y sale Clicie como despavorida.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="24">
           <sp who="#clicie">
             <speaker rend="caps">Clicie</speaker>
 
@@ -4973,7 +5020,7 @@
           </sp>
           <sp who="#uno">
             <speaker rend="caps">Uno</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>Atravesando la dehesa,</l>
@@ -4982,7 +5029,7 @@
           </sp>
           <sp who="#climene">
             <speaker rend="caps">Climene</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>Yo</l>
@@ -5069,7 +5116,7 @@
           </sp>
           <sp who="#uno">
             <speaker rend="caps">Uno</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>En lo intrincado del bosque</l>
@@ -5446,21 +5493,21 @@
           </sp>
           <sp who="#clicie">
             <speaker rend="caps">Clicie</speaker>
-            <stage type="withText">Al paño.</stage>
+            <stage type="withText">[Al paño.]</stage>
 
 
             <l>(¿Qué será lo que le diga?).</l>
           </sp>
           <sp who="#flora">
             <speaker rend="caps">Flora</speaker>
-            <stage type="withText">Al paño.</stage>
+            <stage type="withText">[Al paño.]</stage>
 
 
             <l>(Oye y calla).</l>
           </sp>
           <sp who="#clicie">
             <speaker rend="caps">Clicie</speaker>
-            <stage type="withText">Al paño.</stage>
+            <stage type="withText">[Al paño.]</stage>
 
 
             <l>(Escuche y tema).</l>
@@ -5475,7 +5522,7 @@
             <l>caí la noche que…</l>
           </sp>
           <sp who="#voces">
-            <speaker rend="caps">Voces</speaker>
+            <speaker rend="caps">[Voces]</speaker>
             <stage type="withText">dentro.</stage>
 
 
@@ -5484,7 +5531,7 @@
           </sp>
           <sp who="#erídano">
             <speaker rend="caps">Erídano</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>Por aquí fue</l>
@@ -5765,7 +5812,9 @@
             <l>a cuya causa se queda</l>
             <l>en ellos sola a deshoras,</l>
             <l>que yo, aunque decirte quiera</l>
-            <l>quién es, no lo sé. (Esto es</l>
+            <l part="I">quién es, no lo sé.</l>
+            <stage>Aparte.</stage>
+            <l part="F">(Esto es</l>
             <l>agradecerle la deuda</l>
             <l>del favor que me ofreció).</l>
             <l>Digan Clicie, Cintia y Lesbia</l>
@@ -5837,8 +5886,11 @@
 
 
             <l>…mejor será que lo pague</l>
-            <l>la culpa que la inocencia. Vanse las dos.</l>
+            <l>la culpa que la inocencia. </l>
           </sp>
+          <stage>Vanse las dos.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="25">
           <sp who="#climene">
             <speaker rend="caps">Climene</speaker>
 
@@ -6050,17 +6102,18 @@
       </div>
       <div type="act" n="3">
         <head rend="caps">Jornada Tercera</head>
+        <stage>Dentro Climene y Apolo, y sale luego con ella en brazos.</stage>
         <div type="scene" resp="#rojas" n="1">
           <sp who="#climene">
             <speaker rend="caps">Climene</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>¡Ay de mí, infeliz!</l>
           </sp>
           <sp who="#apolo">
             <speaker rend="caps">Apolo</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>No temas,</l>
@@ -6068,8 +6121,9 @@
             <l>y no es la primera vez</l>
             <l>que, árbitro del sol hermoso,</l>
             <l>si me ve un golfo morir,</l>
-            <l>me ve nacer otro golfo. Salen.</l>
+            <l>me ve nacer otro golfo.</l>
             <l>Ya en la orilla estás.</l>
+            <stage>Salen</stage>
           </sp>
           <sp who="#climene">
             <speaker rend="caps">Climene</speaker>
@@ -6133,18 +6187,18 @@
             <l>del eco en gemidos roncos?</l>
             <l>Por si fue o no fue ilusión,</l>
             <l>a escuchar otra vez torno.</l>
-            <stage>dentro Admeto y otros.</stage>
           </sp>
+          <stage>Dentro Admeto y otros.</stage>
           <sp who="#todos">
             <speaker rend="caps">Todos</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>Arriba el barco a la orilla,…</l>
           </sp>
           <sp who="#admeto">
             <speaker rend="caps">Admeto</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>…que sin duda en sus contornos</l>
@@ -6169,7 +6223,7 @@
           </sp>
           <sp who="#música">
             <speaker rend="caps">Música</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>Sí habrá;</l>
@@ -6189,7 +6243,7 @@
           </sp>
           <sp who="#todos">
             <speaker rend="caps">Todos</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>Arriba a la orilla,</l>
@@ -6208,42 +6262,42 @@
           </sp>
           <sp who="#música">
             <speaker rend="caps">Música</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>Que aun en su destierro Apolo,…</l>
           </sp>
           <sp who="#todos">
             <speaker rend="caps">Todos</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>Que sin duda en sus contornos…</l>
           </sp>
           <sp who="#música">
             <speaker rend="caps">Música</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>…si le ve un golfo morir,…</l>
           </sp>
           <sp who="#todos">
             <speaker rend="caps">Todos</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>…tomó tierra el agresor…</l>
           </sp>
           <sp who="#música">
             <speaker rend="caps">Música</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>…le ve nacer otro golfo.</l>
           </sp>
           <sp who="#todos">
             <speaker rend="caps">Todos</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>…de aquel sacrílego robo?</l>
@@ -6276,7 +6330,7 @@
           </sp>
           <sp who="#música">
             <speaker rend="caps">Música</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>Pues no es la primera vez</l>
@@ -6368,12 +6422,14 @@
           </sp>
           <sp who="#todos">
             <speaker rend="caps">Todos</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>¡A tierra, a tierra!</l>
             <stage>Escóndese Apolo y salen Admeto, Erídano, Sátiro, Céfiro, Flora y Clicie y pastores.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="2">
           <sp who="#admeto">
             <speaker rend="caps">Admeto</speaker>
 
@@ -6551,12 +6607,13 @@
             <l>estudié, cuanto creí</l>
             <l>astrolabios, mapas, globos,</l>
             <l>caracteres y conjuros.</l>
+            <stage>Aparte.</stage>
             <l>(No iré sino a ver si logro</l>
             <l>que ellos salgan verdaderos</l>
             <l>antes que yo mentiroso).</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="2">
+        <div type="scene" resp="#rojas" n="3">
           <stage>Vase.</stage>
           <sp who="#admeto">
             <speaker rend="caps">Admeto</speaker>
@@ -6585,7 +6642,7 @@
             <l>y al agua otra vez.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="3">
+        <div type="scene" resp="#rojas" n="4">
           <stage>Vase.</stage>
           <sp who="#flora">
             <speaker rend="caps">Flora</speaker>
@@ -6709,8 +6766,8 @@
             <l>venganza de mis enojos.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="4">
-          <stage>Vanse los tres.</stage>
+        <div type="scene" resp="#rojas" n="5">
+          <stage>Va[n]se [los tres].</stage>
           <sp who="#apolo">
             <speaker rend="caps">Apolo</speaker>
 
@@ -6749,7 +6806,7 @@
           </sp>
           <sp who="#sátiro">
             <speaker rend="caps">Sátiro</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>…mísero, Sátiro!</l>
@@ -6766,7 +6823,7 @@
             <l>eres, oh tú?</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="5">
+        <div type="scene" resp="#rojas" n="6">
           <stage>Sale Sátiro.</stage>
           <sp who="#sátiro">
             <speaker rend="caps">Sátiro</speaker>
@@ -6907,7 +6964,7 @@
           </sp>
           <sp who="#fitón #música">
             <speaker rend="caps">Él Y Música</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>…que no es la primera vez</l>
@@ -6937,7 +6994,7 @@
           </sp>
           <sp who="#sátiro #música">
             <speaker rend="caps">Él Y Música</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>. …que, árbitro del sol hermoso,</l>
@@ -6945,7 +7002,7 @@
             <l>le ve nacer otro golfo.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="6">
+        <div type="scene" resp="#rojas" n="7">
           <stage>Vase.</stage>
           <sp who="#apolo">
             <speaker rend="caps">Apolo</speaker>
@@ -7212,8 +7269,11 @@
             <speaker rend="caps">Climene</speaker>
 
 
-            <l>…iré… Sale Fitón.</l>
+            <l>…iré…</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="8">
+          <stage>Sale Fitón.</stage>
           <sp who="#fitón">
             <speaker rend="caps">Fitón</speaker>
 
@@ -7547,14 +7607,14 @@
           </sp>
           <sp who="#coro-primero">
             <speaker rend="caps">Coro Primero</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>¿Quién hay que nos llame?</l>
           </sp>
           <sp who="#coro-segundo">
             <speaker rend="caps">Coro Segundo</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>¿Quién hay que nos busque?</l>
@@ -7652,7 +7712,7 @@
 
 
             <l>…que viva, que reine, que venza y que triunfe.</l>
-            <stage>Vanse todos menos Fitón. Desaparece el palacio y sale Sátiro.</stage>
+            <stage>[Vanse todos menos Fitón. Desaparece el palacio y] sale Sátiro.</stage>
           </sp>
           <sp who="#sátiro">
             <speaker rend="caps">Sátiro</speaker>
@@ -7808,7 +7868,7 @@
             <l>si a otra especie origen das.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="7">
+        <div type="scene" resp="#rojas" n="9">
           <stage>Vase.</stage>
           <sp who="#sátiro">
             <speaker rend="caps">Sátiro</speaker>
@@ -7838,8 +7898,10 @@
             <l>Con que a tan fuertes porfias</l>
             <l>rendirme es fuerza.</l>
             <stage>Vase.</stage>
-            <stage>Ábrese otra vez el peñasco y vese un jardín y en él Climene sentada y Apolo en su regazo y música.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="10">
+          <stage>Ábrese otra vez el peñasco y vese un jardín y en él Climene sentada y Apolo en su regazo y música.</stage>
           <sp who="#apolo">
             <speaker rend="caps">Apolo</speaker>
 
@@ -7987,8 +8049,8 @@
             <l>pasar del bien que poseo.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="8">
-          <stage>Vanse.</stage>
+        <div type="scene" resp="#rojas" n="11">
+          <stage>[Vanse.]</stage>
           <sp who="#apolo">
             <speaker rend="caps">Apolo</speaker>
 
@@ -8323,7 +8385,7 @@
             <l>Bella Climene…</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="9">
+        <div type="scene" resp="#rojas" n="12">
           <stage>Sale Climene.</stage>
           <sp who="#climene">
             <speaker rend="caps">Climene</speaker>
@@ -8461,7 +8523,7 @@
           </sp>
           <sp who="#admeto">
             <speaker rend="caps">Admeto</speaker>
-            <stage type="withText">dentro.</stage>
+            <stage type="withText">[dentro.]</stage>
 
 
             <l>¡Arriba, arriba!, ya que</l>
@@ -8481,7 +8543,7 @@
             <l>las distingo.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="10">
+        <div type="scene" resp="#rojas" n="13">
           <stage>Sale Fitón.</stage>
           <sp who="#fitón">
             <speaker rend="caps">Fitón</speaker>
@@ -8629,17 +8691,18 @@
             <l>de Iris y Mercurio.</l>
           </sp>
           <sp who="#iris #mercurio">
-            <speaker rend="caps">Iris Y Mercurio</speaker>
-            <stage type="withText">Cantan.</stage>
+            <speaker rend="caps">Los dos</speaker>
+            
 
 
             <l>Ufanos</l>
             <l>contigo diciendo iremos</l>
+            <stage>Desaparecen los tres.</stage>
+            <stage>Cantan.</stage>
             <l>que logró su voz,</l>
             <l>que logró su acento,</l>
             <l>quien vino a buscarte</l>
             <l>en las alas del viento.</l>
-            <stage>Desaparecen los tres.</stage>
           </sp>
           <sp who="#climene">
             <speaker rend="caps">Climene</speaker>
@@ -8649,6 +8712,8 @@
             <l>tuya, a tu encanto me vuelvo.</l>
             <stage>Vase y salen Admeto, Clicie, Flora, Céfiro y Sátiro.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="14">
           <sp who="#fitón">
             <speaker rend="caps">Fitón</speaker>
 
@@ -8815,6 +8880,8 @@
             <l>que va sus rayos siguiendo.</l>
             <stage>Desaparécese convertida en flor.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="15">
           <sp who="#céfiro">
             <speaker rend="caps">Céfiro</speaker>
 
@@ -8830,6 +8897,8 @@
             <l>vivirá de sus alientos.</l>
             <stage>Desaparecen los dos en el aire.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="16">
           <sp who="#sátiro">
             <speaker rend="caps">Sátiro</speaker>
 
