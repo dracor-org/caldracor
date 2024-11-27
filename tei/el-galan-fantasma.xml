@@ -679,7 +679,7 @@
           </sp>
           <sp who="#candil">
             <speaker>CANDIL</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F">¿Qué es lo que pasa? </l>
             <l n="355"> ¿De mí se han recatado </l>
             <l> el día que está el Duque declarado? </l>
@@ -949,7 +949,7 @@
           <sp who="#carlos">
             <speaker>CARLOS</speaker>
             <l> A todo he de acompañaros. </l>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Y estas finezas y extremos </l>
             <l n="585"> tome por su cuenta amor, </l>
             <l> pues el que yo a Laura tengo, </l>
@@ -958,9 +958,9 @@
             <l> secreto que tantos días </l>
             <l n="590"> tuvo el honor el silencio. </l>
           </sp>
+          <stage>Vanse los dos.</stage>
         </div>
         <div type="scene" resp="#rojas" n="5">
-          <stage>Vanse los dos.</stage>
           <stage>Salen ENRIQUE viejo leyendo un papel, y LAURA su hija.</stage>
           <sp who="#enrique">
             <speaker>ENRIQUE</speaker>
@@ -1019,6 +1019,7 @@
             <speaker>ENRIQUE</speaker>
             <l> Pues oye, Laura, el papel: </l>
             <stage>Lee.</stage>
+            <p>Importa que esta noche con prudencia estorbéis a Astolfo que no salga de casa, porque le va no menos que la vida.</p>
           </sp>
           <sp who="#laura">
             <speaker>LAURA</speaker>
@@ -1057,7 +1058,7 @@
           <stage>Sale CANDIL.</stage>
           <sp who="#candil">
             <speaker>CANDIL</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Aquí me manda esperar </l>
             <l> mi amo en tanto... Mas aquí </l>
             <l> está el viejo, fruncir quiero </l>
@@ -1223,9 +1224,9 @@
             <l> ¡Ay hijos, quien os desea </l>
             <l> no sabe lo que costáis! </l>
           </sp>
+          <stage>Vanse todos.</stage>
         </div>
         <div type="scene" resp="#rojas" n="7">
-          <stage>Vanse todos.</stage>
           <stage>Sale el DUQUE, LEONELO, OCTAVIO y criados.</stage>
           <sp who="#duque">
             <speaker>DUQUE</speaker>
@@ -1499,7 +1500,7 @@
           </sp>
           <sp who="#astolfo">
             <speaker>ASTOLFO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F">Vida y alma, </l>
             <l> perdámonos de una vez, </l>
             <l n="870"> y no muramos de tantas. </l>
@@ -1863,7 +1864,7 @@
           </sp>
           <sp who="#laura">
             <speaker>LAURA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>Y enemigo mío, pues llega </l>
             <l> a darme tantos cuidados. </l>
           </sp>
@@ -1890,12 +1891,11 @@
             <speaker>ENRIQUE</speaker>
             <l part="F"> No me pesa, </l>
             <l n="105"> decid que entre; mira, Laura, </l>
-
+            <stage>Vase CANDIL.</stage>
             <l> que importa que nada entienda. </l>
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="3">
-          <stage>Vase CANDIL.</stage>
           <sp who="#laura">
             <speaker>LAURA</speaker>
             <stage>Aparte.</stage>
@@ -2065,7 +2065,7 @@
           </sp>
           <sp who="#candil">
             <speaker>CANDIL</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F">Más tendrá </l>
             <l n="190"> que perdonar en la priesa. </l>
           </sp>
@@ -2104,7 +2104,7 @@
             <speaker>CARLOS</speaker>
             <l> Tú, vete a casa, y prevén </l>
             <l n="200"> espada, capa y rodela. </l>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> ¡Oh, quién de un suspiro al día </l>
             <l> el achaque apagar pudiera, </l>
             <l> pues está, que viva un dios, </l>
@@ -2151,11 +2151,10 @@
             <l> que he de ser en medio dellas, </l>
             <l n="225"> pues fui de la Porcia Bruto, </l>
             <l> Tarquino desta Lucrecia. </l>
-
+            <stage>Vase.</stage>
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="10">
-          <stage>Vase.</stage>
           <stage>Salen el DUQUE, LEONELO y OTAVIO.</stage>
           <sp who="#duque">
             <speaker>DUQUE</speaker>
@@ -2295,7 +2294,7 @@
           </sp>
           <sp who="#duque">
             <speaker>DUQUE</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>Solo esto le faltaba a mi castigo, </l>
             <l n="300"> quejas de un padre y quejas de un amigo. </l>
           </sp>
@@ -2808,6 +2807,8 @@
             <l> que aborto del centro nace </l>
             <l> en la parte donde muere. </l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="19">
           <sp who="#porcia">
             <speaker>PORCIA</speaker>
             <l> Válgame San Verbo caro. </l>
@@ -2822,7 +2823,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="19">
+        <div type="scene" resp="#rojas" n="20">
           <stage>Vase.</stage>
           <sp who="#candil">
             <speaker>CANDIL</speaker>
@@ -2916,10 +2917,11 @@
             <l> algo en desdicha tan fuerte, </l>
             <l> me encerraré en esta cuadra. </l>
             <l n="620"> ¡Valedme, cielos, valedme! </l>
+            <stage>Escóndese</stage>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="20">
-          <stage>Escóndese y salen PORCIA, el DUQUE, criados y CANDIL.</stage>
+        <div type="scene" resp="#rojas" n="21">
+          <stage>Salen PORCIA, el DUQUE, criados y CANDIL.</stage>
           <sp who="#duque">
             <speaker>DUQUE</speaker>
             <l> A tu voz rompí esas puertas. </l>
@@ -3082,7 +3084,7 @@
           <stage>Escondido al paño ASTOLFO.</stage>
           <sp who="#astolfo">
             <speaker>ASTOLFO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="735">No verá, que primero </l>
             <l> moriré yo otra vez; ¿cielos, qué espero? </l>
             <l> Pero si a verme llega, </l>
@@ -3098,7 +3100,7 @@
             <l part="I"> llegue. </l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="21">
+        <div type="scene" resp="#rojas" n="22">
           <stage>Sale ASTOLFO por parte que no le vea el DUQUE, mata la luz.</stage>
           <sp who="#astolfo">
             <speaker>ASTOLFO</speaker>
@@ -3130,7 +3132,7 @@
           </sp>
           <sp who="#astolfo">
             <speaker>ASTOLFO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>Ya, ¡cielos!, que sin verme </l>
             <l> estorbé su rigor, vuelvo a esconderme. </l>
           </sp>
@@ -3140,11 +3142,11 @@
             <l> Si me llamas, ¿por qué no me respondes? </l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="22">
+        <div type="scene" resp="#rojas" n="23">
           <stage>Sale CARLOS.</stage>
           <sp who="#carlos">
             <speaker>CARLOS</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> A las voces, espadas y ruido, </l>
             <l> del puesto que aguardaba me he salido, </l>
             <l> que, ya Astolfo empeñado, </l>
@@ -3163,7 +3165,7 @@
             <l part="I"> ¡Hola, Leonelo, Otavio! </l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="23">
+        <div type="scene" resp="#rojas" n="24">
           <stage>Salen todos con luz.</stage>
           <sp who="#leonelo">
             <speaker>LEONELO</speaker>
@@ -3171,7 +3173,7 @@
           </sp>
           <sp who="#carlos">
             <speaker>CARLOS</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> En grandes confusiones estoy puesto. </l>
           </sp>
           <sp who="#duque">
@@ -3238,7 +3240,7 @@
           </sp>
           <sp who="#carlos">
             <speaker>CARLOS</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="785"> ¡Ay de mí, si por dicha </l>
             <l part="I"> le hallan! </l>
           </sp>
@@ -3278,7 +3280,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="24">
+        <div type="scene" resp="#rojas" n="25">
           <stage>Vase.</stage>
           <sp who="#porcia">
             <speaker>PORCIA</speaker>
@@ -3298,7 +3300,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="25">
+        <div type="scene" resp="#rojas" n="26">
           <stage>Vase.</stage>
           <sp who="#julia">
             <speaker>JULIA</speaker>
@@ -3311,7 +3313,7 @@
             <l n="800"> está, y a verte viene. Esto apercibo </l>
             <l> de paso a tu belleza; </l>
             <l> que no puedo dejar de ir con su Alteza. </l>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Y no es sino ir a ver si amor restaura </l>
             <l> tan tarde la ocasión de ver a Laura. </l>
           </sp>
@@ -3327,7 +3329,7 @@
             <l part="I"> ser verdad? </l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="26">
+        <div type="scene" resp="#rojas" n="27">
           <stage>Sale ASTOLFO.</stage>
           <sp who="#astolfo">
             <speaker>ASTOLFO</speaker>
@@ -3747,7 +3749,7 @@
           </sp>
           <sp who="#enrique">
             <speaker>ENRIQUE</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F">¡Ay de mí! </l>
           </sp>
           <sp who="#duque">
@@ -3782,8 +3784,8 @@
           </sp>
           <sp who="#enrique">
             <speaker>ENRIQUE</speaker>
-            <stage>Aparte.</stage>
-            <l> ¿Esta fue, ¡ay cielos!, qué haré, </l>
+            <stage>[Aparte.]</stage>
+            <l> (¿Esta fue, ¡ay cielos!, qué haré, </l>
             <l> la ausencia, Astolfo, que hiciste?) </l>
             <l n="55"> ¿Dónde fue, dónde le viste? </l>
           </sp>
@@ -3802,7 +3804,7 @@
           <sp who="#enrique">
             <speaker>ENRIQUE</speaker>
             <l part="F"> ¡Válgame Dios! </l>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="65"> Mas ¿qué me acobarda tanto? </l>
             <l> Todo mi delito fue </l>
             <l> que dar vida procuré </l>
@@ -3865,7 +3867,7 @@
           </sp>
           <sp who="#enrique">
             <speaker>ENRIQUE</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> ¿Qué es esto que llego a oír? </l>
             <l> De un recelo a otro más grave </l>
             <l n="110"> discurro. Pues habla así, </l>
@@ -4128,9 +4130,9 @@
             <l> y este será el de Florencio, </l>
             <l> el de Carlos o Fabricio. </l>
           </sp>
+          <stage>Vanse todos.</stage>
         </div>
         <div type="scene" resp="#rojas" n="6">
-          <stage>Vanse todos.</stage>
           <stage>Salen LUCRECIA, LAURA y CARLOS.</stage>
           <sp who="#lucrecia">
             <speaker>LUCRECIA</speaker>
@@ -4185,7 +4187,7 @@
           </sp>
           <sp who="#lucrecia">
             <speaker>LUCRECIA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="280"> ¡Ay de todos si le he visto! </l>
 
           </sp>
@@ -4194,8 +4196,8 @@
           <stage>Vase LUCRECIA.</stage>
           <sp who="#laura">
             <speaker>LAURA</speaker>
-            <stage>Aparte.</stage>
-            <l> ¡En qué ciega confusión </l>
+            <stage>[Aparte.]</stage>
+            <l> (¡En qué ciega confusión </l>
             <l> están todos mis sentidos! </l>
             <l> ¡Mi padre llorando, ay triste, </l>
             <l> cuando Carlos escondido! </l>
@@ -4229,7 +4231,7 @@
           </sp>
           <sp who="#laura">
             <speaker>LAURA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> A declararse conmigo </l>
             <l> iba, y al decir que sabe </l>
             <l> que Carlos está escondido, </l>
@@ -4237,7 +4239,7 @@
           </sp>
           <sp who="#carlos">
             <speaker>CARLOS</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> ¡Qué he de hacer, cielos benignos! </l>
           </sp>
           <sp who="#enrique">
@@ -4250,12 +4252,12 @@
           </sp>
           <sp who="#laura">
             <speaker>LAURA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="I">¡Qué escucho, cielos! </l>
           </sp>
           <sp who="#carlos">
             <speaker>CARLOS</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> ¡Qué miro! </l>
           </sp>
           <sp who="#laura">
@@ -4285,13 +4287,13 @@
           </sp>
           <sp who="#laura">
             <speaker>LAURA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="325"> Eso sí, vuelva mi aliento </l>
             <l> otra vez al pecho mío. </l>
           </sp>
           <sp who="#carlos">
             <speaker>CARLOS</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>¡Gracias, oh cielo, te doy, </l>
             <l> que ya sin temor respiro! </l>
           </sp>
@@ -4387,9 +4389,10 @@
             <l> De todo aquesto conviene </l>
             <l> ir a dar a Astolfo aviso. </l>
           </sp>
+          <stage>Vanse todos.</stage>
         </div>
         <div type="scene" resp="#rojas" n="11">
-          <stage>Vanse todos y salen PORCIA y CANDIL.</stage>
+          <stage>Salen PORCIA y CANDIL.</stage>
           <sp who="#candil">
             <speaker>CANDIL</speaker>
             <l> Porcia, que todo este nombre </l>
@@ -4578,7 +4581,7 @@
           <sp who="#julia">
             <speaker>JULIA</speaker>
             <stage>Aparte.</stage>
-            <l n="470">Como a nadie descubrí </l>
+            <l n="470">(Como a nadie descubrí </l>
             <l> el secreto de la mina, </l>
             <l> todos se admiran de mí </l>
             <l> y cuanto es ahora espanto, </l>
@@ -4670,8 +4673,8 @@
           <sp who="#laura">
             <speaker>LAURA</speaker>
             <l part="I"> Dices bien.</l>
-            <stage>Aparte.</stage>
-            <l part="F"> Mejor sucede </l>
+            <stage>[Aparte.]</stage>
+            <l part="F"> (Mejor sucede </l>
             <l> que yo pude prevenir, </l>
             <l n="515"> pues no me podrá negar, </l>
             <l> si yo llego a verle allí, </l>
@@ -4692,11 +4695,10 @@
             <l> lo que hay en este jardín, </l>
             <l> hallándose Julia y Laura, </l>
             <l> Leonelo, el Duque y Candil. </l>
-
+          <stage>Vase.</stage>
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="16">
-          <stage>Vase.</stage>
           <stage>Sale JULIA.</stage>
           <sp who="#julia">
             <speaker>JULIA</speaker>
@@ -4725,7 +4727,9 @@
             <l> Decidme, flores, si oyó </l>
             <l part="I"> esta muda seña. </l>
           </sp>
-          <stage>Asómase ASTOLFO por el escotillón.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="17">
+          <stage>Asómase por el escotillón ASTOLFO.</stage>
           <sp who="#astolfo">
             <speaker>ASTOLFO</speaker>
             <l part="F"> Sí, </l>
@@ -4869,43 +4873,43 @@
             <l> más de su parte he tenido. </l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="17">
+        <div type="scene" resp="#rojas" n="18">
           <stage>Salen LAURA y CANDIL.</stage>
           <sp who="#laura">
             <speaker>LAURA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="655">El jardín he discurrido... </l>
           </sp>
           <sp who="#candil">
             <speaker>CANDIL</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Por todo el jardín he andado... </l>
           </sp>
           <sp who="#laura">
             <speaker>LAURA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>Y a Julia en él no he topado. </l>
           </sp>
           <sp who="#candil">
             <speaker>CANDIL</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Y hallar puerta dificulto. </l>
           </sp>
           <sp who="#laura">
             <speaker>LAURA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="I"> Aquí hay gente. </l>
           </sp>
           <sp who="#candil">
             <speaker>CANDIL</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> Un negro bulto </l>
             <l n="660"> viene por esotro lado. </l>
           </sp>
           <sp who="#laura">
             <speaker>LAURA</speaker>
-            <stage>Aparte.</stage>
-            <l>Un hombre es este que veo, </l>
+            <stage>[Aparte.]</stage>
+            <l>(Un hombre es este que veo, </l>
             <l> dél informarme me importa, </l>
             <l> que pues está aquí, sabrá </l>
             <l> de Julia, a quien busco absorta.) </l>
@@ -4913,8 +4917,8 @@
           </sp>
           <sp who="#candil">
             <speaker>CANDIL</speaker>
-            <stage>Aparte.</stage>
-            <l n="665" part="F"> Sin duda que viene </l>
+            <stage>[Aparte.]</stage>
+            <l n="665" part="F"> (Sin duda que viene </l>
             <l> esta fantasma de ronda.) </l>
             <l part="I"> Gente de paz. </l>
           </sp>
@@ -4925,7 +4929,7 @@
           </sp>
           <sp who="#candil">
             <speaker>CANDIL</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F">Cierta cosa </l>
             <l> que esta es el alma, el Astolfo, </l>
             <l n="670"> pues que de Julia se informa. </l>
@@ -4956,7 +4960,7 @@
             <l part="F"> Ni mirón, señora. </l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="18">
+        <div type="scene" resp="#rojas" n="19">
           <stage>Sale por otra parte el DUQUE.</stage>
           <sp who="#duque">
             <speaker>DUQUE</speaker>
@@ -5057,12 +5061,12 @@
           </sp>
           <sp who="#laura">
             <speaker>LAURA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="I">¡Ay de mí! </l>
           </sp>
           <sp who="#astolfo">
             <speaker>ASTOLFO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> Julia, oye y nota. </l>
           </sp>
           <sp who="#duque">
@@ -5101,7 +5105,7 @@
           </sp>
           <sp who="#astolfo">
             <speaker>ASTOLFO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="I"> No llevan. </l>
           </sp>
           <sp who="#candil">
@@ -5126,7 +5130,7 @@
           </sp>
           <sp who="#astolfo">
             <speaker>ASTOLFO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> En la mina </l>
             <l> ha caído una persona. </l>
           </sp>
@@ -5209,13 +5213,12 @@
             <l n="770"> y esta violencia perdona, </l>
             <l> Julia, porque no hay respeto </l>
             <l> adonde hay peligro. Ahora </l>
-
+            <stage>Entra ella primero y él tras ella cerrando la boca con la trampa.</stage>
             <l> que yo saqué mis reliquias, </l>
             <l> quédese abrasando Troya. </l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="19">
-          <stage>Entra ella primero y él tras ella cerrando la boca con la trampa.</stage>
+        <div type="scene" resp="#rojas" n="20">
           <stage>Sale por una parte ENRIQUE y por otra el DUQUE con una luz.</stage>
           <sp who="#duque">
             <speaker>DUQUE</speaker>
@@ -5245,12 +5248,12 @@
             <speaker>ENRIQUE</speaker>
             <l> No, señor, ilusión fue </l>
             <l> cuanto de Astolfo pregonas. </l>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="785"> ¡Quién divertirle pudiera! </l>
           </sp>
           <sp who="#duque">
             <speaker>DUQUE</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Bien de la verdad me informa </l>
             <l> ver que nadie a Julia ampara, </l>
             <l> cuando mis gentes la roban, </l>
@@ -5261,7 +5264,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="20">
+        <div type="scene" resp="#rojas" n="21">
           <stage>Vase el DUQUE.</stage>
           <sp who="#enrique">
             <speaker>ENRIQUE</speaker>
@@ -5271,11 +5274,10 @@
             <l> penas, de tantas congojas, </l>
             <l> buscando a Laura, ¡ay de mí!, </l>
             <l> seguir al Duque me importa. </l>
-
+            <stage>Vase.</stage>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="21">
-          <stage>Vase.</stage>
+        <div type="scene" resp="#rojas" n="22">
           <stage>Sale CARLOS.</stage>
           <sp who="#carlos">
             <speaker>CARLOS</speaker>
@@ -5288,7 +5290,7 @@
             <l n="805"> Vós seáis bien llegado... </l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="22">
+        <div type="scene" resp="#rojas" n="23">
           <stage>Va a entrar y al entrar sale CANDIL y encuéntranse, y vuelven los dos al tablado.</stage>
           <sp who="#candil">
             <speaker>CANDIL</speaker>
@@ -5361,7 +5363,7 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="23">
+        <div type="scene" resp="#rojas" n="24">
           <stage>Salen ASTOLFO y JULIA.</stage>
           <sp who="#astolfo">
             <speaker>ASTOLFO</speaker>
@@ -5386,7 +5388,7 @@
           </sp>
           <sp who="#candil">
             <speaker>CANDIL</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="I"> Y yo hallé dos. </l>
           </sp>
           <sp who="#astolfo">
@@ -5399,14 +5401,13 @@
             <l n="840"> porque a poner en cobro a Julia obligue. </l>
             <l> En tanto que a inquirirlo me resuelvo, </l>
             <l> tened a Julia aquí, que luego vuelvo. </l>
-
+            <stage>Vase.</stage>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="24">
-          <stage>Vase.</stage>
+        <div type="scene" resp="#rojas" n="25">
           <sp who="#candil">
             <speaker>CANDIL</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>Ellos, para pasar, solo imagino </l>
             <l> que esperaron que abriera yo el camino. </l>
           </sp>
@@ -5437,7 +5438,7 @@
             <l part="I"> así?</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="25">
+        <div type="scene" resp="#rojas" n="26">
           <stage>Entran LEONELO y LAURA cubierta con un manto y tapada.</stage>
           <sp who="#leonelo">
             <speaker>LEONELO</speaker>
@@ -5472,14 +5473,14 @@
           </sp>
           <sp who="#laura">
             <speaker>LAURA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F">En tantos desconsuelos </l>
             <l n="865"> no puedo hablar, y aun con temor respiro. </l>
           </sp>
           <sp who="#carlos">
             <speaker>CARLOS</speaker>
-            <stage>Aparte.</stage>
-            <l> En que gran confusión, ¡ay Dios!, me miro, </l>
+            <stage>[Aparte.]</stage>
+            <l> (En que gran confusión, ¡ay Dios!, me miro, </l>
             <l> a un tiempo de dos Julias entregado.) </l>
             <l part="I"> Mudo estoy, ciego estoy. </l>
           </sp>
@@ -5489,7 +5490,7 @@
           </sp>
           <sp who="#carlos">
             <speaker>CARLOS</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Una de mi amistad Astolfo fía, </l>
             <l n="870"> otra Leonelo de la lealtad mía, </l>
             <l> y cuando con las dos ansí me veo </l>
@@ -5530,7 +5531,7 @@
           </sp>
           <sp who="#carlos">
             <speaker>CARLOS</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>Mal mi pena resisto; </l>
             <l n="890"> ¿quién en tal confusión jamás se ha visto? </l>
             <l> Si a Julia al Duque entrego, </l>
@@ -5569,7 +5570,7 @@
             <l> ¡Vive Dios, que no sé lo que he de hacerme! </l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="26">
+        <div type="scene" resp="#rojas" n="27">
           <stage>Sale ASTOLFO.</stage>
           <sp who="#astolfo">
             <speaker>ASTOLFO</speaker>
@@ -5578,7 +5579,7 @@
           </sp>
           <sp who="#laura">
             <speaker>LAURA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="905">¿Cielos, este no es mi hermano? </l>
             <l> Penas a penas se llaman. </l>
           </sp>
@@ -5616,7 +5617,7 @@
           </sp>
           <sp who="#laura">
             <speaker>LAURA</speaker>
-            <stage>Aparte a CARLOS.</stage>
+            <stage>[Aparte a CARLOS.]</stage>
             <l> ¿Cómo nunca me dijiste, </l>
             <l> que estaba Astolfo en tu casa? </l>
           </sp>
@@ -5741,7 +5742,7 @@
             <l> que uno solo no me falta.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="27">
+        <div type="scene" resp="#rojas" n="28">
           <stage>Salen el DUQUE y criados.</stage>
           <sp who="#leonelo">
             <speaker>LEONELO</speaker>
@@ -5784,7 +5785,7 @@
             <l> que te defiende y te guarda? </l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="28">
+        <div type="scene" resp="#rojas" n="29">
           <stage>Descúbrese LAURA.</stage>
           <sp who="#laura">
             <speaker>LAURA</speaker>
@@ -5855,30 +5856,30 @@
 
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="29">
+        <div type="scene" resp="#rojas" n="30">
           <stage>Entra.</stage>
           <sp who="#carlos">
             <speaker>CARLOS</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> ¡Ay de mí! </l>
           </sp>
           <sp who="#laura">
             <speaker>LAURA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="1050">¡Sin duda que a Astolfo hallan! </l>
           </sp>
           <sp who="#candil">
             <speaker>CANDIL</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>¡Cuál han de salir, si topan </l>
             <l> adentro con la fantasma! </l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="30">
+        <div type="scene" resp="#rojas" n="31">
           <stage>Sale ENRIQUE.</stage>
           <sp who="#enrique">
             <speaker>ENRIQUE</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Siempre a la mira del Duque, </l>
             <l> llena de asombros el alma </l>
             <l n="1055"> he andado, y no puedo ya </l>
@@ -5896,7 +5897,7 @@
             <l part="F"> ¿Qué es esto? </l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="31">
+        <div type="scene" resp="#rojas" n="32">
           <stage>Sale LEONELO.</stage>
           <sp who="#leonelo">
             <speaker>LEONELO</speaker>
@@ -5930,7 +5931,7 @@
           </sp>
           <sp who="#enrique">
             <speaker>ENRIQUE</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>Aquí está Astolfo, ¿qué haré, </l>
             <l> si el Duque de verle trata? </l>
           </sp>
