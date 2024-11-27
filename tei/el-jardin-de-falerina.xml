@@ -1167,7 +1167,7 @@
           </sp>
           <sp who="#falerina">
             <speaker>FALERINA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> ¡Ay!, que no sabéis que tengo </l>
             <l> más causas para estorbarlas </l>
             <l> yo que vosotros, pues fieros </l>
@@ -1312,11 +1312,10 @@
             <l> sabe turbar a portentos, </l>
             <l> el amor de Bradamante, </l>
             <l n="725"> de Marfisa y de Rugero. </l>
-
+          <stage>Vase.</stage>
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="5">
-          <stage>Vase.</stage>
           <stage>Tocan arma, y sale por una parte ZULEMILLA moro, y por otra JAQUES francés, armados redículamente.</stage>
           <sp who="#dama-4">
             <speaker>VOZ</speaker>
@@ -1396,7 +1395,7 @@
           <stage>Al entrar los dos, se ven, y tienen miedo uno de otro.</stage>
           <sp who="#jaques">
             <speaker>JAQUES</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Mas ¡ay!, que viene tras mí... </l>
           </sp>
           <sp who="#zulemilla">
@@ -1410,7 +1409,7 @@
           </sp>
           <sp who="#zulemilla">
             <speaker>ZULEMILLA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> ...un francés como un gigante. </l>
           </sp>
           <sp who="#jaques">
@@ -1423,12 +1422,12 @@
           </sp>
           <sp who="#jaques">
             <speaker>JAQUES</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="750"> ¡Vive el Cielo, que me teme! </l>
           </sp>
           <sp who="#zulemilla">
             <speaker>ZULEMILLA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> ¡Por Mahoma, que temblarme! </l>
           </sp>
           <sp who="#jaques">
@@ -1537,7 +1536,6 @@
           <sp who="#roldán #oliveros #durandarte #reinaldos #rugero">
             <speaker>TODOS</speaker>
             <l part="I"> A retirar toca. </l>
-
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="8">
@@ -1638,7 +1636,7 @@
           <sp who="#lisidante">
             <speaker>LISIDANTE</speaker>
             <l> Uno y otro parabién </l>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> a mi enemigo, sin que </l>
             <l n="845"> entre mis brazos le mate? </l>
           </sp>
@@ -1718,7 +1716,7 @@
           <stage>Entrándose todos al son de cajas y trompetas.</stage>
           <sp who="#lisidante">
             <speaker>LISIDANTE</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> ¡Ah tirana! Los cielos </l>
             <l> tiempo me den en que vengar mis celos. </l>
 
@@ -1918,7 +1916,7 @@
           <sp who="#jaques">
             <speaker>JAQUES</speaker>
             <l> ¿Qué palacio es una cueva? </l>
-            <stage>Aparte a ZULEMILLA.</stage>
+            <stage>[Aparte a ZULEMILLA.]</stage>
             <l> Borracho está este gigante. </l>
           </sp>
           <sp who="#zulemilla">
@@ -1931,7 +1929,7 @@
             <l> El que veréis, en abriendo </l>
             <l> esas puertas de diamante </l>
             <l> que están dentro de la cueva. </l>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="955"> (Esto es llevar a encerrarles, </l>
             <l> porque estando los jardines </l>
             <l> sobre ella, no es bien que pasen </l>
@@ -1964,7 +1962,7 @@
           </sp>
           <sp who="#jaques #zulemilla">
             <speaker>LOS DOS</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="970"> ¿Quién vio más penas que estar </l>
             <l> a obediencias de un salvaje? </l>
           </sp>
@@ -2192,12 +2190,11 @@
             <l part="F"> Ser tú </l>
             <l> el más vil, el más infame </l>
             <l> de los hombres, más traidor </l>
-
+          <stage>Sale BRADAMANTE.</stage>
             <l> a ti, tu patria y tu sangre. </l>
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="9">
-          <stage>Sale BRADAMANTE.</stage>
           <sp who="#bradamante">
             <speaker>BRADAMANTE</speaker>
             <l n="85"> Yendo presa Flor de Lis, </l>
@@ -2534,12 +2531,11 @@
             <l n="220"> será la cueva en que yace </l>
             <l> hasta que abrasado vuele </l>
             <l> en cenizas su cadáver. </l>
-
+          <stage>Vase.</stage>
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="17">
           <stage>Sale.</stage>
-          <stage>Vase.</stage>
           <sp who="#reinaldos #durandarte #delfín #lisidante">
             <speaker>TODOS</speaker>
             <l> Todos en tan alta empresa </l>
@@ -3365,7 +3361,7 @@
             <l> que impidió mi retirada; </l>
             <l n="680"> y habiendo entre otros cautivos </l>
             <l> quedado a ser prisionero. </l>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> (Lo que me movió no digo: </l>
             <l> quien lo ha de saber, lo sabe.) </l>
             <l> Proseguí: siempre fue estilo </l>
