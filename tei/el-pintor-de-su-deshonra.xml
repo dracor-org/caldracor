@@ -665,7 +665,7 @@
           </sp>
           <sp who="#juanete">
             <speaker>JUANETE</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> De la boca me han quitado </l>
             <l part="I"> el cuento. </l>
           </sp>
@@ -1110,7 +1110,9 @@
           </sp>
           <sp who="#porcia">
             <speaker>PORCIA</speaker>
-            <stage>Aparte.</stage>
+            <l part="I"> ¿Serafina? ¿Amiga? </l>
+            <stage>[Aparte.]</stage>
+            <l part="F"> (Extraño </l>
             <l> accidente la ha cubierto </l>
             <l> el corazón.) ¿Julia? ¿Flora? </l>
             <l> Nadie oye, todas subieron </l>
@@ -1187,7 +1189,9 @@
           <stage>Vase.</stage>
           <sp who="#porcia">
             <speaker>PORCIA</speaker>
+            <l part="I"> ¡Oye! </l>
             <stage>Aparte.</stage>
+            <l part="F"> (Él se va y yo me quedo </l>
             <l> con dos gustos y una pena, </l>
             <l n="565"> tan sola como primero. </l>
             <l> Iré a llamar quien me ayude, </l>
@@ -1454,12 +1458,12 @@
           </sp>
           <sp who="#don-álvaro">
             <speaker>DON ÁLVARO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> ¿Que esto escuche? ¿Que esto vea? </l>
           </sp>
           <sp who="#serafina">
             <speaker>SERAFINA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> ¡Oh si fueran los postreros </l>
             <l> pasos que diera en mi vida! </l>
           </sp>
@@ -1555,7 +1559,7 @@
             <speaker>DON ÁLVARO</speaker>
             <l> A mí para ir a buscar </l>
             <l> un grande amigo que tengo. </l>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> No es sino enemigo, pues </l>
             <l> voy a buscarme a mí mesmo. </l>
 
@@ -1920,7 +1924,8 @@
           </sp>
           <sp who="#don-álvaro">
             <speaker>DON ÁLVARO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
+            <l> (¿Hay confusiones más fieras?) </l>
           </sp>
           <sp who="#don-luis">
             <speaker>DON LUIS</speaker>
@@ -1950,8 +1955,8 @@
             <l n="875"> don García de Toledo </l>
             <l> le di de no detenellas; </l>
             <l> harto lo siento por vós. </l>
-            <stage>Aparte.</stage>
-            <l> Y porque imagino, ¡ay Dios!, </l>
+            <stage>[Aparte.]</stage>
+            <l> (Y porque imagino, ¡ay Dios!, </l>
             <l> que se me va un bien en ellas, </l>
             <l n="880"> que... Mas no imagino nada, </l>
             <l> que es necedad, que es locura, </l>
@@ -2015,7 +2020,7 @@
           </sp>
           <sp who="#don-álvaro">
             <speaker>DON ÁLVARO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> ¿Quién mi muerte ignora? </l>
           </sp>
           <sp who="#don-luis">
@@ -3050,7 +3055,7 @@
           </sp>
           <sp who="#flora">
             <speaker>FLORA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> ¡Que nunca falte a este paso </l>
             <l n="330"> galán, hermano o marido! </l>
           </sp>
@@ -3110,7 +3115,8 @@
           <sp who="#serafina">
             <speaker>SERAFINA</speaker>
             <l part="F"> Mucho te estimo </l>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
+            <l> (Esforcemos, corazón, </l>
             <l> la pena que no resisto.) </l>
             <l n="345"> el haber vuelto tan presto. </l>
           </sp>
@@ -3124,7 +3130,7 @@
           </sp>
           <sp who="#serafina">
             <speaker>SERAFINA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="M"> ¡Ay de mí! </l>
           </sp>
           <sp who="#don-juan">
@@ -3134,12 +3140,13 @@
           </sp>
           <sp who="#serafina">
             <speaker>SERAFINA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="I"> ¡Vivamos, alma! </l>
           </sp>
           <sp who="#don-álvaro">
             <speaker>DON ÁLVARO</speaker>
-            <l part="F"> [Aparte.] De un hilo </l>
+            <stage>[Aparte.]</stage>
+            <l part="F"> De un hilo </l>
             <l part="I"> pendiente estuve. </l>
           </sp>
           <sp who="#don-juan">
@@ -3314,7 +3321,7 @@
           </sp>
           <sp who="#don-álvaro">
             <speaker>DON ÁLVARO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> ¡Que hubiese de dar conmigo! </l>
             <l n="425"> Pero ya hallé con la puerta. </l>
 
@@ -3392,6 +3399,7 @@
             <speaker>DON JUAN</speaker>
             <l> ¿Estás loco? ¿Estás sin juicio? </l>
             <stage>Aparte.</stage>
+            <l> (Mas, ¡ay cielos!, yo lo estoy </l>
             <l> si en un instante colijo </l>
             <l n="445"> que el llevarme Serafina </l>
             <l> de aquí, y con traidor aviso </l>
@@ -3403,7 +3411,7 @@
             <l> que quiero, aunque no imagino </l>
             <l> que digas verdad, mirar </l>
             <l> la casa; entra, pues, conmigo. </l>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="455"> Apuremos, corazón, </l>
             <l> todo el veneno al peligro. </l>
           </sp>
@@ -3447,13 +3455,13 @@
           <sp who="#serafina">
             <speaker>SERAFINA</speaker>
             <l> Tu gusto solo es el mío; </l>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> ¡Válgame Dios! ¡Qué de asombros </l>
             <l> en solo un instante he visto! </l>
           </sp>
           <sp who="#don-juan">
             <speaker>DON JUAN</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="475"> ¡Válgame Dios! ¡Qué de cosas </l>
             <l> llevo que pensar conmigo! </l>
           </sp>
@@ -3771,7 +3779,7 @@
             <l> si en eso gusto te doy; </l>
             <l> y mas si te alejas. Pues </l>
             <l> volverá a ser la canción... </l>
-            <stage>Canta.</stage>
+            <stage>[Canta.]</stage>
             <l> Amor, si de tus rigores </l>
             <l n="660"> te vences, ¿para qué son </l>
             <l> tanta munición de rayos </l>
@@ -3809,7 +3817,7 @@
           </sp>
           <sp who="#don-luis">
             <speaker>DON LUIS</speaker>
-            <stage>Dentro.</stage>
+            <stage>[Dentro.]</stage>
             <l part="M"> ¿Porcia? </l>
           </sp>
           <sp who="#porcia">
@@ -3818,7 +3826,7 @@
           </sp>
           <sp who="#don-luis">
             <speaker>DON LUIS</speaker>
-            <stage>Dentro.</stage>
+            <stage>[Dentro.]</stage>
             <l> Ya es hora de recogerte. </l>
           </sp>
           <sp who="#porcia">
@@ -3853,7 +3861,7 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="17">
-          <stage>Vase y canta dentro.</stage>
+          <stage>[Vase y canta dentro.]</stage>
           <sp who="#príncipe">
             <speaker>PRÍNCIPE</speaker>
             <l> Ya que de amor y de celos </l>
@@ -4275,7 +4283,7 @@
           </sp>
           <sp who="#juanete">
             <speaker>JUANETE</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Sin duda es fraile y está </l>
             <l> convidado en otra casa, </l>
             <l n="870"> pues que va con tanta priesa. </l>
@@ -4305,7 +4313,7 @@
           </sp>
           <sp who="#juanete">
             <speaker>JUANETE</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="890"> ¡Oigan qué transformación! </l>
             <l> Aunque no le veo la cara, </l>
             <l> que es marinero sé ya, </l>
@@ -4380,10 +4388,13 @@
           <sp who="#don-álvaro">
             <speaker>DON ÁLVARO</speaker>
             <stage>Aparte.</stage>
+            <l> (¡Ay de mí! ¡Que en ella estaba </l>
             <l> Serafina.! Sentimientos, </l>
             <l> no acudáis a la venganza, </l>
             <l n="920"> sino al reparo.) Venid </l>
+            <l part="I"> conmigo. </l>
             <stage>Aparte.</stage>
+            <l part="F"> (Que fuera extraña </l>
             <l> fortuna de mis desdichas </l>
             <l> si hubiese venido a darla </l>
             <l> la vida cuando ella piensa </l>
@@ -4445,13 +4456,14 @@
           <sp who="#juanete">
             <speaker>JUANETE</speaker>
             <l> ¡Señor! ¡Oye! ¡Espera! ¡Aguarda! </l>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="950"> Otra vez se arroja allá, </l>
             <l> el diablo que tras él vaya. </l>
           </sp>
           <sp who="#don-álvaro">
             <speaker>DON ÁLVARO</speaker>
             <stage>Aparte.</stage>
+            <l> (¿Quién en el mundo habrá visto </l>
             <l> jamás dicha tan extraña? </l>
             <l> ¿En mis brazos Serafina </l>
             <l n="955"> no está ya? ¿No está en la playa </l>
@@ -5091,7 +5103,9 @@
           </sp>
           <sp who="#porcia">
             <speaker>PORCIA</speaker>
-            <stage>Aparte a BELARDO.</stage>
+            <l part="I"> Norabuena. </l>
+            <stage>[Aparte a BELARDO.]</stage>
+            <l part="F"> ¿Oyes, Belardo? </l>
             <l> Di al Príncipe que me espere </l>
             <l> aquí si viniere acaso </l>
             <l part="I"> esta tarde. </l>
@@ -5102,7 +5116,7 @@
           </sp>
           <sp who="#don-álvaro">
             <speaker>DON ÁLVARO</speaker>
-            <stage>Aparte a BELARDO.</stage>
+            <stage>[Aparte a BELARDO.]</stage>
             <l n="280">Belardo, oyes, en sacando </l>
             <l> yo de aquí a Porcia, retira </l>
             <l> a esa dama de ese cuarto. </l>
@@ -5203,13 +5217,13 @@
           </sp>
           <sp who="#belardo">
             <speaker>BELARDO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="315"> ¿Cómo podré remediar, </l>
             <l> que la otra no esté escuchando? </l>
           </sp>
           <sp who="#serafina">
             <speaker>SERAFINA</speaker>
-            <stage>Aparte, al paño.</stage>
+            <stage>[Aparte, al paño.]</stage>
             <l> Porcia y el Príncipe son. </l>
           </sp>
           <sp who="#porcia">
@@ -5242,12 +5256,12 @@
           </sp>
           <sp who="#belardo">
             <speaker>BELARDO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Ella oye cuanto se dicen. </l>
           </sp>
           <sp who="#serafina">
             <speaker>SERAFINA</speaker>
-            <stage>Aparte, al paño.</stage>
+            <stage>[Aparte, al paño.]</stage>
             <l> ¿A qué parte, amor tirano, </l>
             <l> iré donde tú no reines? </l>
           </sp>
@@ -5345,18 +5359,18 @@
           </sp>
           <sp who="#porcia">
             <speaker>PORCIA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> ¡Ay de mí! Sin duda viene </l>
             <l> de algún aviso informado. </l>
           </sp>
           <sp who="#don-álvaro">
             <speaker>DON ÁLVARO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> ¡Aquí Porcia! ¿A qué habrá vuelto? </l>
           </sp>
           <sp who="#porcia">
             <speaker>PORCIA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Él llega. ¿Si sabe algo? </l>
           </sp>
           <sp who="#don-álvaro">
@@ -5380,7 +5394,7 @@
           </sp>
           <sp who="#don-álvaro">
             <speaker>DON ÁLVARO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="I"> Eso sí. </l>
           </sp>
           <sp who="#porcia">
@@ -5396,7 +5410,7 @@
           </sp>
           <sp who="#porcia">
             <speaker>PORCIA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> Aun eso, bien. </l>
           </sp>
           <sp who="#don-álvaro">
@@ -5419,7 +5433,7 @@
           </sp>
           <sp who="#belardo">
             <speaker>BELARDO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> ¡Quién no os entendiera a entrambos! </l>
           </sp>
           <sp who="#don-álvaro">
@@ -5462,12 +5476,12 @@
           </sp>
           <sp who="#don-álvaro">
             <speaker>DON ÁLVARO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="395"> Pues mi hermana no la ha visto. </l>
           </sp>
           <sp who="#porcia">
             <speaker>PORCIA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Pues no le ha visto mi hermano. </l>
           </sp>
         </div>
@@ -5519,7 +5533,7 @@
           </sp>
           <sp who="#belardo">
             <speaker>BELARDO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Solo esto faltaba ahora; </l>
             <l> que estuviese enamorado </l>
             <l> el amante de la hermana </l>
@@ -5581,33 +5595,33 @@
           </sp>
           <sp who="#príncipe">
             <speaker>PRÍNCIPE</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="I"> ¡Qué ventura! </l>
           </sp>
           <sp who="#serafina">
             <speaker>SERAFINA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="455" part="F"> ¡Qué desdicha! </l>
           </sp>
           <sp who="#príncipe">
             <speaker>PRÍNCIPE</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="I"> ¡Favor, cielos! </l>
           </sp>
           <sp who="#serafina">
             <speaker>SERAFINA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> ¡Piedad, hados! </l>
           </sp>
           <sp who="#príncipe">
             <speaker>PRÍNCIPE</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Que ya, viendo a Serafina, </l>
             <l> espero vivir amando. </l>
           </sp>
           <sp who="#serafina">
             <speaker>SERAFINA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Que ya, sabiendo quién soy, </l>
             <l n="460"> por puntos mi muerte aguardo. </l>
           </sp>
@@ -6057,6 +6071,7 @@
           <sp who="#don-álvaro">
             <speaker>DON ÁLVARO</speaker>
             <stage>Aparte.</stage>
+            <l> (¡Duda notable!) </l>
             <l> Pues, ¿qué es lo que ha sucedido? </l>
           </sp>
           <sp who="#don-luis">
@@ -6073,6 +6088,7 @@
           <sp who="#don-álvaro">
             <speaker>DON ÁLVARO</speaker>
             <stage>Aparte.</stage>
+            <l> (¡Ay de mí! Todo lo sabe, </l>
             <l> pues dice que no es posible </l>
             <l n="720"> de su enemigo vengarle. </l>
             <l> No sin mucha ocasión, ¡cielos!, </l>
@@ -6100,7 +6116,7 @@
           </sp>
           <sp who="#don-álvaro">
             <speaker>DON ÁLVARO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> Mejorose el lance: </l>
             <l> alentemos, corazón, </l>
             <l n="740"> que ya es el recelo en balde. </l>
@@ -6184,7 +6200,9 @@
           <sp who="#don-pedro">
             <speaker>DON PEDRO</speaker>
             <l n="775"> Un cuidado me ha traído: </l>
-            <stage>Aparte.</stage>
+            <l part="I"> yo, señor don Luis </l>
+            <stage>[Aparte.]</stage>
+            <l part="F"> (Pesares, </l>
             <l> pues me afligís atrevidos, </l>
             <l> no me consoléis cobardes.) </l>
             <l> traigo una pena estos días </l>
@@ -6200,7 +6218,7 @@
           </sp>
           <sp who="#don-luis">
             <speaker>DON LUIS</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F"> ¡Duda grave! </l>
             <l> Pues decirlo y no decirlo </l>
             <l n="790"> es a su honor importante. </l>
@@ -6303,7 +6321,9 @@
             <l> lo que si se compran valen. </l>
             <l> Pero volvamos al caso: </l>
             <l n="830"> mayores dificultades </l>
-            <stage>A DON JUAN.</stage>
+            <l part="I"> venceré por ti. </l>
+            <stage>[A DON JUAN.]</stage>
+            <l part="F"> Venid </l>
             <l> conmigo vós, que yo en parte </l>
             <l> os pondré que podáis verla, </l>
             <l> sin ser sentido de nadie. </l>
@@ -6458,7 +6478,7 @@
           </sp>
           <sp who="#don-juan">
             <speaker>DON JUAN</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Aún no puedo verla el rostro, </l>
             <l n="900"> que está el villano delante. </l>
           </sp>
@@ -6491,7 +6511,7 @@
           <stage>Siéntase de espaldas a la reja.</stage>
           <sp who="#don-juan">
             <speaker>DON JUAN</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> De espaldas se ha puesto; no es </l>
             <l> posible que la retrate. </l>
           </sp>
@@ -6589,7 +6609,7 @@
           </sp>
           <sp who="#don-juan">
             <speaker>DON JUAN</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l> Don Álvaro es, ¡vive el cielo!, </l>
             <l n="975"> hijo de don Luis, su amante. </l>
           </sp>
@@ -6602,6 +6622,7 @@
           <sp who="#don-juan">
             <speaker>DON JUAN</speaker>
             <stage>Aparte.</stage>
+            <l> (¡Ya, cielos, </l>
             <l> no hay sufrimiento que baste! </l>
             <l n="980"> Cuantas razones propuse </l>
             <l> aquí para reportarme, </l>
@@ -6742,6 +6763,7 @@
             <l n="1040"> el pintor de su deshonra, </l>
             <l> perdonad yerros tan grandes. </l>
           </sp>
+          <trailer>FIN</trailer>
         </div>
 
       </div>
