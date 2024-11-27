@@ -3710,7 +3710,7 @@
             <stage type="withText">[Aparte.] </stage>
 
 
-            <l>Yo no puedo sufrir, ¡cielos!,</l>
+            <l>(Yo no puedo sufrir, ¡cielos!,</l>
             <l>a mis ojos tantos celos.</l>
             <l>Trocaré a Laura el lugar.)</l>
             <l>¡Ah Laura! ¿Queréis feriarme</l>
@@ -3737,9 +3737,9 @@
             <l>mujer en toda mi vida</l>
             <l>tan cortés, tan entendida,</l>
             <l>tan hermosa y tan prudente.</l>
-            <l>Troquemos lugar  </l>
+            <l part="I">Troquemos lugar </l>
             <stage>[Aparte.] </stage>
-            <l>(Así</l>
+            <l part="F">(Así</l>
             <l>le obligaré que me dé</l>
             <l>el que deseo); porque</l>
             <l>gocéis de su ingenio aquí</l>
@@ -6096,9 +6096,9 @@
 
 
             <l>Pues que se queden</l>
-            <l>con hambre y sed.</l>
+            <l part="I">con hambre y sed.</l>
             <stage>[Aparte.]</stage>
-            <l>En mi vida</l>
+            <l part="F">En mi vida</l>
             <l>vi flamenco tan valiente.</l>
           </sp>
           <sp who="#justino">
