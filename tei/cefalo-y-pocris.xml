@@ -324,8 +324,8 @@
             <l>Eso es lo que yo quiero.</l>
           </sp>
           <sp who="#uno">
-            <speaker rend="caps">[uno]</speaker>
-            <stage type="withText">(Dentro UNO.)</stage>
+            <speaker rend="caps">Uno</speaker>
+            <stage type="withText">(Dentro.)</stage>
 
 
             <l>¡Amaina, amaina, pícaro cochero!</l>
@@ -529,8 +529,8 @@
             <l>Voy de rama en rama.</l>
           </sp>
           <sp who="#pastel">
-            <speaker rend="caps">[pastel]</speaker>
-            <stage type="withText">(Dentro PASTEL.)</stage>
+            <speaker rend="caps">Pastel</speaker>
+            <stage type="withText">(Dentro.)</stage>
 
 
             <l>Céfalo.</l>
@@ -4270,7 +4270,7 @@
           </sp>
           <sp who="#unos">
             <speaker rend="caps">[unos]</speaker>
-            <stage type="withText">(Dentro UNOS.)</stage>
+            <stage type="withText">(Dentro.)</stage>
 
 
             <l>¡Viva Pocris!</l>
@@ -4294,7 +4294,7 @@
         <div type="scene" resp="#rojas" n="8">
           <stage>(Sale FLORA.)</stage>
           <sp who="#flora">
-            <speaker rend="caps">[flora]</speaker>
+            <speaker rend="caps">[Flora]</speaker>
 
 
             <l>Escúchame atento.</l>
@@ -5221,7 +5221,7 @@
         <div type="scene" resp="#rojas" n="17">
           <stage>(Sale el REY.)</stage>
           <sp who="#rey">
-            <speaker rend="caps">[rey]</speaker>
+            <speaker rend="caps">[Rey]</speaker>
             <stage type="withText"> [Aparte.] </stage>
 
 
@@ -5250,7 +5250,7 @@
           </sp>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
-            <stage type="withText"> [Aparte.] </stage>
+            <stage type="withText">(Aparte.)</stage>
 
 
             <l>(Esto es lo que pretendí,</l>
@@ -6289,7 +6289,7 @@
         <div type="scene" resp="#rojas" n="6">
           <stage>(Sale ROSICLER.)</stage>
           <sp who="#rosicler">
-            <speaker rend="caps">[rosicler]</speaker>
+            <speaker rend="caps">[Rosicler]</speaker>
 
 
             <l>Queda solo.</l>
@@ -6686,7 +6686,7 @@
         <div type="scene" resp="#rojas" n="7">
           <stage>(Sale AURA.)</stage>
           <sp who="#aura">
-            <speaker rend="caps">[aura]</speaker>
+            <speaker rend="caps">[Aura]</speaker>
 
 
             <l>Pues en aire convertida</l>
@@ -8052,7 +8052,7 @@
             <l>cuántas canas se me quitan</l>
             <l>en comenzando a cantar.</l>
             <stage>(Empieza a cantar, y por un arambre le quitan las barbas y cabellera cana al REY.)</stage>
-            <l/>
+            <stage>(Canta)</stage>
             <l>Vaya, vaya de mojiganga,</l>
             <l>de alegría y de pesar;</l>
             <l>que quien llora con placer,</l>
@@ -8072,7 +8072,6 @@
             <stage type="withText">(Canta.)</stage>
 
 
-            <l/>
             <l>El Gigante con las dueñas</l>
             <l>salga el guineo a bailar.</l>
           </sp>
@@ -8115,8 +8114,8 @@
             <l>que quien llora con placer,</l>
             <l>siente bien cualquiera mal.]</l>
             <stage>(Hacen un torneo en forma de matachines y dan fin.)</stage>
-            <stage>FIN</stage>
           </sp>
+          <trailer>FIN</trailer>
         </div>
 
       </div>
