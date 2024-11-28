@@ -182,6 +182,7 @@
       <div type="act" n="1">
         <head rend="caps">Primera Jornada</head>
         <div type="scene" resp="#rojas" n="1">
+          <stage>Salen Egerio Rey de Irlanda, vestido de pieles, Leogario, un Capitán, Polonia, y Lesbia defendiéndole.</stage>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
 
@@ -288,7 +289,8 @@
 
             <l>Fantasmas son ligeras</l>
             <l>del sueño, que introduce estas quimeras</l>
-            <l>al alma y al sentido.</l>
+            <l>al alma y al sentido:</l>
+            <stage>Tocan una trompeta.</stage>
             <l>Mas, ¿qué clarín es éste?</l>
           </sp>
           <sp who="#capitán">
@@ -433,7 +435,7 @@
             <l>el ver rasgar los senos</l>
             <l>con rayos, con relámpagos y truenos?</l>
           </sp>
-          <stage>Dentro</stage>
+          <stage>Dentro Patricio</stage>
           <sp who="#patricio">
             <speaker rend="caps">Patricio</speaker>
 
@@ -1183,7 +1185,7 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="5">
-          <stage>Vanse.</stage>
+          <stage>Vase.</stage>
           <sp who="#patricio">
             <speaker rend="caps">Patricio</speaker>
 
@@ -1281,8 +1283,10 @@
             <l>por quitarme de cuistiones;</l>
             <l>ellos sabrán responder</l>
             <l>callando por mi deseo.</l>
-            <stage>Sale Paulín, villano, y velos abrazados.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="6">
+          <stage>Sale Paulín, villano, y velos abrazados.</stage>
           <sp who="#paulín">
             <speaker rend="caps">Paulín</speaker>
 
@@ -1362,7 +1366,7 @@
             <l>las vidas que has sepultado?).</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="6">
+        <div type="scene" resp="#rojas" n="7">
           <stage>Vase.</stage>
           <sp who="#paulín">
             <speaker rend="caps">Paulín</speaker>
@@ -1473,7 +1477,7 @@
             <l>y los cien palos a mí.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="7">
+        <div type="scene" resp="#rojas" n="8">
           <stage>Sale Filipo.</stage>
           <sp who="#filipo">
             <speaker rend="caps">Filipo</speaker>
@@ -1514,8 +1518,10 @@
 
             <l>Con razón o sin razón,</l>
             <l>o soy o no soy marido.</l>
-            <stage>Salen Leogario y un villano viejo y Patricio de esclavo.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="9">
+          <stage>Salen Leogario y un villano viejo y Patricio de esclavo.</stage>
           <sp who="#leogario">
             <speaker rend="caps">Leogario</speaker>
 
@@ -1640,7 +1646,7 @@
             <l>y a mí por quedar sin ella.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="8">
+        <div type="scene" resp="#rojas" n="10">
           <stage>Vanse Filipo y Leogario.</stage>
           <sp who="#locía">
             <speaker rend="caps">Locía</speaker>
@@ -1711,7 +1717,7 @@
             <l>de todo el género humano.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="9">
+        <div type="scene" resp="#rojas" n="11">
           <stage>Vase.</stage>
           <sp who="#viejo">
             <speaker rend="caps">Viejo</speaker>
@@ -1742,7 +1748,7 @@
             <l>nunca te me apartes de él.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="10">
+        <div type="scene" resp="#rojas" n="12">
           <stage>Vase.</stage>
           <sp who="#paulín">
             <speaker rend="caps">Paulín</speaker>
@@ -1820,8 +1826,10 @@
             <l>esclavo os servid de mí.</l>
             <l>Si no, llevadme de aquí</l>
             <l>adonde os sirva.</l>
-            <stage>En una apariencia un Ángel que trae un espejo en el escudo y una carta.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="13">
+          <stage>En una apariencia un Ángel que trae un espejo en el escudo y una carta.</stage>
           <sp who="#ángel-bueno">
             <speaker rend="caps">Ángel</speaker>
 
@@ -2015,6 +2023,7 @@
       <div type="act" n="2">
         <head rend="caps">Segunda Jornada</head>
         <div type="scene" resp="#rojas" n="1">
+          <stage>Salen Ludovico y Polonia.</stage>
           <sp who="#ludovico">
             <speaker rend="caps">Ludovico</speaker>
 
@@ -2297,8 +2306,10 @@
             <l>esfera de mi rigor,</l>
             <l>este obispo, este pastor,</l>
             <l>que viene en nombre del Papa.</l>
-            <stage>Salen todos con Ludovico.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="3">
+          <stage>Salen todos con Ludovico.</stage>
           <sp who="#capitán">
             <speaker rend="caps">Capitán</speaker>
 
@@ -2329,8 +2340,10 @@
             <l>muere a mi furor rendido,</l>
             <l>no por cristiano atrevido,</l>
             <l>sino sólo por cristiano.</l>
-            <stage>Vanse todos y queda Ludovico.</stage>
           </sp>
+          <stage>Vanse todos y queda Ludovico.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="">
           <sp who="#ludovico">
             <speaker rend="caps">Ludovico</speaker>
 
@@ -2423,7 +2436,7 @@
             <l>no, cielos, para otra cosa.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="3">
+        <div type="scene" resp="#rojas" n="4">
           <stage>Sale Polonia.</stage>
           <sp who="#polonia">
             <speaker rend="caps">Polonia</speaker>
@@ -2479,7 +2492,7 @@
             <l>los crespos cabellos moja.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="4">
+        <div type="scene" resp="#rojas" n="5">
           <stage>Vase.</stage>
           <sp who="#ludovico">
             <speaker rend="caps">Ludovico</speaker>
@@ -2517,8 +2530,10 @@
             <l>que nadie estima ni adora</l>
             <l>y como todas viviera,</l>
             <l>si quisiera como todas.</l>
-            <stage>Vase y sale el capitán.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="6">
+          <stage>Vase y sale el capitán.</stage>
           <sp who="#capitán">
             <speaker rend="caps">Capitán</speaker>
 
@@ -2530,8 +2545,10 @@
             <l>la torre, ¿qué puede ser?</l>
             <l>¡Soldados! ¿No hay quien responda?</l>
             <l>¡Ah, guardas! ¡Traición, traición!</l>
-            <stage>Salen el Rey y Filipo y Leogario.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="7">
+          <stage>Salen el Rey y Filipo y Leogario.</stage>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
 
@@ -2566,7 +2583,7 @@
             <l>Hibernia segunda Troya.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="5">
+        <div type="scene" resp="#rojas" n="8">
           <stage>Vase.</stage>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
@@ -2582,9 +2599,11 @@
             <l>de mis manos vengadoras,</l>
             <l>que de mí no está seguro</l>
             <l>aun su Pontífice en Roma.</l>
-            <stage>Vanse.</stage>
-            <stage>Sale Polonia huyendo herida y Ludovico con una daga.</stage>
           </sp>
+          <stage>Vanse.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="9">
+          <stage>Sale Polonia huyendo herida y Ludovico con una daga.</stage>
           <sp who="#polonia">
             <speaker rend="caps">Polonia</speaker>
 
@@ -2653,11 +2672,13 @@
           </sp>
           <sp who="#polonia">
             <speaker rend="caps">Polonia</speaker>
-            <stage type="withText">Cae dentro.</stage>
 
 
             <l>El dios me valga de Patricio.</l>
           </sp>
+          <stage type="withText">Cae dentro.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="10">
           <sp who="#ludovico">
             <speaker rend="caps">Ludovico</speaker>
 
@@ -2835,9 +2856,11 @@
             <l>ha de morir en el cristal helado</l>
             <l>del mar). Que os recojáis a vos os pido,</l>
             <l>que luego volverá vuestro marido.</l>
-            <stage>Vanse.</stage>
-            <stage>Salen el rey Egerio y Lesbia y Leogario y el capitán.</stage>
           </sp>
+          <stage>Vanse.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="11">
+          <stage>Salen el rey Egerio y Lesbia y Leogario y el capitán.</stage>
           <sp who="#lesbia">
             <speaker rend="caps">Lesbia</speaker>
 
@@ -2870,7 +2893,7 @@
             <l>para que te informe el día.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="6">
+        <div type="scene" resp="#rojas" n="12">
           <stage>Sale Filipo.</stage>
           <sp who="#filipo">
             <speaker rend="caps">Filipo</speaker>
@@ -2943,9 +2966,9 @@
             <l>contra divinas bellezas?</l>
             <l>Acabe el dolor mi vida.</l>
           </sp>
+          <stage>Dentro Patricio</stage>
           <sp who="#patricio">
             <speaker rend="caps">Patricio</speaker>
-            <stage type="withText">Dentro.</stage>
 
 
             <l>¡Ay de ti, mísera Hibernia!</l>
@@ -2992,7 +3015,7 @@
             <l>¡Ay de ti, mísera Hibernia!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="7">
+        <div type="scene" resp="#rojas" n="13">
           <stage>Sale Patricio.</stage>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
@@ -3129,7 +3152,7 @@
             <l>¡Penitencia, penitencia!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="8">
+        <div type="scene" resp="#rojas" n="14">
           <stage>Vase.</stage>
           <sp who="#filipo">
             <speaker rend="caps">Filipo</speaker>
@@ -3321,7 +3344,7 @@
             <l>dile a Él que la defienda.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="9">
+        <div type="scene" resp="#rojas" n="15">
           <stage>Vanse todos.</stage>
           <sp who="#patricio">
             <speaker rend="caps">Patricio</speaker>
@@ -3344,8 +3367,10 @@
             <l>a glorias y a tormentos,</l>
             <l>por sombras, por figuras, sea notorio</l>
             <l>al mundo, cielo, infierno y purgatorio.</l>
-            <stage>Baja un ángel bueno y sale otro malo.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="16">
+          <stage>Baja un ángel bueno y sale otro malo.</stage>
           <sp who="#ángel-malo">
             <speaker rend="caps">Ángel Malo</speaker>
 
@@ -3425,7 +3450,7 @@
             <l>¡Egerio!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="10">
+        <div type="scene" resp="#rojas" n="17">
           <stage>Salen todos.</stage>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
@@ -3522,7 +3547,7 @@
             <l>que me dé temor.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="11">
+        <div type="scene" resp="#rojas" n="18">
           <stage>Sale Polonia.</stage>
           <sp who="#polonia">
             <speaker rend="caps">Polonia</speaker>
@@ -3683,7 +3708,7 @@
             <l>Llamas el centro de la tierra espira.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="12">
+        <div type="scene" resp="#rojas" n="19">
           <stage>Vase.</stage>
           <sp who="#leogario">
             <speaker rend="caps">Leogario</speaker>
@@ -3692,7 +3717,7 @@
             <l>Los ejes rotos vi del firmamento.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="13">
+        <div type="scene" resp="#rojas" n="20">
           <stage>Vase.</stage>
           <sp who="#polonia">
             <speaker rend="caps">Polonia</speaker>
@@ -3701,7 +3726,7 @@
             <l>El cielo desató toda su ira.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="14">
+        <div type="scene" resp="#rojas" n="21">
           <stage>Vase.</stage>
           <sp who="#lesbia">
             <speaker rend="caps">Lesbia</speaker>
@@ -3710,7 +3735,7 @@
             <l>La tierra se estremece y gime el viento.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="15">
+        <div type="scene" resp="#rojas" n="22">
           <stage>Vase.</stage>
           <sp who="#patricio">
             <speaker rend="caps">Patricio</speaker>
@@ -3720,7 +3745,7 @@
             <l>vuestros contrarios.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="16">
+        <div type="scene" resp="#rojas" n="23">
           <stage>Vase.</stage>
           <sp who="#filipo">
             <speaker rend="caps">Filipo</speaker>
@@ -3838,7 +3863,7 @@
             <speaker rend="caps">Ludovico</speaker>
 
 
-            <l>(Mal mi palabra cumplí).</l>
+            <l><stage>Aparte</stage> (Mal mi palabra cumplí).</l>
             <l>Prosigue.</l>
           </sp>
           <sp who="#paulín">
@@ -4072,8 +4097,10 @@
             <l>que rayos de acero arrojo</l>
             <l>y que de ninguna suerte</l>
             <l>le ofendo, hiero ni toco.</l>
-            <stage>Vase tras él acuchillándole y sale Filipo.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="3">
+          <stage>Vase tras él acuchillándole y sale Filipo.</stage>
           <sp who="#paulín">
             <speaker rend="caps">Paulín</speaker>
 
@@ -4156,7 +4183,7 @@
             <speaker rend="caps">Paulín</speaker>
 
 
-            <l>(Cortés habló y temeroso.</l>
+            <l><stage>Aparte</stage> (Cortés habló y temeroso.</l>
             <l>También hay sombras gallinas).</l>
             <l>Yo tengo mucho o un poco</l>
             <l>que hacer; entrad norabuena,</l>
@@ -4177,7 +4204,7 @@
             <l>pero a mí ¿qué me va en esto?).</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="3">
+        <div type="scene" resp="#rojas" n="4">
           <stage>Vase.</stage>
           <sp who="#paulín">
             <speaker rend="caps">Paulín</speaker>
@@ -4197,8 +4224,10 @@
             <l>Mas otra vez ruido oigo</l>
             <l>de cuchilladas y voces.</l>
             <l>Allí son, por aquí corro.</l>
-            <stage>Vase y sale Ludovico y el embozado.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="5">
+          <stage>Vase y sale Ludovico y el embozado.</stage>
           <sp who="#ludovico">
             <speaker rend="caps">Ludovico</speaker>
 
@@ -4231,6 +4260,8 @@
             <l>yo soy Ludovico Enio.</l>
           </sp>
           <stage>Desaparece.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="6">
           <sp who="#ludovico">
             <speaker rend="caps">Ludovico</speaker>
 
@@ -4239,8 +4270,10 @@
             <l>¡Válgame el cielo! ¿Qué veo?</l>
             <l>Sombras y desdichas toco;</l>
             <l>muerto soy.</l>
-            <stage>Cae en el suelo y sale Paulín.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="7">
+          <stage>Cae en el suelo y sale Paulín.</stage>
           <sp who="#paulín">
             <speaker rend="caps">Paulín</speaker>
 
@@ -4406,7 +4439,7 @@
             <l>bástame mi matrimonio.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="4">
+        <div type="scene" resp="#rojas" n="8">
           <stage>Vase.</stage>
           <sp who="#ludovico">
             <speaker rend="caps">Ludovico</speaker>
@@ -4428,9 +4461,11 @@
             <l>que me veréis más dichoso,</l>
             <l>si en nombre de Dios Patricio</l>
             <l>me ayuda en el purgatorio.</l>
-            <stage>Vase.</stage>
-            <stage>Sale en lo alto del monte Polonia y baja al tablado.</stage>
           </sp>
+          <stage>Vase.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="9">
+          <stage>Sale en lo alto del monte Polonia y baja al tablado.</stage>
           <sp who="#polonia">
             <speaker rend="caps">Polonia</speaker>
 
@@ -4473,7 +4508,7 @@
             <l>la vida –yo lo sé– caduca sombra.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="5">
+        <div type="scene" resp="#rojas" n="10">
           <stage>Sale Ludovico.</stage>
           <sp who="#ludovico">
             <speaker rend="caps">Ludovico</speaker>
@@ -4701,7 +4736,7 @@
             <l>por esta nieve fría.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="6">
+        <div type="scene" resp="#rojas" n="11">
           <stage>Éntrase dentro.</stage>
           <sp who="#polonia">
             <speaker rend="caps">Polonia</speaker>
@@ -4797,7 +4832,7 @@
             <l>Y Él con vitoria de ese horror te saque.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="7">
+        <div type="scene" resp="#rojas" n="12">
           <stage>Vanse y salen dos canónigos reglares.</stage>
           <sp who="#canónigo-1">
             <speaker rend="caps">Canónigo 1</speaker>
@@ -4818,7 +4853,7 @@
             <l>nuestra obscura habitación.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="8">
+        <div type="scene" resp="#rojas" n="13">
           <stage>Sale Ludovico.</stage>
           <sp who="#ludovico">
             <speaker rend="caps">Ludovico</speaker>
@@ -5040,8 +5075,10 @@
             <l>me ha de sacar vencedor.</l>
             <l>La señal de la cruz hago</l>
             <l>mil veces. ¡Válgame Dios!</l>
-            <stage>Aquí entra en la cueva, que será como se pudiere hacer más horrible, y cierren con un bastidor.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="14">
+          <stage>Aquí entra en la cueva, que será como se pudiere hacer más horrible, y cierren con un bastidor.</stage>
           <sp who="#canónigo-1">
             <speaker rend="caps">Canónigo 1</speaker>
 
@@ -5052,9 +5089,10 @@
             <l>resista la tentación</l>
             <l>de los demonios, fiado,</l>
             <l>divino Señor, en vos.</l>
-            <stage>Vase.</stage>
-            <stage>Salen Lesbia, Filipo, Leogario, capitán y Polonia.</stage>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="15">
+          <stage>Salen Lesbia, Filipo, Leogario, capitán y Polonia.</stage>
           <sp who="#lesbia">
             <speaker rend="caps">Lesbia</speaker>
 
@@ -5174,8 +5212,10 @@
             <l>en lágrimas bañados,</l>
             <l>con silencio a la cueva van guiados</l>
             <l>para abrirle la puerta.</l>
-            <stage>Salen los más que pudieren y llegan a la cueva, de donde sale Ludovico como asombrado.</stage>
           </sp>
+          <stage>Salen los más que pudieren y llegan a la cueva, de donde sale Ludovico como asombrado.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="16">
           <sp who="#canónigo-1">
             <speaker rend="caps">Canónigo 1</speaker>
 
