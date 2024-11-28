@@ -713,6 +713,9 @@
 
             <l>Adiós.</l>
           </sp>
+          <stage>Vase Don Juan.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="2">
           <sp who="#rodrigo">
             <speaker rend="caps">Rodrigo</speaker>
 
@@ -765,7 +768,7 @@
             <l>Sí.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="2">
+        <div type="scene" resp="#rojas" n="3">
           <stage>Salen doña Clara y Isabel.</stage>
           <sp who="#rodrigo">
             <speaker rend="caps">Rodrigo</speaker>
@@ -1005,7 +1008,7 @@
             <l>calle, reja, coche y Prado.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="3">
+        <div type="scene" resp="#rojas" n="4">
           <stage>Vanse los dos.</stage>
           <sp who="#rodrigo">
             <speaker rend="caps">Rodrigo</speaker>
@@ -1064,7 +1067,7 @@
             <l>el rato que huele mal.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="4">
+        <div type="scene" resp="#rojas" n="5">
           <stage>Vanse. Sale doña Beatriz y Inés y don Félix.</stage>
           <sp who="#félix">
             <speaker rend="caps">Félix</speaker>
@@ -1198,7 +1201,7 @@
             <l>todo lo demás ignoro.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="5">
+        <div type="scene" resp="#rojas" n="6">
           <stage>Al irse sale Leonelo y detiénele.</stage>
           <sp who="#beatriz">
             <speaker rend="caps">Beatriz</speaker>
@@ -1337,7 +1340,7 @@
             <l>rinda belleza a belleza.)</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="6">
+        <div type="scene" resp="#rojas" n="7">
           <stage>Sale don Juan.</stage>
           <sp who="#don-juan">
             <speaker rend="caps">Don Juan</speaker>
@@ -1394,7 +1397,7 @@
             <l>entre a besaros las manos.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="7">
+        <div type="scene" resp="#rojas" n="8">
           <stage>Vase don Juan.</stage>
           <sp who="#beatriz">
             <speaker rend="caps">Beatriz</speaker>
@@ -1403,10 +1406,11 @@
             <l>Pues ¿quién negarle pudiera</l>
             <l>al forastero y amigo</l>
             <l>vuestro tan cortés licencia?</l>
-            <l>(Este es don Dionís, Inés.) A la criada.</l>
+            <l>(Este es don Dionís, Inés.)</l>
           </sp>
           <sp who="#inés">
             <speaker rend="caps">Inés</speaker>
+            <stage>A la criada.</stage>
 
 
             <l>(Sin duda que no te pesa</l>
@@ -1429,7 +1433,7 @@
             <l>más alegre su semblante?)</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="8">
+        <div type="scene" resp="#rojas" n="9">
           <stage>Salen don Juan y Rodrigo y trae puesta la cadena y al verle Beatriz hace como que le pesa.</stage>
           <sp who="#rodrigo">
             <speaker rend="caps">Rodrigo</speaker>
@@ -1489,7 +1493,7 @@
             <l>Aquí, Leonelo, te asienta.)</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="9">
+        <div type="scene" resp="#rojas" n="10">
           <stage>Vanse sentando y sale don Diego.</stage>
           <sp who="#don-diego">
             <speaker rend="caps">Don Diego</speaker>
@@ -1528,8 +1532,9 @@
             <l>Vos, señor, estáis muy bien,</l>
             <l>pues cuando yo la tuviera,</l>
             <l>fuera dichoso en que vos</l>
-            <l>os sirviérades con ella. Siéntase.</l>
+            <l>os sirviérades con ella.</l>
           </sp>
+          <stage>Siéntase.</stage>
           <sp who="#félix">
             <speaker rend="caps">Félix</speaker>
 
@@ -1764,8 +1769,9 @@
             <speaker rend="caps">Don Diego</speaker>
 
 
-            <l>Norabuena. Juegan.</l>
+            <l>Norabuena.</l>
           </sp>
+          <stage>Juegan.</stage>
           <sp who="#félix">
             <speaker rend="caps">Félix</speaker>
 
@@ -1852,7 +1858,7 @@
             <l>necedades de discretas.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="10">
+        <div type="scene" resp="#rojas" n="11">
           <stage>Vanse los dos y Leonelo dice al irse.</stage>
           <sp who="#leonelo">
             <speaker rend="caps">Leonelo</speaker>
@@ -1898,7 +1904,7 @@
             <l>para un moro? No hay paciencia.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="11">
+        <div type="scene" resp="#rojas" n="12">
           <stage>Vase.</stage>
           <sp who="#inés">
             <speaker rend="caps">Inés</speaker>
@@ -1974,7 +1980,7 @@
             <l>¡Qué bien engañada queda!)</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="12">
+        <div type="scene" resp="#rojas" n="13">
           <stage>Vanse los dos.</stage>
           <sp who="#beatriz">
             <speaker rend="caps">Beatriz</speaker>
@@ -1992,7 +1998,7 @@
             <l>para que le alabes.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="13">
+        <div type="scene" resp="#rojas" n="14">
           <stage>Vase.</stage>
           <sp who="#beatriz">
             <speaker rend="caps">Beatriz</speaker>
@@ -2383,7 +2389,7 @@
 
 
             <l>Muy bien</l>
-            <l>me ha parecido. (Y muy mal</l>
+            <l>me ha parecido.<stage>Aparte</stage> (Y muy mal</l>
             <l>pudiera decir. Inés,</l>
             <l>¿no es don Dionís?)</l>
           </sp>
@@ -2538,6 +2544,7 @@
             <speaker rend="caps">Beatriz</speaker>
 
 
+            <stage>Aparte</stage>
             <l>(Digo que me ha parecido</l>
             <l>tan bien, Clara hermosa, que</l>
             <l>ha de pesarte algún día</l>
@@ -2603,7 +2610,7 @@
             <l>No sé</l>
             <l>qué es lo que me ha dado. Trayme</l>
             <l>un barro de agua, Isabel.</l>
-            <l>(Por desmentir una pena</l>
+            <l><stage>Aparte</stage> (Por desmentir una pena</l>
             <l>otra pena fingiré;</l>
             <l>agua pido y es en vano,</l>
             <l>porque es de fuego mi sed.)</l>
@@ -2654,6 +2661,7 @@
             <l>un cuchillo al corazón</l>
             <l>y a la garganta un cordel.</l>
           </sp>
+          <stage>Disimulando</stage>
           <sp who="#don-diego">
             <speaker rend="caps">Don Diego</speaker>
 
@@ -3269,7 +3277,7 @@
             <speaker rend="caps">Don Diego</speaker>
 
 
-            <l>(Agora podré llegar</l>
+            <l><stage>Aparte</stage> (Agora podré llegar</l>
             <l>a hablar, empezando yo</l>
             <l>a quejarme, que esta es</l>
             <l>la estratagema mayor;</l>
@@ -3381,6 +3389,9 @@
             <l>aquí y allí la razón</l>
             <l>con tantas veras.)</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="10">
+          <stage>Sale don Juan alborotado.</stage>
           <sp who="#don-juan">
             <speaker rend="caps">Don Juan</speaker>
 
@@ -3569,8 +3580,8 @@
             <l>miren juntos a los dos.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="10">
-          <stage>Sale don Juan alborotado.</stage>
+        <div type="scene" resp="#rojas" n="11">
+          <stage>Vase.</stage>
           <sp who="#inés">
             <speaker rend="caps">Inés</speaker>
 
@@ -3593,7 +3604,7 @@
             <l>con ingenio y con amor!)</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="11">
+        <div type="scene" resp="#rojas" n="12">
           <stage>Vanse los dos por una puerta y por la otra se va a entrar Inés y la detiene don Félix.</stage>
           <sp who="#félix">
             <speaker rend="caps">Félix</speaker>
@@ -3790,7 +3801,7 @@
             <l>del haberlo publicado.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="12">
+        <div type="scene" resp="#rojas" n="13">
           <stage>Vase Inés y sale Rodrigo.</stage>
           <sp who="#rodrigo">
             <speaker rend="caps">Rodrigo</speaker>
@@ -4051,7 +4062,7 @@
             <speaker rend="caps">Don Diego</speaker>
 
 
-            <l>(Bien lo he trazado).</l>
+            <l><stage>Aparte</stage> (Bien lo he trazado).</l>
           </sp>
           <sp who="#doña-clara">
             <speaker rend="caps">Doña Clara</speaker>
@@ -4129,7 +4140,7 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="2">
-          <stage>Dale una joya y vase, y sale Rodrigo.</stage>
+          <stage>Vase, y dale una joya, y sale Rodrigo.</stage>
           <sp who="#rodrigo">
             <speaker rend="caps">Rodrigo</speaker>
 
@@ -4403,7 +4414,7 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="5">
-          <stage>Vase Inés y vuelve Rodrigo.</stage>
+          <stage>Vase, y vuelve Rodrigo.</stage>
           <sp who="#rodrigo">
             <speaker rend="caps">Rodrigo</speaker>
 
@@ -4529,7 +4540,7 @@
             <speaker rend="caps">Rodrigo</speaker>
 
 
-            <l>(Sí dejaré yo por cierto).</l>
+            <l><stage>Aparte</stage> (Sí dejaré yo por cierto).</l>
           </sp>
           <sp who="#don-diego">
             <speaker rend="caps">Don Diego</speaker>
@@ -4800,7 +4811,7 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="8">
-          <stage>Vanse. Salen a la ventana Beatriz y Inés.</stage>
+          <stage>Vanse, y salen a la ventana Beatriz y Inés.</stage>
           <sp who="#beatriz">
             <speaker rend="caps">Beatriz</speaker>
 
@@ -4979,8 +4990,9 @@
 
 
             <l>Y yo</l>
-            <l>desta suerte los defiendo. Riñen.</l>
+            <l>desta suerte los defiendo.</l>
           </sp>
+          <stage>Riñen.</stage>
           <sp who="#beatriz">
             <speaker rend="caps">Beatriz</speaker>
 
@@ -5827,7 +5839,7 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="24">
-          <stage>Vanse las dos damas.</stage>
+          <stage>Vanse las damas.</stage>
           <sp who="#inés">
             <speaker rend="caps">Inés</speaker>
 
@@ -5870,7 +5882,7 @@
 
 
             <l>De buena gana.</l>
-            <l>(Con todo eso, desde aquí</l>
+            <l><stage>Aparte</stage> (Con todo eso, desde aquí</l>
             <l>tengo de ver en qué para.)</l>
           </sp>
           <sp who="#félix">
@@ -6032,7 +6044,7 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="27">
-          <stage>Vanse de las manos Félix y Beatriz, y Inés.</stage>
+          <stage>Vanse de las manos Félix, y Beatriz.</stage>
           <sp who="#don-diego">
             <speaker rend="caps">Don Diego</speaker>
 
@@ -6053,7 +6065,7 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="28">
-          <stage>Sale doña Clara y su criada.</stage>
+          <stage>Sale Clara y su criada.</stage>
           <sp who="#doña-clara">
             <speaker rend="caps">Doña Clara</speaker>
 
@@ -6080,7 +6092,7 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="29">
-          <stage>Vanse los tres.</stage>
+          <stage>Vanse los dos.</stage>
           <sp who="#don-juan">
             <speaker rend="caps">Don Juan</speaker>
 
@@ -6094,7 +6106,7 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="30">
-          <stage>Vase. Sale Rodrigo.</stage>
+          <stage>Vase, y sale Rodrigo.</stage>
           <sp who="#rodrigo">
             <speaker rend="caps">Rodrigo</speaker>
 
