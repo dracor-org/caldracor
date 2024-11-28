@@ -227,6 +227,7 @@
             <speaker rend="caps">Merlín</speaker>
 
 
+            <stage>Dentro</stage>
             <l>Y más cuando pronuncia Dentro</l>
             <l>que alegremente festivos</l>
             <l>vamos todos en su busca.</l>
@@ -235,6 +236,7 @@
             <speaker rend="caps">Libia</speaker>
 
 
+            <stage>Dentro</stage>
             <l>Pues percebir no podemos Dentro</l>
             <l>adónde la voz se escucha,</l>
             <l>por varias sendas en varias</l>
@@ -246,10 +248,9 @@
 
 
             <l>Sea diciendo,</l>
-            <stage>Dentro</stage>
             <l>para volverse a hallar juntas:</l>
-            <stage>Cantando dentro.</stage>
           </sp>
+          <stage>Cantando.</stage>
           <sp who="#voz">
             <speaker rend="caps">VOZ 1ª</speaker>
 
@@ -278,7 +279,6 @@
             <speaker rend="caps">Todos y Música</speaker>
 
 
-            <l>Dentro</l>
             <l>¡Al monte, al valle, al llano, a la espesura!</l>
           </sp>
           <sp who="#prometeo">
@@ -300,6 +300,7 @@
             <speaker rend="caps">Epimeteo</speaker>
 
 
+            <stage>Dentro</stage>
             <l>No en desmandadas cuadrillas</l>
             <l>vago ya el tropel discurra,</l>
             <l>sino en seguimiento mío</l>
@@ -311,6 +312,7 @@
             <speaker rend="caps">Merlín</speaker>
 
 
+            <stage>Dentro</stage>
             <l>Pues unan</l>
             <l>sus lígneas a un punto, el fiero</l>
             <l>afán dejando en su busca, ...</l>
@@ -640,6 +642,7 @@
 
             <l>Yo responderé por todos,</l>
             <l>pues a mí nada me asusta.</l>
+            <stage>Aparte.</stage>
             <l>(Mal dije, que quizá a ellos</l>
             <l>admira y a mí me ofusca).</l>
             <l>Prometeo, que tu ingenio</l>
@@ -672,6 +675,7 @@
             <l>donde aquesa imagen tuya</l>
             <l>se venere; pero en tanto</l>
             <l>que mi ofrecimiento cumpla</l>
+            <stage>Aparte.</stage>
             <l>(esto es para no perderla</l>
             <l>de vista, mi nueva angustia),</l>
             <l>hasta su colocación</l>
@@ -793,7 +797,7 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="3">
-          <stage>Sale Timantes viejo.</stage>
+          <stage>Sale Timantes [viejo].</stage>
           <sp who="#timantes">
             <speaker rend="caps">Timantes</speaker>
 
@@ -936,7 +940,8 @@
             <speaker rend="caps">Voces</speaker>
 
 
-            <l>Al monte, al llano. Dentro</l>
+            <stage>Dentro.</stage>
+            <l>Al monte, al llano.</l>
           </sp>
           <sp who="#libia">
             <speaker rend="caps">Libia</speaker>
@@ -1014,7 +1019,6 @@
             <speaker rend="caps">Voces Y Ella</speaker>
 
 
-            <stage>Dentro</stage>
             <l>Al monte, al llano.</l>
           </sp>
         </div>
@@ -1024,7 +1028,8 @@
             <speaker rend="caps">Prometeo</speaker>
 
 
-            <l>Por más, Dentro</l>
+            <stage>Dentro.</stage>
+            <l>Por más,</l>
             <l>oh, fiero vestiglo, que huyas</l>
             <l>desta bárbara montaña</l>
             <l>al más pavoroso centro,</l>
@@ -1034,7 +1039,7 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="9">
-          <stage>Sale Minerva de fiera y canta, y tras ella Prometeo.</stage>
+          <stage>Sale Minerva de fiera y canta[, y tras ella Prometeo].</stage>
           <sp who="#minerva">
             <speaker rend="caps">Minerva</speaker>
 
@@ -1054,7 +1059,8 @@
             <speaker rend="caps">Minerva</speaker>
 
 
-            <l>Yo. Canta</l>
+            <stage>Canta.</stage>
+            <l>Yo.</l>
           </sp>
           <stage>Quítase las pieles y queda como la estatua de la gruta.</stage>
           <sp who="#prometeo">
@@ -1090,7 +1096,7 @@
             <speaker rend="caps">Minerva</speaker>
 
 
-            <l>Recitativo</l>
+            <stage>Recitativo</stage>
             <l>Yo soy, oh Prometeo,</l>
             <l>Minerva, que a tu vida,</l>
             <l>no solo agradecida</l>
@@ -1144,7 +1150,8 @@
             <speaker rend="caps">Minerva</speaker>
 
 
-            <l>¿Qué quieres de él? Cantado</l>
+            <stage>Cantando.</stage>
+            <l>¿Qué quieres de él?</l>
           </sp>
           <sp who="#prometeo">
             <speaker rend="caps">Prometeo</speaker>
@@ -1170,7 +1177,7 @@
             <speaker rend="caps">Minerva</speaker>
 
 
-            <l>Recitativo</l>
+            <stage>Canta.</stage>
             <l>Son tan raras, tan bellas,</l>
             <l>sus altas maravillas,</l>
             <l>que no es bastante oíllas,</l>
@@ -1194,11 +1201,11 @@
             <speaker rend="caps">Minerva</speaker>
 
 
-            <l>Cantando</l>
+            <stage>Cantando</stage>
             <l>Pues no te atemorices</l>
             <l>si, arrancando este tronco sus raíces,</l>
             <l>deja la tierra dura</l>
-            <l>por escalar el viento. Suben asidos a un árbol.</l>
+            <l>por escalar el viento.</l>
           </sp>
           <sp who="#prometeo">
             <speaker rend="caps">Prometeo</speaker>
@@ -1207,18 +1214,20 @@
             <l>En tan glorioso intento</l>
             <l>tu deidad los temores asegura...</l>
           </sp>
-          <stage>Desaparecen los dos.</stage>
+          <stage>Suben asidos a un árbol.</stage>
           <sp who="#todos #prometeo">
             <speaker rend="caps">Todos Con Él</speaker>
 
 
             <l>...al monte, al llano, al valle, a la espesura.</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="10">
           <sp who="#epimeteo">
             <speaker rend="caps">Epimeteo</speaker>
 
 
-            <l>Dentro</l>
+            <stage>Dentro</stage>
             <l>No fatiguéis en vano</l>
             <l>el monte, la espesura, el valle, el llano,</l>
             <stage>Sale despavorido.</stage>
@@ -1292,8 +1301,9 @@
 
             <l>¡Arma, arma, guerra, guerra!</l>
           </sp>
+          <stage>Cajas.</stage>
         </div>
-        <div type="scene" resp="#rojas" n="10">
+        <div type="scene" resp="#rojas" n="11">
           <stage>Sale cantando Palas, armada.</stage>
           <sp who="#palas">
             <speaker rend="caps">Palas</speaker>
@@ -1323,7 +1333,7 @@
             <speaker rend="caps">Palas</speaker>
 
 
-            <l>Cantando</l>
+            <stage>Cantando</stage>
             <l>De Júpiter y Latona,</l>
             <l>hermanas del sol, Minerva</l>
             <l>y yo nacimos, gozando</l>
@@ -1396,7 +1406,7 @@
 
             <l>¡Arma, arma, guerra!</l>
           </sp>
-          <stage>Desaparece Palas.</stage>
+          <stage>Desaparece [Palas].</stage>
           <sp who="#epimeteo">
             <speaker rend="caps">Epimeteo</speaker>
 
@@ -1444,14 +1454,15 @@
             <speaker rend="caps">Timantes</speaker>
 
 
-            <l>Hacia aquella Dentro</l>
+            <stage>Dentro</stage>
+            <l>Hacia aquella</l>
             <l>parte está.</l>
           </sp>
           <sp who="#todos">
             <speaker rend="caps">Todos</speaker>
 
 
-            <l>Lleguemos todos. Dentro</l>
+            <l>Lleguemos todos.</l>
           </sp>
           <sp who="#epimeteo">
             <speaker rend="caps">Epimeteo</speaker>
@@ -1461,8 +1472,8 @@
             <l>hasta otra ocasión.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="11">
-          <stage>Salen Timantes, Libia y Merlín y todos los villanos.</stage>
+        <div type="scene" resp="#rojas" n="12">
+          <stage>Salen [Timantes, Libia y Merlín y] todos los villanos.</stage>
           <sp who="#todos">
             <speaker rend="caps">Todos</speaker>
 
@@ -1499,6 +1510,9 @@
             <l>que hay más prodigios en él</l>
             <l>que pensáis!</l>
           </sp>
+          <stage>Vase.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="13">
           <sp who="#merlín">
             <speaker rend="caps">Merlín</speaker>
 
@@ -1610,7 +1624,7 @@
             <l>su carroza.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="12">
+        <div type="scene" resp="#rojas" n="14">
           <stage>Vase.</stage>
           <sp who="#libia">
             <speaker rend="caps">Libia</speaker>
@@ -1647,14 +1661,16 @@
             <l>querer tú desde la tierra</l>
             <l>oír si dirá o no dirá</l>
             <l>Apolo cuándo se acuesta?</l>
-            <stage>Vanse.</stage>
           </sp>
+          <stage>Vanse.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="15">
           <stage>A su tiempo aparece el sol, que va pasando de una a otra parte, y estarán Minerva y Prometeo sobre una nube, y al pasar le quita un rayo.</stage>
           <sp who="#apolo">
             <speaker rend="caps">Apolo</speaker>
 
 
-            <l>Canta dentro</l>
+            <stage>Canta dentro</stage>
             <l>No temas, no, descender,</l>
             <l>bellísimo rosicler,</l>
             <l>que, si en todo es de sentir</l>
@@ -1665,7 +1681,7 @@
             <speaker rend="caps">Minerva</speaker>
 
 
-            <l>Canta</l>
+            <stage>Canta</stage>
             <l>Ya que sobre el pedestal</l>
             <l>de tupida nube densa</l>
             <l>del transparente zafir</l>
@@ -1710,7 +1726,7 @@
             <speaker rend="caps">Minerva</speaker>
 
 
-            <l>Canta</l>
+            <stage>Canta</stage>
             <l>Mucho pides, mas por mucho</l>
             <l>que pidas a más me empeña</l>
             <l>la palabra que te di;</l>
@@ -1718,17 +1734,19 @@
             <l>embozado en pardas nubes,</l>
             <l>que se te transponga deja</l>
             <l>para que al pasar sin ser visto puedas,</l>
-            <l>hurtándole un rayo, llevarle a la tierra. Instrumentos.</l>
+            <l>hurtándole un rayo, llevarle a la tierra.</l>
           </sp>
           <sp who="#prometeo">
             <speaker rend="caps">Prometeo</speaker>
 
 
+            <stage>Instrumentos.</stage>
             <l>La armonía de los orbes</l>
             <l>–a cuyo compás su tierna,</l>
             <l>dulce voz va divirtiendo</l>
             <l>la continuada tarea</l>
-            <l>que de la eclíptica pasa Va pasando el sol, poco a poco.</l>
+            <l>que de la eclíptica pasa</l>
+            <stage>Va pasando el sol, poco a poco.</stage>
             <l>atravesando la senda</l>
             <l>al Zodíaco, a quien siguen</l>
             <l>de sus imágenes bellas</l>
@@ -1806,7 +1824,11 @@
             <l>Y pues nunca anochecer</l>
             <l>puede, sin amanecer,</l>
             <l>¿quién podrá contradecir</l>
-            <stage>Con él, Música.</stage>
+          </sp>
+          <sp who="#música">
+            <speaker rend="caps">Música</speaker>
+
+
             <l>que nace para morir</l>
             <l>y muere para nacer?</l>
           </sp>
@@ -1822,7 +1844,11 @@
             <l>Y así no temas caer</l>
             <l>desde el cenit al nadir,</l>
             <l>pues es tan otro tu ser</l>
-            <stage>Con él, Música a 4 voces.</stage>
+          </sp>
+          <sp who="#música">
+            <speaker rend="caps">Música</speaker>
+
+
             <l>que nace para morir</l>
             <l>y muere para nacer.</l>
           </sp>
@@ -1839,7 +1865,11 @@
             <l>y te sabré agradecer,</l>
             <l>si llega en tu culto a arder,</l>
             <l>que por él puedan decir</l>
-            <stage>Con él, Música a 4 voces.</stage>
+          </sp>
+          <sp who="#música">
+            <speaker rend="caps">Música</speaker>
+
+
             <l>que nace para morir</l>
             <l>y muere para nacer.</l>
             <stage>Repite toda la copla la música y pasa el carro y Prometeo baja, Minerva sube, y acaba la jornada.</stage>
@@ -2190,8 +2220,9 @@
             <l>Aguarda,</l>
             <l>que apenas lo has dicho cuando</l>
             <l>un nuevo esplendor jurara</l>
-            <l>que me había dado luz. En lo alto Prometeo con la luz.</l>
+            <l>que me había dado luz.</l>
           </sp>
+          <stage>En lo alto Prometeo con la luz.</stage>
           <sp who="#merlín">
             <speaker rend="caps">Merlín</speaker>
 
@@ -2270,8 +2301,11 @@
 
 
             <l>Hasta averiguar qué sea,</l>
-            <l>retírate entre estas ramas. Ocúltanse y sale Prometeo.</l>
+            <l>retírate entre estas ramas.</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="2">
+          <stage>Ocúltanse y sale Prometeo.</stage>
           <sp who="#prometeo">
             <speaker rend="caps">Prometeo</speaker>
 
@@ -2279,8 +2313,9 @@
             <l>Hurtado rayo del sol,</l>
             <l>ven donde otro sol te aguarda,</l>
             <l>que para ser sol Minerva,</l>
-            <l>ser su retrato la basta. Atraviesa el tablado.</l>
+            <l>ser su retrato la basta.</l>
           </sp>
+          <stage>Atraviesa el tablado.</stage>
           <sp who="#epimeteo">
             <speaker rend="caps">Epimeteo</speaker>
 
@@ -2297,8 +2332,9 @@
 
 
             <l>Sea, señor, a lo lejos,</l>
-            <l>porque me ciega el mirarla. Ábrese la gruta.</l>
+            <l>porque me ciega el mirarla.</l>
           </sp>
+          <stage>Ábrese la gruta.</stage>
           <sp who="#prometeo">
             <speaker rend="caps">Prometeo</speaker>
 
@@ -2324,8 +2360,9 @@
 
 
             <l>Atiende y calla,</l>
-            <l>hasta apurarlo más. Pónele la luz en la mano derecha.</l>
+            <l>hasta apurarlo más.</l>
           </sp>
+          <stage>Pónele la luz en la mano derecha.</stage>
           <sp who="#prometeo">
             <speaker rend="caps">Prometeo</speaker>
 
@@ -2350,7 +2387,7 @@
             <l>sacrificios a tus aras.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="2">
+        <div type="scene" resp="#rojas" n="3">
           <stage>Vase.</stage>
           <sp who="#merlín">
             <speaker rend="caps">Merlín</speaker>
@@ -2381,8 +2418,9 @@
 
             <l>De esa parte</l>
             <l>tú, señor, con ella carga</l>
-            <l>y yo de estotra. Al llegar, los asusta hablando Minerva.</l>
+            <l>y yo de estotra.</l>
           </sp>
+          <stage>Al llegar, los asusta hablando Minerva.</stage>
           <sp who="#minerva">
             <speaker rend="caps">Minerva</speaker>
 
@@ -2415,7 +2453,7 @@
             <l>voz al barro y luz al alma.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="3">
+        <div type="scene" resp="#rojas" n="4">
           <stage>Sale la estatua de la gruta.</stage>
           <sp who="#epimeteo">
             <speaker rend="caps">Epimeteo</speaker>
@@ -2536,7 +2574,7 @@
             <speaker rend="caps">Prometeo</speaker>
 
 
-            <l>Dentro</l>
+            <stage>Dentro</stage>
             <l>¡Pastores destas montañas, ...</l>
           </sp>
           <sp who="#merlín">
@@ -2545,8 +2583,10 @@
 
             <l>El eco te favorece</l>
             <l>pues repite tus palabras.</l>
-            <stage>Vase.</stage>
           </sp>
+          <stage>[Vase.]</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="5">
           <stage>Acercándose uno, se aleja el otro, y queda Prometeo y se va Epimeteo con estas voces.</stage>
           <sp who="#epimeteo">
             <speaker rend="caps">Epimeteo</speaker>
@@ -2600,6 +2640,7 @@
             <speaker rend="caps">Todos</speaker>
 
 
+            <stage>Dentro.</stage>
             <l>¿Quién a esta hora nos despierta? Dentro</l>
           </sp>
           <sp who="#música">
@@ -2619,6 +2660,7 @@
             <l>¿quién soy yo, dioses, que he puesto</l>
             <l>el orbe en confusión tanta?</l>
           </sp>
+          <stage>Sale Prometeo.</stage>
           <sp who="#prometeo">
             <speaker rend="caps">Prometeo</speaker>
 
@@ -2838,7 +2880,7 @@
             <speaker rend="caps">Epimeteo</speaker>
 
 
-            <l>Dentro</l>
+            <stage>Dentro</stage>
             <l>¡Pastores destas montañas,</l>
             <l>sacudid el blando sueño!</l>
             <l>¡Dejad, dejad las cabañas!</l>
@@ -2860,7 +2902,7 @@
             <speaker rend="caps">Epimeteo</speaker>
 
 
-            <l>Dentro</l>
+            <stage>Dentro</stage>
             <l>Epimeteo, a mayor</l>
             <l>portento de nuestra patria</l>
             <l>que al que os llamó Prometeo;</l>
@@ -2879,13 +2921,14 @@
             <speaker rend="caps">Merlín</speaker>
 
 
+            <stage>Dentro</stage>
             <l>Llegad, llegad, que la noche, Dentro</l>
             <l>según es de cortesana</l>
             <l>doña Estatua mi señora,</l>
             <l>no os impedirá el mirarla.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="4">
+        <div type="scene" resp="#rojas" n="6">
           <stage>Salen todos</stage>
           <sp who="#timantes">
             <speaker rend="caps">Timantes</speaker>
@@ -2982,13 +3025,14 @@
 
             <l>Que quien da las ciencias, da...</l>
           </sp>
-          <stage>Caja y clarín</stage>
           <sp who="#otros">
             <speaker rend="caps">Otros</speaker>
 
 
+            <stage>Dentro</stage>
             <l>¡Guerra, guerra, al arma, al arma! Dentro</l>
           </sp>
+          <stage>Caja y clarín</stage>
           <sp who="#todos">
             <speaker rend="caps">Todos</speaker>
 
@@ -3056,7 +3100,7 @@
             <l>la estatua de Prometeo.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="5">
+        <div type="scene" resp="#rojas" n="7">
           <stage>Vase.</stage>
           <sp who="#uno">
             <speaker rend="caps">Uno</speaker>
@@ -3090,7 +3134,7 @@
             <l>fuerza es ir tras mi esperanza.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="6">
+        <div type="scene" resp="#rojas" n="8">
           <stage>Vase.</stage>
           <sp who="#prometeo">
             <speaker rend="caps">Prometeo</speaker>
@@ -3099,8 +3143,8 @@
             <l>Yo tras mi admiración.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="7">
-          <stage>Vase.</stage>
+        <div type="scene" resp="#rojas" n="9">
+          <stage>[Vase.]</stage>
           <sp who="#merlín">
             <speaker rend="caps">Merlín</speaker>
 
@@ -3110,8 +3154,8 @@
             <l>doña Estatua mi señora.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="8">
-          <stage>Vase.</stage>
+        <div type="scene" resp="#rojas" n="10">
+          <stage>[Vase.]</stage>
           <sp who="#timantes">
             <speaker rend="caps">Timantes</speaker>
 
@@ -3149,12 +3193,13 @@
             <speaker rend="caps">Timantes</speaker>
 
 
-            <l>...y a otra, ... Cajas.</l>
+            <l>...y a otra, ...</l>
           </sp>
           <sp who="#otros">
             <speaker rend="caps">Otros</speaker>
 
 
+            <stage>Cajas</stage>
             <l>¡Arma, arma, guerra!</l>
           </sp>
           <sp who="#timantes">
@@ -3181,7 +3226,7 @@
             <l>¡Arma, arma, guerra, guerra!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="9">
+        <div type="scene" resp="#rojas" n="11">
           <stage>Vanse y salen Palas por una parte, y por otra la Discordia cantando recitativo o en tramoyas, como mejor parezca.</stage>
           <sp who="#discordia">
             <speaker rend="caps">Discordia</speaker>
@@ -3419,8 +3464,8 @@
             <l>por que asaltados a un tiempo</l>
             <l>digan al son de mis trompas</l>
             <l>sus relámpagos y truenos...</l>
-            <stage>Dentro música y gritos.</stage>
           </sp>
+          <stage>Dentro música y gritos.</stage>
           <sp who="#música">
             <speaker rend="caps">Música</speaker>
 
@@ -3481,7 +3526,7 @@
 
             <l>...giman mañana llorando</l>
             <l>por más que hoy canten riendo...</l>
-            <stage>Con la Música dentro.</stage>
+            <stage>Con la Música [dentro].</stage>
             <l>Al festejo, al festejo, zagales,</l>
             <l>zagalas, venid, venid al festejo</l>
             <l>que a la nueva deidad destos montes</l>
@@ -3552,7 +3597,7 @@
             <speaker rend="caps">Libia</speaker>
 
 
-            <l>...Pandora. [La hipermetría del testimº se corrige omitiendo lo verde]</l>
+            <l>...Pandora. <note>[La hipermetría del testimº se corrige omitiendo lo verde]</note></l>
           </sp>
           <sp who="#merlín">
             <speaker rend="caps">Merlín</speaker>
@@ -3588,6 +3633,11 @@
             <l>y mil veces repitiendo:</l>
             <l>Al festejo, al festejo, zagales,</l>
             <stage>Cuatro cornetas, con la Música.</stage>
+          </sp>
+          <sp who="#música">
+            <speaker rend="caps">Música</speaker>
+
+
             <l>zagalas, venid, venid al festejo,</l>
             <l>que a la nueva deidad destos montes</l>
             <l>la ofrecen, en fe de ser hija del fuego,</l>
@@ -3610,14 +3660,19 @@
             <speaker rend="caps">Libia</speaker>
 
 
+            <stage>Canta</stage>
             <l>En esta guirnalda bella, Canta</l>
             <l>para que en tu frente hermosa</l>
             <l>la menos fragrante rosa</l>
             <l>sea más brillante estrella,</l>
             <l>te sirve, cifrando en ella</l>
             <l>sus matizados primores</l>
+            </sp>
+            <sp who="#música #libia">
+
+
+              <speaker rend="caps">Música a 4 voces</speaker>
             <l>la tierra con flores.</l>
-            <stage>Con la Música a 4 voces.</stage>
           </sp>
           <sp who="#villana-1">
             <speaker rend="caps">VILLANA 1ª </speaker>
@@ -3629,7 +3684,12 @@
             <l>los netos hilos que brilla,</l>
             <l>te ofrece una gargantilla,</l>
             <l>si llega en tu cuello a verlas,</l>
-            <l>el agua con perlas. Con la Música a 4 voces.</l>
+            </sp>
+            <sp who="#música #villana-1">
+
+              
+              <speaker rend="caps">Con la Música a 4 voces</speaker>
+            <l>el agua con perlas.</l>
           </sp>
           <sp who="#villana-2">
             <speaker rend="caps">VILLANA 2ª </speaker>
@@ -3641,8 +3701,12 @@
             <l>la música de las aves,</l>
             <l>y así te sirve en suaves</l>
             <l>auras que gozar presumas</l>
+          </sp>
+          <sp who="#música #villana-2">
+
+            
+            <speaker rend="caps">Con la Música a 4 voces</speaker>
             <l>el aire con plumas.</l>
-            <stage>Con la Música a 4 voces.</stage>
           </sp>
           <sp who="#villana-3">
             <speaker rend="caps">VILLANA 3ª </speaker>
@@ -3654,18 +3718,27 @@
             <l>méritos de tu beldad;</l>
             <l>del clarín la suavidad</l>
             <l>hable, en quien resuena hueco</l>
+          </sp>
+          <sp who="#música #villana-3">
+
+            
+            <speaker rend="caps">Con la Música a 4 voces</speaker>
             <l>con salvas el eco.</l>
-            <stage>Con la Música a 4 voces.</stage>
           </sp>
           <sp who="#todos">
             <speaker rend="caps">Todos</speaker>
 
 
             <l>Todos que te sirvan les agradecemos:</l>
-            <stage>Cuatro cruzados en alas, con la Música.</stage>
+          </sp>
+          <sp who="#música #todos">
+
+            
+            <speaker rend="caps">Con la Música a 4 voces</speaker>
             <l>La tierra con flores, el agua con perlas,</l>
             <l>el aire con plumas, con salvas el eco.</l>
           </sp>
+            <stage>Cuatro cruzados en alas.</stage>
           <sp who="#discordia">
             <speaker rend="caps">Discordia</speaker>
 
@@ -3689,7 +3762,7 @@
             <speaker rend="caps">Minerva</speaker>
 
 
-            <l>Representa</l>
+            <stage>Representa</stage>
             <l>Tened, suspended, parad el festejo,</l>
             <l>que más dilaciones no</l>
             <l>sufre mi agradecimiento.</l>
@@ -3980,7 +4053,8 @@
             <l>tú, al contrario, Prometeo,</l>
             <l>aborrecerás amado,</l>
             <l>y todos en bandos puestos</l>
-            <l>arderéis en duras lides. Canta.</l>
+            <l>arderéis en duras lides.</l>
+            <stage>Canta</stage>
             <l>Y pues ya en discordia dejo</l>
             <l>puesto el monte, mientras yo</l>
             <l>con segundo disfraz vuelvo</l>
@@ -3990,6 +4064,8 @@
             <l>que haber sido humo y ser viento.</l>
           </sp>
           <stage>Desaparece.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="4">
           <sp who="#unos">
             <speaker rend="caps">Unos</speaker>
 
@@ -4007,8 +4083,9 @@
 
 
             <l>Ahora nos dice tu acento</l>
-            <l>ser deidad de la discordia. Truenos.</l>
+            <l>ser deidad de la discordia.</l>
           </sp>
+          <stage>Truenos</stage>
           <sp who="#minerva">
             <speaker rend="caps">Minerva</speaker>
 
@@ -4026,7 +4103,8 @@
             <l>de Apolo airado en mi robo</l>
             <l>que ellas, rasgando sus senos,</l>
             <l>se quejen en culebrinas</l>
-            <l>de relámpagos, siguiendo Terremoto.</l>
+            <l>de relámpagos, siguiendo.</l>
+            <stage>Terremoto</stage>
             <l>el aborto de los rayos,</l>
             <l>el gemido de los truenos.</l>
           </sp>
@@ -4109,6 +4187,8 @@
 
             <l>¡Piedad, soberanos cielos!</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="5">
           <stage>Con el terremoto, música y voces se van por distintas partes, y quedan Prometeo, Epimeteo y Minerva.</stage>
           <sp who="#epimeteo">
             <speaker rend="caps">Epimeteo</speaker>
@@ -4166,7 +4246,7 @@
             <l>oso a decir que me atrevo?</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="4">
+        <div type="scene" resp="#rojas" n="6">
           <stage>Vase.</stage>
           <sp who="#epimeteo">
             <speaker rend="caps">Epimeteo</speaker>
@@ -4188,7 +4268,7 @@
             <l>que no al que amada aborrezco.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="5">
+        <div type="scene" resp="#rojas" n="7">
           <stage>Vase.</stage>
           <sp who="#epimeteo">
             <speaker rend="caps">Epimeteo</speaker>
@@ -4201,7 +4281,7 @@
             <speaker rend="caps">Todos y Música</speaker>
 
 
-            <l>A lo lejos</l>
+            <stage>A lo lejos</stage>
             <l>¡Favor, dioses soberanos!</l>
             <l>¡Piedad, soberanos cielos!</l>
           </sp>
@@ -4245,7 +4325,7 @@
             <stage>Vase.</stage>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="6">
+        <div type="scene" resp="#rojas" n="8">
           <stage>Teatro de cielos y en él salen o en nubes o por el tablado Apolo y Palas cantando recitativo.</stage>
           <sp who="#apolo">
             <speaker rend="caps">Apolo</speaker>
@@ -4327,7 +4407,7 @@
             <l>el aire la trompa y el eco el clarín.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="7">
+        <div type="scene" resp="#rojas" n="9">
           <stage>Sale Minerva cantado.</stage>
           <sp who="#minerva">
             <speaker rend="caps">Minerva</speaker>
@@ -4570,13 +4650,13 @@
             <l>el aire la trompa, el eco el clarín.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="8">
+        <div type="scene" resp="#rojas" n="10">
           <stage>Súbese Apolo y las dos se entran, mudando el teatro de selva florida, y a las voces de Epimeteo vuelven a salir.</stage>
           <sp who="#epimeteo">
             <speaker rend="caps">Epimeteo</speaker>
 
 
-            <l>Dentro</l>
+            <stage>Dentro</stage>
             <l>Venid, todos, venid</l>
             <l>conmigo al sacrificio</l>
             <l>de Palas.</l>
@@ -4585,6 +4665,7 @@
             <speaker rend="caps">Palas</speaker>
 
 
+            <stage>Representa</stage>
             <l>Pues aquí</l>
             <l>Epimeteo me aclama,</l>
             <l>¿qué espero para ir</l>
@@ -4592,13 +4673,14 @@
             <l>de él dudosa?</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="9">
+        <div type="scene" resp="#rojas" n="11">
           <stage>Vase.</stage>
           <sp who="#prometeo">
             <speaker rend="caps">Prometeo</speaker>
 
 
-            <l>Acudid Dentro</l>
+            <stage>Dentro</stage>
+            <l>Acudid</l>
             <l>de Minerva al obsequio</l>
             <l>todos conmigo.</l>
           </sp>
@@ -4606,27 +4688,31 @@
             <speaker rend="caps">Minerva</speaker>
 
 
+            <stage>Representa</stage>
             <l>Allí</l>
             <l>me aclama Prometeo;</l>
             <l>pues para irle a asistir</l>
-            <l>¿qué aguardo? Dentro caja.</l>
+            <l>¿qué aguardo?</l>
           </sp>
           <sp who="#unos">
             <speaker rend="caps">Unos</speaker>
 
 
-            <l>¡Viva Palas! Dentro</l>
+            <stage>Dentro caja</stage>
+            <l>¡Viva Palas!</l>
           </sp>
           <sp who="#otros">
             <speaker rend="caps">Otros</speaker>
 
 
-            <l>¡Minerva viva! Dentro</l>
+            <stage>Dentro</stage>
+            <l>¡Minerva viva!</l>
           </sp>
           <sp who="#minerva">
             <speaker rend="caps">Minerva</speaker>
 
 
+            <stage>Representa</stage>
             <l>En fin,</l>
             <l>con otro incauto traje</l>
             <l>y otro traidor ardid,</l>
@@ -4639,7 +4725,7 @@
             <speaker rend="caps">Discordia</speaker>
 
 
-            <l>Dentro</l>
+            <stage>Representa dentro</stage>
             <l>Si el enojo de Apolo</l>
             <l>es por ver aplaudir</l>
             <l>el robo de su fuego,</l>
@@ -4655,18 +4741,20 @@
             <speaker rend="caps">Todos</speaker>
 
 
+            <stage>Dentro</stage>
             <l>Dices bien, ¡Palas viva!</l>
             <stage>Vanse.</stage>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="10">
+        <div type="scene" resp="#rojas" n="12">
           <stage>Sale Prometeo.</stage>
           <sp who="#prometeo">
             <speaker rend="caps">Prometeo</speaker>
 
 
             <l>¿Adónde, ¡ay, infeliz!,</l>
-            <l>hallar podré consuelo?... Encuentra con Minerva.</l>
+            <l>hallar podré consuelo?...</l>
+            <stage>Encuentra con Minerva</stage>
             <l>Mas, si estabas tú aquí,</l>
             <l>prodigio infausto y bello,</l>
             <l>diga una vez y mil:</l>
@@ -4729,13 +4817,12 @@
             <l>sea mi tumba, siendo</l>
             <l>mi pira su cerviz.</l>
           </sp>
-        </div>
-        <div type="scene" resp="#rojas" n="11">
           <stage>Vase a ir y canta ella, y se detiene.</stage>
           <sp who="#minerva">
             <speaker rend="caps">Minerva</speaker>
 
 
+            <stage>Cantado</stage>
             <l>¡Oye, aguarda, escucha, espera!</l>
             <l>Sabrás que no hay que sentir</l>
             <l>ya los enojos de Apolo.</l>
@@ -4750,7 +4837,7 @@
             <speaker rend="caps">Minerva</speaker>
 
 
-            <l>Canta</l>
+            <stage>Canta</stage>
             <l>La voz de quien te escuchó</l>
             <l>hablar conmigo sin mí.</l>
           </sp>
@@ -4775,7 +4862,8 @@
             <speaker rend="caps">Minerva</speaker>
 
 
-            <l>Pues no me halle aquí Canta</l>
+            <stage>Canta</stage>
+            <l>Pues no me halle aquí</l>
             <l>y me conozca en la voz,</l>
             <l>que no la podré fingir</l>
             <l>como la Discordia, a quien,</l>
@@ -4803,7 +4891,8 @@
             <speaker rend="caps">Minerva</speaker>
 
 
-            <l>Dices bien. Canta</l>
+            <stage>Canta</stage>
+            <l>Dices bien.</l>
           </sp>
           <sp who="#prometeo">
             <speaker rend="caps">Prometeo</speaker>
@@ -4822,11 +4911,11 @@
             <speaker rend="caps">Minerva</speaker>
 
 
-            <l>Canta</l>
+            <stage>Canta</stage>
             <l>Vuelve, pues, que aquí te aguardo.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="12">
+        <div type="scene" resp="#rojas" n="13">
           <stage>Escóndese y salen Epimeteo y Merlín.</stage>
           <sp who="#prometeo">
             <speaker rend="caps">Prometeo</speaker>
@@ -4836,8 +4925,8 @@
             <l>ocasionándole a verme.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="13">
-          <stage>Vase.</stage>
+        <div type="scene" resp="#rojas" n="14">
+          <stage>[Vase.]</stage>
           <sp who="#epimeteo">
             <speaker rend="caps">Epimeteo</speaker>
 
@@ -4897,7 +4986,7 @@
             <speaker rend="caps">Minerva</speaker>
 
 
-            <l>Representa</l>
+            <stage>Representa</stage>
             <l>Forzoso, si él me descubre,</l>
             <l>será, sin hablar, oír</l>
             <l>y, a más no poder, forzoso</l>
@@ -4989,7 +5078,7 @@
             <l>a lograr hoy lo que entonces...</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="14">
+        <div type="scene" resp="#rojas" n="15">
           <stage>Sale por la otra parte Minerva, representado que ahora hace la estatua.</stage>
           <sp who="#minerva">
             <speaker rend="caps">Minerva</speaker>
@@ -5064,7 +5153,8 @@
             <speaker rend="caps">Minerva</speaker>
 
 
-            <l>Pues ¿cómo Desaparece la estatua.</l>
+            <l>Pues ¿cómo</l>
+            <stage>Desaparece la estatua.</stage>
             <l>es posible?</l>
           </sp>
           <sp who="#epimeteo">
@@ -5156,7 +5246,7 @@
             <l>será te lo diga el tiempo.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="15">
+        <div type="scene" resp="#rojas" n="16">
           <stage>Vase.</stage>
           <sp who="#merlín">
             <speaker rend="caps">Merlín</speaker>
@@ -5201,7 +5291,7 @@
             <l>que son cosas que estoy viendo.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="16">
+        <div type="scene" resp="#rojas" n="17">
           <stage>Vase.</stage>
           <sp who="#minerva">
             <speaker rend="caps">Minerva</speaker>
@@ -5216,7 +5306,7 @@
             <l>pudiera para ir?</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="17">
+        <div type="scene" resp="#rojas" n="18">
           <stage>Sale Prometeo.</stage>
           <sp who="#prometeo">
             <speaker rend="caps">Prometeo</speaker>
@@ -5523,31 +5613,36 @@
             <speaker rend="caps">Prometeo</speaker>
 
 
-            <l>Quien vio... Caja y clarín.</l>
+            <l>Quien vio...</l>
           </sp>
+          <stage>Caja y clarín.</stage>
           <sp who="#voces">
             <speaker rend="caps">Voces</speaker>
 
 
-            <l>¡Viva Epimeteo! Dentro</l>
+            <stage>Dentro</stage>
+            <l>¡Viva Epimeteo!</l>
           </sp>
           <sp who="#otras">
             <speaker rend="caps">Otras</speaker>
 
 
-            <l>¡Viva Prometeo! Dentro</l>
+            <stage>Dentro</stage>
+            <l>¡Viva Prometeo!</l>
           </sp>
           <sp who="#unos">
             <speaker rend="caps">Unos</speaker>
 
 
-            <l>¡Arma! Dentro</l>
+            <stage>[Dentro]</stage>
+            <l>¡Arma!</l>
           </sp>
           <sp who="#otros">
             <speaker rend="caps">Otros</speaker>
 
 
-            <l>¡Guerra! Dentro</l>
+            <stage>[Dentro]</stage>
+            <l>¡Guerra!</l>
           </sp>
           <sp who="#prometeo">
             <speaker rend="caps">Prometeo</speaker>
@@ -5566,8 +5661,9 @@
             <l>no han de notar que me vuelvo</l>
             <l>–los pocos que me apellidan–</l>
             <l>de cobarde el rostro al riesgo;</l>
-            <l>con ellos moriré. Caja.</l>
+            <l>con ellos moriré.</l>
           </sp>
+          <stage>Caja.</stage>
           <sp who="#minerva">
             <speaker rend="caps">Minerva</speaker>
 
@@ -5578,10 +5674,10 @@
             <l>en un generoso pecho</l>
             <l>como del desprecio mismo</l>
             <l>hacer yo misma desprecio.</l>
-            <stage>Bosque.</stage>
           </sp>
+          <stage>Bosque</stage>
         </div>
-        <div type="scene" resp="#rojas" n="18">
+        <div type="scene" resp="#rojas" n="19">
           <stage>Vanse los dos, tocan cajas y clarines y salen por una parte Epimeteo con algunos y por otra Timantes con otros, todos de guerra.</stage>
           <sp who="#unos">
             <speaker rend="caps">Unos</speaker>
@@ -5590,7 +5686,7 @@
             <l>¡Epimeteo viva!</l>
           </sp>
           <sp who="#otros #timantes">
-            <speaker rend="caps">Merlín</speaker>
+            <speaker rend="caps">Otros y Timantes</speaker>
 
 
             <l>No</l>
@@ -5669,7 +5765,7 @@
             <l>milita!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="19">
+        <div type="scene" resp="#rojas" n="20">
           <stage>Salen Prometeo y Minerva y se mezclan con ellos.</stage>
           <sp who="#prometeo #minerva">
             <speaker rend="caps">Prometeo Y Minerva</speaker>
@@ -5704,11 +5800,14 @@
 
             <l>¡Pues al arma!</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="21">
           <stage>Van a embestirse y baja la Discordia rápida y canta lo siguiente.</stage>
           <sp who="#discordia">
             <speaker rend="caps">Discordia</speaker>
 
 
+            <stage>Canta</stage>
             <l>Tened, parad los aceros.</l>
           </sp>
           <sp who="#música">
@@ -5758,7 +5857,8 @@
             <l>embajatriz de los dioses</l>
             <l>os habla, y en fe de serlo</l>
             <l>sea carta de creencia</l>
-            <l>la suavidad de mi acento. Canta.</l>
+            <l>la suavidad de mi acento.</l>
+            <stage>Canta</stage>
             <l>En la ruda política vuestra</l>
             <l>dos leyes tenéis y tan justas las dos</l>
             <l>como que muera el que fuere homicida,</l>
@@ -5811,6 +5911,8 @@
             <l>de leves cenizas el aire veloz.</l>
           </sp>
           <stage>Vuela.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="22">
           <sp who="#minerva #prometeo">
             <speaker rend="caps">Minerva Y Prometeo</speaker>
 
@@ -5873,8 +5975,9 @@
 
             <l>Todos decimos lo mismo</l>
             <l>y, siendo fuerza el temor</l>
-            <l>de Júpiter, fuerza es Préndenlos.</l>
+            <l>de Júpiter, fuerza es</l>
             <l>que vengáis presos los dos.</l>
+            <stage>Préndenlos.</stage>
           </sp>
           <sp who="#prometeo">
             <speaker rend="caps">Prometeo</speaker>
@@ -5939,12 +6042,15 @@
             <l>(al mío, diré mejor).</l>
             <l>Al monte, pues, guiad con ellos.</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="23">
           <sp who="#todos">
             <speaker rend="caps">Todos</speaker>
 
 
-            <l>¡Al monte! Al entrarse, sale Minerva y canta.</l>
+            <l>¡Al monte!</l>
           </sp>
+          <stage>Al entrarse, sale Minerva y canta.</stage>
           <sp who="#minerva">
             <speaker rend="caps">Minerva</speaker>
 
@@ -5963,20 +6069,25 @@
             <l>A tu soberano solio</l>
             <l>llegue este justo clamor;</l>
             <l>mas ¿para qué, si primero</l>
-            <l>llegar yo puedo? Baja Palas rápida.</l>
+            <l>llegar yo puedo?</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="24">
+          <stage>Baja Palas rápida.</stage>
           <sp who="#palas">
             <speaker rend="caps">Palas</speaker>
 
 
-            <l>Eso no, Canta</l>
+            <l>Eso no,</l>
+            <stage>Canta</stage>
             <l>porque hasta que ejecutado</l>
             <l>esté en ambos mi rencor</l>
             <l>y veas quién a su alumno</l>
             <l>puso en más estimación,</l>
             <l>para que tú no lo impidas</l>
-            <l>sabré detenerte yo. Cantado todo este paso y luchan.</l>
+            <l>sabré detenerte yo.</l>
           </sp>
+          <stage>Cantado todo este paso y luchan.</stage>
           <sp who="#minerva">
             <speaker rend="caps">Minerva</speaker>
 
@@ -6016,7 +6127,7 @@
             <l>¡Suelta, tirana!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="20">
+        <div type="scene" resp="#rojas" n="25">
           <stage>Vase, y sale la Discordia.</stage>
           <sp who="#palas">
             <speaker rend="caps">Palas</speaker>
@@ -6029,7 +6140,8 @@
             <speaker rend="caps">Discordia</speaker>
 
 
-            <l>No Canta</l>
+            <stage>Canta</stage>
+            <l>No</l>
             <l>aqueso te desconfíe,</l>
             <l>por más que vuele veloz,</l>
             <l>que antes que a Júpiter llegue</l>
@@ -6046,11 +6158,12 @@
             <l>del juvenil escuadrón</l>
             <l>de las zagalas del valle</l>
             <l>y del popular rumor</l>
-            <l>del demás pueblo, diciendo Bosque y risco.</l>
+            <l>del demás pueblo, diciendo</l>
+            <stage>Bosque y risco.</stage>
             <l>de unos y otros el clamor...</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="21">
+        <div type="scene" resp="#rojas" n="26">
           <stage>Sordinas y cajas destempladas y, las caras cubiertas, sacan a los dos, a una parte mujeres y a otra hombres, y salen todos los demás.</stage>
           <sp who="#palas #discordia">
             <speaker rend="caps">Los Dos</speaker>
@@ -6089,7 +6202,7 @@
             <l>...y el mal en peor!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="22">
+        <div type="scene" resp="#rojas" n="27">
           <stage>Mézclase con ellos la Discordia y sale Palas.</stage>
           <sp who="#epimeteo">
             <speaker rend="caps">Epimeteo</speaker>
@@ -6218,6 +6331,8 @@
 
             <l>¡Ay de quien vio...!</l>
           </sp>
+        </div>
+        <div type="scene" resp="#rojas" n="28">
           <stage>Apolo baja, en sol, cantando.</stage>
           <sp who="#apolo">
             <speaker rend="caps">Apolo</speaker>
@@ -6313,7 +6428,7 @@
             <l>Huyamos de aquí, Discordia.</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="23">
+        <div type="scene" resp="#rojas" n="29">
           <stage>Vase.</stage>
           <sp who="#discordia">
             <speaker rend="caps">Discordia</speaker>
@@ -6324,7 +6439,7 @@
             <l>de Júpiter el rigor!</l>
           </sp>
         </div>
-        <div type="scene" resp="#rojas" n="24">
+        <div type="scene" resp="#rojas" n="30">
           <stage>Vase.</stage>
           <sp who="#epimeteo">
             <speaker rend="caps">Epimeteo</speaker>
