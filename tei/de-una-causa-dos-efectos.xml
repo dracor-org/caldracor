@@ -3893,7 +3893,12 @@
 
 
             <l>¿Por qué tal desabrimiento?</l>
-            <l>FADRIQUE Porque he conocido cuánto</l>
+          </sp>
+          <sp who="#fadrique">
+            <speaker rend="caps">Fadrique</speaker>
+
+            
+            <l>Porque he conocido cuánto</l>
             <l>inútiles son aquéllos</l>
             <l>que de sus conversaciones</l>
             <l>no dejan algún provecho</l>

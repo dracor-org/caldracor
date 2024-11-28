@@ -5586,7 +5586,12 @@
 
             <l>…que el sujeto</l>
             <l>no es para que yo le sepa.</l>
-            <l>LUIS Engañaisos, ¡vive el cielo!;</l>
+          </sp>
+          <sp who="#luis">
+            <speaker rend="caps">Luis</speaker>
+
+
+            <l>Engañaisos, ¡vive el cielo!;</l>
             <l>que el detenerme yo, ha sido</l>
             <l>informarme por extenso;</l>
             <l>y el retirarse Beatriz,</l>

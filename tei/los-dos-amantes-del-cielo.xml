@@ -316,7 +316,12 @@
             <l>sombras sin alma y sin cuerpos,</l>
             <l>a un tiempo están batallando</l>
             <l>dentro de mi mismo pecho.</l>
-            <l>VOZ 1ª Esa palabra de quien</l>
+          </sp>
+          <sp who="#voz-1">
+            <speaker rend="caps">Voz 1</speaker>
+
+
+            <l>Esa palabra de quien</l>
             <l>habla ese ignorado texto</l>
             <l>es Júpiter, cuya voz</l>
             <l>tiene en los dioses imperio.</l>
@@ -1226,7 +1231,12 @@
             <l>el que por mi amor murió,</l>
             <l>entonces pudiera yo</l>
             <l>amarle después de muerto.</l>
-            <l>NÍSIDA Fineza mal conseguida</l>
+          </sp>
+          <sp who="#nísida">
+            <speaker rend="caps">Nísida</speaker>
+
+
+            <l>Fineza mal conseguida</l>
             <l>fuera la de tanto amor,</l>
             <l>si le había tu favor</l>
             <l>de costar antes la vida.</l>
@@ -6109,7 +6119,12 @@
             <l>Y hasta que esta verdad creas,</l>
             <l>no he de verte, no he de hablarte</l>
             <l>porque es mi muerte el mirarte.</l>
-            <l>DARÍA Tente, escucha; y si deseas</l>
+          </sp>
+          <sp who="#daría">
+            <speaker rend="caps">Daría</speaker>
+
+
+            <l>Tente, escucha; y si deseas</l>
             <l>eso, para que en mí veas</l>
             <l>lo que por ti intento, di</l>
             <l>lo que puedo hacer aquí</l>
@@ -7192,7 +7207,12 @@
             <l>Quien más que tu beldad, tu virtud ama;</l>
             <l>porque, inspirado y libre, tu luz sigo</l>
             <l>por morir o vivir siempre contigo.</l>
-            <l>DARÍA Sólo serme pudiera</l>
+          </sp>
+          <sp who="#daría">
+            <speaker rend="caps">Daría</speaker>
+
+            
+            <l>Sólo serme pudiera</l>
             <l>alivio, amado esposo, que te viera</l>
             <l>tu amada compañía</l>
             <l>por fin de los prodigios deste día;</l>
