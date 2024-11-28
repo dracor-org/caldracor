@@ -563,6 +563,7 @@
             <l>que tomó la calle, mal</l>
             <l>haré si aquí me detengo,</l>
             <l>habiendo llegado gente</l>
+            <stage>Ha estado embozado riñendo.</stage>
             <l>y luz. Testigos los cielos</l>
             <l>sean de que no es huir,</l>
             <l>sino retirarme esto;</l>
@@ -573,7 +574,7 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="4">
-          <stage>Ha estado embozado riñendo. Vase.</stage>
+          <stage>Vase.</stage>
           <sp who="#don-diego">
             <speaker rend="caps">Don Diego</speaker>
 
@@ -728,7 +729,7 @@
             <speaker rend="caps">Celio</speaker>
 
 
-            <l>(Cuanto te ha dicho, señor,</l>
+            <l><stage>Aparte</stage> (Cuanto te ha dicho, señor,</l>
             <l>es engaño, porque dentro</l>
             <l>de su casa fue el disgusto;</l>
             <l>por señas que salió huyendo</l>
@@ -804,15 +805,15 @@
 
             <l>(Sí haré.)</l>
           </sp>
+          <stage>Vanse los dos.</stage>
+        </div>
+        <div type="scene" resp="#rojas" n="5">
           <sp who="#don-diego">
             <speaker rend="caps">Don Diego</speaker>
 
 
             <l>Volvamos a nuestro juego nosotros.</l>
           </sp>
-        </div>
-        <div type="scene" resp="#rojas" n="5">
-          <stage>Vanse todos [menos don Juan].</stage>
           <sp who="#don-juan">
             <speaker rend="caps">Don Juan</speaker>
 
@@ -902,7 +903,7 @@
             <speaker rend="caps">Beatriz</speaker>
 
 
-            <l>(Sola esa ventura el cielo</l>
+            <l><stage>Aparte</stage> (Sola esa ventura el cielo</l>
             <l>ha dejado a mis desdichas,</l>
             <l>cuando de tantas dependo,</l>
             <l>que entre mi amante y mi hermano,</l>
@@ -941,7 +942,13 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="7">
-          <stage>Sale una ronda. ALGUACIL 1 La justicia, caballeros.</stage>
+          <stage>Sale una ronda.</stage>
+          <sp who="#alguacil-1">
+            <speaker rend="caps">Alguacil 1</speaker>
+            
+
+            <l>La justicia, caballeros.</l>
+          </sp>
           <sp who="#beatriz">
             <speaker rend="caps">Beatriz</speaker>
 
@@ -956,7 +963,12 @@
             <l>adónde pasar la noche,</l>
             <l>pues estos señores creo</l>
             <l>nos harán el hospedaje.</l>
-            <l>ALGUACIL 2 ¿Quién va?</l>
+          </sp>
+          <sp who="#alguacil-2">
+            <speaker rend="caps">Alguacil 2</speaker>
+
+            
+            <l>¿Quién va?</l>
           </sp>
           <sp who="#don-enrique">
             <speaker rend="caps">Don Enrique</speaker>
@@ -965,13 +977,24 @@
             <l>Un hombre forastero,</l>
             <l>que ahora acaba de llegar.</l>
           </sp>
-          <stage>Pónense delante de ella. ALGUACIL 1 ¿Vos quién sois?</stage>
+          <stage>Pónense delante de ella.</stage> 
+          <sp who="#alguacil-1">
+            <speaker rend="caps">Alguacil 1</speaker>
+            
+            
+            <l>¿Vos quién sois?</l>
+          </sp>
           <sp who="#chacón">
             <speaker rend="caps">Chacón</speaker>
 
 
             <l>Otro y el mesmo.</l>
-            <l>ALGUACIL 2 ¿Cómo el mesmo y otro?</l>
+          </sp>
+          <sp who="#alguacil-2">
+            <speaker rend="caps">Alguacil 2</speaker>
+              
+
+            <l>¿Cómo el mesmo y otro?</l>
           </sp>
           <sp who="#chacón">
             <speaker rend="caps">Chacón</speaker>
@@ -981,7 +1004,12 @@
             <l>soy otro, pues fuerza es serlo,</l>
             <l>y el mesmo, porque también</l>
             <l>forastero soy.</l>
-            <l>ALGUACIL 1 De en medio</l>
+          </sp>
+          <sp who="#alguacil-1">
+            <speaker rend="caps">Alguacil 1</speaker>
+
+
+            <l>De en medio</l>
             <l>os quitad, apartad. Esa</l>
             <l>mujer,…</l>
           </sp>
@@ -990,7 +1018,12 @@
 
 
             <l>(¡Hoy sin duda muero!)</l>
-            <l>ALGUACIL 1 …decid, ¿quién es?</l>
+          </sp>
+          <sp who="#alguacil-1">
+            <speaker rend="caps">Alguacil 1</speaker>
+
+
+            <l>…decid, ¿quién es?</l>
           </sp>
           <sp who="#chacón">
             <speaker rend="caps">Chacón</speaker>
@@ -1002,7 +1035,12 @@
             <l>aun no puede detenernos?</l>
             <l>Vamos, señora, que está</l>
             <l>en gran peligro.</l>
-            <l>ALGUACIL 2 Teneos,</l>
+          </sp>
+          <sp who="#alguacil-2">
+            <speaker rend="caps">Alguacil 2</speaker>
+
+
+            <l>Teneos,</l>
             <l>que hemos de saber quién sois,</l>
             <l>y quién es ella.</l>
           </sp>
@@ -1016,7 +1054,12 @@
             <l>algo merece, mirad</l>
             <l>en lo que serviros puedo,</l>
             <l>y no me impidáis el paso.</l>
-            <l>ALGUACIL 1 Más sospechoso os ha hecho</l>
+          </sp>
+          <sp who="#alguacil-1">
+            <speaker rend="caps">Alguacil 1</speaker>
+
+
+            <l>Más sospechoso os ha hecho</l>
             <l>ya ese estilo.</l>
           </sp>
           <sp who="#don-enrique">
@@ -1025,7 +1068,12 @@
 
             <l>¿Cuándo fue</l>
             <l>sospechoso el rendimiento?</l>
-            <l>ALGUACIL 1 Cuando pretende afectado</l>
+          </sp>
+          <sp who="#alguacil-1">
+            <speaker rend="caps">Alguacil 1</speaker>
+
+
+            <l>Cuando pretende afectado</l>
             <l>disimularse, y habemos</l>
             <l>de saber quién sois.</l>
           </sp>
@@ -1034,7 +1082,12 @@
 
 
             <l>Ya he dicho…</l>
-            <l>ALGUACIL 1 ¿Qué?</l>
+          </sp>
+          <sp who="#alguacil-1">
+            <speaker rend="caps">Alguacil 1</speaker>
+
+
+            <l>¿Qué?</l>
           </sp>
           <sp who="#don-enrique">
             <speaker rend="caps">Don Enrique</speaker>
@@ -1042,7 +1095,12 @@
 
             <l>…que soy un forastero;</l>
             <l>esto sólo sé de mí.</l>
-            <l>ALGUACIL 1 Pues lo demás que queremos</l>
+          </sp>
+          <sp who="#alguacil-1">
+            <speaker rend="caps">Alguacil 1</speaker>
+
+
+            <l>Pues lo demás que queremos</l>
             <l>saber, diréis en la cárcel.</l>
           </sp>
           <sp who="#don-enrique">
@@ -1050,14 +1108,24 @@
 
 
             <l>Ved…</l>
-            <l>ALGUACIL 1 Venid…</l>
+          </sp>
+          <sp who="#alguacil-1">
+            <speaker rend="caps">Alguacil 1</speaker>
+
+
+            <l>Venid…</l>
           </sp>
           <sp who="#chacón">
             <speaker rend="caps">Chacón</speaker>
 
 
             <l>(Malo va esto.)</l>
-            <l>ALGUACIL 1 …los tres.</l>
+          </sp>
+          <sp who="#alguacil-1">
+            <speaker rend="caps">Alguacil 1</speaker>
+
+
+            <l>…los tres.</l>
           </sp>
           <sp who="#don-enrique">
             <speaker rend="caps">Don Enrique</speaker>
@@ -1067,7 +1135,12 @@
             <l>no sólo irá con vos, pero</l>
             <l>ni saber quién es, ni verla</l>
             <l>el rostro habéis.</l>
-            <l>ALGUACIL 2 Defenderlo,</l>
+          </sp>
+          <sp who="#alguacil-2">
+            <speaker rend="caps">Alguacil 2</speaker>
+
+
+            <l>Defenderlo,</l>
             <l>¿cómo podréis?</l>
           </sp>
           <sp who="#don-enrique">
@@ -1122,7 +1195,13 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="8">
-          <stage>Vase. Métenlos a cuchilladas, y sale don Félix. ALGUACIL 1 ¡Ay infeliz, que me han muerto!</stage>
+          <stage>Vase. Métenlos a cuchilladas, y sale don Félix.</stage>
+          <sp who="#alguacil-1">
+            <speaker rend="caps">Alguacil 1</speaker>
+            
+            
+            <l>¡Ay infeliz, que me han muerto!</l>
+          </sp>
           <sp who="#chacón">
             <speaker rend="caps">Chacón</speaker>
 
@@ -2640,6 +2719,7 @@
           </sp>
           <sp who="#leonor">
             <speaker rend="caps">Leonor</speaker>
+            <stage>Lee</stage>
 
 
             <l>«Aunque sea vanidad darme por lee</l>
@@ -5256,7 +5336,7 @@
             <l>que lo fui de vuestro padre,</l>
             <l>que soy quien soy, y los bríos</l>
             <l>no están del todo apagados.</l>
-            <l>(Para que él me dé motivo</l>
+            <l><stage>Aparte</stage> (Para que él me dé motivo</l>
             <l>a que en la plática entre,</l>
             <l>harto se lo facilito.)</l>
           </sp>
@@ -5652,7 +5732,7 @@
             <speaker rend="caps">Leonor</speaker>
 
 
-            <l>Entra, que has de ser testigo [A Chacón.]</l>
+            <l>Entra, que has de ser testigo</l>
             <l>tú también de mi verdad.</l>
           </sp>
           <sp who="#chacón">
@@ -7213,18 +7293,16 @@
 
             <l>Y más siendo los que matan</l>
             <l>los que me han dado la vida.</l>
-            <l>D. JUAN Y D.</l>
           </sp>
-          <sp who="#don-félix">
-            <speaker rend="caps">Félix</speaker>
+          <sp who="#don-félix #don-juan">
+            <speaker rend="caps">Don Juan y don Félix</speaker>
 
 
             <l>¿Quién se vio en confusión tanta?</l>
             <l>Deteneos.</l>
-            <l>D. FERNANDO Y D.</l>
           </sp>
-          <sp who="#don-diego">
-            <speaker rend="caps">Diego</speaker>
+          <sp who="#don-diego #don-fernando">
+            <speaker rend="caps">Don Fernando y don Diego</speaker>
 
 
             <l>¿Qué es tenerme?</l>
@@ -7384,10 +7462,9 @@
 
             <l>…pidiendo a esos reales pies</l>
             <l>el perdón de nuestras faltas.</l>
-            <stage>FIN</stage>
           </sp>
+        <trailer>FIN</trailer>
         </div>
-
       </div>
     </body>
   </text>
