@@ -536,7 +536,7 @@
             <l>aun voy seguro sin ella;</l>
             <l part="I">(Adiós, Jacinta.)</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <stage>Vase.</stage>
           <sp who="#carlos">
             <speaker>CARLOS</speaker>
@@ -608,7 +608,7 @@
             <l>no viva en la tierra yo</l>
             <l>y en vuestras espumas muera.</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#carlos">
             <speaker>CARLOS</speaker>
             <l>¡Qué gran valor ha mostrado!</l>
@@ -923,7 +923,7 @@
             <l part="F">(Aquí</l>
             <l>quién soy me importa callar.)</l>
           </sp>
-          <stage>Ap.</stage>
+          <stage>Aparte.</stage>
           <stage>Salen el Duque y Otavio.</stage>
           <sp who="#otavio">
             <speaker>OTAVIO</speaker>
@@ -2032,12 +2032,12 @@
             <speaker>FADRIQUE</speaker>
             <l>(¡Ay, si fueras siempreviva!)</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#flora">
             <speaker>FLORA</speaker>
             <l>(¡Ay, si maravilla fueras!)</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
         </div>
 
 
@@ -2246,7 +2246,7 @@
             <l>pues que fingidos mis ojos</l>
             <l>linces vigilantes son.</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#fadrique">
             <speaker>FADRIQUE</speaker>
             <l>¡Ay, Fadrique desdichado!</l>
@@ -2422,7 +2422,7 @@
             <l>mas nada concedo o niego</l>
             <l part="I">con irme.)</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#flora">
             <speaker>FLORA</speaker>
             <l part="F">Fadrique, espera.</l>
@@ -2431,7 +2431,7 @@
             <speaker>FADRIQUE</speaker>
             <l>No soy Fadrique (¡Ay de mí!).</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#flora">
             <speaker>FLORA</speaker>
             <l part="I">Pues, pescador.</l>
@@ -2515,7 +2515,7 @@
             <l>ha de ponerse en razón</l>
             <l>con tal imaginación?)</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#flora">
             <speaker>FLORA</speaker>
             <l part="I">¿Qué te parece?</l>
@@ -2724,7 +2724,7 @@
             <l>sin la gran puntualidad</l>
             <l>de la Corte y el palacio.)</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#filipo">
             <speaker>FILIPO</speaker>
             <l>¿La hermosa Flora no está</l>
@@ -2747,7 +2747,7 @@
             <l>que yo sé que conocéis</l>
             <l part="I">a Flora.</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#filipo">
             <speaker>FILIPO</speaker>
             <l part="F">Nunca la vi.</l>
@@ -2784,7 +2784,7 @@
             <l>No, por cierto, y la excedéis.</l>
             <l>¿Sois Flora?(¡Decid que no!)</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#celia">
             <speaker>CELIA</speaker>
             <l>Fuera hacerme ofensa a mí</l>
@@ -2799,7 +2799,7 @@
             <l>corto en lo que he imaginado.</l>
             <l part="I">(Carlos.)</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#carlos">
             <speaker>CARLOS</speaker>
             <l part="M">(Señor.)</l>
@@ -2836,7 +2836,7 @@
             <l>Mas de Flora la locura</l>
             <l>al duque avisarle quiero.)</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <stage>Vase.</stage>
           <sp who="#carlos">
             <speaker>CARLOS</speaker>
@@ -3204,7 +3204,7 @@
             <speaker>JACINTA</speaker>
             <l>(El cielo mi intento ayuda.)</l>
           </sp>
-          <stage>Ap.</stage>
+          <stage>Aparte.</stage>
           <sp who="#otavio">
             <speaker>OTAVIO</speaker>
             <l>…que salio a este campo ahogado;</l>
@@ -3582,7 +3582,7 @@
             <l>si el mayor puede obligarte,</l>
             <l>escúchame un rato atento.</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#oton">
             <speaker>OTÓN</speaker>
             <l>(De Celia viene advertido.)</l>
@@ -3605,7 +3605,7 @@
             <l>pues con esto mi ventura</l>
             <l>ni la dudo ni la temo.)</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#fadrique">
             <speaker>FADRIQUE</speaker>
             <l>Invidias de la fortuna</l>
@@ -3638,7 +3638,7 @@
             <speaker>FLORA</speaker>
             <l>De aquí mi ventura espero.)</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#fadrique">
             <speaker>FADRIQUE</speaker>
             <l part="I">Sabrás, pues, que soy…</l>
@@ -3660,7 +3660,7 @@
             <l>¿cómo pudiera? ¡Qué presto</l>
             <l part="I">se supo!</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#flora">
             <speaker>FLORA</speaker>
             <l part="F">Pues él lo afirma,</l>
@@ -3712,7 +3712,7 @@
             <l>Bien temí su sentimiento.)</l>
             <l>Señor, yo callé quién era…</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#duque">
             <speaker>DUQUE</speaker>
             <l part="I">Yo te lo perdono.</l>
@@ -4048,7 +4048,7 @@
         </div>
         <div type="scene" resp="#rojas" n="17">
           <stage>[Vase Otavio.]</stage>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#marcial">
             <speaker>MARCIAL</speaker>
             <l part="I">(Calla agora.)</l>
@@ -4105,7 +4105,7 @@
             <l>¿No es Jacinta esta que veo,</l>
             <l part="I">cielos?)</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#jacinta">
             <speaker>JACINTA</speaker>
             <l part="F">Pues, ¿de qué has quedado</l>
@@ -4140,7 +4140,7 @@
             <l>aunque me ha buscado muerto.</l>
             <l part="I">¿Qué he de hacer?)</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#jacinta">
             <speaker>JACINTA</speaker>
             <l part="F">No tenga empacho,</l>
@@ -4197,7 +4197,7 @@
             <l>Marcial es su nombre mesmo.</l>
             <l part="I">Esto es la verdad.</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#duque">
             <speaker>DUQUE</speaker>
             <l part="F">(¡Qué bien</l>
@@ -4229,12 +4229,12 @@
             <l>está, y con Flora! Yo creo</l>
             <l>que otro se lo habrá avisado.)</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#flora">
             <speaker>FLORA</speaker>
             <l>De rabia y de celos muero.)</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <stage>Sale Otavio.</stage>
           <sp who="#otavio">
             <speaker>OTAVIO</speaker>
@@ -4303,7 +4303,7 @@
             <speaker>CELIA</speaker>
             <l>¡Qué bien finge el picarón!)</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#flora">
             <speaker>FLORA</speaker>
             <l>Es justo agradecimiento,</l>
@@ -4317,7 +4317,7 @@
             <l>tan falto el entendimiento,</l>
             <l>que todo lo haya creído!)</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#fadrique">
             <speaker>FADRIQUE</speaker>
             <l>Aunque pienso agradecerlo,</l>
@@ -4640,7 +4640,7 @@
             <speaker>CELIA</speaker>
             <l part="I">¿Señora?)</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#flora">
             <speaker>FLORA</speaker>
             <l part="F">No replique Vuestra Alteza,</l>
@@ -4651,7 +4651,7 @@
             <speaker>CELIA</speaker>
             <l>Nunca tan grande fue mi atrevimiento.)</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#flora">
             <speaker>FLORA</speaker>
             <l>¿Su fama, su hermosura, su nobleza</l>
@@ -4661,14 +4661,14 @@
             <speaker>CELIA</speaker>
             <l part="F">Vengó mi fingimiento.)</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#filipo">
             <speaker>FILIPO</speaker>
             <l>Confuso estoy entre una y otra Flora;</l>
             <l>mas es la noche una, otra la aurora.)</l>
             <l part="I">(Carlos,…)</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#carlos">
             <speaker>CARLOS</speaker>
             <l part="M">(¿Señor?)</l>
@@ -4765,7 +4765,7 @@
             <l>de la naturaleza varia creo</l>
             <l>que sacó dos estampas en un día.)</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#filipo">
             <speaker>FILIPO</speaker>
             <l>(Rendido voy a manos de un deseo:</l>
@@ -4784,7 +4784,7 @@
             <l>Él es. Direlo al duque, y que ha venido</l>
             <l>como su embajador disimulado.)</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <stage>Vase.</stage>
           <sp who="#flora">
             <speaker>FLORA</speaker>
@@ -4870,7 +4870,7 @@
             <speaker>CELIA</speaker>
             <l>Ya se vuelve a su locura.)</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <stage>Sale Fadrique.</stage>
           <sp who="#fadrique">
             <speaker>FADRIQUE</speaker>
@@ -4949,7 +4949,7 @@
             <speaker>CELIA</speaker>
             <l>¿Qué enredo mayor es éste?)</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#fadrique">
             <speaker>FADRIQUE</speaker>
             <l part="I">Déjame hablar.</l>
@@ -5104,7 +5104,7 @@
             <l>Flora; pero yo lo estuve</l>
             <l>en reírme y no creerte.)</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <stage>Vase Celia.</stage>
           <sp who="#fadrique">
             <speaker>FADRIQUE</speaker>
@@ -5346,7 +5346,7 @@
             <speaker>FADRIQUE</speaker>
             <l>Esto sólo me faltaba.)</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#duque">
             <speaker>DUQUE</speaker>
             <l>(¡A qué buen tiempo ha llegado</l>
@@ -5377,7 +5377,7 @@
             <speaker>FADRIQUE</speaker>
             <l>Confieso que loco estoy.)</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#jacinta">
             <speaker>JACINTA</speaker>
             <l>Él tiene perdido el seso.</l>
@@ -5410,7 +5410,7 @@
             <l>y callando, porque entiendo</l>
             <l>que han de decir que estoy loco!)</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#jacinta">
             <speaker>JACINTA</speaker>
             <l>Señor, déjele ir a casa,</l>
@@ -5429,7 +5429,7 @@
             <speaker>DUQUE</speaker>
             <l>¡Qué bien que le contradice!)</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#fadrique">
             <speaker>FADRIQUE</speaker>
             <l>Jacinta, si piensas hoy</l>
@@ -5582,7 +5582,7 @@
             <l part="F">(¡Ah, crüel,</l>
             <l>bien los celos me has pagado!)</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <stage>Va[n]se Jacinta y Marcial.</stage>
           <sp who="#duque">
             <speaker>DUQUE</speaker>
@@ -6136,7 +6136,7 @@
             <speaker>FILIPO</speaker>
             <l>Sin mí y conmigo vivo.)</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#duque">
             <speaker>DUQUE</speaker>
             <l>(A ejecutarlo estoy determinado.)</l>
@@ -6152,7 +6152,7 @@
             <l>el alma, que desea</l>
             <l>ser suya, o ya sea Flora o Celia sea.</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#celia">
             <speaker>CELIA</speaker>
             <l>(¿Qué hemos de hacer, señora,</l>
@@ -6406,7 +6406,7 @@
             <l>tus cortesanos adornos</l>
             <l>en rústicas ropas muda?</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#jacinta">
             <speaker>JACINTA</speaker>
             <l>¡Filipo es este, ay de mí!</l>
@@ -6414,7 +6414,7 @@
             <l>el engaño de Fadrique</l>
             <l>que mejor me disimula.)</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#filipo">
             <speaker>FILIPO</speaker>
             <l>Si de tu rigor, Jacinta,</l>
@@ -6717,7 +6717,7 @@
             <l>dama de hijo de familias:</l>
             <l>¡mira si es desnudez suma!</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#duque">
             <speaker>DUQUE</speaker>
             <l part="I">Dilo, acaba.</l>
@@ -6835,7 +6835,7 @@
             <l>Mas, ¿qué fortuna alcanza</l>
             <l>a costa de su daño la venganza?</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#oton">
             <speaker>OTÓN</speaker>
             <l part="I">(Allí Fadrique está.)</l>
@@ -6881,7 +6881,7 @@
             <speaker>CELIA</speaker>
             <l>Sin duda que Fadrique perdió el seso.)</l>
           </sp>
-          <stage>[Ap.]</stage>
+          <stage>Aparte.</stage>
           <sp who="#fadrique">
             <speaker>FADRIQUE</speaker>
             <l part="I">Tirso.</l>

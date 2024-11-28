@@ -2012,7 +2012,7 @@
           </sp>
           <sp who="#seleuco">
             <speaker rend="caps">Seleuco</speaker>
-            <stage type="withText">Ap.</stage>
+            <stage type="withText">Aparte.</stage>
 
 
             <l>Espera; que Anteo</l>
@@ -2042,7 +2042,7 @@
 
             <l>El Cielo os guarde: qué hombre</l>
             <l>Cloris, tan vano, y soberbio!</l>
-            <stage>Ap.</stage>
+            <stage>Aparte.</stage>
             <l>horror me ha dado el mirarle.</l>
           </sp>
           <sp who="#seleuco">
@@ -3381,7 +3381,7 @@
             <l>ni aún la lisonja pequeña</l>
             <l>de estimarla, o de sentirla,</l>
             <l>pase la duda a evidencia;</l>
-            <stage>Ap.</stage>
+            <stage>Aparte.</stage>
             <l>aunque, habiendo de ser otro,</l>
             <l>que sea Libio no me pesa,</l>
             <l>es fuerza disimular.</l>
@@ -5212,7 +5212,7 @@
             <l>tenga en mi servicio hecha</l>
             <l>mayor fineza, será</l>
             <l>a quien mi mano le ofrezca:</l>
-            <stage>Ap.</stage>
+            <stage>Aparte.</stage>
             <l>esto es dar tiempo a que viva</l>
             <l>una esperanza tan muerta.</l>
           </sp>
@@ -6956,7 +6956,7 @@
           </sp>
           <sp who="#ismenia">
             <speaker rend="caps">Ismenia</speaker>
-            <stage type="withText">Ap.</stage>
+            <stage type="withText">Aparte.</stage>
 
 
             <l>En manos di de Rosarda.</l>
@@ -9018,8 +9018,8 @@
             <l>de quien más humilde siempre,</l>
             <l>cuando hierra en lo que escribe,</l>
             <l>acierta en lo que obedece.</l>
-            <stage>FIN</stage>
           </sp>
+          <trailer>FIN</trailer>
         </div>
 
       </div>
