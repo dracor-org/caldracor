@@ -947,7 +947,7 @@
           <stage>Sale EUSEBIO.</stage>
           <sp who="#eusebio">
             <speaker>EUSEBIO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>Ninguno tan atrevido,</l>
             <l>si no tan desesperado,</l>
             <l>viene a tomar por sagrado</l>
@@ -1104,18 +1104,18 @@
           </sp>
           <sp who="#julia">
             <speaker>JULIA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F">¿Qué puedo hacer?</l>
           </sp>
           <sp who="#eusebio">
             <speaker>EUSEBIO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>Yo me doy la muerte aquí,</l>
             <l>si ella le dice que sí.</l>
           </sp>
           <sp who="#julia">
             <speaker>JULIA</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>No sé cómo responder.)</l>
             <l n="575">Bien, señor, la autoridad</l>
             <l>de padre, que es preferida,</l>
@@ -1304,7 +1304,6 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="9">
-          <stage>Vase ARMINDA.</stage>
           <stage>Sale ARMINDA.</stage>
           <sp who="#arminda">
             <speaker>ARMINDA</speaker>
@@ -1352,7 +1351,7 @@
           </sp>
           <sp who="#eusebio">
             <speaker>EUSEBIO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>Esto solo me faltaba.</l>
           </sp>
           <sp who="#arminda">
@@ -1431,7 +1430,7 @@
             <speaker>CURCIO</speaker>
             <l part="F">¿Hay más deshonra?</l>
             <l>Eusebio me ha quitado vida y honra.</l>
-            <stage>A JULIA.</stage>
+            <stage>[A JULIA.]</stage>
             <l>Disculpa agora tú de sus crüeles</l>
             <l n="780">deseos la ambición; di que concibe</l>
             <l>casto amor, pues a falta de papeles,</l>
@@ -1937,7 +1936,7 @@
             <l>Despéñese el intento,</l>
             <l>pues ya se ha despeñado el pensamiento.</l>
             <l part="I">Llama a Celio, y Ricardo.</l>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F">¡Amando muero!</l>
           </sp>
           <sp who="#chilindrina">
@@ -1997,7 +1996,7 @@
           </sp>
           <sp who="#menga">
             <speaker>MENGA</speaker>
-            <stage>A EUSEBIO.</stage>
+            <stage>[A EUSEBIO.]</stage>
             <l>¡Ah, señor, que va perdido,</l>
             <l>que anda Eusebio por aquí!</l>
           </sp>
@@ -2007,7 +2006,7 @@
           </sp>
           <sp who="#eusebio">
             <speaker>EUSEBIO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>Estos no me han conocido,</l>
             <l>y quiero disimular.</l>
           </sp>
@@ -2125,7 +2124,7 @@
             <l n="210">digna acción para estimarse;</l>
             <l>mas que si quiere vengarse,</l>
             <l>que he de defenderme yo.</l>
-            <stage>A los bandoleros.</stage>
+            <stage>[A los bandoleros.]</stage>
             <l>Y agora, porque no vean</l>
             <l>aquestos por donde vamos,</l>
             <l n="215">ataldos entre estos ramos;</l>
@@ -2355,7 +2354,7 @@
           </sp>
           <sp who="#curcio">
             <speaker>CURCIO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="310" part="F">Y aquí</l>
             <l>fue, ¡cielos!, donde yo vi</l>
             <l>aquel milagroso efeto</l>
@@ -3161,7 +3160,7 @@
           </sp>
           <sp who="#gil">
             <speaker>GIL</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="45">Mucho pica, ya no puedo</l>
             <l part="I">más sufrillo.</l>
           </sp>
@@ -3172,13 +3171,13 @@
           </sp>
           <sp who="#gil">
             <speaker>GIL</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l part="F">Aquí echamos</l>
             <l>a perder todo el enredo.</l>
           </sp>
           <sp who="#eusebio">
             <speaker>EUSEBIO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>Un hombre a un árbol atado,</l>
             <l n="50">y una cruz al cuello tiene;</l>
             <l>cumplir mi voto conviene</l>
@@ -3222,7 +3221,7 @@
           </sp>
           <sp who="#eusebio">
             <speaker>EUSEBIO</speaker>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l>Este es simple, y de mi daño</l>
             <l>cualquier suceso sabré.)</l>
             <l>Gil, yo te tengo afición,</l>
@@ -3826,7 +3825,7 @@
             <l>no has de pensar que me animo</l>
             <l>a matarte con ventaja.</l>
             <l part="I">Esta es mi espada.</l>
-            <stage>Aparte.</stage>
+            <stage>[Aparte.]</stage>
             <l n="410" part="F">Así quito</l>
             <l>la ocasión de darle muerte.)</l>
             <l>Ven a los brazos conmigo.</l>
