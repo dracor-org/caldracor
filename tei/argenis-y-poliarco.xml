@@ -2395,7 +2395,12 @@
 
             <l>Del cielo</l>
             <l>y de la fortuna quejas.</l>
-            <l>ARGENIS ¡Ah! ¿Y de mí?</l>
+          </sp>
+          <sp who="#argenis">
+            <speaker rend="caps">Argenis</speaker>
+
+
+            <l>¡Ah! ¿Y de mí?</l>
           </sp>
           <sp who="#timoclea">
             <speaker rend="caps">Timoclea</speaker>
