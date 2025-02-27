@@ -99,9 +99,10 @@
             <persName>Un Paje</persName>
           </person>
           <person xml:id="soldado-1" sex="MALE">
-            <persName>Un Soldado</persName>
+            <persName>SOLDADO 1º</persName>
           </person>
           <person xml:id="soldado-2" sex="MALE">
+            <persName>SOLDADO 2º</persName>
           </person>
         </listPerson>
       </particDesc>
