@@ -122,15 +122,6 @@
           <person sex="MALE" xml:id="escudero">
             <persName>Escudero</persName>
           </person>
-          <person sex="MALE" xml:id="juan">
-            <persName>Juan</persName>
-            <trait source="castlist">
-              <desc>galán</desc>
-            </trait>
-            <trait source="castlist">
-              <desc>criada</desc>
-            </trait>
-          </person>
           <person sex="FEMALE" xml:id="ines">
             <persName>Inés</persName>
           </person>
@@ -190,7 +181,7 @@
     <body>
       <div n="1" type="act">
         <div type="scene" resp="#rojas" n="1">
-          <head> JornadaI </head>
+          <head> Jornada I </head>
           <stage> Salen Doña Beatriz, y Juana y don Luis, viejo. </stage>
           <sp who="#beatriz">
             <speaker> BEATRIZ </speaker>
@@ -2438,7 +2429,7 @@
       </div>
       <div n="2" type="act">
         <div type="scene" resp="#rojas" n="1">
-          <head> JornadaII </head>
+          <head> Jornada II </head>
           <stage> Salen don Juan y el Capitán. </stage>
           <sp who="#capitan">
             <speaker> CAPITÁN </speaker>
@@ -4864,10 +4855,10 @@
       </div>
       <div n="3" type="act">
         <div type="scene" resp="#rojas" n="1">
-          <head> JornadaIII </head>
-          <stage> Salen doña Beatriz, Juan y Inés con mantos. </stage>
-          <sp who="#juan">
-            <speaker> JUAN </speaker>
+          <head> Jornada III </head>
+          <stage> Salen doña Beatriz, Juana y Inés con mantos. </stage>
+          <sp who="#juana">
+            <speaker> JUANA </speaker>
             <l> ¿No me dirás qué es, señora </l>
             <l part="I"> tu pensamiento? </l>
           </sp>
