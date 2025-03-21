@@ -77,6 +77,9 @@
           </person>
           <person xml:id="nise" sex="FEMALE">
             <persName>Nise</persName>
+            <trait source="#calderondigital">
+              <desc>criada</desc>
+            </trait>
           </person>
           <person xml:id="fabio" sex="MALE">
             <persName>Fabio</persName>
@@ -94,6 +97,9 @@
             <persName>Camacho</persName>
             <trait source="#calderondigital">
               <desc>criado</desc>
+            </trait>
+            <trait source="#calderondigital">
+              <desc>gracioso</desc>
             </trait>
           </person>
           <person xml:id="alcaide" sex="MALE">

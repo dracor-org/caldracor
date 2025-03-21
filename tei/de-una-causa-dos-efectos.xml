@@ -71,6 +71,9 @@
             <trait source="castlist">
               <desc>truhán</desc>
             </trait>
+            <trait source="#calderondigital">
+              <desc>gracioso</desc>
+            </trait>
           </person>
           <person xml:id="enrique" sex="MALE">
             <persName>Enrique</persName>

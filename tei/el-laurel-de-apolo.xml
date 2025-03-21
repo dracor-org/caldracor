@@ -63,6 +63,9 @@
             <trait source="castlist">
               <desc>villano</desc>
             </trait>
+            <trait source="#calderondigital">
+              <desc>gracioso</desc>
+            </trait>
           </person>
           <person xml:id="eco" sex="FEMALE">
             <persName>Eco</persName>

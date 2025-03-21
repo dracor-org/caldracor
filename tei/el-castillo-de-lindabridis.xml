@@ -95,6 +95,9 @@
             <trait source="castlist">
               <desc>criado</desc>
             </trait>
+            <trait source="#calderondigital">
+              <desc>gracioso</desc>
+            </trait>
           </person>
           <person xml:id="lindabridis" sex="FEMALE">
             <persName>Lindabridis</persName>
