@@ -101,15 +101,6 @@
             <trait source="castlist">
               <desc>negra</desc>
             </trait>
-            <trait source="castlist">
-              <desc>músicas</desc>
-            </trait>
-            <trait source="castlist">
-              <desc>indias</desc>
-            </trait>
-            <trait source="castlist">
-              <desc>negras</desc>
-            </trait>
           </person>
           <person xml:id="capitán" sex="MALE">
             <persName>Un Capitán</persName>
@@ -130,6 +121,9 @@
             <persName>Jebnón</persName>
             <trait source="castlist">
               <desc>bandolero</desc>
+            </trait>
+            <trait source="#calderondigital">
+              <desc>gracioso</desc>
             </trait>
           </person>
           <person xml:id="petosiris" sex="MALE">

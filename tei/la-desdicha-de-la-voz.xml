@@ -49,27 +49,48 @@
         <listPerson>
           <person sex="FEMALE" xml:id="dona-beatriz">
             <persName>Doña Beatriz</persName>
+            <trait source="#calderondigital">
+              <desc>dama</desc>
+            </trait>
           </person>
           <person sex="MALE" xml:id="escudero">
             <persName>Escudero</persName>
           </person>
           <person sex="FEMALE" xml:id="ines">
             <persName>Inés</persName>
+            <trait source="#calderondigital">
+              <desc>criada</desc>
+            </trait>
           </person>
           <person sex="MALE" xml:id="don-juan">
             <persName>Don Juan</persName>
+            <trait source="#calderondigital">
+              <desc>enamorado</desc>
+            </trait>
           </person>
           <person sex="MALE" xml:id="don-pedro">
             <persName>Don Pedro</persName>
+            <trait source="#calderondigital">
+              <desc>enamorado</desc>
+            </trait>
           </person>
           <person sex="MALE" xml:id="luquete">
             <persName>Luquete</persName>
+            <trait source="#calderondigital">
+              <desc>gracioso</desc>
+            </trait>
           </person>
           <person sex="FEMALE" xml:id="isabel">
             <persName>Isabel</persName>
+            <trait source="#calderondigital">
+              <desc>criada</desc>
+            </trait>
           </person>
           <person sex="FEMALE" xml:id="leonor">
             <persName>Leonor</persName>
+            <trait source="#calderondigital">
+              <desc>dama</desc>
+            </trait>
           </person>
           <person sex="MALE" xml:id="don-luis">
             <persName>Don Luis</persName>
@@ -79,18 +100,33 @@
           </person>
           <person sex="MALE" xml:id="don-diego">
             <persName>Don Diego</persName>
+            <trait source="#calderondigital">
+              <desc>hijo</desc>
+            </trait>
+            <trait source="#calderondigital">
+              <desc>enamorado</desc>
+            </trait>
           </person>
           <person sex="UNKNOWN" xml:id="dentro">
             <persName>Dentro</persName>
           </person>
           <person sex="MALE" xml:id="otavio">
             <persName>Otavio</persName>
+            <trait source="#calderondigital">
+              <desc>viejo</desc>
+            </trait>
           </person>
           <person sex="MALE" xml:id="celio">
             <persName>Celio</persName>
+            <trait source="#calderondigital">
+              <desc>criado</desc>
+            </trait>
           </person>
           <person sex="FEMALE" xml:id="dona-leonor">
             <persName>Doña Leonor</persName>
+            <trait source="#calderondigital">
+              <desc>dama</desc>
+            </trait>
           </person>
         </listPerson>
       </particDesc>

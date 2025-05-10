@@ -65,6 +65,9 @@
             <trait source="#calderondigital">
               <desc>soldado</desc>
             </trait>
+            <trait source="#calderondigital">
+              <desc>gracioso</desc>
+            </trait>
           </person>
           <person xml:id="soldados-aureliano" sex="MALE">
             <persName>Persio Soldado</persName>

@@ -40,7 +40,7 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="originalSource">
-          <title>Pedro Calderón de la Barca, La púrpura de la rosa. Edición de José María Viña Liste. En: Comedias, Vol. 6. Dirección de Luis Iglesias Feijoo. Madrid : Fundación José Antonio de Castro, 2010</title>
+          <title>Pedro Calderón de la Barca, Sexta parte de comedias. Edición de José María Viña Liste. Madrid: Fundación José Antonio de Castro, 2010</title>
           <idno type="ISBN">978-84-96452-96-1</idno>
         </bibl>
       </sourceDesc>
@@ -82,6 +82,9 @@
             <persName>Dinero</persName>
             <trait source="castlist">
               <desc>criado</desc>
+            </trait>
+            <trait source="#calderondigital">
+              <desc>gracioso</desc>
             </trait>
           </person>
           <person xml:id="arnaldo" sex="MALE">
