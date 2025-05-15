@@ -238,7 +238,7 @@
             <speaker>ZARA</speaker>
             <l n="20">Ella escucha, cantad pues.</l>
           </sp>
-          <sp who="#cautivo-1 #cautivo-2 #cautivo-3">
+          <sp who="#cautivo-1 #cautivo-2">
             <speaker>CAUTIVOS</speaker>
             <stage>Cantan.</stage>
             <l>Al peso de los años</l>
@@ -1236,7 +1236,7 @@
             <l>pareció entre espuma y sangre</l>
             <l n="660">-ya que bajel quise hacerle-</l>
             <l>de cuatro espuelas herido,</l>
-            <l>.que cuatro vientos le mueven</l>
+            <l>que cuatro vientos le mueven</l>
             <l>Rindiose al fin, si hubo peso</l>
             <l>que tanto atlante sufriese,</l>
             <l n="665">si bien el de las desdichas</l>
@@ -1329,7 +1329,7 @@
             <l>de españoles, fue mi cuna,</l>
             <l n="750">pues para que lo confieses</l>
             <l>en los Gelves nací el año</l>
-            <l>.que os perdisteis en los Gelves</l>
+            <l>que os perdisteis en los Gelves</l>
             <l>A servir al Rey mi tío</l>
             <l>vine infante, pero empiecen</l>
             <l n="755">las penas y las desdichas;</l>
@@ -1752,7 +1752,7 @@
             <speaker>BRITO</speaker>
             <l>En dejándoos los cascos bien abiertos</l>
             <l n="975">a tajos y a reveses,</l>
-            <l>.que aínda mortos somos portugueses</l>
+            <l>que aínda mortos somos portugueses</l>
           </sp>
         </div>
 
