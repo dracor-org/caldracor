@@ -176,7 +176,7 @@
             <l>de un lugar a otro lugar</l>
             <l part="I">sin dar un refresco!</l>
           </sp>
-          <sp who="#todos">
+          <sp who="#rebolledo #chispa #soldado_1 #soldado_2">
             <speaker>TODOS</speaker>
             <l part="F">Amén.</l>
           </sp>
@@ -422,7 +422,7 @@
             <speaker>REBOLLEDO</speaker>
             <l>Albricias pedir podías.</l>
           </sp>
-          <sp who="#todos">
+          <sp who="#rebolledo #chispa #soldado_1 #soldado_2 #sargento">
             <speaker>TODOS</speaker>
             <l>¡Vítor nuestro capitán!</l>
           </sp>
@@ -976,7 +976,7 @@
             <speaker>NUÑO</speaker>
             <l>¡Oh, qué desairados nacen</l>
           </sp>
-          <sp who="#todos">
+          <sp who="#mendo #nuño">
             <speaker>TODOS</speaker>
             <l part="I">los pobres!</l>
           </sp>
@@ -3355,10 +3355,7 @@
             <l part="F">Haré</l>
             <l>cuanto me quieras mandar.</l>
             <l>Pero, ¿si acaso volviese</l>
-          </sp>
-          <sp who="#don-lope">
-            <speaker>DON LOPE</speaker>
-            <l>y te conociese</l>
+            <l>Don Lope, y te conociese</l>
             <l part="I">al volver...?</l>
           </sp>
           <sp who="#capitán">
