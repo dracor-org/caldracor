@@ -1565,7 +1565,7 @@
       </div>
       <div type="act" n="2">
         <div type="scene" resp="#rojas" n="1">
-          <head>Jornada I</head>
+          <head>Jornada II</head>
           <stage>Salen el REY BASILIO y CLOTALDO.</stage>
           <sp who="#clotaldo">
             <speaker>CLOTALDO</speaker>
@@ -3644,7 +3644,7 @@
       </div>
       <div type="act" n="3">
         <div type="scene" resp="#rojas" n="1">
-          <head>Jornada I</head>
+          <head>Jornada III</head>
           <stage>Sale CLARÍN.</stage>
           <sp who="#clarín">
             <speaker>CLARÍN</speaker>
