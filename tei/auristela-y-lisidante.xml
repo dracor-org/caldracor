@@ -40,10 +40,16 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="originalSource">
-          <title>Pedro Calderón de la Barca, Auristela y Lisidante. Edición crítica de Rocío Arana.
-            Biblioteca Áurea Hispánica. Dirección de Ignacio Arellano. Universidad de Navarra /
-            Iberoamericana / Vervuert 2012 Biblioteca Áurea Hispánica 74, Comedias completas de
-            Calderón 7</title>
+          <author>Pedro Calderón de la Barca</author>,
+          <title level="a">Auristela y Lisidante</title>.
+          Edición crítica de <editor>Rocío Arana</editor>.
+          <title level="s">Biblioteca Áurea Hispánica</title>.
+          Dirección de <editor>Ignacio Arellano</editor>.
+          <publisher>Universidad de Navarra / Iberoamericana / Vervuert</publisher>,
+          <date>2012</date>.
+          <biblScope unit="volume">74</biblScope>.
+          <title level="s">Comedias completas de Calderón</title>
+          <biblScope unit="volume">7</biblScope>.
           <idno type="URL">https://doi.org/10.31819/9783865279842</idno>
         </bibl>
       </sourceDesc>

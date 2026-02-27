@@ -37,11 +37,19 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/el-diablo-mudo-primera-version--0/html/</idno>
-          <bibl type="originalSource">
-            <title>Texto crítico preparado por C. C. García Valdés procedente de la edición Calderón
-              de la Barca, Pedro, El diablo mudo, ed. C. C. García Valdés, Pamplona–Kassel,
-              Universidad de Navarra–Reichenberger, 1999. ISBN: 3-931887-59-5.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Calderón de la Barca, Pedro</author>,
+          <title level="a">El diablo mudo</title>,
+          <editor>C. C. García Valdés</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>:
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>1999</date>.
+          <idno type="ISBN">3-931887-59-5</idno>
+          <note>Texto crítico preparado por C. C. García Valdés procedente de la edición indicada.</note>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -2284,7 +2292,8 @@
             <l n="1130">El Señor de las Virtudes</l>
             <l>es de la Gloria el Rey .mesmo</l>
           </sp>
-          <sp who="#apetito #fe #música #naturaleza-divina #naturaleza-humana #penitencia #peregrino">
+          <sp
+            who="#apetito #fe #música #naturaleza-divina #naturaleza-humana #penitencia #peregrino">
             <speaker>TODOS</speaker>
             <l part="I">Abrid las puertas.</l>
           </sp>
@@ -3199,7 +3208,8 @@
             <l>,de su afrenta y de mi ira</l>
             <l part="I">lo sea.</l>
           </sp>
-          <sp who="#penitencia #apetito #gentilidad #naturaleza-divina #naturaleza-humana #conocimiento #demonio #fe #hombre #peregrino">
+          <sp
+            who="#penitencia #apetito #gentilidad #naturaleza-divina #naturaleza-humana #conocimiento #demonio #fe #hombre #peregrino">
             <speaker>TODOS</speaker>
             <l part="F">¿Qué haces, necio?</l>
           </sp>
@@ -3249,7 +3259,8 @@
         </div>
         <div type="scene" resp="#rojas" n="31">
           <stage>Vase y suena terremoto.</stage>
-          <sp who="#fe #peregrino #hombre #demonio #conocimiento #naturaleza-humana #apetito #penitencia #gentilidad #judaísmo #ángel">
+          <sp
+            who="#fe #peregrino #hombre #demonio #conocimiento #naturaleza-humana #apetito #penitencia #gentilidad #judaísmo #ángel">
             <speaker>TODOS</speaker>
             <l>¿Qué es esto, cielos, qué es esto?</l>
           </sp>
@@ -3531,7 +3542,8 @@
             <l>[recobrado] en mis sentidos</l>
             <l>:con todos juntos diciendo</l>
           </sp>
-          <sp who="#fe #gentilidad #penitencia #hombre #conocimiento #naturaleza-divina #naturaleza-humana #peregrino #música">
+          <sp
+            who="#fe #gentilidad #penitencia #hombre #conocimiento #naturaleza-divina #naturaleza-humana #peregrino #música">
             <speaker>TODAS Y LA MÚSICA</speaker>
             <l>Abra el Hombre los labios,</l>
             <l n="1685">pues si confiesa,</l>

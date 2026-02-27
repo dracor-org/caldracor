@@ -37,10 +37,17 @@
         <bibl type="digitalSource">
           <name>DADUN Depositorio académico digital Universidad de Navarra</name>
           <idno type="URL">https://dadun.unav.edu/handle/10171/18201</idno>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de Luis Galván, Pamplona–Kassel,
-              Universidad de Navarra– Reichenberger, 2004. ISBN: 3-935004-84-2.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la edición de</note>
+          <editor>Luis Galván</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>:
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>2004</date>.
+          <idno type="ISBN">3-935004-84-2</idno>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -1099,7 +1106,8 @@
             <l n="605">del Padre, allí Marcos muestra.</l>
           </sp>
           <stage>La caja</stage>
-          <sp who="#ali #idolatria #secta #alcuzcuz #iglesia #oido #vista #olfato #tacto #gusto #entendimiento">
+          <sp
+            who="#ali #idolatria #secta #alcuzcuz #iglesia #oido #vista #olfato #tacto #gusto #entendimiento">
             <speaker>TODOS</speaker>
             <l>De donde en tiempos inciertos</l>
             <l>juzgará vivos y muertos</l>
@@ -1250,7 +1258,8 @@
             <l>de mi gran poder testigo.</l>
           </sp>
           <stage>La caja</stage>
-          <sp who="#ali #idolatria #alcuzcuz #vista #olfato #tacto #gusto #entendimiento #acompanamiento #apostasia #oido #iglesia #secta">
+          <sp
+            who="#ali #idolatria #alcuzcuz #vista #olfato #tacto #gusto #entendimiento #acompanamiento #apostasia #oido #iglesia #secta">
             <speaker>TODOS</speaker>
             <l>Ya se acerca el enemigo.</l>
           </sp>
@@ -1263,7 +1272,8 @@
             <l>Al paso salgamos, no</l>
             <l>piense que el temor me encierra.</l>
           </sp>
-          <sp who="#ali #idolatria #alcuzcuz #vista #olfato #tacto #gusto #entendimiento #apostasia #oido #secta #acompanamiento #iglesia">
+          <sp
+            who="#ali #idolatria #alcuzcuz #vista #olfato #tacto #gusto #entendimiento #apostasia #oido #secta #acompanamiento #iglesia">
             <speaker>TODOS</speaker>
             <l>¡Arma, arma, guerra, guerra!</l>
           </sp>
@@ -1319,7 +1329,8 @@
             <l>frustrada llego a mirar.</l>
             <l>¡Soldados, a retirar!</l>
           </sp>
-          <sp who="#ali #idolatria #alcuzcuz #vista #olfato #tacto #gusto #entendimiento #oido #iglesia #apostasia #acompanamiento #secta">
+          <sp
+            who="#ali #idolatria #alcuzcuz #vista #olfato #tacto #gusto #entendimiento #oido #iglesia #apostasia #acompanamiento #secta">
             <speaker>TODOS</speaker>
             <l>¡Viva la fe, la fe viva!</l>
           </sp>
@@ -1359,7 +1370,8 @@
             <l>Dela el primero jardín</l>
             <l>flores de su primavera.</l>
           </sp>
-          <sp who="#ali #idolatria #alcuzcuz #olfato #tacto #oido #iglesia #acompanamiento #secta #apostasia #musicos #entendimiento #gusto #vista">
+          <sp
+            who="#ali #idolatria #alcuzcuz #olfato #tacto #oido #iglesia #acompanamiento #secta #apostasia #musicos #entendimiento #gusto #vista">
             <speaker>TODOS</speaker>
             <l>Y a pesar de enemigos</l>
             <l>triunfante vuelva.</l>
@@ -1379,7 +1391,8 @@
             <l>Inmortal al tiempo vivas,</l>
             <l n="750">y tu militante esfera…</l>
           </sp>
-          <sp who="#ali #idolatria #alcuzcuz #iglesia #acompanamiento #secta #apostasia #musicos #entendimiento #gusto #vista #oido #tacto #olfato">
+          <sp
+            who="#ali #idolatria #alcuzcuz #iglesia #acompanamiento #secta #apostasia #musicos #entendimiento #gusto #vista #oido #tacto #olfato">
             <speaker>TODOS</speaker>
             <l>…a pesar de enemigos</l>
             <l>triunfante vuelva.</l>
@@ -1945,7 +1958,8 @@
             <speaker>OLFATO</speaker>
             <l n="1005" part="F">Santa María,</l>
           </sp>
-          <sp who="#ali #idolatria #alcuzcuz #acompanamiento #secta #musicos #vista #tacto #gusto #entendimiento #apostasia #oido #musicos #eco #iglesia #olfato">
+          <sp
+            who="#ali #idolatria #alcuzcuz #acompanamiento #secta #musicos #vista #tacto #gusto #entendimiento #apostasia #oido #musicos #eco #iglesia #olfato">
             <speaker>TODOS</speaker>
             <l part="I">Madre de Dios.</l>
           </sp>
@@ -1963,7 +1977,8 @@
             <l part="F">Que la lid fuerte</l>
             <l part="I">trabó el Oído.</l>
           </sp>
-          <sp who="#ali #idolatria #alcuzcuz #secta #musicos #tacto #gusto #entendimiento #apostasia #oido #musicos #eco #olfato #acompanamiento #iglesia #vista">
+          <sp
+            who="#ali #idolatria #alcuzcuz #secta #musicos #tacto #gusto #entendimiento #apostasia #oido #musicos #eco #olfato #acompanamiento #iglesia #vista">
             <speaker>TODOS</speaker>
             <l part="F">Señora,</l>
             <l>ruega por nosotros ahora</l>
@@ -1983,7 +1998,8 @@
             <l n="1020">sus auxilios nos envía,</l>
             <l part="I">id diciendo…</l>
           </sp>
-          <sp who="#ali #idolatria #alcuzcuz #secta #musicos #tacto #gusto #entendimiento #apostasia #oido #musicos #eco #olfato #acompanamiento #vista #iglesia">
+          <sp
+            who="#ali #idolatria #alcuzcuz #secta #musicos #tacto #gusto #entendimiento #apostasia #oido #musicos #eco #olfato #acompanamiento #vista #iglesia">
             <speaker>TODOS</speaker>
             <l part="F">Ave María.</l>
           </sp>
@@ -2449,7 +2465,8 @@
             <speaker>OÍDO</speaker>
             <l>¡Sentidos, a retirar!</l>
           </sp>
-          <sp who="#musicos #musicos #eco #iglesia #acompanamiento #vista #idolatria #tacto #secta #gusto #ali #olfato #apostasia #alcuzcuz #entendimiento #oido">
+          <sp
+            who="#musicos #musicos #eco #iglesia #acompanamiento #vista #idolatria #tacto #secta #gusto #ali #olfato #apostasia #alcuzcuz #entendimiento #oido">
             <speaker>TODOS</speaker>
             <l>¿Por qué a retirar tan presto?</l>
           </sp>
@@ -2473,7 +2490,8 @@
             <l>Volved, cobardes, ¿por qué</l>
             <l>os vais de mi vista huyendo?</l>
           </sp>
-          <sp who="#musicos #musicos #eco #iglesia #acompanamiento #vista #idolatria #tacto #secta #gusto #ali #olfato #alcuzcuz #entendimiento #oido #apostasia">
+          <sp
+            who="#musicos #musicos #eco #iglesia #acompanamiento #vista #idolatria #tacto #secta #gusto #ali #olfato #alcuzcuz #entendimiento #oido #apostasia">
             <speaker>TODOS</speaker>
             <l>Porque ya está del oído</l>
             <l>cautivo el entendimiento.</l>
@@ -2879,7 +2897,8 @@
             <l>de casa nunca está lejos.</l>
             <l part="I">¡Traición, traición!</l>
           </sp>
-          <sp who="#musicos #musicos #eco #iglesia #acompanamiento #vista #tacto #gusto #olfato #entendimiento #oido #alcuzcuz #idolatria #secta #ali #apostasia">
+          <sp
+            who="#musicos #musicos #eco #iglesia #acompanamiento #vista #tacto #gusto #olfato #entendimiento #oido #alcuzcuz #idolatria #secta #ali #apostasia">
             <speaker>TODOS</speaker>
             <l part="F">¡Arma, arma!</l>
           </sp>
@@ -2990,7 +3009,8 @@
         </div>
         <div type="scene" resp="#rojas" n="32">
           <stage>Vanse, y sale la Iglesia como asustada</stage>
-          <sp who="#musicos #musicos #eco #iglesia #vista #tacto #gusto #olfato #entendimiento #oido #alcuzcuz #acompanamiento #idolatria #ali #apostasia #secta">
+          <sp
+            who="#musicos #musicos #eco #iglesia #vista #tacto #gusto #olfato #entendimiento #oido #alcuzcuz #acompanamiento #idolatria #ali #apostasia #secta">
             <speaker>TODOS</speaker>
             <stage>Dentro</stage>
             <l part="I">¡Piedad, cielos!</l>
@@ -3018,7 +3038,8 @@
             <l>el muro desmantelado</l>
             <l>y todos de hambre muriendo.</l>
           </sp>
-          <sp who="#musicos #musicos #eco #vista #tacto #gusto #olfato #entendimiento #oido #alcuzcuz #acompanamiento #idolatria #ali #apostasia #secta #iglesia">
+          <sp
+            who="#musicos #musicos #eco #vista #tacto #gusto #olfato #entendimiento #oido #alcuzcuz #acompanamiento #idolatria #ali #apostasia #secta #iglesia">
             <speaker>TODOS</speaker>
             <l part="I">¡O pan o rendirnos!</l>
           </sp>
@@ -3060,7 +3081,8 @@
             <l n="1520">viendo el muro roto y viendo</l>
             <l>la hambre que padecen, dicen:</l>
           </sp>
-          <sp who="#musicos #musicos #eco #entendimiento #alcuzcuz #idolatria #ali #apostasia #secta #acompanamiento #vista #gusto #tacto #oido #olfato #iglesia">
+          <sp
+            who="#musicos #musicos #eco #entendimiento #alcuzcuz #idolatria #ali #apostasia #secta #acompanamiento #vista #gusto #tacto #oido #olfato #iglesia">
             <speaker>TODOS</speaker>
             <stage>Dentro</stage>
             <l>Danos, señora, el pan nuestro.</l>
@@ -3089,7 +3111,8 @@
             <l>no, señora. Mas ¿qué es esto?</l>
           </sp>
           <stage>Dentro terremoto</stage>
-          <sp who="#musicos #musicos #eco #entendimiento #alcuzcuz #acompanamiento #idolatria #ali #apostasia #secta #vista #gusto #tacto #oido #olfato #iglesia">
+          <sp
+            who="#musicos #musicos #eco #entendimiento #alcuzcuz #acompanamiento #idolatria #ali #apostasia #secta #vista #gusto #tacto #oido #olfato #iglesia">
             <speaker>TODOS</speaker>
             <l>Que otro pedazo del muro</l>
             <l part="I">cae.</l>
@@ -3098,7 +3121,8 @@
             <speaker>IGLESIA</speaker>
             <l part="F">Ténganle nuestros ruegos.</l>
           </sp>
-          <sp who="#musicos #musicos #eco #entendimiento #alcuzcuz #acompanamiento #idolatria #ali #apostasia #secta #vista #gusto #tacto #oido #olfato #iglesia">
+          <sp
+            who="#musicos #musicos #eco #entendimiento #alcuzcuz #acompanamiento #idolatria #ali #apostasia #secta #vista #gusto #tacto #oido #olfato #iglesia">
             <speaker>TODOS</speaker>
             <l n="1545">¡Piedad, Virgen; piedad, Madre;</l>
             <l>piedad, Reina de los Cielos!</l>
@@ -3125,7 +3149,8 @@
             <l n="1560">la fe que hoy os hace, oh Virgen, la salva.</l>
           </sp>
           <stage>Cantan</stage>
-          <sp who="#musicos #musicos #eco #entendimiento #alcuzcuz #acompanamiento #idolatria #ali #apostasia #secta #vista #gusto #tacto #oido #iglesia #olfato">
+          <sp
+            who="#musicos #musicos #eco #entendimiento #alcuzcuz #acompanamiento #idolatria #ali #apostasia #secta #vista #gusto #tacto #oido #iglesia #olfato">
             <speaker>TODOS</speaker>
             <l>De risa por ver que vos sois el alba,</l>
             <l>de llanto por ver que vos sois la aurora.</l>
@@ -3148,7 +3173,8 @@
             <l>Bien cree, bien sospecha</l>
             <l>sus glorias quien mira en lamentos tan puros…</l>
           </sp>
-          <sp who="#musicos #musicos #eco #entendimiento #alcuzcuz #acompanamiento #idolatria #ali #apostasia #secta #vista #gusto #tacto #oido #iglesia #olfato">
+          <sp
+            who="#musicos #musicos #eco #entendimiento #alcuzcuz #acompanamiento #idolatria #ali #apostasia #secta #vista #gusto #tacto #oido #iglesia #olfato">
             <speaker>TODOS</speaker>
             <l n="1575">… que contra el que sitia se caigan los muros</l>
             <l>y se haga en favor del sitiado la brecha.</l>
@@ -3171,7 +3197,8 @@
             <l>¡Oh, qué bien se ve en los dos</l>
             <l>estando juntos el sol y la estrella…</l>
           </sp>
-          <sp who="#musicos #musicos #eco #entendimiento #alcuzcuz #acompanamiento #idolatria #ali #apostasia #secta #vista #gusto #tacto #oido #iglesia #olfato">
+          <sp
+            who="#musicos #musicos #eco #entendimiento #alcuzcuz #acompanamiento #idolatria #ali #apostasia #secta #vista #gusto #tacto #oido #iglesia #olfato">
             <speaker>TODOS</speaker>
             <l>… que nada os faltaba estando con ella</l>
             <l n="1590">ni a ella tampoco estando con vos!</l>
@@ -3194,7 +3221,8 @@
             <l>¡Qué bien pide la acción pía!</l>
             <l>pues pidiendo humilde al aire resuena:</l>
           </sp>
-          <sp who="#musicos #musicos #eco #entendimiento #alcuzcuz #acompanamiento #idolatria #ali #apostasia #secta #vista #gusto #tacto #oido #iglesia #olfato">
+          <sp
+            who="#musicos #musicos #eco #entendimiento #alcuzcuz #acompanamiento #idolatria #ali #apostasia #secta #vista #gusto #tacto #oido #iglesia #olfato">
             <speaker>TODOS</speaker>
             <l>el trigo nos dad que en el almudena</l>
             <l>tesoro ha de ser de Santa María.</l>
@@ -3300,7 +3328,8 @@
         </div>
         <div type="scene" resp="#rojas" n="34">
           <stage>Vase</stage>
-          <sp who="#musicos #musicos #eco #alcuzcuz #acompanamiento #idolatria #ali #apostasia #secta #vista #gusto #tacto #oido #olfato #entendimiento #iglesia">
+          <sp
+            who="#musicos #musicos #eco #alcuzcuz #acompanamiento #idolatria #ali #apostasia #secta #vista #gusto #tacto #oido #olfato #entendimiento #iglesia">
             <speaker>TODOS</speaker>
             <l>Cojamos trigo y subamos</l>
             <l part="I">al muro.</l>
@@ -3362,7 +3391,8 @@
           </sp>
           <stage>Al muro, en un carro, la Iglesia, Oído y Entendimiento; en otro Vista, Olfato,
             Tacto y Gusto</stage>
-          <sp who="#musicos #musicos #eco #acompanamiento #vista #gusto #tacto #oido #olfato #entendimiento #iglesia #secta #ali #apostasia #idolatria #alcuzcuz">
+          <sp
+            who="#musicos #musicos #eco #acompanamiento #vista #gusto #tacto #oido #olfato #entendimiento #iglesia #secta #ali #apostasia #idolatria #alcuzcuz">
             <speaker>TODOS</speaker>
             <l part="I">¡Ah de la campaña!</l>
           </sp>
@@ -3427,7 +3457,8 @@
             <l>el trigo de la almudena</l>
             <l>de aquella pasada mies.</l>
           </sp>
-          <sp who="#musicos #musicos #eco #vista #gusto #tacto #oido #olfato #acompanamiento #entendimiento #apostasia #alcuzcuz #ali #idolatria #secta #iglesia">
+          <sp
+            who="#musicos #musicos #eco #vista #gusto #tacto #oido #olfato #acompanamiento #entendimiento #apostasia #alcuzcuz #ali #idolatria #secta #iglesia">
             <speaker>TODOS</speaker>
             <l>Tomad, bárbaros, ése es</l>
             <l>de que mi troj está llena</l>
@@ -3469,7 +3500,8 @@
             <l part="F">otra, pues</l>
             <l>ser en su semilla ordena…</l>
           </sp>
-          <sp who="#musicos #musicos #eco #apostasia #alcuzcuz #ali #idolatria #secta #vista #oido #gusto #entendimiento #olfato #iglesia #tacto">
+          <sp
+            who="#musicos #musicos #eco #apostasia #alcuzcuz #ali #idolatria #secta #vista #oido #gusto #entendimiento #olfato #iglesia #tacto">
             <speaker>TODOS</speaker>
             <l n="1755">el trigo de la almudena</l>
             <l>de aquella pasada mies.</l>

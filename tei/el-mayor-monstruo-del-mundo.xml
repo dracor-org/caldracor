@@ -34,12 +34,19 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/el-mayor-monstruo-del-mundo--1/html/</idno>
-          <bibl type="originalSource">
-            <title>Edición original en Biblioteca de la Universidad de Alicante. Revisada por el
-              editor para la Biblioteca Virtual Miguel de Cervantes. Edición digital a partir de la
-              10º ed. de José María Ruano de la Haza, Madrid, Espasa-Calpe, 1989 (Colección Austral
-              ; 81) </title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la</note>
+          <biblScope unit="edition">10ª ed.</biblScope>,
+          <editor>José María Ruano de la Haza</editor>,
+          <pubPlace>Madrid</pubPlace>:
+          <publisher>Espasa-Calpe</publisher>,
+          <date>1989</date>
+          (<title level="s">Colección Austral</title> ; <biblScope unit="volume">81</biblScope>).
+          <note>Edición original en Biblioteca de la Universidad de Alicante. Revisada por el editor para la Biblioteca Virtual Miguel de Cervantes.</note>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -4242,7 +4249,8 @@
             <l> en ambos coros uno y otro estruendo... </l>
             <stage>Música.</stage>
           </sp>
-          <sp who="#capitán #filipo #mariene #música #octaviano #polidoro #soldado-1 #soldado-2 #tetrarca #tolomeo">
+          <sp
+            who="#capitán #filipo #mariene #música #octaviano #polidoro #soldado-1 #soldado-2 #tetrarca #tolomeo">
             <speaker>TODOS Y MÚSICA</speaker>
             <l>¡Viva Octaviano, viva!</l>
             <l>Y en los campos de Oriente</l>
@@ -4287,7 +4295,8 @@
             <speaker>LOS DOS</speaker>
             <l part="I"> Diciendo a voces... </l>
           </sp>
-          <sp who="#capitán #filipo #mariene #octaviano #polidoro #soldado-1 #soldado-2 #tetrarca #tolomeo">
+          <sp
+            who="#capitán #filipo #mariene #octaviano #polidoro #soldado-1 #soldado-2 #tetrarca #tolomeo">
             <speaker>TODOS</speaker>
             <l part="F"> ¡Octaviano viva! </l>
           </sp>
@@ -4669,7 +4678,8 @@
             <l part="F"> Sea diciendo: </l>
             <l part="I"> ¡Viva Octaviano! </l>
           </sp>
-          <sp who="#capitán #filipo #mariene #música #octaviano #polidoro #soldado-1 #soldado-2 #tetrarca #tolomeo">
+          <sp
+            who="#capitán #filipo #mariene #música #octaviano #polidoro #soldado-1 #soldado-2 #tetrarca #tolomeo">
             <speaker>TODOS Y MÚSICA</speaker>
             <l part="F">¡Viva!</l>
             <l>Y en los campos de Oriente</l>

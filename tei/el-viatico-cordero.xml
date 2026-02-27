@@ -37,10 +37,14 @@
         <bibl type="digitalSource">
           <name/>
           <idno type="URL"/>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de J. M. Escudero, Pamplona–Kassel,
-              Universidad de Navarra–Reichenberger, 2007. ISBN: 978-3-937734-17-0.</title>
-          </bibl>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la edición de</note>
+          <editor>J. M. Escudero</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>,
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>2007</date>.
+          <idno type="ISBN">978-3-937734-17-0</idno>.
         </bibl>
       </sourceDesc>
     </fileDesc>

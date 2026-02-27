@@ -39,9 +39,15 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="originalSource">
-          <title>Pedro Calderón de la Barca, La cisma de Ingalaterra. Edición crítica de Juan Manuel
-            Escudero Baztán. Teatro del Siglo de Oro. Ediciones críticas Vol. 115 Kassel : Edition
-            Reichenberger, 2001</title>
+          <author>Pedro Calderón de la Barca</author>,
+          <title level="a">La cisma de Ingalaterra</title>.
+          Edición crítica de <editor>Juan Manuel Escudero Baztán</editor>.
+          <title level="s">Teatro del Siglo de Oro</title>.
+          <title level="s">Ediciones críticas</title>,
+          <biblScope unit="volume">115</biblScope>.
+          <pubPlace>Kassel</pubPlace>:
+          <publisher>Edition Reichenberger</publisher>,
+          <date>2001</date>.
           <idno type="ISBN">3-935004-20-6</idno>
         </bibl>
       </sourceDesc>

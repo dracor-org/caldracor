@@ -39,11 +39,19 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/loa-en-metafora-de-la-piadosa-hermandad-del-refugio--0/html/</idno>
-          <bibl type="originalSource">
-            <title>Calderón de la Barca, Pedro, Loa en metáfora de la piadosa Hermandad del Refugio,
-              ed. Ignacio Arellano, Blanca Oteiza y Mª Carmen Pinillos, Pamplona–Kassel, Universidad
-              de Navarra–Reichenberger, 1998. ISBN: 3-931887-50-2.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Calderón de la Barca, Pedro</author>,
+          <title level="a">Loa en metáfora de la piadosa Hermandad del Refugio</title>,
+          <editor>Ignacio Arellano</editor>,
+          <editor>Blanca Oteiza</editor> y <editor>Mª Carmen Pinillos</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>,
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>1998</date>.
+          <idno type="ISBN">3-931887-50-2</idno>.
         </bibl>
       </sourceDesc>
     </fileDesc>

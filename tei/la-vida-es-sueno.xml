@@ -36,10 +36,17 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/la-vida-es-sueno--0/html/</idno>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de Evangelina Rodríguez Cuadros, Madrid,
-              Espasa-Calpe, 1997, 18ª ed.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la edición de</note>
+          <editor>Evangelina Rodríguez Cuadros</editor>,
+          <pubPlace>Madrid</pubPlace>,
+          <publisher>Espasa-Calpe</publisher>,
+          <date>1997</date>,
+          <edition>18ª ed.</edition>
         </bibl>
       </sourceDesc>
     </fileDesc>

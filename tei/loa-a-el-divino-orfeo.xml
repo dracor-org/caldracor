@@ -37,10 +37,18 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/loa-a-el-divino-orfeo--0/html/</idno>
-          <bibl type="originalSource">
-            <title> Edición digital a partir de la edición de E. Duarte, Pamplona, Universidad de
-              Navarra ; Kassel, Reichenberger, 1999.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la edición de</note>
+          <editor>E. Duarte</editor>,
+          <pubPlace>Pamplona</pubPlace>,
+          <publisher>Universidad de Navarra</publisher> ;
+          <pubPlace>Kassel</pubPlace>,
+          <publisher>Reichenberger</publisher>,
+          <date>1999</date>.
         </bibl>
       </sourceDesc>
     </fileDesc>

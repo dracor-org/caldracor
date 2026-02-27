@@ -38,11 +38,19 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="URL">http://www.comedias.org/calderon/manbla.html</bibl>
+        <bibl type="digitalSource">
+          <idno type="URL">http://www.comedias.org/calderon/manbla.html</idno>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
         <bibl type="originalSource">
-          <title>Texto basado en la edición de Juan Jorge Keil en su COMEDIAS DE D. PEDRO CALDERON
-            (Leipzig, 1830). Fue editado en forma electrónica en 1997 por David Hildner y luego
-            pasado al HTML para presentación en esta colección por Vern G. Williamsen.</title>
+          <note>Texto basado en la edición de</note>
+          <editor>Juan Jorge Keil</editor>
+          <note>en su</note>
+          <title level="m">COMEDIAS DE D. PEDRO CALDERON</title>
+          <note>(Leipzig, 1830)</note>.
+          <note>Fue editado en forma electrónica en 1997 por David Hildner y luego pasado al HTML para presentación en esta colección por Vern G. Williamsen.</note>
         </bibl>
       </sourceDesc>
     </fileDesc>

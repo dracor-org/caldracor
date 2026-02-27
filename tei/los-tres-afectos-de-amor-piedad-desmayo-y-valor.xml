@@ -40,18 +40,22 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="sourceText">
+        <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra/los-tres-afectos-de-amor-piedad-desmayo-y-valor/</idno>
-          <bibl type="originalSource">
-            <title>Edición digital a partir De los mejores el mejor, libro nueuo de comedias varias,
-              nunca impressas, compuestas por los mejores ingenios de España : parte treze ..., En
-              Madrid : por Mateo Fernandez ... : a costa de Francisco Serrano de Figueroa ..., 1660,
-              p. 230-275. La modernización de la ortografía, la acentuación y la puntuación se ha
-              realizado mediante el modelo de transcripción desarrollado por Álvaro Cuéllar,
-              “Spanish Golden Age Theatre Prints (Spelling Modernization) 1.0”. Transkribus,
-              2021.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de</note>
+          <title level="m">De los mejores el mejor, libro nueuo de comedias varias, nunca impressas, compuestas por los mejores ingenios de España : parte treze ...</title>,
+          <pubPlace>Madrid</pubPlace>:
+          <publisher>por Mateo Fernandez</publisher>
+          <note>... : a costa de Francisco Serrano de Figueroa ...</note>,
+          <date>1660</date>,
+          <biblScope unit="page" from="230" to="275">230-275</biblScope>.
+          <note>La modernización de la ortografía, la acentuación y la puntuación se ha realizado mediante el modelo de transcripción desarrollado por Álvaro Cuéllar, “Spanish Golden Age Theatre Prints (Spelling Modernization) 1.0”. Transkribus, 2021.</note>
         </bibl>
       </sourceDesc>
     </fileDesc>

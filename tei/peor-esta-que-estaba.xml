@@ -39,8 +39,14 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="originalSource">
-          <title>Pedro Calderón de la Barca, Peor está que estaba. En: Comedias, Vol. 1. Dirección
-            de Luis Iglesias Feijoo. Madrid : Fundación José Antonio de Castro, 2006</title>
+          <author>Pedro Calderón de la Barca</author>,
+          <title level="a">Peor está que estaba</title>. En:
+          <title level="s">Comedias</title>,
+          <biblScope unit="volume">1</biblScope>.
+          Dirección de <editor>Luis Iglesias Feijoo</editor>.
+          <pubPlace>Madrid</pubPlace>:
+          <publisher>Fundación José Antonio de Castro</publisher>,
+          <date>2006</date>.
           <idno type="ISBN">978-84-96452-28-2</idno>
         </bibl>
       </sourceDesc>

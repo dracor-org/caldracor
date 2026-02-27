@@ -38,14 +38,20 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="sourceText">
+        <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra/duelos-de-amor-y-lealtad/</idno>
-          <bibl type="originalSource">
-            <title>Incluido en un tomo pseudo-Vera Tassis de la Novena parte de Comedias de don
-              Pedro Calderón de la Barca, Madrid, Francisco Sanz, 1691. Localización: Biblioteca de
-              Menéndez Pelayo. Sig.: (2.102)-9 </title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Incluido en un tomo pseudo-Vera Tassis de la</note>
+          <title level="m">Novena parte de Comedias de don Pedro Calderón de la Barca</title>,
+          <pubPlace>Madrid</pubPlace>:
+          <publisher>Francisco Sanz</publisher>,
+          <date>1691</date>.
+          <note>Localización: Biblioteca de Menéndez Pelayo. Sig.: (2.102)-9</note>
         </bibl>
       </sourceDesc>
     </fileDesc>

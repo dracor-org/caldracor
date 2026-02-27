@@ -37,10 +37,19 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/la-segunda-esposa--0/html/</idno>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de V. García Ruiz, Pamplona, Universidad
-              de Navarra ; Kassel, Reichenberger, 1993. ISBN: 3-928064-48-7</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la edición de</note>
+          <editor>V. García Ruiz</editor>,
+          <pubPlace>Pamplona</pubPlace>,
+          <publisher>Universidad de Navarra</publisher> ;
+          <pubPlace>Kassel</pubPlace>,
+          <publisher>Reichenberger</publisher>,
+          <date>1993</date>.
+          <idno type="ISBN">3-928064-48-7</idno>
         </bibl>
       </sourceDesc>
     </fileDesc>

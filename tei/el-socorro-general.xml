@@ -37,11 +37,19 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/el-socorro-general--0/html/</idno>
-          <bibl type="originalSource">
-            <title>Texto crítico preparado por Ignacio Arellano procedente de la edición Calderón de
-              la Barca, Pedro, El socorro general, ed. Ignacio Are-llano, Pamplona–Kassel,
-              Universidad de Navarra–Reichenberger, 2001. ISBN: 3-935004-40-0.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Texto crítico preparado por Ignacio Arellano procedente de la edición</note>
+          <author>Calderón de la Barca, Pedro</author>,
+          <title level="a">El socorro general</title>,
+          <editor>Ignacio Arellano</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>,
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>2001</date>.
+          <idno type="ISBN">3-935004-40-0</idno>.
         </bibl>
       </sourceDesc>
     </fileDesc>

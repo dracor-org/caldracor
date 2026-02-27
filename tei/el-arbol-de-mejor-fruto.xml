@@ -37,10 +37,17 @@
         <bibl type="digitalSource">
           <name>DADUN Depositorio académico digital Universidad de Navarra</name>
           <idno type="URL">https://dadun.unav.edu/handle/10171/18220</idno>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de I. Arellano, Pamplona–Kassel,
-              Universidad de Navarra– Reichenberger, 2009. ISBN: 978-3-937734-65-1.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la edición de</note>
+          <editor>I. Arellano</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>:
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>2009</date>.
+          <idno type="ISBN">978-3-937734-65-1</idno>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -961,7 +968,8 @@
             <l>corónica inmortal de Dios eterno».</l>
           </sp>
           <stage>Desmáyase</stage>
-          <sp who="#ninfa-2 #eliud #candaces #iran #salomon #musicos #astrea #idolatria #hombre-1 #mujer-1 #hombre-2 #mujer-3 #hombre-3 #saba">
+          <sp
+            who="#ninfa-2 #eliud #candaces #iran #salomon #musicos #astrea #idolatria #hombre-1 #mujer-1 #hombre-2 #mujer-3 #hombre-3 #saba">
             <speaker>TODOS</speaker>
             <l>Desmayada ha quedado.</l>
           </sp>
@@ -971,7 +979,8 @@
             <l>que de cuantos adora</l>
             <l>toda la idolatría el que es ignora?</l>
           </sp>
-          <sp who="#ninfa-2 #eliud #candaces #iran #salomon #musicos #astrea #hombre-1 #mujer-1 #hombre-2 #mujer-3 #hombre-3 #saba #idolatria">
+          <sp
+            who="#ninfa-2 #eliud #candaces #iran #salomon #musicos #astrea #hombre-1 #mujer-1 #hombre-2 #mujer-3 #hombre-3 #saba #idolatria">
             <speaker>TODOS</speaker>
             <l>Una estatua es de hielo.</l>
           </sp>
@@ -984,7 +993,8 @@
             <speaker>IDOLATRÍA</speaker>
             <l part="M">¿Volvió?</l>
           </sp>
-          <sp who="#ninfa-2 #eliud #candaces #iran #salomon #musicos #astrea #hombre-1 #mujer-1 #hombre-2 #mujer-3 #hombre-3 #saba #idolatria">
+          <sp
+            who="#ninfa-2 #eliud #candaces #iran #salomon #musicos #astrea #hombre-1 #mujer-1 #hombre-2 #mujer-3 #hombre-3 #saba #idolatria">
             <speaker>TODOS</speaker>
             <l part="M">Sí.</l>
           </sp>
@@ -1098,7 +1108,8 @@
             <stage>Lee</stage>
             <l>“Cuando con él a juicio seáis llamados».</l>
           </sp>
-          <sp who="#ninfa-2 #eliud #candaces #iran #salomon #musicos #saba #mujer-3 #hombre-1 #astrea #hombre-2 #mujer-1 #hombre-3 #mujer-2 #idolatria">
+          <sp
+            who="#ninfa-2 #eliud #candaces #iran #salomon #musicos #saba #mujer-3 #hombre-1 #astrea #hombre-2 #mujer-1 #hombre-3 #mujer-2 #idolatria">
             <speaker>TODOS</speaker>
             <l>Nada hemos entendido.</l>
           </sp>
@@ -1106,7 +1117,8 @@
             <speaker>IDOLATRÍA</speaker>
             <l>Procuremos hallarle algún sentido.</l>
           </sp>
-          <sp who="#ninfa-2 #eliud #candaces #iran #salomon #musicos #saba #mujer-3 #hombre-1 #astrea #hombre-2 #mujer-1 #hombre-3 #mujer-2 #idolatria">
+          <sp
+            who="#ninfa-2 #eliud #candaces #iran #salomon #musicos #saba #mujer-3 #hombre-1 #astrea #hombre-2 #mujer-1 #hombre-3 #mujer-2 #idolatria">
             <speaker>TODOS</speaker>
             <l part="I">¿De qué suerte?</l>
           </sp>
@@ -1149,7 +1161,8 @@
             <speaker>IDOLATRÍA</speaker>
             <l>… cuando con él a juicio sean llamados».</l>
           </sp>
-          <sp who="#ninfa-2 #eliud #candaces #iran #salomon #musicos #saba #mujer-3 #hombre-3 #hombre-1 #hombre-2 #mujer-2 #mujer-1 #astrea #idolatria">
+          <sp
+            who="#ninfa-2 #eliud #candaces #iran #salomon #musicos #saba #mujer-3 #hombre-3 #hombre-1 #hombre-2 #mujer-2 #mujer-1 #astrea #idolatria">
             <speaker>TODOS</speaker>
             <l>Todavía en la duda nos quedamos.</l>
           </sp>
@@ -1169,7 +1182,8 @@
             <l>de su pasión, y dueños divertidos</l>
             <l>mandan y sienten verse obedecidos.</l>
           </sp>
-          <sp who="#ninfa-2 #eliud #candaces #iran #salomon #musicos #saba #mujer-3 #hombre-3 #hombre-1 #hombre-2 #mujer-2 #idolatria #mujer-1 #astrea">
+          <sp
+            who="#ninfa-2 #eliud #candaces #iran #salomon #musicos #saba #mujer-3 #hombre-3 #hombre-1 #hombre-2 #mujer-2 #idolatria #mujer-1 #astrea">
             <speaker>TODOS</speaker>
             <l>Pues en su busca vamos.</l>
           </sp>
@@ -1772,7 +1786,8 @@
             <l>Si no llegas, llegaré</l>
             <l n="900">yo. ¿Pero quién me detiene?</l>
           </sp>
-          <sp who="#ninfa-2 #salomon #musicos #mujer-3 #hombre-3 #hombre-1 #hombre-2 #mujer-2 #mujer-1 #acompanamiento #iran #astrea #saba #idolatria #eliud #candaces #pastor-1 #pastor-2">
+          <sp
+            who="#ninfa-2 #salomon #musicos #mujer-3 #hombre-3 #hombre-1 #hombre-2 #mujer-2 #mujer-1 #acompanamiento #iran #astrea #saba #idolatria #eliud #candaces #pastor-1 #pastor-2">
             <speaker>TODOS</speaker>
             <l>Y a todos, puesto que a todos</l>
             <l>postrados nos deja al verle.</l>
@@ -1804,7 +1819,8 @@
             <speaker>PASTOR 4.º</speaker>
             <l>Llega pues, su tronco hiere.</l>
           </sp>
-          <sp who="#ninfa-2 #salomon #musicos #mujer-3 #hombre-3 #hombre-1 #hombre-2 #mujer-2 #mujer-1 #acompanamiento #iran #astrea #saba #idolatria #eliud #candaces #pastor-1 #pastor-2 #pastor-3 #pastor-4">
+          <sp
+            who="#ninfa-2 #salomon #musicos #mujer-3 #hombre-3 #hombre-1 #hombre-2 #mujer-2 #mujer-1 #acompanamiento #iran #astrea #saba #idolatria #eliud #candaces #pastor-1 #pastor-2 #pastor-3 #pastor-4">
             <speaker>TODOS</speaker>
             <l>Mira. ¿Cómo, si es divino,</l>
             <l>al golpe no se defiende?</l>
@@ -1836,7 +1852,8 @@
             <speaker>PASTOR 2.º</speaker>
             <l>Su acaso nuestra ira enciende.</l>
           </sp>
-          <sp who="#ninfa-2 #salomon #musicos #mujer-3 #hombre-3 #hombre-1 #hombre-2 #mujer-2 #mujer-1 #acompanamiento #iran #astrea #saba #idolatria #eliud #pastor-3 #pastor-4 #candaces #pastor-1 #pastor-2">
+          <sp
+            who="#ninfa-2 #salomon #musicos #mujer-3 #hombre-3 #hombre-1 #hombre-2 #mujer-2 #mujer-1 #acompanamiento #iran #astrea #saba #idolatria #eliud #pastor-3 #pastor-4 #candaces #pastor-1 #pastor-2">
             <speaker>TODOS</speaker>
             <l>¡Déjanos llegar, Candaces!</l>
           </sp>
@@ -1862,7 +1879,8 @@
             <l n="940">no del gentil, él te ofende.</l>
           </sp>
           <stage>Terremoto</stage>
-          <sp who="#ninfa-2 #salomon #musicos #mujer-3 #hombre-3 #hombre-1 #hombre-2 #mujer-2 #mujer-1 #acompanamiento #iran #astrea #saba #idolatria #eliud #pastor-3 #pastor-4 #pastor-1 #pastor-2 #candaces">
+          <sp
+            who="#ninfa-2 #salomon #musicos #mujer-3 #hombre-3 #hombre-1 #hombre-2 #mujer-2 #mujer-1 #acompanamiento #iran #astrea #saba #idolatria #eliud #pastor-3 #pastor-4 #pastor-1 #pastor-2 #candaces">
             <speaker>TODOS</speaker>
             <l>Ya su tronco el suelo mide.</l>
           </sp>
@@ -1926,7 +1944,8 @@
             <speaker>CANDACES</speaker>
             <l part="I">Ciprés es.</l>
           </sp>
-          <sp who="#ninfa-2 #salomon #musicos #mujer-3 #hombre-3 #hombre-1 #hombre-2 #mujer-2 #mujer-1 #acompanamiento #iran #astrea #saba #idolatria #eliud #pastor-4 #pastor-1 #pastor-2 #pastor-3 #candaces">
+          <sp
+            who="#ninfa-2 #salomon #musicos #mujer-3 #hombre-3 #hombre-1 #hombre-2 #mujer-2 #mujer-1 #acompanamiento #iran #astrea #saba #idolatria #eliud #pastor-4 #pastor-1 #pastor-2 #pastor-3 #candaces">
             <speaker>TODOS</speaker>
             <l part="F">¿Qué enigma es este?</l>
           </sp>
@@ -1957,7 +1976,8 @@
             <l>donde prodigioso quede</l>
             <l>en el templo colocado.</l>
           </sp>
-          <sp who="#ninfa-2 #salomon #musicos #mujer-3 #hombre-3 #hombre-1 #hombre-2 #mujer-2 #mujer-1 #acompanamiento #iran #astrea #saba #idolatria #eliud #pastor-4 #pastor-2 #pastor-3 #candaces #pastor-1">
+          <sp
+            who="#ninfa-2 #salomon #musicos #mujer-3 #hombre-3 #hombre-1 #hombre-2 #mujer-2 #mujer-1 #acompanamiento #iran #astrea #saba #idolatria #eliud #pastor-4 #pastor-2 #pastor-3 #candaces #pastor-1">
             <speaker>TODOS</speaker>
             <l part="I">¡Vaya al mar!</l>
           </sp>
@@ -2209,7 +2229,8 @@
             <l>Si no lo crees escucha los extremos</l>
             <l n="1135">con que la aclamación dice festiva:</l>
           </sp>
-          <sp who="#ninfa-2 #musicos #mujer-3 #hombre-3 #hombre-1 #hombre-2 #mujer-2 #mujer-1 #acompanamiento #astrea #saba #pastor-4 #idolatria #eliud #iran #salomon #candaces #pastor-1 #pastor-2 #pastor-3">
+          <sp
+            who="#ninfa-2 #musicos #mujer-3 #hombre-3 #hombre-1 #hombre-2 #mujer-2 #mujer-1 #acompanamiento #astrea #saba #pastor-4 #idolatria #eliud #iran #salomon #candaces #pastor-1 #pastor-2 #pastor-3">
             <speaker>TODOS</speaker>
             <stage>Dentro</stage>
             <l>¡La hermosa reina del oriente viva!</l>
@@ -2250,7 +2271,8 @@
             <l n="1150">Todos entre unos y otros nos mezclemos,</l>
             <l>suene con ellos nuestra voz altiva.</l>
           </sp>
-          <sp who="#ninfa-2 #musicos #mujer-3 #hombre-3 #hombre-1 #hombre-2 #mujer-2 #mujer-1 #acompanamiento #astrea #saba #idolatria #eliud #iran #salomon #candaces #pastor-1 #pastor-3 #pastor-4 #pastor-2">
+          <sp
+            who="#ninfa-2 #musicos #mujer-3 #hombre-3 #hombre-1 #hombre-2 #mujer-2 #mujer-1 #acompanamiento #astrea #saba #idolatria #eliud #iran #salomon #candaces #pastor-1 #pastor-3 #pastor-4 #pastor-2">
             <speaker>TODOS</speaker>
             <l>¡La hermosa reina del oriente viva!</l>
           </sp>
@@ -2553,7 +2575,8 @@
         </div>
         <div type="scene" resp="#rojas" n="25">
           <stage>Vuelven todos como entraron</stage>
-          <sp who="#ninfa-2 #mujer-3 #hombre-3 #hombre-1 #hombre-2 #mujer-2 #mujer-1 #acompanamiento #astrea #iran #candaces #pastor-3 #pastor-4 #pastor-1 #pastor-2 #salomon #saba #musicos #eliud #idolatria">
+          <sp
+            who="#ninfa-2 #mujer-3 #hombre-3 #hombre-1 #hombre-2 #mujer-2 #mujer-1 #acompanamiento #astrea #iran #candaces #pastor-3 #pastor-4 #pastor-1 #pastor-2 #salomon #saba #musicos #eliud #idolatria">
             <speaker>TODOS</speaker>
             <l>Morena soy pero hermosa,</l>
             <l n="1320">hijas de Jerusalén;</l>
@@ -3261,7 +3284,8 @@
             <speaker>ASTREA</speaker>
             <l>Y yo a mis admiraciones.</l>
           </sp>
-          <sp who="#ninfa-2 #mujer-3 #hombre-3 #hombre-1 #hombre-2 #mujer-2 #mujer-1 #acompanamiento #pastor-3 #pastor-4 #pastor-1 #pastor-2 #eliud #iran #candaces #musicos #saba #salomon #idolatria #astrea">
+          <sp
+            who="#ninfa-2 #mujer-3 #hombre-3 #hombre-1 #hombre-2 #mujer-2 #mujer-1 #acompanamiento #pastor-3 #pastor-4 #pastor-1 #pastor-2 #eliud #iran #candaces #musicos #saba #salomon #idolatria #astrea">
             <speaker>TODOS</speaker>
             <l>Y nosotros al festejo.</l>
           </sp>
@@ -3548,7 +3572,8 @@
             <l>el que espero ver triunfando</l>
             <l>ya que le vi padeciendo.</l>
           </sp>
-          <sp who="#ninfa-2 #mujer-3 #hombre-3 #hombre-1 #hombre-2 #mujer-2 #mujer-1 #acompanamiento #pastor-3 #pastor-4 #pastor-1 #pastor-2 #eliud #iran #candaces #musicos #astrea #idolatria #salomon #saba">
+          <sp
+            who="#ninfa-2 #mujer-3 #hombre-3 #hombre-1 #hombre-2 #mujer-2 #mujer-1 #acompanamiento #pastor-3 #pastor-4 #pastor-1 #pastor-2 #eliud #iran #candaces #musicos #astrea #idolatria #salomon #saba">
             <speaker>TODOS</speaker>
             <l>Pues, ¿de qué sabes que es él?</l>
           </sp>

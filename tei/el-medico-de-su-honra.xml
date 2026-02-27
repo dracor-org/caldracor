@@ -37,11 +37,13 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/el-medico-de-su-honra--comedia-famosa/html/</idno>
-          <bibl type="originalSource">
-            <title>Edición a cargo de Santiago Fernández Mosquera. Grupo de investigación Calderón
-              de la Barca. Esta obra pertenece a la Colección Teatro clásico español. Canon 60. La
-              colección esencial del TC/12. Grupo de investigación Calderón </title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <editor>Santiago Fernández Mosquera</editor>.
+          <note>Grupo de investigación Calderón de la Barca. Esta obra pertenece a la Colección Teatro clásico español. Canon 60. La colección esencial del TC/12. Grupo de investigación Calderón.</note>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -205,7 +207,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/cal000018" passive="http://www.wikidata.org/entity/Q5352475"/>
+      <relation name="wikidata" active="https://dracor.org/entity/cal000018"
+        passive="http://www.wikidata.org/entity/Q5352475"/>
     </listRelation>
   </standOff>
   <text xml:lang="es">

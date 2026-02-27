@@ -37,12 +37,19 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/el-indulto-general--0/html/</idno>
-          <bibl type="originalSource">
-            <title>Texto crítico preparado por Ignacio Arellano y Juan Manuel Escudero procedente de
-              la edición Calderón de la Barca, Pedro, El indulto general , ed. Ignacio Arellano y
-              Juan Manuel Escudero, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 1996.
-              ISBN: 3-930700-64-6.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Calderón de la Barca, Pedro</author>,
+          <title level="a">El indulto general</title>,
+          <editor>Ignacio Arellano</editor> y <editor>Juan Manuel Escudero</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>:
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>1996</date>.
+          <idno type="ISBN">3-930700-64-6</idno>
+          <note>Texto crítico preparado por Ignacio Arellano y Juan Manuel Escudero procedente de la edición indicada.</note>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -3481,7 +3488,8 @@
             <l>y ella de triunfante oliva,</l>
             <l>reine, goce, triunfe y viva.</l>
           </sp>
-          <sp who="#música #culpa #ángel #justicia #misericordia #gestas #dimas #esposa #mundo #abraham #david #adán">
+          <sp
+            who="#música #culpa #ángel #justicia #misericordia #gestas #dimas #esposa #mundo #abraham #david #adán">
             <speaker>MÚSICA y TODOS</speaker>
             <l n="1775">El príncipe, que deseado</l>
             <l>del cielo por apellido,</l>

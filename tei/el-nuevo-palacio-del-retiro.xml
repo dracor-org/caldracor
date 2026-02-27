@@ -37,10 +37,17 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra/el-nuevo-palacio-del-retiro--0/</idno>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de Alan K.G. Paterson, Pamplona–Kassel,
-              Universidad de Navarra– Reichenberger, 1998. ISBN: 3-931887-31-6.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la edición de</note>
+          <editor>Alan K.G. Paterson</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>:
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>1998</date>.
+          <idno type="ISBN">3-931887-31-6</idno>
         </bibl>
       </sourceDesc>
     </fileDesc>

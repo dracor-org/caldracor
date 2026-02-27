@@ -37,11 +37,17 @@
         <bibl type="digitalSource">
           <name>DADUN Depositorio académico digital Universidad de Navarra</name>
           <idno type="URL">https://dadun.unav.edu/handle/10171/18204</idno>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de Ignacio Arellano y Miguel Zugasti,
-              Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2004. ISBN:
-              3-935004-86-9.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la edición de</note>
+          <editor>Ignacio Arellano</editor> y <editor>Miguel Zugasti</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>:
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>2004</date>.
+          <idno type="ISBN">3-935004-86-9</idno>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -1188,7 +1194,8 @@
             <l>de que en la suma asistencia</l>
             <l>de su culto no habrá falta.</l>
           </sp>
-          <sp who="#acompanamiento #coro-1 #coro-2 #musicos #pensamiento #ingenio #adan #idolatria #tiempo #ley-natural">
+          <sp
+            who="#acompanamiento #coro-1 #coro-2 #musicos #pensamiento #ingenio #adan #idolatria #tiempo #ley-natural">
             <speaker>TODOS</speaker>
             <l n="605">Así todos lo ofrecemos.</l>
           </sp>
@@ -1258,7 +1265,8 @@
         </div>
         <div type="scene" resp="#rojas" n="7">
           <stage>(Vase)</stage>
-          <sp who="#musicos #acompanamiento #coro-1 #coro-2 #pensamiento #ingenio #tiempo #idolatria #adan #ley-natural">
+          <sp
+            who="#musicos #acompanamiento #coro-1 #coro-2 #pensamiento #ingenio #tiempo #idolatria #adan #ley-natural">
             <speaker>MÚSICA Y TODOS</speaker>
             <l>Venid, venid, que ya viene el día;</l>
             <l>venid, venid, que ya viene el alba.</l>
@@ -1480,7 +1488,8 @@
             <l>Vamos, pues, y sea diciendo</l>
             <l>a los que de venir tardan...</l>
           </sp>
-          <sp who="#acompanamiento #coro-1 #coro-2 #idolatria #adan #ley-natural #musicos #pensamiento #ingenio #hebraismo #tiempo #moises #ley-escrita">
+          <sp
+            who="#acompanamiento #coro-1 #coro-2 #idolatria #adan #ley-natural #musicos #pensamiento #ingenio #hebraismo #tiempo #moises #ley-escrita">
             <speaker>TODOS Y MÚSICA</speaker>
             <stage>Repiten y vanse</stage>
             <l>Mortales hijos de Adán,</l>
@@ -1815,7 +1824,8 @@
             <l>¿Ya no lo has visto?: en que todos</l>
             <l>distantes y unidos cantan...</l>
           </sp>
-          <sp who="#musicos #acompanamiento #coro-1 #coro-2 #idolatria #adan #ley-natural #moises #ley-escrita #hebraismo #apostasia #ley-de-gracia #tiempo #ingenio #pensamiento">
+          <sp
+            who="#musicos #acompanamiento #coro-1 #coro-2 #idolatria #adan #ley-natural #moises #ley-escrita #hebraismo #apostasia #ley-de-gracia #tiempo #ingenio #pensamiento">
             <speaker>MÚSICA Y TODOS</speaker>
             <l>Mortales hijos de Adán,</l>
             <l n="925">venid, venid, que se labra</l>
@@ -2174,7 +2184,8 @@
             <l n="1135">por si a mí me es posible que algo entienda</l>
             <l part="I">de su salutación…</l>
           </sp>
-          <sp who="#acompanamiento #coro-1 #coro-2 #idolatria #ley-natural #apostasia #ley-de-gracia #tiempo #ingenio #pensamiento #musicos #adan #moises #hebraismo #ley-escrita #noche">
+          <sp
+            who="#acompanamiento #coro-1 #coro-2 #idolatria #ley-natural #apostasia #ley-de-gracia #tiempo #ingenio #pensamiento #musicos #adan #moises #hebraismo #ley-escrita #noche">
             <speaker>TODOS</speaker>
             <l part="F">Ave fecunda,</l>
             <l>heredad sin primera ni segunda.</l>
@@ -2191,7 +2202,8 @@
             <l>son en el eco angélicas las voces</l>
             <l>cuyo lejano acento en mi oído suena.</l>
           </sp>
-          <sp who="#acompanamiento #coro-1 #coro-2 #idolatria #ley-natural #apostasia #ley-de-gracia #tiempo #ingenio #pensamiento #adan #moises #hebraismo #ley-escrita #musicos #noche">
+          <sp
+            who="#acompanamiento #coro-1 #coro-2 #idolatria #ley-natural #apostasia #ley-de-gracia #tiempo #ingenio #pensamiento #adan #moises #hebraismo #ley-escrita #musicos #noche">
             <speaker>TODOS</speaker>
             <l>Ave, hermosa heredad de gracia llena.</l>
           </sp>
@@ -2199,7 +2211,8 @@
             <speaker>MÚSICA</speaker>
             <l>De gracia llena.</l>
           </sp>
-          <sp who="#acompanamiento #coro-1 #coro-2 #idolatria #ley-natural #apostasia #ley-de-gracia #tiempo #ingenio #pensamiento #adan #moises #hebraismo #ley-escrita #noche #musicos">
+          <sp
+            who="#acompanamiento #coro-1 #coro-2 #idolatria #ley-natural #apostasia #ley-de-gracia #tiempo #ingenio #pensamiento #adan #moises #hebraismo #ley-escrita #noche #musicos">
             <speaker>TODOS</speaker>
             <l n="1145">Ave, heredad de tan colmado trigo</l>
             <l>que el Señor es con él y Él es contigo.</l>
@@ -2208,7 +2221,8 @@
             <speaker>MÚSICA</speaker>
             <l>El Señor es contigo.</l>
           </sp>
-          <sp who="#acompanamiento #coro-1 #coro-2 #idolatria #ley-natural #apostasia #ley-de-gracia #tiempo #ingenio #pensamiento #adan #moises #hebraismo #ley-escrita #noche #musicos">
+          <sp
+            who="#acompanamiento #coro-1 #coro-2 #idolatria #ley-natural #apostasia #ley-de-gracia #tiempo #ingenio #pensamiento #adan #moises #hebraismo #ley-escrita #noche #musicos">
             <speaker>TODOS</speaker>
             <l>Ave, heredad paraíso de placeres,</l>
             <l>pues entre todas, Tú bendita eres.</l>
@@ -2217,7 +2231,8 @@
             <speaker>MÚSICA</speaker>
             <l n="1150">Bendita eres.</l>
           </sp>
-          <sp who="#acompanamiento #coro-1 #coro-2 #idolatria #ley-natural #apostasia #ley-de-gracia #tiempo #ingenio #pensamiento #adan #moises #hebraismo #ley-escrita #noche #musicos">
+          <sp
+            who="#acompanamiento #coro-1 #coro-2 #idolatria #ley-natural #apostasia #ley-de-gracia #tiempo #ingenio #pensamiento #adan #moises #hebraismo #ley-escrita #noche #musicos">
             <speaker>TODOS</speaker>
             <l>Ave, heredad que exempta del tributo</l>
             <l>has de dar a Israel bendito el fruto...</l>
@@ -2226,7 +2241,8 @@
             <speaker>MÚSICA</speaker>
             <l>Bendito el fruto.</l>
           </sp>
-          <sp who="#acompanamiento #coro-1 #coro-2 #idolatria #ley-natural #apostasia #ley-de-gracia #tiempo #ingenio #pensamiento #adan #moises #hebraismo #ley-escrita #noche #musicos">
+          <sp
+            who="#acompanamiento #coro-1 #coro-2 #idolatria #ley-natural #apostasia #ley-de-gracia #tiempo #ingenio #pensamiento #adan #moises #hebraismo #ley-escrita #noche #musicos">
             <speaker>TODOS</speaker>
             <l>Con que ha de enriquecer de sus montañas</l>
             <l part="I">el tesoro feliz.</l>
@@ -2763,7 +2779,8 @@
         <div type="scene" resp="#rojas" n="22">
           <stage>Con esta repetición se van los cuatro y salen el Ingenio, el Tiempo y el
             Pensamiento, cada uno por su puerta, suspensos, repitiendo la Música.</stage>
-          <sp who="#acompanamiento #coro-1 #coro-2 #ley-natural #tiempo #ingenio #pensamiento #adan #moises #ley-escrita #ley-de-gracia #noche #hebraismo #apostasia #idolatria #musicos">
+          <sp
+            who="#acompanamiento #coro-1 #coro-2 #ley-natural #tiempo #ingenio #pensamiento #adan #moises #ley-escrita #ley-de-gracia #noche #hebraismo #apostasia #idolatria #musicos">
             <speaker>TODOS</speaker>
             <l>¡Gloria a Dios en las alturas</l>
             <l>y paz al hombre en la tierra!</l>
@@ -3207,7 +3224,8 @@
             <l>su corazón vigilante.</l>
           </sp>
           <stage>Ábrese un carro y está en él un zagal que hace a Cristo</stage>
-          <sp who="#acompanamiento #coro-1 #coro-2 #adan #moises #tiempo #ingenio #pensamiento #corro-grande #musicos #gracia #noche #ley-natural #hebraismo #apostasia #idolatria #ley-escrita #ley-de-gracia">
+          <sp
+            who="#acompanamiento #coro-1 #coro-2 #adan #moises #tiempo #ingenio #pensamiento #corro-grande #musicos #gracia #noche #ley-natural #hebraismo #apostasia #idolatria #ley-escrita #ley-de-gracia">
             <speaker>TODOS</speaker>
             <l part="I">¿A qué efecto?</l>
           </sp>
@@ -4448,7 +4466,8 @@
             <speaker>PENSAMIENTO</speaker>
             <l>A mí mucho que pensar.</l>
           </sp>
-          <sp who="#acompanamiento #coro-1 #coro-2 #corro-grande #gracia #apostasia #adan #ley-natural #angel #nina #idolatria #ley-escrita #musicos #moises #ley-de-gracia #zagal #tiempo #ingenio #noche #hebraismo #pensamiento">
+          <sp
+            who="#acompanamiento #coro-1 #coro-2 #corro-grande #gracia #apostasia #adan #ley-natural #angel #nina #idolatria #ley-escrita #musicos #moises #ley-de-gracia #zagal #tiempo #ingenio #noche #hebraismo #pensamiento">
             <speaker>TODOS</speaker>
             <l>Y a todos que agradecer.</l>
           </sp>
@@ -4459,7 +4478,8 @@
             <l>del real auditorio</l>
             <l>una y otra vez:</l>
           </sp>
-          <sp who="#musicos #acompanamiento #coro-1 #coro-2 #corro-grande #gracia #apostasia #adan #ley-natural #angel #nina #idolatria #ley-escrita #moises #ley-de-gracia #zagal #ingenio #noche #hebraismo #pensamiento #tiempo">
+          <sp
+            who="#musicos #acompanamiento #coro-1 #coro-2 #corro-grande #gracia #apostasia #adan #ley-natural #angel #nina #idolatria #ley-escrita #moises #ley-de-gracia #zagal #ingenio #noche #hebraismo #pensamiento #tiempo">
             <speaker>MÚSICA Y TODOS</speaker>
             <l>¡Venid, mortales, venid!</l>
             <l>¡Venid, venid y veréis</l>

@@ -34,13 +34,14 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digitalSource">
-          <name/>
-          <idno type="URL"/>
-          <bibl type="originalSource">
-            <title> Edición digital a partir de la edición de José M. Ruano de la Haza, Kassel,
-              Reichenberger, 1982. </title>
-          </bibl>
+        <bibl type="originalSource">
+          Edición digital a partir de la edición de
+          <author>Pedro Calderón de la Barca</author>,
+          <title level="a">Cada uno para sí</title>,
+          ed. <editor>José M. Ruano de la Haza</editor>,
+          <pubPlace>Kassel</pubPlace>:
+          <publisher>Reichenberger</publisher>,
+          <date>1982</date>.
         </bibl>
       </sourceDesc>
     </fileDesc>

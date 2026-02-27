@@ -42,8 +42,11 @@
           <idno type="URL"/>
         </bibl>
         <bibl type="originalSource">
-          <title>Edición digital a partir de la edición de Erik Coenen, Kassel, Reichenberger,
-            2011.</title>
+          <note>Edición digital a partir de la edición de</note>
+          <editor>Erik Coenen</editor>,
+          <pubPlace>Kassel</pubPlace>,
+          <publisher>Reichenberger</publisher>,
+          <date>2011</date>.
         </bibl>
       </sourceDesc>
     </fileDesc>

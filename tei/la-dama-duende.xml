@@ -37,11 +37,13 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/la-dama-duende-comedia-famosa/html/</idno>
-          <bibl type="originalSource">
-            <title>Edición de Luis Iglesias Feijoo. Esta obra pertenece a la Colección Teatro
-              clásico español. Canon 60. La colección esencial del TC/12. Grupo de investigación
-              Calderón</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <editor>Luis Iglesias Feijoo</editor>.
+          <note>Esta obra pertenece a la Colección Teatro clásico español. Canon 60. La colección esencial del TC/12. Grupo de investigación Calderón</note>
         </bibl>
       </sourceDesc>
     </fileDesc>

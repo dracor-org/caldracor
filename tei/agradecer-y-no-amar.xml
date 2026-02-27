@@ -40,9 +40,14 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="originalSource">
-          <title>Pedro Calderón de la Barca, Agradecer y no amar. En: Comedias, Vol. 5. Dirección de
-            Luis Iglesias Feijoo y José María Ruano de la Haza. Madrid : Fundación José Antonio de
-            Castro, 2010</title>
+          <author>Pedro Calderón de la Barca</author>,
+          <title level="a">Agradecer y no amar</title>. En:
+          <title level="s">Comedias</title>,
+          <biblScope unit="volume">5</biblScope>.
+          Dirección de <editor>Luis Iglesias Feijoo</editor> y <editor>José María Ruano de la Haza</editor>.
+          <pubPlace>Madrid</pubPlace>:
+          <publisher>Fundación José Antonio de Castro</publisher>,
+          <date>2010</date>.
           <idno type="ISBN">978-84-96452-94-7</idno>
         </bibl>
       </sourceDesc>

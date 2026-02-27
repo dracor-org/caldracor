@@ -31,15 +31,19 @@
         <idno type="quadramaX">El príncipe constante</idno>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="sourceText">
+        <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
-          <idno type="URL">http://www.cervantesvirtual.com/obra-visor/el-principe-constante-comedia-famosa/html/</idno>
-          <bibl type="originalSource">
-            <title>Esta obra pertenece a la Colección Teatro clásico español. Canon 60. Edición a
-              cargo de Luis Iglesias Feijoo. La colección esencial del TC/12. Grupo de investigación
-              Calderón de la Barca. Texto base: Primera Parte de Comedias de don Pedro Calderón de
-              la Barca. Madrid, 1636 (QCL)</title>
-          </bibl>
+          <idno type="URL"
+            >http://www.cervantesvirtual.com/obra-visor/el-principe-constante-comedia-famosa/html/</idno>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource"> Texto base: <title level="m">Primera Parte de Comedias de don
+            Pedro Calderón de la Barca</title>. <pubPlace>Madrid</pubPlace>, <date>1636</date>.
+            <note>Esta obra pertenece a la Colección Teatro clásico español. Canon 60. Edición a
+            cargo de Luis Iglesias Feijoo. La colección esencial del TC/12. Grupo de investigación
+            Calderón de la Barca. (QCL)</note>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -228,7 +232,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/cal000098" passive="http://www.wikidata.org/entity/Q4442767"/>
+      <relation name="wikidata" active="https://dracor.org/entity/cal000098"
+        passive="http://www.wikidata.org/entity/Q4442767"/>
     </listRelation>
   </standOff>
   <text xml:lang="es">

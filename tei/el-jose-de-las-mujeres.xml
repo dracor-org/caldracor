@@ -39,10 +39,11 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="originalSource">
-          <title>Pedro Calderón de la Barca, El José de las mujeres. En: Comedias, Vol. 6. Dirección
-            de Luis Iglesias Feijoo y José María Viña Liste. Madrid : Fundación José Antonio de
-            Castro, 2010</title>
-          <idno type="ISBN">978-84-96452-96-1</idno>
+          <author>Pedro Calderón de la Barca</author>, <title level="a">El José de las
+            mujeres</title>. En: <title level="s">Comedias</title>, <biblScope unit="volume"
+            >6</biblScope>. Dirección de <editor>Luis Iglesias Feijoo</editor> y <editor>José María
+            Viña Liste</editor>. <pubPlace>Madrid</pubPlace>: <publisher>Fundación José Antonio de
+            Castro</publisher>, <date>2010</date>. <idno type="ISBN">978-84-96452-96-1</idno>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -202,7 +203,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/cal000089" passive="http://www.wikidata.org/entity/Q5399636"/>
+      <relation name="wikidata" active="https://dracor.org/entity/cal000089"
+        passive="http://www.wikidata.org/entity/Q5399636"/>
     </listRelation>
   </standOff>
   <text xml:lang="es">

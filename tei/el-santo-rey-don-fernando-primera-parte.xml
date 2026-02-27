@@ -37,13 +37,21 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/el-santo-rey-don-fernando-primera-parte--0/html/</idno>
-          <bibl type="originalSource">
-            <title>Texto crítico preparado por Ignacio Arellano, Juan Manuel Escudero y Mª Carmen
-              Pinillos procedente de la edición Calderón de la Barca, Pedro, El santo rey don
-              Fernando (primera parte), ed. Ignacio Arellano, Juan Manuel Escudero y Mª Carmen
-              Pinillos, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 1999. ISBN:
-              3-931887-69-3.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Texto crítico preparado por Ignacio Arellano, Juan Manuel Escudero y Mª Carmen Pinillos procedente de la edición</note>
+          <author>Calderón de la Barca, Pedro</author>,
+          <title level="a">El santo rey don Fernando (primera parte)</title>,
+          <editor>Ignacio Arellano</editor>,
+          <editor>Juan Manuel Escudero</editor> y
+          <editor>Mª Carmen Pinillos</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>,
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>1999</date>.
+          <idno type="ISBN">3-931887-69-3</idno>.
         </bibl>
       </sourceDesc>
     </fileDesc>

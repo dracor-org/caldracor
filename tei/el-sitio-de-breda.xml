@@ -41,12 +41,18 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/el-sitio-de-breda--2/html/</idno>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la Primera parte de Comedias de don Pedro Calderón de
-              la Barca, Madrid, Por la viuda de Juan Sánchez, a costa de Gabriel de León, 1640.
-              Localización: Base de Datos Teatro Español del Siglo de Oro (TESO). Autorizada por
-              Evangelina Rodríguez Cuadros.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la</note>
+          <title level="m">Primera parte de Comedias de don Pedro Calderón de la Barca</title>,
+          <pubPlace>Madrid</pubPlace>,
+          <publisher>Por la viuda de Juan Sánchez</publisher>,
+          <note>a costa de Gabriel de León</note>,
+          <date>1640</date>.
+          <note>Localización: Base de Datos Teatro Español del Siglo de Oro (TESO). Autorizada por Evangelina Rodríguez Cuadros.</note>
         </bibl>
       </sourceDesc>
     </fileDesc>

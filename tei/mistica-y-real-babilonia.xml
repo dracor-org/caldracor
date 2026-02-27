@@ -37,11 +37,17 @@
         <bibl type="digitalSource">
           <name>DADUN Depositorio académico digital Universidad de Navarra</name>
           <idno type="URL">https://dadun.unav.edu/handle/10171/19078</idno>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de F. Gilbert y K. Uppendahl,
-              Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2011. ISBN:
-              978-3-937734-87-3.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la edición de</note>
+          <editor>F. Gilbert</editor> y <editor>K. Uppendahl</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>,
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>2011</date>.
+          <idno type="ISBN">978-3-937734-87-3</idno>.
         </bibl>
       </sourceDesc>
     </fileDesc>

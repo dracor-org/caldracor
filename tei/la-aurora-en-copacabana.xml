@@ -37,12 +37,18 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/la-aurora-en-copacabana--0/html/</idno>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de Cuarta parte de Comedias de Don Pedro Calderón de la
-              Barca, Madrid, Por Bernardo de Hervada. A costa de Antonio de la Fuente, 1674.
-              Localización: Base de Datos Teatro Español del Siglo de Oro (TESO). Autorizada por
-              Evangelina Rodríguez Cuadros</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de</note>
+          <title level="m">Cuarta parte de Comedias de Don Pedro Calderón de la Barca</title>,
+          <pubPlace>Madrid</pubPlace>,
+          <publisher>Por Bernardo de Hervada</publisher>.
+          <note>A costa de Antonio de la Fuente</note>,
+          <date>1674</date>.
+          <note>Localización: Base de Datos Teatro Español del Siglo de Oro (TESO). Autorizada por Evangelina Rodríguez Cuadros</note>
         </bibl>
       </sourceDesc>
     </fileDesc>

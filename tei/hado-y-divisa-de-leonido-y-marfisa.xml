@@ -36,10 +36,16 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="originalSource">
-          <title>Pedro Calderón de la Barca, Hado y divisa de Leonido y Marfisa. Edición crítica de
-            José María Ruano de la Haza. En: Comedias, Vol. 5. Dirección de Luis Iglesias Feijoo y
-            José María Ruano de la Haza. Madrid : Fundación José Antonio de Castro, 2010, pp.
-            85-231.</title>
+          <author>Pedro Calderón de la Barca</author>,
+          <title level="a">Hado y divisa de Leonido y Marfisa</title>.
+          Edición crítica de <editor>José María Ruano de la Haza</editor>. En:
+          <title level="s">Comedias</title>,
+          <biblScope unit="volume">5</biblScope>.
+          Dirección de <editor>Luis Iglesias Feijoo</editor> y <editor>José María Ruano de la Haza</editor>.
+          <pubPlace>Madrid</pubPlace>:
+          <publisher>Fundación José Antonio de Castro</publisher>,
+          <date>2010</date>,
+          <biblScope unit="page" from="85" to="231">85-231</biblScope>.
           <idno type="ISBN">978-84-96452-94-7</idno>
         </bibl>
       </sourceDesc>

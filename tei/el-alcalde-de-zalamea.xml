@@ -31,15 +31,21 @@
         <idno type="quadramaX">El alcalde de Zalamea</idno>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="sourceText">
+        <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/el-alcalde-de-zalamea-0/html/</idno>
-          <bibl type="originalSource">
-            <title>Texto base: Comedia famosa / El alcalde de Zalamea, en El mejor de los mejores
-              libros que ha salido de comedias, impreso en Alcalá de Henares por María Fernández en
-              1651. Edición a cargo de Ignacio Arellano. Grupo de investigación GRISO. Proyecto
-              TC/12.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Texto base:</note>
+          <title level="a">Comedia famosa / El alcalde de Zalamea</title>, en
+          <title level="m">El mejor de los mejores libros que ha salido de comedias</title>,
+          <pubPlace>Alcalá de Henares</pubPlace>:
+          <publisher>María Fernández</publisher>,
+          <date>1651</date>.
+          <note>Edición a cargo de Ignacio Arellano. Grupo de investigación GRISO. Proyecto TC/12.</note>
         </bibl>
       </sourceDesc>
     </fileDesc>

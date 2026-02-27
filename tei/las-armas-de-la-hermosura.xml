@@ -38,14 +38,19 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="sourceText">
+        <bibl type="digitalSource">
           <name>Association for Hispanic Classical Theater</name>
           <idno type="URL">http://www.comedias.org/calderon/armas.pdf</idno>
-          <bibl type="originalSource">
-            <title>El texto electrónico, preparado y anotado por David Hildner, proviene de la
-              edición de las Comedias de don Pedro Calderón de la Barca, ed. Juan Jorge Keil
-              (Leipzig, 1830), tomo IV.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>El texto electrónico, preparado y anotado por David Hildner, proviene de la edición de</note>
+          <title level="m">las Comedias de don Pedro Calderón de la Barca</title>,
+          <editor>Juan Jorge Keil</editor>
+          <note>(Leipzig, 1830)</note>,
+          <biblScope unit="volume">IV</biblScope>.
         </bibl>
       </sourceDesc>
     </fileDesc>

@@ -39,10 +39,15 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="originalSource">
-          <title>Pedro Calderón de la Barca, La banda y la flor. Edición crítica de Jéssica Castro
-            Rivas. Biblioteca Áurea Hispánica. Dirección de Ignacio Arellano. Universidad de Navarra
-            / Iberoamericana / Vervuert 2016 Biblioteca Áurea Hispánica 105, Comedias completas de
-            Calderón 14</title>
+          <author>Pedro Calderón de la Barca</author>,
+          <title level="a">La banda y la flor</title>.
+          Edición crítica de <editor>Jéssica Castro Rivas</editor>.
+          <title level="s">Biblioteca Áurea Hispánica</title>.
+          Dirección de <editor>Ignacio Arellano</editor>.
+          <publisher>Universidad de Navarra</publisher> / <publisher>Iberoamericana</publisher> / <publisher>Vervuert</publisher>,
+          <date>2016</date>.
+          <biblScope unit="volume">105</biblScope>,
+          <note>Comedias completas de Calderón 14</note>
           <idno type="URL">https://doi.org/10.31819/9783954878697</idno>
         </bibl>
       </sourceDesc>

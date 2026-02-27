@@ -38,17 +38,21 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="sourceText">
+        <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/descargaPdf/la-senora-y-la-criada-2/</idno>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la Primavera numerosa de muchas armonias luzientes,
-              en doce comedias fragantes : parte quarenta y seis..., En Madrid : a costa de
-              Francisco Sanz impressor..., 1679, h. 128v-149r. La modernización de la ortografía, la
-              acentuación y la puntuación se ha realizado mediante el modelo de transcripción
-              desarrollado por Álvaro Cuéllar, “Spanish Golden Age Theatre Prints (Spelling
-              Modernization) 1.0”. Transkribus, 2021.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de</note>
+          <title level="m">La Primavera numerosa de muchas armonias luzientes, en doce comedias fragantes : parte quarenta y seis...</title>,
+          <pubPlace>Madrid</pubPlace>:
+          <note>a costa de Francisco Sanz impressor...</note>,
+          <date>1679</date>,
+          <biblScope unit="page" from="128v" to="149r">128v-149r</biblScope>.
+          <note>La modernización de la ortografía, la acentuación y la puntuación se ha realizado mediante el modelo de transcripción desarrollado por Álvaro Cuéllar, “Spanish Golden Age Theatre Prints (Spelling Modernization) 1.0”. Transkribus, 2021.</note>
         </bibl>
       </sourceDesc>
     </fileDesc>

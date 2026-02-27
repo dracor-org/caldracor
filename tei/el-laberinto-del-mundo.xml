@@ -37,11 +37,14 @@
         <bibl type="digitalSource">
           <name/>
           <idno type="URL"/>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de Juan Manuel Escudero Baztán,
-              Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2015. ISBN:
-              978-3-944244-36-5</title>
-          </bibl>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la edición de</note>
+          <editor>Juan Manuel Escudero Baztán</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>:
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>2015</date>.
+          <idno type="ISBN">978-3-944244-36-5</idno>
         </bibl>
       </sourceDesc>
     </fileDesc>

@@ -37,10 +37,17 @@
         <bibl type="digitalSource">
           <name>DADUN Depositorio académico digital Universidad de Navarra</name>
           <idno type="URL">https://dadun.unav.edu/handle/10171/18195</idno>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de Ana Suárez Miramón, Pamplona–Kassel,
-              Universidad de Navarra– Reichenberger, 2003. ISBN: 3-935004-45-1.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la edición de</note>
+          <editor>Ana Suárez Miramón</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>:
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>2003</date>.
+          <idno type="ISBN">3-935004-45-1</idno>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -193,7 +200,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/cal000163" passive="http://www.wikidata.org/entity/Q5492719"/>
+      <relation name="wikidata" active="https://dracor.org/entity/cal000163"
+        passive="http://www.wikidata.org/entity/Q5492719"/>
     </listRelation>
   </standOff>
   <text xml:lang="es">

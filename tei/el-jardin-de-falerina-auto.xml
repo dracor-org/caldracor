@@ -36,10 +36,17 @@
         <bibl type="digitalSource">
           <name>DADUN Depositorio académico digital Universidad de Navarra</name>
           <idno type="URL">https://dadun.unav.edu/handle/10171/53064</idno>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de L Galván y C. Mata, Pamplona– Kassel,
-              Universidad de Navarra–Reichenberger, 2007.ISBN: 9783937734330.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la edición de</note>
+          <editor>L. Galván</editor> y <editor>C. Mata</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>:
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>2007</date>.
+          <idno type="ISBN">9783937734330</idno>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -392,7 +399,8 @@
             <l>En el cielo y en la tierra</l>
             <l>te bendigan, Señor, tus obras mesmas.</l>
           </sp>
-          <sp who="#musica #oido #gusto #olfato #lisonja #envidia #murmuracion #gula #vista #tacto #febo #ecos #toda-la-musica #culpa #lucero #hombre">
+          <sp
+            who="#musica #oido #gusto #olfato #lisonja #envidia #murmuracion #gula #vista #tacto #febo #ecos #toda-la-musica #culpa #lucero #hombre">
             <speaker>MÚSICA Y TODOS</speaker>
             <l>En el cielo y en la tierra</l>
             <l n="155">te bendigan, Señor, tus obras mesmas.</l>
@@ -407,7 +415,8 @@
             <l>luceros, signos y estrellas</l>
             <l>porque en ellos y en ellas…</l>
           </sp>
-          <sp who="#musica #oido #gusto #olfato #lisonja #envidia #murmuracion #gula #vista #tacto #febo #ecos #toda-la-musica #culpa #lucero #hombre">
+          <sp
+            who="#musica #oido #gusto #olfato #lisonja #envidia #murmuracion #gula #vista #tacto #febo #ecos #toda-la-musica #culpa #lucero #hombre">
             <speaker>MÚSICA Y TODOS</speaker>
             <l>te bendigan, Señor, tus obras mesmas.</l>
           </sp>
@@ -942,7 +951,8 @@
             <l>A mi brindis, sentidos, venid,</l>
             <l>volad, corred.</l>
           </sp>
-          <sp who="#tacto #febo #ecos #toda-la-musica #oido #lisonja #envidia #murmuracion #gula #lucero #musica #gracia #hombre #olfato #vista #gusto #culpa">
+          <sp
+            who="#tacto #febo #ecos #toda-la-musica #oido #lisonja #envidia #murmuracion #gula #lucero #musica #gracia #hombre #olfato #vista #gusto #culpa">
             <speaker>LOS CINCO</speaker>
             <l>Venid, volad, corred.</l>
           </sp>
@@ -951,7 +961,8 @@
             <l>Y veréis que el licor desta copa</l>
             <l n="505">apaga la sed.</l>
           </sp>
-          <sp who="#tacto #febo #ecos #toda-la-musica #oido #lisonja #envidia #murmuracion #gula #lucero #musica #gracia #hombre #olfato #vista #gusto #culpa">
+          <sp
+            who="#tacto #febo #ecos #toda-la-musica #oido #lisonja #envidia #murmuracion #gula #lucero #musica #gracia #hombre #olfato #vista #gusto #culpa">
             <speaker>LOS CINCO</speaker>
             <l>Apaga la sed.</l>
           </sp>
@@ -971,7 +982,8 @@
             <speaker>GRACIA</speaker>
             <l part="I">¡Oh, nunca lo sepan!</l>
           </sp>
-          <sp who="#tacto #febo #ecos #toda-la-musica #oido #lisonja #envidia #murmuracion #gula #lucero #musica #olfato #vista #gusto #culpa #hombre #gracia">
+          <sp
+            who="#tacto #febo #ecos #toda-la-musica #oido #lisonja #envidia #murmuracion #gula #lucero #musica #olfato #vista #gusto #culpa #hombre #gracia">
             <speaker>LOS CINCO</speaker>
             <l part="F">No</l>
             <l>percibimos más de que</l>
@@ -1051,7 +1063,8 @@
             <l>A mi brindis, sentidos, venid,</l>
             <l>volad, corred.</l>
           </sp>
-          <sp who="#tacto #febo #ecos #toda-la-musica #lisonja #envidia #murmuracion #gula #lucero #musica #vista #gusto #olfato #hombre #oido #gracia #culpa">
+          <sp
+            who="#tacto #febo #ecos #toda-la-musica #lisonja #envidia #murmuracion #gula #lucero #musica #vista #gusto #olfato #hombre #oido #gracia #culpa">
             <speaker>LAS CINCO</speaker>
             <l>Venid, volad, corred.</l>
           </sp>
@@ -1060,7 +1073,8 @@
             <l>Y veréis que el licor desta copa</l>
             <l n="545">apaga la sed.</l>
           </sp>
-          <sp who="#tacto #febo #ecos #toda-la-musica #lisonja #envidia #murmuracion #gula #lucero #musica #vista #gusto #olfato #hombre #oido #gracia #culpa">
+          <sp
+            who="#tacto #febo #ecos #toda-la-musica #lisonja #envidia #murmuracion #gula #lucero #musica #vista #gusto #olfato #hombre #oido #gracia #culpa">
             <speaker>LAS CINCO</speaker>
             <l>Apaga la sed.</l>
           </sp>
@@ -1104,7 +1118,8 @@
             <speaker>VISTA</speaker>
             <l n="550" part="F">Y del ver.</l>
           </sp>
-          <sp who="#febo #ecos #toda-la-musica #lucero #musica #hombre #gracia #culpa #murmuracion #olfato #gula #gusto #tacto #lisonja #oido #envidia #vista">
+          <sp
+            who="#febo #ecos #toda-la-musica #lucero #musica #hombre #gracia #culpa #murmuracion #olfato #gula #gusto #tacto #lisonja #oido #envidia #vista">
             <speaker>LOS CINCO</speaker>
             <l>¡Qué música y qué hermosura!</l>
           </sp>
@@ -1118,7 +1133,8 @@
             <l part="I">desmintiendo lo cruel…?</l>
           </sp>
           <stage>Repiten esto todos menos la GRACIA</stage>
-          <sp who="#ecos #toda-la-musica #lucero #musica #culpa #murmuracion #olfato #gula #gusto #tacto #lisonja #oido #envidia #vista #gracia #hombre">
+          <sp
+            who="#ecos #toda-la-musica #lucero #musica #culpa #murmuracion #olfato #gula #gusto #tacto #lisonja #oido #envidia #vista #gracia #hombre">
             <speaker>TODOS Y MÚSICA</speaker>
             <l part="F">A mi brindis, sentidos, venid,</l>
             <l n="555">volad, corred,</l>
@@ -1132,7 +1148,8 @@
             <l n="560">Ni la escuchéis ni veáis,</l>
             <l part="I">vuelvo a deciros.</l>
           </sp>
-          <sp who="#febo #ecos #toda-la-musica #lucero #culpa #murmuracion #olfato #gula #gusto #tacto #lisonja #oido #envidia #vista #hombre #musica #gracia">
+          <sp
+            who="#febo #ecos #toda-la-musica #lucero #culpa #murmuracion #olfato #gula #gusto #tacto #lisonja #oido #envidia #vista #hombre #musica #gracia">
             <speaker>LOS CINCO</speaker>
             <l part="F">¿Por qué?</l>
           </sp>
@@ -1167,7 +1184,8 @@
             <l>Y así, venid, volad, corred,</l>
             <l n="585">y veréis que el licor desta copa…</l>
           </sp>
-          <sp who="#febo #ecos #toda-la-musica #lucero #murmuracion #olfato #gula #gusto #tacto #lisonja #oido #envidia #vista #hombre #musica #gracia #culpa">
+          <sp
+            who="#febo #ecos #toda-la-musica #lucero #murmuracion #olfato #gula #gusto #tacto #lisonja #oido #envidia #vista #hombre #musica #gracia #culpa">
             <speaker>LAS CINCO</speaker>
             <l>… apaga la sed.</l>
           </sp>
@@ -1178,7 +1196,8 @@
             <l>el agrio al azar destila</l>
             <l n="590">y a esotras flores la miel.</l>
           </sp>
-          <sp who="#febo #ecos #toda-la-musica #lucero #murmuracion #olfato #gula #gusto #tacto #lisonja #oido #envidia #vista #hombre #musica #gracia #culpa">
+          <sp
+            who="#febo #ecos #toda-la-musica #lucero #murmuracion #olfato #gula #gusto #tacto #lisonja #oido #envidia #vista #hombre #musica #gracia #culpa">
             <speaker>LAS CINCO</speaker>
             <l>Volad, corred.</l>
           </sp>
@@ -1200,7 +1219,8 @@
             <l>porque siempre al paladar</l>
             <l>vecino el Olfato esté.</l>
           </sp>
-          <sp who="#febo #ecos #toda-la-musica #lucero #murmuracion #olfato #tacto #lisonja #oido #envidia #vista #hombre #musica #gracia #gusto #gula #culpa">
+          <sp
+            who="#febo #ecos #toda-la-musica #lucero #murmuracion #olfato #tacto #lisonja #oido #envidia #vista #hombre #musica #gracia #gusto #gula #culpa">
             <speaker>LAS CINCO</speaker>
             <l>Volad, corred.</l>
           </sp>
@@ -1222,7 +1242,8 @@
             <l>la nieve que os dé en holandas</l>
             <l>del ampo hilada la tez.</l>
           </sp>
-          <sp who="#febo #ecos #toda-la-musica #lucero #tacto #lisonja #oido #envidia #vista #hombre #musica #gracia #gusto #gula #olfato #murmuracion #culpa">
+          <sp
+            who="#febo #ecos #toda-la-musica #lucero #tacto #lisonja #oido #envidia #vista #hombre #musica #gracia #gusto #gula #olfato #murmuracion #culpa">
             <speaker>LAS CINCO</speaker>
             <l n="605">Volad, corred.</l>
           </sp>
@@ -1239,7 +1260,8 @@
             <l n="610">aun una lágrima sola</l>
             <l>no ha de costar el placer.</l>
           </sp>
-          <sp who="#febo #ecos #toda-la-musica #lucero #lisonja #oido #envidia #vista #hombre #musica #gracia #gusto #gula #olfato #murmuracion #tacto #culpa">
+          <sp
+            who="#febo #ecos #toda-la-musica #lucero #lisonja #oido #envidia #vista #hombre #musica #gracia #gusto #gula #olfato #murmuracion #tacto #culpa">
             <speaker>LAS CINCO</speaker>
             <l>Volad, corred.</l>
           </sp>
@@ -1256,7 +1278,8 @@
             <l>que en materia de envidiar</l>
             <l>la Vista aun no tenga qué.</l>
           </sp>
-          <sp who="#febo #ecos #toda-la-musica #lucero #lisonja #envidia #vista #hombre #musica #gracia #gusto #gula #olfato #murmuracion #tacto #oido #culpa">
+          <sp
+            who="#febo #ecos #toda-la-musica #lucero #lisonja #envidia #vista #hombre #musica #gracia #gusto #gula #olfato #murmuracion #tacto #oido #culpa">
             <speaker>LAS CINCO</speaker>
             <l>Volad, corred.</l>
           </sp>
@@ -1277,12 +1300,14 @@
             <l n="625">venga, prosiga el tropel</l>
             <l part="I">de nuestra música.</l>
           </sp>
-          <sp who="#febo #ecos #toda-la-musica #lucero #lisonja #hombre #musica #gracia #gusto #gula #olfato #murmuracion #tacto #oido #vista #envidia #culpa">
+          <sp
+            who="#febo #ecos #toda-la-musica #lucero #lisonja #hombre #musica #gracia #gusto #gula #olfato #murmuracion #tacto #oido #vista #envidia #culpa">
             <speaker>LOS CINCO</speaker>
             <l part="F">Todos</l>
             <l>diremos juntos con él:</l>
           </sp>
-          <sp who="#musica #ecos #toda-la-musica #lucero #lisonja #hombre #gracia #gusto #gula #olfato #murmuracion #tacto #oido #vista #envidia #culpa">
+          <sp
+            who="#musica #ecos #toda-la-musica #lucero #lisonja #hombre #gracia #gusto #gula #olfato #murmuracion #tacto #oido #vista #envidia #culpa">
             <speaker>MÚSICA Y TODOS</speaker>
             <l>A mi brindis, sentidos, venid,</l>
             <l>volad, corred,</l>
@@ -1739,7 +1764,8 @@
             <l n="800">a pedir de boca</l>
             <l>le sirve el Gusto.</l>
           </sp>
-          <sp who="#ecos #toda-la-musica #lucero #gusto #olfato #tacto #oido #vista #gracia #culpa #hombre #musica #lisonja #murmuracion #envidia #gula">
+          <sp
+            who="#ecos #toda-la-musica #lucero #gusto #olfato #tacto #oido #vista #gracia #culpa #hombre #musica #lisonja #murmuracion #envidia #gula">
             <speaker>TODOS</speaker>
             <l>Y pues te debemos</l>
             <l>gozar tanto bien,</l>
@@ -1944,7 +1970,8 @@
             <stage>aparte</stage>
             <l part="I">¡Qué escucho!</l>
           </sp>
-          <sp who="#febo #ecos #toda-la-musica #lucero #gusto #olfato #tacto #oido #vista #gracia #lisonja #murmuracion #envidia #gula #musica #hombre #culpa">
+          <sp
+            who="#febo #ecos #toda-la-musica #lucero #gusto #olfato #tacto #oido #vista #gracia #lisonja #murmuracion #envidia #gula #musica #hombre #culpa">
             <speaker>LOS CINCO SENTIDOS</speaker>
             <l part="F">Si de humanos</l>
             <l>nos puedes convertir</l>
@@ -1963,7 +1990,8 @@
             <l>como que el sí de esposo</l>
             <l part="I">no he de darla.</l>
           </sp>
-          <sp who="#ecos #toda-la-musica #lucero #gusto #olfato #tacto #oido #vista #gracia #lisonja #murmuracion #envidia #gula #musica #culpa #hombre">
+          <sp
+            who="#ecos #toda-la-musica #lucero #gusto #olfato #tacto #oido #vista #gracia #lisonja #murmuracion #envidia #gula #musica #culpa #hombre">
             <speaker>TODOS</speaker>
             <l part="F">Pues di:</l>
             <l n="950">¿con qué disculpa puedes</l>
@@ -2061,7 +2089,8 @@
             <speaker>GULA</speaker>
             <l>Ya está la copa aquí.</l>
           </sp>
-          <sp who="#febo #ecos #toda-la-musica #lucero #tacto #oido #vista #gracia #lisonja #murmuracion #envidia #musica #hombre #culpa #gusto #olfato #gula">
+          <sp
+            who="#febo #ecos #toda-la-musica #lucero #tacto #oido #vista #gracia #lisonja #murmuracion #envidia #musica #hombre #culpa #gusto #olfato #gula">
             <speaker>LAS CINCO</speaker>
             <l part="I">Llega y bebe.</l>
           </sp>
@@ -2080,7 +2109,8 @@
             <l n="1020">fuerza de entorpecer</l>
             <l part="I">sentidos.</l>
           </sp>
-          <sp who="#febo #ecos #toda-la-musica #lucero #tacto #oido #vista #gracia #lisonja #murmuracion #envidia #musica #gusto #olfato #gula #hombre #culpa">
+          <sp
+            who="#febo #ecos #toda-la-musica #lucero #tacto #oido #vista #gracia #lisonja #murmuracion #envidia #musica #gusto #olfato #gula #hombre #culpa">
             <speaker>LAS CINCO</speaker>
             <stage>cantan</stage>
             <l part="F">¡Ay de ti!…</l>
@@ -2193,7 +2223,8 @@
             <l>que al quedar sin sentidos</l>
             <l>te queda que sentir.</l>
           </sp>
-          <sp who="#febo #ecos #toda-la-musica #lucero #gracia #lisonja #murmuracion #envidia #gula #culpa #vista #oido #olfato #gusto #hombre #tacto #musica">
+          <sp
+            who="#febo #ecos #toda-la-musica #lucero #gracia #lisonja #murmuracion #envidia #gula #culpa #vista #oido #olfato #gusto #hombre #tacto #musica">
             <speaker>LOS CINCO</speaker>
             <l part="I">Huyamos de él.</l>
           </sp>
@@ -2205,7 +2236,8 @@
             <l>a cobraros, decid?</l>
             <l>¿Pues cómo es a perderos?</l>
           </sp>
-          <sp who="#febo #ecos #toda-la-musica #lucero #gracia #lisonja #murmuracion #envidia #gula #culpa #vista #oido #olfato #gusto #tacto #musica #hombre">
+          <sp
+            who="#febo #ecos #toda-la-musica #lucero #gracia #lisonja #murmuracion #envidia #gula #culpa #vista #oido #olfato #gusto #tacto #musica #hombre">
             <speaker>LOS CINCO</speaker>
             <l>Pregúntatelo a ti…</l>
           </sp>
@@ -2362,7 +2394,8 @@
             <l part="F">Id.</l>
           </sp>
           <stage>Llévanle como por fuerza</stage>
-          <sp who="#febo #ecos #toda-la-musica #lucero #gracia #lisonja #murmuracion #envidia #vista #oido #olfato #gusto #tacto #musica #hombre #gula #culpa">
+          <sp
+            who="#febo #ecos #toda-la-musica #lucero #gracia #lisonja #murmuracion #envidia #vista #oido #olfato #gusto #tacto #musica #hombre #gula #culpa">
             <speaker>LAS CINCO</speaker>
             <l part="I">Ven, mortal.</l>
           </sp>
@@ -2379,7 +2412,8 @@
             <speaker>HOMBRE Y MÚSICA</speaker>
             <l part="F">¡Ay de mí!…</l>
           </sp>
-          <sp who="#febo #ecos #toda-la-musica #lucero #gracia #lisonja #murmuracion #envidia #vista #oido #olfato #gusto #tacto #gula #culpa #hombre #musica">
+          <sp
+            who="#febo #ecos #toda-la-musica #lucero #gracia #lisonja #murmuracion #envidia #vista #oido #olfato #gusto #tacto #gula #culpa #hombre #musica">
             <speaker>LAS CINCO</speaker>
             <l n="1160">… que al quedar sin sentidos</l>
             <l>te queda que sentir.</l>
@@ -2422,7 +2456,8 @@
             <l>… sin ver, tocar, oler, gustar ni oír?</l>
           </sp>
           <stage>Representan</stage>
-          <sp who="#febo #ecos #toda-la-musica #lucero #gracia #lisonja #murmuracion #envidia #vista #oido #olfato #gusto #tacto #gula #culpa #musica #hombre">
+          <sp
+            who="#febo #ecos #toda-la-musica #lucero #gracia #lisonja #murmuracion #envidia #vista #oido #olfato #gusto #tacto #gula #culpa #musica #hombre">
             <speaker>LAS CINCO</speaker>
             <l n="1175">No tienes que clamar;</l>
             <l>ven pues, ven a vivir</l>
@@ -3468,11 +3503,13 @@
         <div type="scene" resp="#rojas" n="25">
           <stage>Salen los cinco sentidos en sus trajes como luchando con los cinco vicios, cada uno
             con el que le toca</stage>
-          <sp who="#vista #oido #olfato #gusto #tacto #musica #murmuracion #gracia #ecos #toda-la-musica #culpa #febo #lisonja #envidia #gula #hombre #lucero">
+          <sp
+            who="#vista #oido #olfato #gusto #tacto #musica #murmuracion #gracia #ecos #toda-la-musica #culpa #febo #lisonja #envidia #gula #hombre #lucero">
             <speaker>LAS CINCO</speaker>
             <l>¡Qué ansia! ¡Qué dolor! ¡Qué pena!</l>
           </sp>
-          <sp who="#vista #oido #olfato #gusto #tacto #musica #murmuracion #gracia #ecos #toda-la-musica #culpa #febo #lisonja #envidia #gula #hombre #lucero">
+          <sp
+            who="#vista #oido #olfato #gusto #tacto #musica #murmuracion #gracia #ecos #toda-la-musica #culpa #febo #lisonja #envidia #gula #hombre #lucero">
             <speaker>LOS CINCO</speaker>
             <l part="I">¡Qué dicha! ¡Y qué gozo!</l>
           </sp>
@@ -3518,7 +3555,8 @@
             <l part="F">¡No,</l>
             <l>Murmuración, me detengas!</l>
           </sp>
-          <sp who="#musica #gracia #ecos #toda-la-musica #culpa #febo #hombre #lucero #lisonja #envidia #murmuracion #gula #vista #oido #tacto #gusto #olfato">
+          <sp
+            who="#musica #gracia #ecos #toda-la-musica #culpa #febo #hombre #lucero #lisonja #envidia #murmuracion #gula #vista #oido #tacto #gusto #olfato">
             <speaker>LOS CINCO</speaker>
             <l>Y pues que libres nos vemos</l>
             <l>ya de las traiciones vuestras,</l>
@@ -3627,11 +3665,13 @@
             <l>grandeza de las grandezas</l>
             <l>de Dios, poner mis sentidos?</l>
           </sp>
-          <sp who="#musica #ecos #toda-la-musica #culpa #lisonja #envidia #murmuracion #gula #vista #oido #tacto #gusto #olfato #gracia #febo #lucero #hombre">
+          <sp
+            who="#musica #ecos #toda-la-musica #culpa #lisonja #envidia #murmuracion #gula #vista #oido #tacto #gusto #olfato #gracia #febo #lucero #hombre">
             <speaker>LOS CINCO</speaker>
             <l>Nosotros las culpas nuestras.</l>
           </sp>
-          <sp who="#musica #ecos #toda-la-musica #culpa #lisonja #envidia #murmuracion #gula #vista #oido #tacto #gusto #olfato #gracia #febo #lucero #hombre">
+          <sp
+            who="#musica #ecos #toda-la-musica #culpa #lisonja #envidia #murmuracion #gula #vista #oido #tacto #gusto #olfato #gracia #febo #lucero #hombre">
             <speaker>LAS CINCO</speaker>
             <l>Y nosotras una firme</l>
             <l n="1875">proposición de la enmienda.</l>
@@ -3641,7 +3681,8 @@
             <l>Pues en su alabanza todos</l>
             <l>decid en voces diversas:</l>
           </sp>
-          <sp who="#ecos #toda-la-musica #culpa #lisonja #envidia #murmuracion #gula #vista #oido #tacto #gusto #olfato #febo #lucero #hombre #gracia #musica">
+          <sp
+            who="#ecos #toda-la-musica #culpa #lisonja #envidia #murmuracion #gula #vista #oido #tacto #gusto #olfato #febo #lucero #hombre #gracia #musica">
             <speaker>TODOS Y MÚSICA</speaker>
             <l>Canten la victoria</l>
             <l>cielos y tierra</l>

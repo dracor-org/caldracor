@@ -39,9 +39,14 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="originalSource">
-          <title>Pedro Calderón de la Barca, Los tres mayores prodigios. En: Comedias, Vol. 2.
-            Dirección de Luis Iglesias Feijoo y Santiago Fernández Mosquera. Madrid : Fundación José
-            Antonio de Castro, 2007</title>
+          <author>Pedro Calderón de la Barca</author>,
+          <title level="a">Los tres mayores prodigios</title>. En:
+          <title level="s">Comedias</title>,
+          <biblScope unit="volume">2</biblScope>.
+          Dirección de <editor>Luis Iglesias Feijoo</editor> y <editor>Santiago Fernández Mosquera</editor>.
+          <pubPlace>Madrid</pubPlace>:
+          <publisher>Fundación José Antonio de Castro</publisher>,
+          <date>2007</date>.
           <idno type="ISBN">978-84-96452-36-7</idno>
         </bibl>
       </sourceDesc>

@@ -36,12 +36,20 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/a-dios-por-razon-de-estado--0/html/</idno>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la de Pedro Pando y Mier, Autos Sacramentales,
-              alegóricos y historiales..., Madrid, Manuel Ruiz de Murga, 1717 y cotejada con la
-              edición de Nicolás González Ruiz, Piezas maestras del teatro teológico español, 4ª
-              ed., Madrid, Biblioteca de Autores Cristianos, 1997, t. I, pp. 618-651.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la de</note>
+          <editor>Pedro Pando y Mier</editor>,
+          <title level="m">Autos sacramentales, alegóricos y historiales...</title>,
+          <pubPlace>Madrid</pubPlace>:
+          <publisher>Manuel Ruiz de Murga</publisher>,
+          <date>1717</date>,
+          <biblScope unit="volume">I</biblScope>,
+          <biblScope unit="page" from="618" to="651">618–651</biblScope>.
+          <note>Cotejada con la edición de Nicolás González Ruiz, <title level="m">Piezas maestras del teatro teológico español</title>, 4ª ed., Madrid: Biblioteca de Autores Cristianos, <date>1997</date>.</note>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -189,7 +197,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/cal000001" passive="http://www.wikidata.org/entity/Q5654107"/>
+      <relation name="wikidata" active="https://dracor.org/entity/cal000001"
+        passive="http://www.wikidata.org/entity/Q5654107"/>
     </listRelation>
   </standOff>
   <text xml:lang="es">
@@ -3712,7 +3721,8 @@
             <l>la verdad celebraré</l>
             <l part="I">de esta verdad.</l>
           </sp>
-          <sp who="#penitencia #áfrica #ingenio #pensamiento #gentilidad #bautismo #ateísmo #confirmación #extremaunción #ley-de-gracia #ley-escrita #ley-natural #sinagoga #matrimonio #orden-sacerdotal #pablo">
+          <sp
+            who="#penitencia #áfrica #ingenio #pensamiento #gentilidad #bautismo #ateísmo #confirmación #extremaunción #ley-de-gracia #ley-escrita #ley-natural #sinagoga #matrimonio #orden-sacerdotal #pablo">
             <speaker>TODOS</speaker>
             <l n="1825" part="F">Y contigo</l>
             <l>todos, diciendo otra vez</l>

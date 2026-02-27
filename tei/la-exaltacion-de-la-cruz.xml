@@ -37,10 +37,11 @@
         <bibl type="digitalSource">
           <name/>
           <idno type="URL"/>
-          <bibl type="originalSource">
-            <title> Edición digital a partir de la edición de Ignacio Arellano, (sin publicar).
-            </title>
-          </bibl>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la edición de</note>
+          <editor>Ignacio Arellano</editor>,
+          <note>(sin publicar).</note>
         </bibl>
       </sourceDesc>
     </fileDesc>

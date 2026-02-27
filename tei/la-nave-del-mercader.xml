@@ -37,13 +37,20 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/la-nave-del-mercader--0/html/</idno>
-          <bibl type="originalSource">
-            <title>Texto crítico preparado por Ignacio Arellano procedente de la edición Calderón de
-              la Barca, Pedro, La nave del mercader, ed. Ignacio Arellano, con la colaboración de
-              Blanca Oteiza, Mª Carmen Pinillos, Juan Manuel Escudero y Ana Armendáriz,
-              Pamplona–Kassel, Universidad de Navarra–Reichenberger, 1996. ISBN:
-              3-930700-58-1.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Texto crítico preparado por Ignacio Arellano procedente de la edición</note>
+          <author>Calderón de la Barca, Pedro</author>,
+          <title level="a">La nave del mercader</title>,
+          <editor>Ignacio Arellano</editor>,
+          <note>con la colaboración de Blanca Oteiza, Mª Carmen Pinillos, Juan Manuel Escudero y Ana Armendáriz</note>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>,
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>1996</date>.
+          <idno type="ISBN">3-930700-58-1</idno>.
         </bibl>
       </sourceDesc>
     </fileDesc>

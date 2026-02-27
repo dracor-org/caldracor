@@ -36,11 +36,14 @@
         <bibl type="digitalSource">
           <name/>
           <idno type="URL"/>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de Ignacio Arellano y Ángel L. Cilveti,
-              Pamplona–Kassel, Universidad de Navarra– Reichenberger, 1992. ISBN:
-              3-928064-34-7.</title>
-          </bibl>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la edición de</note>
+          <editor>Ignacio Arellano</editor> y <editor>Ángel L. Cilveti</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>:
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>1992</date>.
+          <idno type="ISBN">3-928064-34-7</idno>
         </bibl>
       </sourceDesc>
     </fileDesc>

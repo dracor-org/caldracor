@@ -37,10 +37,17 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra/los-alimentos-del-hombre-auto/</idno>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de Miguel Zugasti, Pamplona / Kassel,
-              Universidad de Navarra / Reichenberger, 2009. ISBN: 978-3-937734-75-0.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la edición de</note>
+          <editor>Miguel Zugasti</editor>,
+          <pubPlace>Pamplona</pubPlace> / <pubPlace>Kassel</pubPlace>,
+          <publisher>Universidad de Navarra</publisher> / <publisher>Reichenberger</publisher>,
+          <date>2009</date>.
+          <idno type="ISBN">978-3-937734-75-0</idno>.
         </bibl>
       </sourceDesc>
     </fileDesc>

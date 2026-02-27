@@ -37,11 +37,19 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/la-piel-de-gedeon--0/html/</idno>
-          <bibl type="originalSource">
-            <title>Texto crítico preparado por Ana Armendáriz procedente de la edición Calderón de
-              la Barca, Pedro, La piel de Gedeón, ed. Ana Armendáriz, Pamplona–Kassel, Universidad
-              de Navarra–Reichenberger, 1998. ISBN: 3-931887-45-6.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Texto crítico preparado por Ana Armendáriz procedente de la edición</note>
+          <author>Calderón de la Barca, Pedro</author>,
+          <title level="a">La piel de Gedeón</title>,
+          <editor>Ana Armendáriz</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>,
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>1998</date>.
+          <idno type="ISBN">3-931887-45-6</idno>.
         </bibl>
       </sourceDesc>
     </fileDesc>

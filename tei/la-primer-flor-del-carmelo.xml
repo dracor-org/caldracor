@@ -37,12 +37,19 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/la-primer-flor-del-carmelo--0/html/</idno>
-          <bibl type="originalSource">
-            <title>Texto crítico preparado por Fernando Plata Parga procedente de la edición
-              Calderón de la Barca, Pedro, La primer flor del Carmelo, ed. Fernando Plata Parga,
-              Pamplona–Kassel, Universidad de Navarra–Reichenberger, 1998. ISBN:
-              3-931887-46-4.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Texto crítico preparado por Fernando Plata Parga procedente de la edición</note>
+          <author>Calderón de la Barca, Pedro</author>,
+          <title level="a">La primer flor del Carmelo</title>,
+          <editor>Fernando Plata Parga</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>,
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>1998</date>.
+          <idno type="ISBN">3-931887-46-4</idno>.
         </bibl>
       </sourceDesc>
     </fileDesc>

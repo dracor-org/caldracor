@@ -36,12 +36,18 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/afectos-de-odio-y-amor--0/html/</idno>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la Tercera parte de Comedias de don Pedro Calderón de
-              la Barca, Madrid, Por Domingo García Morràs, a costa de Domingo Palacio y Villegas,
-              1664. Localización: Base de Datos de Teatro Español del Siglo de Oro (TESO).
-              Autorizada por Evangelina Rodríguez Cuadros</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la</note>
+          <title level="m">Tercera parte de Comedias de don Pedro Calderón de la Barca</title>,
+          <pubPlace>Madrid</pubPlace>:
+          <publisher>Por Domingo García Morràs</publisher>,
+          <note>a costa de Domingo Palacio y Villegas</note>,
+          <date>1664</date>.
+          <note>Localización: Base de Datos de Teatro Español del Siglo de Oro (TESO). Autorizada por Evangelina Rodríguez Cuadros.</note>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -215,7 +221,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/cal000003" passive="http://www.wikidata.org/entity/Q50307358"/>
+      <relation name="wikidata" active="https://dracor.org/entity/cal000003"
+        passive="http://www.wikidata.org/entity/Q50307358"/>
     </listRelation>
   </standOff>
   <text xml:lang="es">

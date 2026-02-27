@@ -37,11 +37,14 @@
         <bibl type="digitalSource">
           <name/>
           <idno type="URL"/>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de Ignacio Arellano y Carmen Pinillos,
-              Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2014. ISBN:
-              978-3-944244-30-3.</title>
-          </bibl>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la edición de</note>
+          <editor>Ignacio Arellano</editor> y <editor>Carmen Pinillos</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>:
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>2014</date>.
+          <idno type="ISBN">978-3-944244-30-3</idno>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -1348,7 +1351,8 @@
             <speaker>ALBEDRÍO</speaker>
             <l part="I">Tu nombre aclamen.</l>
           </sp>
-          <sp who="#agua #aire #fuego #acompanamiento #culpa #genero #musicos #principe #rey #albedrio">
+          <sp
+            who="#agua #aire #fuego #acompanamiento #culpa #genero #musicos #principe #rey #albedrio">
             <speaker>TODOS</speaker>
             <l n="695" part="F">¡Santo, Santo, Santo!</l>
           </sp>
@@ -1480,7 +1484,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="16">
-          <sp who="#agua #aire #fuego #acompanamiento #principe #rey #genero #albedrio #musicos #culpa">
+          <sp
+            who="#agua #aire #fuego #acompanamiento #principe #rey #genero #albedrio #musicos #culpa">
             <speaker>TODOS</speaker>
             <stage>Cantando</stage>
             <l n="770">Gloria a Dios en las alturas</l>
@@ -2587,7 +2592,8 @@
             <l n="1365">pues con siete sacramentos</l>
             <l>siete vicios avasalla.</l>
           </sp>
-          <sp who="#genero #tierra #aire #fuego #agua #culpa #rey #principe #bautismo #confirmacion #penitencia #comunion #extremauncion #orden #matrimonio #albedrio #musicos">
+          <sp
+            who="#genero #tierra #aire #fuego #agua #culpa #rey #principe #bautismo #confirmacion #penitencia #comunion #extremauncion #orden #matrimonio #albedrio #musicos">
             <speaker>ÉL Y TODOS</speaker>
             <stage>Representa</stage>
             <l>Y demos al auto fin,</l>

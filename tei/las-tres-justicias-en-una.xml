@@ -38,15 +38,20 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="sourceText">
+        <bibl type="digitalSource">
           <name>Association for Hispanic Classical Theater</name>
           <idno type="URL">http://www.comedias.org/calderon/Trejus.html</idno>
-          <bibl type="originalSource">
-            <title>Texto basado en las COMEDIAS DE DON PEDRO CALDERÓN DE LA BARCA, ed. Juan Jorge
-              Keil (Leipzig, 1830), tomo IV. Fue editado en forma electrónica por David Hildner y
-              luego pasado al HTML para ser presentado en esta colección por Vern Williamsen en
-              1999.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Texto basado en</note>
+          <title level="m">COMEDIAS DE DON PEDRO CALDERÓN DE LA BARCA</title>,
+          <editor>Juan Jorge Keil</editor>
+          <note>(Leipzig, 1830)</note>,
+          <biblScope unit="volume">IV</biblScope>.
+          <note>Fue editado en forma electrónica por David Hildner y luego pasado al HTML para ser presentado en esta colección por Vern Williamsen en 1999.</note>
         </bibl>
       </sourceDesc>
     </fileDesc>

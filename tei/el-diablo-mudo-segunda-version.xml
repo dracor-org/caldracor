@@ -37,10 +37,18 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/el-diablo-mudo-segunda-version--0/html/</idno>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de C.C. García Valdés, Pamplona,
-              Universidad de Navarra ; Kassel, Reichenberger, 1999.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la edición de</note>
+          <editor>C.C. García Valdés</editor>,
+          <pubPlace>Pamplona</pubPlace>,
+          <publisher>Universidad de Navarra</publisher> ;
+          <pubPlace>Kassel</pubPlace>,
+          <publisher>Reichenberger</publisher>,
+          <date>1999</date>.
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -3377,7 +3385,8 @@
             <l n="1655" part="F">Baste</l>
             <l>que ella lo dijese, ¡ay triste!</l>
           </sp>
-          <sp who="#hombre #fee #naturaleza-humana #demonio #judaísmo #gentilidad #apetito #peregrino #música">
+          <sp
+            who="#hombre #fee #naturaleza-humana #demonio #judaísmo #gentilidad #apetito #peregrino #música">
             <speaker>TODOS Y MÚSICA</speaker>
             <l>Beato el vientre en que anduviste</l>
             <l>y los pechos que mamaste.</l>
@@ -3810,7 +3819,8 @@
             <l>todos a sus plantas puestos:</l>
             <l n="1865">A tan alto Sacramento.</l>
           </sp>
-          <sp who="#música #hombre #naturaleza-humana #apetito #gentilidad #penitencia #conocimiento">
+          <sp
+            who="#música #hombre #naturaleza-humana #apetito #gentilidad #penitencia #conocimiento">
             <speaker>MÚSICA Y TODOS</speaker>
             <l>A tan alto Sacramento.</l>
           </sp>
@@ -3818,7 +3828,8 @@
             <speaker>FEE</speaker>
             <l>Venere el mundo rendido.</l>
           </sp>
-          <sp who="#música #hombre #naturaleza-humana #apetito #gentilidad #penitencia #conocimiento">
+          <sp
+            who="#música #hombre #naturaleza-humana #apetito #gentilidad #penitencia #conocimiento">
             <speaker>MÚSICA Y TODOS</speaker>
             <l>Venere el mundo rendido.</l>
           </sp>
@@ -3826,7 +3837,8 @@
             <speaker>FEE</speaker>
             <l>Y el Antiguo Documento.</l>
           </sp>
-          <sp who="#música #hombre #naturaleza-humana #apetito #gentilidad #penitencia #conocimiento">
+          <sp
+            who="#música #hombre #naturaleza-humana #apetito #gentilidad #penitencia #conocimiento">
             <speaker>MÚSICA Y TODOS</speaker>
             <l n="1870">Y el Antiguo Documento.</l>
           </sp>
@@ -3834,7 +3846,8 @@
             <speaker>FEE</speaker>
             <l>Ceda al Nuevo Testamento.</l>
           </sp>
-          <sp who="#música #hombre #naturaleza-humana #apetito #gentilidad #penitencia #conocimiento">
+          <sp
+            who="#música #hombre #naturaleza-humana #apetito #gentilidad #penitencia #conocimiento">
             <speaker>MÚSICA Y TODOS</speaker>
             <l>Ceda al Nuevo Testamento.</l>
           </sp>
@@ -3842,7 +3855,8 @@
             <speaker>FEE</speaker>
             <l>Supliendo la Fee al sentido.</l>
           </sp>
-          <sp who="#música #hombre #naturaleza-humana #apetito #gentilidad #penitencia #conocimiento">
+          <sp
+            who="#música #hombre #naturaleza-humana #apetito #gentilidad #penitencia #conocimiento">
             <speaker>MÚSICA Y TODOS</speaker>
             <l>Supliendo la Fee al Sentido.</l>
           </sp>

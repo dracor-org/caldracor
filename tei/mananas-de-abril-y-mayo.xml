@@ -41,12 +41,19 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/mananas-de-abril-y-mayo--6/html/</idno>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la Tercera parte de Comedias de Don Pedro Calderón de
-              la Barca, Madrid, Por Domingo García Morràs ... A costa de Domingo Palacio y Villegas,
-              1664. Localización: Base de Datos Teatro Español del Siglo de Oro (TESO). Autorizada
-              por Evangelina Rodríguez Cuadros.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la</note>
+          <title level="m">Tercera parte de Comedias de Don Pedro Calderón de la Barca</title>,
+          <pubPlace>Madrid</pubPlace>,
+          <publisher>Por Domingo García Morràs</publisher>,
+          <note>...</note>
+          <note>A costa de Domingo Palacio y Villegas</note>,
+          <date>1664</date>.
+          <note>Localización: Base de Datos Teatro Español del Siglo de Oro (TESO). Autorizada por Evangelina Rodríguez Cuadros.</note>
         </bibl>
       </sourceDesc>
     </fileDesc>

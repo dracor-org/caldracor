@@ -33,12 +33,19 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/el-pintor-de-su-deshonra-2/html/</idno>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de Séptima parte de Comedias de Don Pedro Calderón de la
-              Barca que nuevamente corregidas, publica Don Juan de Vera Tassis y Villarroel, Madrid,
-              Por Francisco Sanz, 1683. Localización: Base de Datos Teatro Español del Siglo de Oro
-              (TESO). Autorizada por Evangelina Rodríguez Cuadros. </title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la</note>
+          <title level="m">Séptima parte de Comedias de Don Pedro Calderón de la Barca</title>
+          <note>que nuevamente corregidas, publica</note>
+          <editor>Don Juan de Vera Tassis y Villarroel</editor>,
+          <pubPlace>Madrid</pubPlace>:
+          <publisher>Por Francisco Sanz</publisher>,
+          <date>1683</date>.
+          <note>Localización: Base de Datos Teatro Español del Siglo de Oro (TESO). Autorizada por Evangelina Rodríguez Cuadros.</note>
         </bibl>
       </sourceDesc>
     </fileDesc>

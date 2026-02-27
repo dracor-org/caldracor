@@ -37,13 +37,20 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/a-maria-el-corazon--0/html/</idno>
-          <bibl type="originalSource">
-            <title>Texto crítico preparado por Ignacio Arellano, Ildefonso Adeva, Francisco Crosas y
-              Miguel Zugasti procedente de la edición Calderón de la Barca, Pedro, A María el
-              corazón, ed. Ignacio Arellano, Ildefonso Adeva, Francisco Crosas y Miguel Zugasti,
-              Pamplona–Kassel, Universidad de Navarra–Reichenberger, 1999. ISBN:
-              3-931887-56-1.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Pedro Calderón de la Barca</author>,
+          <title level="a">A María el corazón</title>,
+          <editor>Ignacio Arellano</editor>,
+          <editor>Ildefonso Adeva</editor>,
+          <editor>Francisco Crosas</editor> y <editor>Miguel Zugasti</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>:
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>1999</date>.
+          <idno type="ISBN">3-931887-56-1</idno>.
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -169,7 +176,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/cal000002" passive="http://www.wikidata.org/entity/Q68897761"/>
+      <relation name="wikidata" active="https://dracor.org/entity/cal000002"
+        passive="http://www.wikidata.org/entity/Q68897761"/>
     </listRelation>
   </standOff>
   <text xml:lang="es">
@@ -891,7 +899,8 @@
             <l>sus voces oigan todos,</l>
             <l n="425">también las nuestras digan...</l>
           </sp>
-          <sp who="#la-lascivia #la-gula #el-furor #envidia #la-avaricia #la-culpa #la-ira #la-pereza #la-soberbia">
+          <sp
+            who="#la-lascivia #la-gula #el-furor #envidia #la-avaricia #la-culpa #la-ira #la-pereza #la-soberbia">
             <speaker>TODOS</speaker>
             <l>Vaya, vaya de fiesta, vaya de jira,</l>
             <l>y hagan sus efetos Gula y Lascivia.</l>
@@ -901,7 +910,8 @@
             <l>Mientras yo abraso a todos, tú a todos brinda,</l>
             <l>que sin Baco y Ceres, Venus se entibia.</l>
           </sp>
-          <sp who="#la-lascivia #la-gula #el-furor #envidia #la-avaricia #la-culpa #la-ira #la-pereza #la-soberbia">
+          <sp
+            who="#la-lascivia #la-gula #el-furor #envidia #la-avaricia #la-culpa #la-ira #la-pereza #la-soberbia">
             <speaker>TODOS</speaker>
             <l n="430">Vaya, vaya de fiesta, vaya de jira.</l>
           </sp>
@@ -910,7 +920,8 @@
             <l>Si mañana a la muerte todos caminan,</l>
             <l>bébase hoy, que mañana será otro día.</l>
           </sp>
-          <sp who="#la-lascivia #la-gula #el-furor #envidia #la-avaricia #la-culpa #la-ira #la-pereza #la-soberbia">
+          <sp
+            who="#la-lascivia #la-gula #el-furor #envidia #la-avaricia #la-culpa #la-ira #la-pereza #la-soberbia">
             <speaker>TODOS</speaker>
             <l>Hagan sus efetos Gula y Lascivia.</l>
           </sp>
@@ -932,7 +943,8 @@
             <l>mi voz repita:</l>
             <stage type="exit">Desásese dél y mézclase con los demás, bailando.</stage>
           </sp>
-          <sp who="#la-lascivia #la-gula #el-furor #envidia #la-avaricia #la-culpa #la-ira #la-pereza #la-soberbia #el-pensamiento #el-peregrino">
+          <sp
+            who="#la-lascivia #la-gula #el-furor #envidia #la-avaricia #la-culpa #la-ira #la-pereza #la-soberbia #el-pensamiento #el-peregrino">
             <speaker>CON TODOS</speaker>
             <l n="440">Vaya, vaya de bulla, de fiesta y jira,</l>
             <l>y hagan sus efetos Gula y Lascivia.</l>
@@ -3383,7 +3395,8 @@
             <l>Y recebir el inmenso</l>
             <l>milagro de los milagros...</l>
           </sp>
-          <sp who="#la-soberbia #la-lascivia #la-gula #envidia #la-avaricia #la-ira #el-ángel #la-culpa #el-peregrino">
+          <sp
+            who="#la-soberbia #la-lascivia #la-gula #envidia #la-avaricia #la-ira #el-ángel #la-culpa #el-peregrino">
             <speaker>TODOS</speaker>
             <l n="1575">Es María el mejor medio.</l>
           </sp>
@@ -3394,7 +3407,8 @@
             <l>mientras para mayor honra</l>
             <l>suya decimos a un tiempo:</l>
           </sp>
-          <sp who="#la-soberbia #la-lascivia #la-gula #envidia #la-avaricia #la-ira #el-ángel #la-culpa #el-peregrino #música">
+          <sp
+            who="#la-soberbia #la-lascivia #la-gula #envidia #la-avaricia #la-ira #el-ángel #la-culpa #el-peregrino #música">
             <speaker>TODOS Y MÚSICA</speaker>
             <l n="1580">Que para darle a María,</l>
             <l>puesto en ella el pensamiento,</l>

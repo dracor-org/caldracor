@@ -37,13 +37,14 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digitalSource">
-          <name/>
-          <idno type="URL"/>
-        </bibl>
         <bibl type="originalSource">
-          <title>Edición digital a partir de la edición de Erik Coenen, Alicante : Biblioteca
-            Virtual Miguel de Cervantes, 2014.</title>
+          Edición digital a partir de la edición de
+          <author>Pedro Calderón de la Barca</author>,
+          <title level="a">Cómo se comunican dos estrellas contrarias</title>,
+          ed. <editor>Erik Coenen</editor>,
+          <pubPlace>Alicante</pubPlace>:
+          <publisher>Biblioteca Virtual Miguel de Cervantes</publisher>,
+          <date>2014</date>.
         </bibl>
       </sourceDesc>
     </fileDesc>

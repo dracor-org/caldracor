@@ -37,10 +37,17 @@
         <bibl type="digitalSource">
           <name>DADUN Depositorio académico digital Universidad de Navarra</name>
           <idno type="URL">https://dadun.unav.edu/handle/10171/18196</idno>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de Fernando Plata Parga, Pamplona–Kassel,
-              Universidad de Navarra– Reichenberger, 2003. ISBN: 3-935004-60-5.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la edición de</note>
+          <editor>Fernando Plata Parga</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>:
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>2003</date>.
+          <idno type="ISBN">3-935004-60-5</idno>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -1027,7 +1034,8 @@
             <l n="520">No me es posible, ¡ay de mí,</l>
             <l part="I">infeliz!</l>
           </sp>
-          <sp who="#deseo #obediencia #apetito #naturaleza #gracia #musicos #luzbel #culpa #acompanamiento #pastor #mundo">
+          <sp
+            who="#deseo #obediencia #apetito #naturaleza #gracia #musicos #luzbel #culpa #acompanamiento #pastor #mundo">
             <speaker>TODOS</speaker>
             <l part="F">Mundo, ¿qué es esto?</l>
           </sp>
@@ -2053,7 +2061,8 @@
             <speaker>OBEDIENCIA</speaker>
             <l part="F">Vaya, pues, el baile.</l>
           </sp>
-          <sp who="#acompanamiento #culpa #gracia #naturaleza #mundo #musicos #luzbel #pastor #apetito #voluntad #deseo #obediencia">
+          <sp
+            who="#acompanamiento #culpa #gracia #naturaleza #mundo #musicos #luzbel #pastor #apetito #voluntad #deseo #obediencia">
             <speaker>TODOS</speaker>
             <l part="I">¡Vaya!</l>
           </sp>
@@ -2173,7 +2182,8 @@
             <l>la voz, que adoración solo</l>
             <l part="I">se debe a Dios.</l>
           </sp>
-          <sp who="#acompanamiento #culpa #gracia #naturaleza #mundo #voluntad #deseo #obediencia #apetito #musicos #luzbel #pastor">
+          <sp
+            who="#acompanamiento #culpa #gracia #naturaleza #mundo #voluntad #deseo #obediencia #apetito #musicos #luzbel #pastor">
             <speaker>TODOS</speaker>
             <l part="F">Dice bien.</l>
           </sp>
@@ -2256,7 +2266,8 @@
             <l part="F">¡Id todos a hacer</l>
             <l>que salga de mis ejidos!</l>
           </sp>
-          <sp who="#mundo #voluntad #deseo #obediencia #apetito #musicos #acompanamiento #pastor #luzbel #gracia #naturaleza">
+          <sp
+            who="#mundo #voluntad #deseo #obediencia #apetito #musicos #acompanamiento #pastor #luzbel #gracia #naturaleza">
             <speaker>TODOS</speaker>
             <l>En vano será, porqué,</l>
             <l>emboscado en la aspereza</l>
@@ -2362,7 +2373,8 @@
             <speaker>GRACIA Y NATURALEZA</speaker>
             <l>¿Qué es esto, humanos afectos?</l>
           </sp>
-          <sp who="#musicos #luzbel #pastor #acompanamiento #mundo #obediencia #voluntad #deseo #apetito #gracia #naturaleza">
+          <sp
+            who="#musicos #luzbel #pastor #acompanamiento #mundo #obediencia #voluntad #deseo #apetito #gracia #naturaleza">
             <speaker>TODOS</speaker>
             <l part="I">Ser humanos.</l>
           </sp>
@@ -2547,7 +2559,8 @@
             <l>vamos diciendo tras él:</l>
             <l part="I">¡viva el Pastor Fido!</l>
           </sp>
-          <sp who="#musicos #luzbel #acompanamiento #deseo #voluntad #pastor #naturaleza #gracia #mundo #obediencia #apetito">
+          <sp
+            who="#musicos #luzbel #acompanamiento #deseo #voluntad #pastor #naturaleza #gracia #mundo #obediencia #apetito">
             <speaker>TODOS</speaker>
             <l part="F">¡Viva!</l>
           </sp>
@@ -2631,7 +2644,8 @@
             <l part="I">¡Viva el Fido Pastor!</l>
           </sp>
           <stage>Dentro instrumentos, grita y voces</stage>
-          <sp who="#deseo #voluntad #pastor #naturaleza #gracia #mundo #obediencia #apetito #culpa #luzbel #acompanamiento">
+          <sp
+            who="#deseo #voluntad #pastor #naturaleza #gracia #mundo #obediencia #apetito #culpa #luzbel #acompanamiento">
             <speaker>TODOS</speaker>
             <l part="F">¡Viva!</l>
           </sp>
@@ -2689,7 +2703,8 @@
             <l>por más que ahora, indiscretos,</l>
             <l>falsos digan sus afectos...</l>
           </sp>
-          <sp who="     #deseo #voluntad #pastor #naturaleza #gracia #mundo #obediencia #apetito #acompanamiento #luzbel #culpa #musicos">
+          <sp
+            who="     #deseo #voluntad #pastor #naturaleza #gracia #mundo #obediencia #apetito #acompanamiento #luzbel #culpa #musicos">
             <speaker>TODOS Y MÚSICA</speaker>
             <l>¡Viva el Fido Pastor, viva!</l>
           </sp>
@@ -3417,7 +3432,8 @@
             Voluntad, el Apetito y el Deseo, como trayendo a la Naturaleza, cubierto el rostro con
             un cendal negro, ligadas las manos con tres colonias, tirando cada afecto de la suya.
             Caja y sordinas destempladas</stage>
-          <sp who="#acompanamiento #gracia #naturaleza #deseo #apetito #obediencia #voluntad #mundo #culpa #pastor #luzbel #musicos">
+          <sp
+            who="#acompanamiento #gracia #naturaleza #deseo #apetito #obediencia #voluntad #mundo #culpa #pastor #luzbel #musicos">
             <speaker>TODOS</speaker>
             <l n="1800">¡Ay mísera belleza,</l>
             <l>que apenas nace cuando muere a penas!</l>
@@ -3493,7 +3509,8 @@
             <l>un solo instante siquiera,</l>
             <l>que vale mucho un instante.</l>
           </sp>
-          <sp who="#acompanamiento #gracia #deseo #apetito #obediencia #voluntad #pastor #luzbel #naturaleza #musicos #culpa #mundo">
+          <sp
+            who="#acompanamiento #gracia #deseo #apetito #obediencia #voluntad #pastor #luzbel #naturaleza #musicos #culpa #mundo">
             <speaker>TODOS</speaker>
             <l>¿Quién quieres que no se mueva</l>
             <l n="1840">perezosamente triste</l>
@@ -3503,7 +3520,8 @@
             <speaker>LUZBEL</speaker>
             <l part="F">Quien sepa...</l>
           </sp>
-          <sp who="#acompanamiento #gracia #deseo #apetito #obediencia #voluntad #pastor #naturaleza #musicos #culpa #mundo #luzbel">
+          <sp
+            who="#acompanamiento #gracia #deseo #apetito #obediencia #voluntad #pastor #naturaleza #musicos #culpa #mundo #luzbel">
             <speaker>TODOS</speaker>
             <l part="I">¿Qué?</l>
           </sp>
@@ -3539,7 +3557,8 @@
             <l>¡Ay mísera belleza,</l>
             <l>que apenas nace cuando muere a penas!</l>
           </sp>
-          <sp who="#acompanamiento #gracia #deseo #apetito #obediencia #voluntad #pastor #naturaleza #musicos #mundo #luzbel #culpa">
+          <sp
+            who="#acompanamiento #gracia #deseo #apetito #obediencia #voluntad #pastor #naturaleza #musicos #mundo #luzbel #culpa">
             <speaker>TODOS Y MÚSICA</speaker>
             <l n="1860">¡Ay mísera belleza,</l>
             <l>que apenas nace cuando muere a penas!</l>
@@ -3618,7 +3637,8 @@
         </div>
         <div type="scene" resp="#rojas" n="36">
           <stage>Vase</stage>
-          <sp who="#acompanamiento #gracia #deseo #apetito #obediencia #voluntad #naturaleza #musicos #mundo #culpa #luzbel #pastor">
+          <sp
+            who="#acompanamiento #gracia #deseo #apetito #obediencia #voluntad #naturaleza #musicos #mundo #culpa #luzbel #pastor">
             <speaker>TODOS</speaker>
             <l>¡Notable afecto de amor!</l>
           </sp>
@@ -3634,7 +3654,8 @@
             <speaker>CULPA</speaker>
             <l>...que igual pasión gima y tema.</l>
           </sp>
-          <sp who="#acompanamiento #gracia #deseo #apetito #obediencia #voluntad #naturaleza #musicos #mundo #pastor #luzbel #culpa">
+          <sp
+            who="#acompanamiento #gracia #deseo #apetito #obediencia #voluntad #naturaleza #musicos #mundo #pastor #luzbel #culpa">
             <speaker>TODOS</speaker>
             <l n="1905">¿Qué corazón a su vista</l>
             <l>habrá que no se suspenda?</l>
@@ -3666,7 +3687,8 @@
             <l>mi Espíritu se encomienda.</l>
           </sp>
           <stage>Terremoto</stage>
-          <sp who="#acompanamiento #gracia #deseo #apetito #obediencia #voluntad #musicos #luzbel #culpa #naturaleza #mundo #pastor">
+          <sp
+            who="#acompanamiento #gracia #deseo #apetito #obediencia #voluntad #musicos #luzbel #culpa #naturaleza #mundo #pastor">
             <speaker>TODOS</speaker>
             <l part="I">¿Qué es esto, cielos?</l>
           </sp>
@@ -3725,7 +3747,8 @@
             <speaker>OTROS</speaker>
             <l n="1945" part="F">¡Que confusión!</l>
           </sp>
-          <sp who="#acompanamiento #gracia #obediencia #musicos #naturaleza #pastor #voluntad #deseo #apetito #mundo #luzbel #culpa">
+          <sp
+            who="#acompanamiento #gracia #obediencia #musicos #naturaleza #pastor #voluntad #deseo #apetito #mundo #luzbel #culpa">
             <speaker>TODOS</speaker>
             <l>¡O espira en tanta tragedia</l>
             <l>su gran hacedor, o espira</l>
@@ -3959,7 +3982,8 @@
             <l n="2065" part="F">A tanto</l>
             <l part="I">asombro...</l>
           </sp>
-          <sp who="#acompanamiento #musicos #voluntad #deseo #apetito #mundo #naturaleza #obediencia #abel #moises #gracia #san-juan #pastor #luzbel #culpa">
+          <sp
+            who="#acompanamiento #musicos #voluntad #deseo #apetito #mundo #naturaleza #obediencia #abel #moises #gracia #san-juan #pastor #luzbel #culpa">
             <speaker>TODOS</speaker>
             <l part="F">A tanta fineza...</l>
           </sp>
@@ -3975,13 +3999,15 @@
             <speaker>NATURALEZA</speaker>
             <l>...vivan mis felicidades.</l>
           </sp>
-          <sp who="#acompanamiento #musicos #voluntad #deseo #apetito #mundo #obediencia #abel #moises #gracia #san-juan #pastor #luzbel #culpa #naturaleza">
+          <sp
+            who="#acompanamiento #musicos #voluntad #deseo #apetito #mundo #obediencia #abel #moises #gracia #san-juan #pastor #luzbel #culpa #naturaleza">
             <speaker>TODOS</speaker>
             <l n="2070">Y las de todos con ellas,</l>
             <l>humildemente diciendo</l>
             <l>a las reales plantas vuestras:</l>
           </sp>
-          <sp who="#musicos #acompanamiento #voluntad #deseo #apetito #mundo #obediencia #abel #moises #gracia #san-juan #pastor #luzbel #culpa #naturaleza">
+          <sp
+            who="#musicos #acompanamiento #voluntad #deseo #apetito #mundo #obediencia #abel #moises #gracia #san-juan #pastor #luzbel #culpa #naturaleza">
             <speaker>MÚSICA Y TODOS</speaker>
             <l>Que, supuesto que es día</l>
             <l>de hacer finezas,</l>

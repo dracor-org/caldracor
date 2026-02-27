@@ -37,11 +37,14 @@
         <bibl type="digitalSource">
           <name/>
           <idno type="URL"/>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de Carlos Castellano Gasch,
-              Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2014. ISBN:
-              978-3-944244-21-1.</title>
-          </bibl>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la edición de</note>
+          <editor>Carlos Castellano Gasch</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>:
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>2014</date>.
+          <idno type="ISBN">978-3-944244-21-1</idno>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -1344,7 +1347,8 @@
             <l part="F">Ya con la presa</l>
             <l>se retira a la montaña.</l>
           </sp>
-          <sp who="#bautista #duque #andres #diego #juan #mateo #simplicidad #malicia #lisonja #acompanamiento">
+          <sp
+            who="#bautista #duque #andres #diego #juan #mateo #simplicidad #malicia #lisonja #acompanamiento">
             <speaker>TODOS</speaker>
             <l>A la selva, al risco, al llano,</l>
             <l part="I">al monte.</l>
@@ -1767,7 +1771,8 @@
             <l part="I">y otra vez…</l>
           </sp>
           <stage>Dentro</stage>
-          <sp who="#duque #andres #diego #juan #mateo #simplicidad #malicia #acompanamiento #bautista #sinagoga #lisonja">
+          <sp
+            who="#duque #andres #diego #juan #mateo #simplicidad #malicia #acompanamiento #bautista #sinagoga #lisonja">
             <speaker>TODOS</speaker>
             <l part="F">Amaina, amaina.</l>
           </sp>
@@ -1791,7 +1796,8 @@
             <l>Más es desaire que salva.</l>
           </sp>
           <stage>Da vuelta la nave.</stage>
-          <sp who="#duque #andres #diego #juan #mateo #simplicidad #malicia #acompanamiento #bautista #lisonja #sinagoga">
+          <sp
+            who="#duque #andres #diego #juan #mateo #simplicidad #malicia #acompanamiento #bautista #lisonja #sinagoga">
             <speaker>TODOS</speaker>
             <l>Buen vïaje, buen pasaje.</l>
           </sp>
@@ -1815,7 +1821,8 @@
             <l>que a su tálamo me llama.</l>
           </sp>
           <stage>Da vuelta la nave.</stage>
-          <sp who="#andres #diego #juan #mateo #simplicidad #malicia #acompanamiento #bautista #lisonja #sinagoga #pedro #esposa">
+          <sp
+            who="#andres #diego #juan #mateo #simplicidad #malicia #acompanamiento #bautista #lisonja #sinagoga #pedro #esposa">
             <speaker>TODOS</speaker>
             <l>Buen vïaje, buen pasaje.</l>
           </sp>
@@ -1856,7 +1863,8 @@
             <l>Tormenta nos amenaza</l>
             <l>de opuestos contrarios vientos.</l>
           </sp>
-          <sp who="#andres #diego #juan #mateo #simplicidad #malicia #acompanamiento #bautista #pedro #sinagoga #lisonja #esposa">
+          <sp
+            who="#andres #diego #juan #mateo #simplicidad #malicia #acompanamiento #bautista #pedro #sinagoga #lisonja #esposa">
             <speaker>TODOS</speaker>
             <l>Iza, vira, amaina, amaina.</l>
           </sp>
@@ -1931,7 +1939,8 @@
         </div>
         <div type="scene" resp="#rojas" n="17">
           <stage>VanseDentro cajas.Dentro</stage>
-          <sp who="#andres #diego #juan #mateo #simplicidad #malicia #acompanamiento #bautista #pedro #esposa #sinagoga #lisonja">
+          <sp
+            who="#andres #diego #juan #mateo #simplicidad #malicia #acompanamiento #bautista #pedro #esposa #sinagoga #lisonja">
             <speaker>TODOS</speaker>
             <l>Iza, vira, amaina, amaina.</l>
           </sp>
@@ -1979,7 +1988,8 @@
             <speaker>ORACIÓN</speaker>
             <l>Y no lo diga eso solo.</l>
           </sp>
-          <sp who="#andres #diego #juan #mateo #simplicidad #malicia #acompanamiento #bautista #sinagoga #lisonja #pedro #esposa #oracion">
+          <sp
+            who="#andres #diego #juan #mateo #simplicidad #malicia #acompanamiento #bautista #sinagoga #lisonja #pedro #esposa #oracion">
             <speaker>TODOS</speaker>
             <l n="1115">¿Pues qué? Dilo en voces altas.</l>
           </sp>
@@ -1991,7 +2001,8 @@
             <l>y es serenidad del cielo</l>
             <l>que paz publique la tierra.</l>
           </sp>
-          <sp who="#andres #diego #juan #mateo #simplicidad #malicia #acompanamiento #bautista #sinagoga #lisonja #pedro #esposa #oracion">
+          <sp
+            who="#andres #diego #juan #mateo #simplicidad #malicia #acompanamiento #bautista #sinagoga #lisonja #pedro #esposa #oracion">
             <speaker>TODOS</speaker>
             <l n="1120">Tierra, tierra.</l>
           </sp>
@@ -2003,7 +2014,8 @@
             <l>y es serenidad del cielo</l>
             <l>que paz publique la tierra.</l>
           </sp>
-          <sp who="#andres #diego #juan #mateo #simplicidad #malicia #acompanamiento #bautista #sinagoga #lisonja #pedro #esposa #oracion #musicos">
+          <sp
+            who="#andres #diego #juan #mateo #simplicidad #malicia #acompanamiento #bautista #sinagoga #lisonja #pedro #esposa #oracion #musicos">
             <speaker>TODOS</speaker>
             <l n="1125">Tierra, tierra.</l>
           </sp>
@@ -2024,7 +2036,8 @@
             <l>que es serenidad del cielo</l>
             <l n="1135">que paz publique la tierra.</l>
           </sp>
-          <sp who="#andres #diego #juan #mateo #simplicidad #malicia #acompanamiento #bautista #sinagoga #lisonja #pedro #esposa #oracion #musicos">
+          <sp
+            who="#andres #diego #juan #mateo #simplicidad #malicia #acompanamiento #bautista #sinagoga #lisonja #pedro #esposa #oracion #musicos">
             <speaker>TODOS</speaker>
             <l>Tierra, tierra.</l>
           </sp>
@@ -2045,7 +2058,8 @@
             <l n="1145">que es serenidad del cielo</l>
             <l>que paz publique la tierra.</l>
           </sp>
-          <sp who="#andres #diego #juan #mateo #simplicidad #malicia #acompanamiento #bautista #sinagoga #lisonja #pedro #esposa #oracion #musicos">
+          <sp
+            who="#andres #diego #juan #mateo #simplicidad #malicia #acompanamiento #bautista #sinagoga #lisonja #pedro #esposa #oracion #musicos">
             <speaker>TODOS</speaker>
             <l>Tierra, tierra.</l>
           </sp>
@@ -2271,7 +2285,8 @@
             <stage>Dentro cajas y voces.Dentro</stage>
             <l part="F">Arma, arma.</l>
           </sp>
-          <sp who="#juan #acompanamiento #bautista #sinagoga #lisonja #oracion #pedro #andres #mateo #simplicidad #duque #esposa #malicia #musicos">
+          <sp
+            who="#juan #acompanamiento #bautista #sinagoga #lisonja #oracion #pedro #andres #mateo #simplicidad #duque #esposa #malicia #musicos">
             <speaker>TODOS</speaker>
             <l part="I">¿Qué es esto?</l>
             <stage>Dentro</stage>
@@ -2478,7 +2493,8 @@
             <l>que no se mire triunfante,</l>
             <l>glorioso el laurel del Austria.</l>
           </sp>
-          <sp who="#juan #acompanamiento #sinagoga #lisonja #oracion #pedro #andres #mateo #simplicidad #musicos #esposa #bautista #malicia #duque">
+          <sp
+            who="#juan #acompanamiento #sinagoga #lisonja #oracion #pedro #andres #mateo #simplicidad #musicos #esposa #bautista #malicia #duque">
             <speaker>TODOS</speaker>
             <l n="1415">Por tan supremos favores</l>
             <l>a todos nos da tus plantas.</l>
@@ -2607,7 +2623,8 @@
             <speaker>DIEGO</speaker>
             <l>…Felipe, Señor, te aclama…</l>
           </sp>
-          <sp who="#acompanamiento #sinagoga #lisonja #oracion #coro #coro-1 #coro-2 #musicos #bautista #simplicidad #esposa #mateo #juan #malicia #pedro #duque #andres #diego">
+          <sp
+            who="#acompanamiento #sinagoga #lisonja #oracion #coro #coro-1 #coro-2 #musicos #bautista #simplicidad #esposa #mateo #juan #malicia #pedro #duque #andres #diego">
             <speaker>TODOS</speaker>
             <l n="1475">…pues vas a vencer la fiera</l>
             <l>cerviz de siete gargantas.</l>
@@ -3640,7 +3657,8 @@
             <l>En tanto que se previene</l>
             <l>a la Gracia otro festejo.</l>
           </sp>
-          <sp who="#acompanamiento #coro #coro-1 #coro-2 #musicos #oracion #lisonja #malicia #simplicidad #andres #bautista #juan #mateo #diego #pedro #sinagoga #esposa #duque">
+          <sp
+            who="#acompanamiento #coro #coro-1 #coro-2 #musicos #oracion #lisonja #malicia #simplicidad #andres #bautista #juan #mateo #diego #pedro #sinagoga #esposa #duque">
             <speaker>TODOS</speaker>
             <l>Y las de todos humildes</l>
             <l n="1910">a vuestras plantas, diciendo:</l>

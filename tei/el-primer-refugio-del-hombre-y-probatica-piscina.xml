@@ -37,10 +37,14 @@
         <bibl type="digitalSource">
           <name/>
           <idno type="URL"/>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de Rafael Zafra, Pamplona–Kassel,
-              Universidad de Navarra–Reichenberger, 1997. ISBN:978-3-944244-66-2.</title>
-          </bibl>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la edición de</note>
+          <editor>Rafael Zafra</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>:
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>1997</date>.
+          <idno type="ISBN">978-3-944244-66-2</idno>
         </bibl>
       </sourceDesc>
     </fileDesc>

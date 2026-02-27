@@ -37,12 +37,19 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/quien-hallara-mujer-fuerte--0/html/</idno>
-          <bibl type="originalSource">
-            <title>Texto crítico preparado por Ignacio Arellano y Luis Galván procedente de la
-              edición Calderón de la Barca, Pedro, ¿Quién hallará mujer fuerte?, ed. Ignacio
-              Arellano y Luis Galván, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2001.
-              ISBN: 3-935004-42-7.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Texto crítico preparado por Ignacio Arellano y Luis Galván procedente de la edición</note>
+          <author>Calderón de la Barca, Pedro</author>,
+          <title level="a">¿Quién hallará mujer fuerte?</title>,
+          <editor>Ignacio Arellano</editor> y <editor>Luis Galván</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>,
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>2001</date>.
+          <idno type="ISBN">3-935004-42-7</idno>.
         </bibl>
       </sourceDesc>
     </fileDesc>

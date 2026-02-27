@@ -37,11 +37,19 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/el-nuevo-hospicio-de-pobres--0/html/</idno>
-          <bibl type="originalSource">
-            <title>Texto crítico preparado por Ignacio Arellano procedente de la edición Calderón de
-              la Barca, Pedro, El nuevo hospicio de pobres, ed. Ignacio Arellano, Pamplona–Kassel,
-              Universidad de Navarra–Reichenberger, 1995. ISBN: 3-930700-34-4.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Calderón de la Barca, Pedro</author>,
+          <title level="a">El nuevo hospicio de pobres</title>,
+          <editor>Ignacio Arellano</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>:
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>1995</date>.
+          <idno type="ISBN">3-930700-34-4</idno>
+          <note>Texto crítico preparado por Ignacio Arellano procedente de la edición indicada.</note>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -3450,7 +3458,8 @@
           <stage>Las chirimías, y ábrese un carro en que estará una mesa y en su cabecera el
             PRÍNCIPE y SULAMITIS, y a una banda y otra las tres VIRTUDES y los cuatro pobres con
             ropas de velillo y la APOSTASÍA sin ella.</stage>
-          <sp who="#apostasía #idolatría #gentilismo #hebraísmo #príncipe #sulamitis #caridad #esperanza #misericordia #fortaleza #música">
+          <sp
+            who="#apostasía #idolatría #gentilismo #hebraísmo #príncipe #sulamitis #caridad #esperanza #misericordia #fortaleza #música">
             <speaker>TODOS Y MÚSICA</speaker>
             <l>Aunque no somos, Señor,</l>
             <l>por nuestros merecimientos</l>
@@ -3493,7 +3502,8 @@
             <l>solo a costa de decir</l>
             <l n="1955">en el cántico con ellos:</l>
           </sp>
-          <sp who="#apostasía #idolatría #gentilismo #hebraísmo #príncipe #sulamitis #caridad #esperanza #misericordia #fortaleza">
+          <sp
+            who="#apostasía #idolatría #gentilismo #hebraísmo #príncipe #sulamitis #caridad #esperanza #misericordia #fortaleza">
             <speaker>TODOS</speaker>
             <l>Ya que en vuestra santa palabra nos vemos</l>
             <l>salvos, perdonados, sanos y contentos.</l>

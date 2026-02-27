@@ -37,12 +37,19 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/la-protestacion-de-la-fe--0/html/</idno>
-          <bibl type="originalSource">
-            <title>Texto crítico preparado por Gregory Peter Andrachuk procedente de la edición
-              Calderón de la Barca, Pedro, La protestación de la fe, ed. Gregory Peter Andrachuk,
-              Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2001. ISBN:
-              3-935004-19-2.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Texto crítico preparado por Gregory Peter Andrachuk procedente de la edición</note>
+          <author>Calderón de la Barca, Pedro</author>,
+          <title level="a">La protestación de la fe</title>,
+          <editor>Gregory Peter Andrachuk</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>,
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>2001</date>.
+          <idno type="ISBN">3-935004-19-2</idno>.
         </bibl>
       </sourceDesc>
     </fileDesc>

@@ -38,14 +38,15 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="originalSource">
-          <title>Edición digital a partir de la Segunda parte de Obras Completas de Don Pedro
-            Calderón de la Barca. Textos íntegros según las primeras ediciones y los manuscritos
-            autógrafos, edición, prólogo y notas por el Dr. Ángel Valbuena Prat, Tomo II: Comedias.
-            Madrid: Aguilar 1956. La primera édicion de esta comedia se imprimio en: Biblioteca de
-            Autores Españoles, Tomo Noveno, Comedias de Don Pedro Calderón de la Barca, hecha é
-            ilustrada pro Don Juan Eugenio Hartzenbusch, Tomo Segundo, Madrid: Rivadeneyra
-            1849.</title>
+        <bibl type="originalSource"> Edición digital a partir de la <title level="m">Segunda parte
+            de Obras Completas de Don Pedro Calderón de la Barca</title>. Textos íntegros según las
+          primeras ediciones y los manuscritos autógrafos, edición, prólogo y notas por el
+            <editor>Dr. Ángel Valbuena Prat</editor>, <biblScope unit="volume">Tomo II:
+            Comedias</biblScope>. <pubPlace>Madrid</pubPlace>: <publisher>Aguilar</publisher>,
+            <date>1956</date>. <note>La primera edición de esta comedia se imprimió en: Biblioteca
+            de Autores Españoles, Tomo Noveno, Comedias de Don Pedro Calderón de la Barca, hecha e
+            ilustrada por Don Juan Eugenio Hartzenbusch, Tomo Segundo, Madrid: Rivadeneyra,
+            1849.</note>
         </bibl>
       </sourceDesc>
     </fileDesc>

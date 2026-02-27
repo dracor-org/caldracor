@@ -38,17 +38,21 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="sourceText">
+        <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/descargaPdf/el-alcayde-de-si-mismo--0/</idno>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la Octaua parte de comedias del celebre poeta español
-              don Pedro Calderon de la Barca ..., En Madrid : por Francisco Sanz..., 1684, pp.
-              431-473. La modernización de la ortografía, la acentuación y la puntuación se ha
-              realizado mediante el modelo de transcripción desarrollado por Álvaro Cuéllar,
-              “Spanish Golden Age Theatre Prints (Spelling Modernization) 1.0”. Transkribus,
-              2021.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la</note>
+          <title level="m">Octaua parte de comedias del celebre poeta español don Pedro Calderon de la Barca ...</title>,
+          <pubPlace>Madrid</pubPlace>:
+          <publisher>por Francisco Sanz...</publisher>,
+          <date>1684</date>,
+          <biblScope unit="page" from="431" to="473">431–473</biblScope>.
+          <note>La modernización de la ortografía, la acentuación y la puntuación se ha realizado mediante el modelo de transcripción desarrollado por Álvaro Cuéllar, “Spanish Golden Age Theatre Prints (Spelling Modernization) 1.0”. Transkribus, 2021.</note>
         </bibl>
       </sourceDesc>
     </fileDesc>

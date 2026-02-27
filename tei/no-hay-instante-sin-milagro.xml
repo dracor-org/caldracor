@@ -37,12 +37,20 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/no-hay-instante-sin-milagro--0/html/</idno>
-          <bibl type="originalSource">
-            <title>Texto crítico preparado por Ignacio Arellano, Ildefonso Adeva y Rafael Zafra
-              procedente de la edición Calderón de la Barca, Pedro, No hay instante sin milagro, ed.
-              Ignacio Arellano, Ildefonso Adeva y Rafael Zafra, Pamplona–Kassel, Universidad de
-              Navarra–Reichenberger, 1995. ISBN: 3-930700-17-4.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Texto crítico preparado por Ignacio Arellano, Ildefonso Adeva y Rafael Zafra procedente de la edición</note>
+          <author>Calderón de la Barca, Pedro</author>,
+          <title level="a">No hay instante sin milagro</title>,
+          <editor>Ignacio Arellano</editor>,
+          <editor>Ildefonso Adeva</editor> y <editor>Rafael Zafra</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>,
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>1995</date>.
+          <idno type="ISBN">3-930700-17-4</idno>.
         </bibl>
       </sourceDesc>
     </fileDesc>

@@ -37,10 +37,14 @@
         <bibl type="digitalSource">
           <name/>
           <idno type="URL"/>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de Catalina Buezo, Pamplona–Kassel,
-              Universidad de Navarra– Reichenberger, 2002. ISBN: 3-935004-39-7.</title>
-          </bibl>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la edición de</note>
+          <editor>Catalina Buezo</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>:
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>2002</date>.
+          <idno type="ISBN">3-935004-39-7</idno>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -933,7 +937,8 @@
             <stage>Cajas y trompetas</stage>
             <l>¿quién ha de ser contra nos?</l>
           </sp>
-          <sp who="#idolatria #coro-2 #iran #abiud #ofni #finees #coro-1 #musicos #acompanamiento #turpin">
+          <sp
+            who="#idolatria #coro-2 #iran #abiud #ofni #finees #coro-1 #musicos #acompanamiento #turpin">
             <speaker>TODOS</speaker>
             <l>¿Qué nuevo rumor es este?</l>
           </sp>
@@ -1126,7 +1131,8 @@
             <stage>Dentro</stage>
             <l>A la montaña, israelitas.</l>
           </sp>
-          <sp who="#coro-2 #coro-1 #musicos #acompanamiento #turpin #finees #ofni #iran #abiud #idolatria">
+          <sp
+            who="#coro-2 #coro-1 #musicos #acompanamiento #turpin #finees #ofni #iran #abiud #idolatria">
             <speaker>TODOS</speaker>
             <l>Hebreos, a la montaña.</l>
           </sp>
@@ -1160,7 +1166,8 @@
             <l part="I">Mueran todos.</l>
           </sp>
           <stage>Las cajas</stage>
-          <sp who="#coro-1 #musicos #acompanamiento #iran #abiud #idolatria #ofni #finees #turpin #goliat">
+          <sp
+            who="#coro-1 #musicos #acompanamiento #iran #abiud #idolatria #ofni #finees #turpin #goliat">
             <speaker>TODOS</speaker>
             <l n="560" part="F">¡Guerra, guerra!</l>
           </sp>
@@ -1168,7 +1175,8 @@
             <speaker>GOLIAT</speaker>
             <l part="I">Ninguno escape.</l>
           </sp>
-          <sp who="#coro-1 #musicos #acompanamiento #iran #abiud #idolatria #ofni #finees #turpin #goliat">
+          <sp
+            who="#coro-1 #musicos #acompanamiento #iran #abiud #idolatria #ofni #finees #turpin #goliat">
             <speaker>TODOS</speaker>
             <l part="F">¡Arma, arma!</l>
           </sp>
@@ -2080,7 +2088,8 @@
             <l>desempeñando sus votos</l>
             <l part="I">con sus juicios?</l>
           </sp>
-          <sp who="#ofni #finees #musicos #coro-2 #coro-1 #soldado #soldado-1 #miguel #idolatria #goliat #acompanamiento #abiud #iran #samuel">
+          <sp
+            who="#ofni #finees #musicos #coro-2 #coro-1 #soldado #soldado-1 #miguel #idolatria #goliat #acompanamiento #abiud #iran #samuel">
             <speaker>TODOS</speaker>
             <l part="M">No.</l>
           </sp>
@@ -2401,7 +2410,8 @@
             <l n="1260">Acompañémosle todos</l>
             <l part="I">hasta el templo.</l>
           </sp>
-          <sp who="#coro-2 #coro-1 #soldado #soldado-1 #miguel #goliat #acompanamiento #abiud #iran #finees #segador-2 #turpin #musicos #idolatria #samuel #segador-1">
+          <sp
+            who="#coro-2 #coro-1 #soldado #soldado-1 #miguel #goliat #acompanamiento #abiud #iran #finees #segador-2 #turpin #musicos #idolatria #samuel #segador-1">
             <speaker>TODOS</speaker>
             <l part="F">Norabuena.</l>
           </sp>
@@ -2410,7 +2420,8 @@
             <l>Sí, mas diciendo otra vez,</l>
             <l>y otras mil y otras milenta:</l>
           </sp>
-          <sp who="#coro-2 #coro-1 #soldado #soldado-1 #miguel #goliat #acompanamiento #abiud #iran #finees #segador-2 #musicos #idolatria #samuel #segador-1 #turpin">
+          <sp
+            who="#coro-2 #coro-1 #soldado #soldado-1 #miguel #goliat #acompanamiento #abiud #iran #finees #segador-2 #musicos #idolatria #samuel #segador-1 #turpin">
             <speaker>TODOS</speaker>
             <l>A la siega, a la siega, zagales,</l>
             <l n="1265">zagales venid, venid a la siega,</l>
@@ -2630,7 +2641,8 @@
             <l part="I">tonadilla.</l>
           </sp>
           <stage>Toman bieldos y hacen la acción de aventar el trigo, cantando</stage>
-          <sp who="#coro-2 #coro-1 #soldado #soldado-1 #miguel #acompanamiento #abiud #iran #finees #musicos #samuel #idolatria #goliat #segador-3 #segador-4 #segador-5 #turpin #segador-1 #segador-2">
+          <sp
+            who="#coro-2 #coro-1 #soldado #soldado-1 #miguel #acompanamiento #abiud #iran #finees #musicos #samuel #idolatria #goliat #segador-3 #segador-4 #segador-5 #turpin #segador-1 #segador-2">
             <speaker>TODOS</speaker>
             <l part="F">Norabuena.</l>
           </sp>
@@ -2675,7 +2687,8 @@
             <l>carreta de oro que al valle</l>
             <l>baja venciendo la cuesta?</l>
           </sp>
-          <sp who="#coro-2 #coro-1 #soldado #soldado-1 #miguel #acompanamiento #abiud #iran #finees #samuel #idolatria #goliat #segador-3 #segador-4 #segador-5 #musicos #turpin #segador-1 #segador-2">
+          <sp
+            who="#coro-2 #coro-1 #soldado #soldado-1 #miguel #acompanamiento #abiud #iran #finees #samuel #idolatria #goliat #segador-3 #segador-4 #segador-5 #musicos #turpin #segador-1 #segador-2">
             <speaker>TODOS</speaker>
             <l part="I">¿Qué será aquello?</l>
           </sp>
@@ -3102,7 +3115,8 @@
             <stage>Dentro</stage>
             <l part="I">Lleguemos todos.</l>
           </sp>
-          <sp who="#coro-2 #coro-1 #soldado #soldado-1 #acompanamiento #abiud #iran #finees #musicos #angel #miguel #segador-3 #segador-4 #segador-2 #segador-5 #segador-1 #goliat #turpin #idolatria #samuel">
+          <sp
+            who="#coro-2 #coro-1 #soldado #soldado-1 #acompanamiento #abiud #iran #finees #musicos #angel #miguel #segador-3 #segador-4 #segador-2 #segador-5 #segador-1 #goliat #turpin #idolatria #samuel">
             <speaker>TODOS</speaker>
             <stage>Dentro</stage>
             <l part="F">Lleguemos.</l>
@@ -3143,7 +3157,8 @@
             <l n="1640">de las huellas que os han vuelto</l>
             <l part="I">a nuestros ojos.</l>
           </sp>
-          <sp who="#coro-2 #coro-1 #soldado #soldado-1 #acompanamiento #abiud #iran #finees #musicos #angel #miguel #segador-3 #segador-4 #segador-2 #segador-5 #segador-1 #turpin #idolatria #goliat #samuel">
+          <sp
+            who="#coro-2 #coro-1 #soldado #soldado-1 #acompanamiento #abiud #iran #finees #musicos #angel #miguel #segador-3 #segador-4 #segador-2 #segador-5 #segador-1 #turpin #idolatria #goliat #samuel">
             <speaker>TODOS</speaker>
             <l part="F">Y todos</l>
             <l>hacemos, Señor, lo mesmo.</l>
@@ -3164,7 +3179,8 @@
             <speaker>LOS CUATRO</speaker>
             <l part="I">¡Qué dicha!</l>
           </sp>
-          <sp who="#coro-2 #coro-1 #soldado #soldado-1 #acompanamiento #abiud #iran #finees #musicos #angel #segador-3 #segador-4 #segador-2 #segador-5 #segador-1 #turpin #idolatria #goliat #samuel #miguel">
+          <sp
+            who="#coro-2 #coro-1 #soldado #soldado-1 #acompanamiento #abiud #iran #finees #musicos #angel #segador-3 #segador-4 #segador-2 #segador-5 #segador-1 #turpin #idolatria #goliat #samuel #miguel">
             <speaker>TODOS</speaker>
             <l part="M">¡Qué bien!</l>
           </sp>
@@ -3493,7 +3509,8 @@
             <l>siglos que el vivo Maná</l>
             <l>hospede en su Alcázar mesmo.</l>
           </sp>
-          <sp who="#coro-2 #coro-1 #soldado #soldado-1 #acompanamiento #abiud #iran #finees #angel #segador-3 #segador-4 #segador-2 #segador-5 #segador-1 #turpin #sinagoga #iglesia #nino-1 #nino-2 #musicos #goliat #idolatria #miguel #samuel">
+          <sp
+            who="#coro-2 #coro-1 #soldado #soldado-1 #acompanamiento #abiud #iran #finees #angel #segador-3 #segador-4 #segador-2 #segador-5 #segador-1 #turpin #sinagoga #iglesia #nino-1 #nino-2 #musicos #goliat #idolatria #miguel #samuel">
             <speaker>TODOS</speaker>
             <l>Acompañémosla todos.</l>
           </sp>
@@ -3503,7 +3520,8 @@
             <l>después que habíamos pedido</l>
             <l>el perdón de nuestros yerros:</l>
           </sp>
-          <sp who="#coro-2 #coro-1 #soldado #soldado-1 #acompanamiento #abiud #iran #finees #angel #segador-3 #segador-4 #segador-2 #segador-5 #segador-1 #sinagoga #iglesia #nino-1 #nino-2 #musicos #goliat #idolatria #miguel #samuel #turpin">
+          <sp
+            who="#coro-2 #coro-1 #soldado #soldado-1 #acompanamiento #abiud #iran #finees #angel #segador-3 #segador-4 #segador-2 #segador-5 #segador-1 #sinagoga #iglesia #nino-1 #nino-2 #musicos #goliat #idolatria #miguel #samuel #turpin">
             <speaker>TODOS Y MÚSICA</speaker>
             <l>Venturoso el siglo</l>
             <l>que ve el cumplimiento</l>

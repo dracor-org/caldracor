@@ -37,11 +37,15 @@
         <bibl type="digitalSource">
           <name/>
           <idno type="URL"/>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de de A. Cortijo, ed. A. Rodríguez
-              Rípodas, Pamplona– Kassel, Universidad de Navarra– Reichenberger, 2006. ISBN:
-              3937734309.</title>
-          </bibl>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la edición de</note>
+          <editor>A. Cortijo</editor>,
+          <editor>A. Rodríguez Rípodas</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>,
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>2006</date>.
+          <idno type="ISBN">3937734309</idno>.
         </bibl>
       </sourceDesc>
     </fileDesc>

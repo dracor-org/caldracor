@@ -36,10 +36,17 @@
         <bibl type="digitalSource">
           <name>DADUN Depositorio académico digital Universidad de Navarra</name>
           <idno type="URL">https://dadun.unav.edu/handle/10171/18225</idno>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de I. Arellano, Pamplona–Kassel,
-              Universidad de Navarra– Reichenberger, 2010. ISBN: 978-3-937734-79-8.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la edición de</note>
+          <editor>I. Arellano</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>:
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>2010</date>.
+          <idno type="ISBN">978-3-937734-79-8</idno>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -1421,7 +1428,8 @@
             <stage>Canta.</stage>
             <l>¡Albricias, albricias pido!</l>
           </sp>
-          <sp who="#naturaleza #musicos #estio #invierno #vanidad #hombre #otono #demonio #primavera">
+          <sp
+            who="#naturaleza #musicos #estio #invierno #vanidad #hombre #otono #demonio #primavera">
             <speaker>TODOS</speaker>
             <l n="805">¿De qué, porque te las den?</l>
           </sp>
@@ -1430,7 +1438,8 @@
             <l>De que a aumentar nuestro bien</l>
             <l>la emperatriz ha salido.</l>
           </sp>
-          <sp who="#naturaleza #musicos #estio #invierno #vanidad #hombre #otono #demonio #primavera">
+          <sp
+            who="#naturaleza #musicos #estio #invierno #vanidad #hombre #otono #demonio #primavera">
             <speaker>TODOS</speaker>
             <l part="I">¿Quién lo dice?</l>
           </sp>
@@ -1440,7 +1449,8 @@
             <l>quien su beldad adoré,</l>
             <l n="810">que estrella del campo fue.</l>
           </sp>
-          <sp who="#naturaleza #musicos #estio #invierno #vanidad #hombre #otono #demonio #primavera">
+          <sp
+            who="#naturaleza #musicos #estio #invierno #vanidad #hombre #otono #demonio #primavera">
             <speaker>TODOS</speaker>
             <stage>Bailan.</stage>
             <l>Pues hagamos alegrías</l>

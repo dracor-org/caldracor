@@ -39,10 +39,12 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="originalSource">
-          <title>Pedro Calderón de la Barca, Comedias. El maestro de danzar. Edición de Luis
-            Iglesias Feijoo. Tercera Parte de comedias. Dirección de Don William Cruickshank y Luis
-            Iglesias Feijoo. Madrid: Fundación José Antonio de Castro, 2007.</title>
-        </bibl>
+          <author>Pedro Calderón de la Barca</author>, <title level="s">Comedias</title>. <title
+            level="a">El maestro de danzar</title>. Edición de <editor>Luis Iglesias
+          Feijoo</editor>. <title level="m">Tercera Parte de comedias</title>. Dirección de
+            <editor>Don William Cruickshank</editor> y <editor>Luis Iglesias Feijoo</editor>.
+            <pubPlace>Madrid</pubPlace>: <publisher>Fundación José Antonio de Castro</publisher>,
+            <date>2007</date>. </bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -7062,7 +7064,8 @@
             <l>Los brazos una y mil veces</l>
             <l>me dad.</l>
           </sp>
-          <sp who="#beatriz #chacón #don-diego #don-enrique #don-fernando #don-félix #don-juan #inés #leonor">
+          <sp
+            who="#beatriz #chacón #don-diego #don-enrique #don-fernando #don-félix #don-juan #inés #leonor">
             <speaker rend="caps">Todos</speaker>
 
 
@@ -7154,7 +7157,8 @@
             <l>que estos señores darán</l>
             <l>licencia, Inés.</l>
           </sp>
-          <sp who="#beatriz #chacón #don-diego #don-enrique #don-fernando #don-félix #don-juan #inés #leonor">
+          <sp
+            who="#beatriz #chacón #don-diego #don-enrique #don-fernando #don-félix #don-juan #inés #leonor">
             <speaker rend="caps">Todos</speaker>
 
 
@@ -7241,7 +7245,8 @@
             <l>Ya no es tiempo de eso. Quien,</l>
             <l>a pesar de todos, salga.</l>
           </sp>
-          <sp who="#beatriz #chacón #don-diego #don-enrique #don-fernando #don-félix #don-juan #inés #leonor">
+          <sp
+            who="#beatriz #chacón #don-diego #don-enrique #don-fernando #don-félix #don-juan #inés #leonor">
             <speaker rend="caps">Todos</speaker>
 
 
@@ -7486,7 +7491,8 @@
             <l>don Diego con igual yerno,</l>
             <l>Fernando con tal venganza!</l>
           </sp>
-          <sp who="#beatriz #chacón #don-diego #don-enrique #don-fernando #don-félix #don-juan #inés #leonor">
+          <sp
+            who="#beatriz #chacón #don-diego #don-enrique #don-fernando #don-félix #don-juan #inés #leonor">
             <speaker rend="caps">Todos</speaker>
 
 
@@ -7508,7 +7514,8 @@
             <l>No nos quitarás, por eso,</l>
             <l>que nuestras voces añadan:…</l>
           </sp>
-          <sp who="#beatriz #chacón #don-diego #don-enrique #don-fernando #don-félix #don-juan #inés #leonor">
+          <sp
+            who="#beatriz #chacón #don-diego #don-enrique #don-fernando #don-félix #don-juan #inés #leonor">
             <speaker rend="caps">Todos</speaker>
 
 

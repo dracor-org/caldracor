@@ -37,12 +37,19 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/el-veneno-y-la-triaca--0/html/</idno>
-          <bibl type="originalSource">
-            <title>Texto crítico preparado por Juan Manuel Escudero procedente de la edición
-              Calderón de la Barca, Pedro, El veneno y la triaca, ed. Juan Manuel Escudero,
-              Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2000. ISBN:
-              3-931887-94-4.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Texto crítico preparado por Juan Manuel Escudero procedente de la edición</note>
+          <author>Calderón de la Barca, Pedro</author>,
+          <title level="a">El veneno y la triaca</title>,
+          <editor>Juan Manuel Escudero</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>,
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>2000</date>.
+          <idno type="ISBN">3-931887-94-4</idno>.
         </bibl>
       </sourceDesc>
     </fileDesc>

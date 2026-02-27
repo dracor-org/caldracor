@@ -38,10 +38,14 @@
         <bibl type="digitalSource">
           <name/>
           <idno type="URL"/>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de Rafael Zafra, Pamplona–Kassel,
-              Universidad de Navarra–Reichenberger, 1997. ISBN:978-3-944244-66-2</title>
-          </bibl>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la edición de</note>
+          <editor>Rafael Zafra</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>:
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>1997</date>.
+          <idno type="ISBN">978-3-944244-66-2</idno>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -286,7 +290,8 @@
             <l n="35">…repitiendo el eco</l>
             <l>en voces diversas:</l>
           </sp>
-          <sp who="#soberbia #afecto-1 #avaricia #afecto-2 #envidia #afecto-3 #lascivia #afecto-4 #ira #afecto-5 #gula #apetito #musicos">
+          <sp
+            who="#soberbia #afecto-1 #avaricia #afecto-2 #envidia #afecto-3 #lascivia #afecto-4 #ira #afecto-5 #gula #apetito #musicos">
             <speaker>TODOS Y MÚSICA</speaker>
             <l>Todos los afectos</l>
             <l>alegres ofrezcan</l>
@@ -312,7 +317,8 @@
             <l>superior del cielo, a dichas</l>
             <l>criada, es átomo apenas!</l>
           </sp>
-          <sp who="#afecto-1 #avaricia #afecto-2 #envidia #afecto-3 #lascivia #afecto-4 #ira #afecto-5 #gula #apetito #musicos #demonio">
+          <sp
+            who="#afecto-1 #avaricia #afecto-2 #envidia #afecto-3 #lascivia #afecto-4 #ira #afecto-5 #gula #apetito #musicos #demonio">
             <speaker>TODOS Y MÚSICA</speaker>
             <l>Todos los afectos</l>
             <l>alegres ofrezcan…</l>
@@ -324,7 +330,8 @@
             <l>que alimentado del fuego</l>
             <l>sobre el aire se sustenta!</l>
           </sp>
-          <sp who="#afecto-1 #avaricia #afecto-2 #envidia #afecto-3 #lascivia #afecto-4 #ira #afecto-5 #gula #apetito #musicos #demonio">
+          <sp
+            who="#afecto-1 #avaricia #afecto-2 #envidia #afecto-3 #lascivia #afecto-4 #ira #afecto-5 #gula #apetito #musicos #demonio">
             <speaker>TODOS Y MÚSICA</speaker>
             <l>…al Género humano</l>
             <l n="60">músicas y fiestas,…</l>
@@ -342,7 +349,8 @@
             <l>repetid la letra:</l>
             <l>porque en mi destierro…</l>
           </sp>
-          <sp who="#musicos #afecto-1 #avaricia #afecto-2 #envidia #afecto-3 #lascivia #afecto-4 #ira #afecto-5 #gula #apetito #demonio #genero-humano">
+          <sp
+            who="#musicos #afecto-1 #avaricia #afecto-2 #envidia #afecto-3 #lascivia #afecto-4 #ira #afecto-5 #gula #apetito #demonio #genero-humano">
             <speaker>MÚSICA Y TODOS</speaker>
             <l>…porque en su destierro</l>
             <l>templen y diviertan</l>
@@ -419,7 +427,8 @@
             <l>decir con todos es fuerza…</l>
           </sp>
           <stage>Todos cantando y representando</stage>
-          <sp who="#ira #afecto-5 #demonio #soberbia #avaricia #lascivia #envidia #gula #afecto-1 #afecto-2 #afecto-3 #afecto-4 #apetito #genero-humano #musicos">
+          <sp
+            who="#ira #afecto-5 #demonio #soberbia #avaricia #lascivia #envidia #gula #afecto-1 #afecto-2 #afecto-3 #afecto-4 #apetito #genero-humano #musicos">
             <speaker>ÉL, TODOS Y MÚSICA</speaker>
             <l>¿Quién llama? ¿Quién es?</l>
             <l>¿Quién viene? ¿Quién llega</l>
@@ -874,7 +883,8 @@
             <speaker>AFECTO 2.º</speaker>
             <l part="F">¡Qué miseria!</l>
           </sp>
-          <sp who="#envidia #musicos #afecto-3 #lascivia #afecto-5 #afecto-4 #ira #gula #genero-humano #demonio #apetito #soberbia #afecto-1 #avaricia #afecto-2">
+          <sp
+            who="#envidia #musicos #afecto-3 #lascivia #afecto-5 #afecto-4 #ira #gula #genero-humano #demonio #apetito #soberbia #afecto-1 #avaricia #afecto-2">
             <speaker>TODOS</speaker>
             <l n="370">¿No habrá quién de aquesta lid</l>
             <l>que rendidos nos confiesa</l>
@@ -1049,7 +1059,8 @@
             <l>de humanos afectos entras.</l>
           </sp>
           <stage>Cantan unos y representan otros</stage>
-          <sp who="#envidia #musicos #afecto-3 #lascivia #afecto-5 #afecto-4 #ira #gula #genero-humano #apetito #soberbia #afecto-1 #avaricia #afecto-2 #demonio #peregrino">
+          <sp
+            who="#envidia #musicos #afecto-3 #lascivia #afecto-5 #afecto-4 #ira #gula #genero-humano #apetito #soberbia #afecto-1 #avaricia #afecto-2 #demonio #peregrino">
             <speaker>TODOS Y MÚSICA</speaker>
             <l n="450">Atiende, mortal, mortal considera</l>
             <l>que en las lides del Demonio</l>
@@ -1114,7 +1125,8 @@
             <speaker>DEMONIO</speaker>
             <l part="F">¡Qué pena!</l>
           </sp>
-          <sp who="#envidia #musicos #afecto-3 #lascivia #afecto-5 #afecto-4 #ira #gula #genero-humano #apetito #soberbia #afecto-1 #avaricia #afecto-2 #peregrino #demonio">
+          <sp
+            who="#envidia #musicos #afecto-3 #lascivia #afecto-5 #afecto-4 #ira #gula #genero-humano #apetito #soberbia #afecto-1 #avaricia #afecto-2 #peregrino #demonio">
             <speaker>TODOS</speaker>
             <l>¿Y dónde hacerle pretendes?</l>
           </sp>
@@ -1146,7 +1158,8 @@
             <l>con gustos, con dichas,</l>
             <l>que España desea:</l>
           </sp>
-          <sp who="#envidia #musicos #afecto-3 #lascivia #afecto-5 #afecto-4 #ira #gula #genero-humano #apetito #soberbia #afecto-1 #avaricia #afecto-2 #demonio #peregrino">
+          <sp
+            who="#envidia #musicos #afecto-3 #lascivia #afecto-5 #afecto-4 #ira #gula #genero-humano #apetito #soberbia #afecto-1 #avaricia #afecto-2 #demonio #peregrino">
             <speaker>TODOS Y MÚSICA</speaker>
             <l>Que viva, que reine,</l>
             <l n="510">que goce y que vea</l>

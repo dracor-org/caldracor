@@ -38,13 +38,20 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/loa-para-el-auto-sacramental-intitulado-el-gran-teatro-del-mundo--0/html/</idno>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de Autos sacramentales, alegoricos, y historiales de Don
-              Pedro Calderón de la Barca, Obras posthumas, que saca a luz don Pedro de Pando y Mier,
-              Parte Primera, Madrid, En la Imprenta de Manuel Ruiz de Murga, 1717. Localización:
-              Base de Datos Teatro Español del Siglo de Oro (TESO). Autorizada por Evangelina
-              Rodríguez Cuadros.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de</note>
+          <title level="m">Autos sacramentales, alegoricos, y historiales de Don Pedro Calderón de la Barca</title>,
+          <title level="m">Obras posthumas</title>,
+          <note>que saca a luz don Pedro de Pando y Mier</note>,
+          <biblScope unit="part">Parte Primera</biblScope>,
+          <pubPlace>Madrid</pubPlace>,
+          <publisher>En la Imprenta de Manuel Ruiz de Murga</publisher>,
+          <date>1717</date>.
+          <note>Localización: Base de Datos Teatro Español del Siglo de Oro (TESO). Autorizada por Evangelina Rodríguez Cuadros.</note>
         </bibl>
       </sourceDesc>
     </fileDesc>

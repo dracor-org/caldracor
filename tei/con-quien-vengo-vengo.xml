@@ -38,15 +38,21 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="sourceText">
+        <bibl type="digitalSource">
           <name>Association for Hispanic Classical Theater</name>
           <idno type="URL">http://www.comedias.org/calderon/cqveve.html</idno>
-          <bibl type="originalSource">
-            <title>Texto basado en la edición de Juan Jorge Keil en su libro, COMEDIAS DE D. PEDRO
-              CALDERON (Leipzig, 1830), Tomo 4. Fue editado en forma electrónica por David Hildner
-              en 1998 y luego pasado al HTML para ser presentado en esta colección por Vern
-              Williamsen en 2000.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Texto basado en la edición de</note>
+          <editor>Juan Jorge Keil</editor>
+          <note>en</note>
+          <title level="m">Comedias de D. Pedro Calderón</title>
+          (<pubPlace>Leipzig</pubPlace>, <date>1830</date>),
+          <biblScope unit="volume">4</biblScope>.
+          <note>Fue editado en forma electrónica por David Hildner en 1998 y luego pasado al HTML para ser presentado en esta colección por Vern Williamsen en 2000.</note>
         </bibl>
       </sourceDesc>
     </fileDesc>

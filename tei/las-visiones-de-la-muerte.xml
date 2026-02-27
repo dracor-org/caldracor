@@ -37,11 +37,19 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/las-visiones-de-la-muerte-mojiganga--0/html/</idno>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de Entremeses, jácaras y mojigangas, Madrid, Castalia,
-              1983, pp. 371-384. Edición, introducción y notas de Evangelina Rodríguez y Antonio
-              Tordera</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de</note>
+          <title level="m">Entremeses, jácaras y mojigangas</title>,
+          <pubPlace>Madrid</pubPlace>,
+          <publisher>Castalia</publisher>,
+          <date>1983</date>,
+          <biblScope unit="page" from="371" to="384">371-384</biblScope>.
+          <note>Edición, introducción y notas de</note>
+          <editor>Evangelina Rodríguez</editor> y <editor>Antonio Tordera</editor>
         </bibl>
       </sourceDesc>
     </fileDesc>

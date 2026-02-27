@@ -37,10 +37,14 @@
         <bibl type="digitalSource">
           <name/>
           <idno type="URL"/>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de Ignacio Arellano, Pamplona– Kassel,
-              Universidad de Navarra–Reichenberger, 2013. ISBN: 978-3-944244-16-7.</title>
-          </bibl>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la edición de</note>
+          <editor>Ignacio Arellano</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>,
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>2013</date>.
+          <idno type="ISBN">978-3-944244-16-7</idno>.
         </bibl>
       </sourceDesc>
     </fileDesc>

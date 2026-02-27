@@ -37,10 +37,17 @@
         <bibl type="digitalSource">
           <name>DADUN Depositorio académico digital Universidad de Navarra</name>
           <idno type="URL">https://dadun.unav.edu/handle/10171/18214</idno>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de V. Roncero, Pamplona–Kassel,
-              Universidad de Navarra–Reichenberger, 2007. ISBN: 978-3-937734-47-7.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la edición de</note>
+          <editor>V. Roncero</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>:
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>2007</date>.
+          <idno type="ISBN">978-3-937734-47-7</idno>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -1259,7 +1266,8 @@
             <l>contigo, ninguno ha hecho</l>
             <l part="I">caso de mí.</l>
           </sp>
-          <sp who="#rey-1 #musicos #rey-2 #seglar #guerra #eclesiastico #acompanamiento #discordia #ocio">
+          <sp
+            who="#rey-1 #musicos #rey-2 #seglar #guerra #eclesiastico #acompanamiento #discordia #ocio">
             <speaker>TODOS</speaker>
             <l part="F">La Paz muera.</l>
           </sp>
@@ -1290,7 +1298,8 @@
             <l>arrojan de sí a la Paz.</l>
           </sp>
           <stage>Cay, como cayendo la Paz a los pies de la Discordia</stage>
-          <sp who="#rey-1 #musicos #rey-2 #seglar #guerra #eclesiastico #acompanamiento #discordia #ocio">
+          <sp
+            who="#rey-1 #musicos #rey-2 #seglar #guerra #eclesiastico #acompanamiento #discordia #ocio">
             <speaker>TODOS</speaker>
             <l part="I">Muera, pues.</l>
           </sp>
@@ -2619,7 +2628,8 @@
             <speaker>MÚSICA</speaker>
             <l>que el mundo no puede dar.</l>
           </sp>
-          <sp who="#musicos #seglar #eclesiastico #acompanamiento #rey-2 #esposa #justicia #rey-1 #guerra #discordia #ocio #coro-1 #coro-2 #paz">
+          <sp
+            who="#musicos #seglar #eclesiastico #acompanamiento #rey-2 #esposa #justicia #rey-1 #guerra #discordia #ocio #coro-1 #coro-2 #paz">
             <speaker>MÚSICA Y TODOS</speaker>
             <l>Pase la palabra y viva la Paz.</l>
           </sp>
@@ -2637,7 +2647,8 @@
             <l>suena mi deprecación,</l>
             <l>que ambos digan a la par</l>
           </sp>
-          <sp who="#musicos #seglar #eclesiastico #acompanamiento #rey-2 #esposa #justicia #rey-1 #guerra #discordia #coro-1 #coro-2 #ocio #paz">
+          <sp
+            who="#musicos #seglar #eclesiastico #acompanamiento #rey-2 #esposa #justicia #rey-1 #guerra #discordia #coro-1 #coro-2 #ocio #paz">
             <speaker>TODOS</speaker>
             <l>Pase la palabra y viva la Paz.</l>
           </sp>
@@ -2691,7 +2702,8 @@
             <l>pues entrambos sitios</l>
             <l>a un tiempo se oirá:</l>
           </sp>
-          <sp who="#musicos #seglar #eclesiastico #acompanamiento #rey-2 #esposa #justicia #rey-1 #guerra #discordia #coro-1 #coro-2 #ocio #paz">
+          <sp
+            who="#musicos #seglar #eclesiastico #acompanamiento #rey-2 #esposa #justicia #rey-1 #guerra #discordia #coro-1 #coro-2 #ocio #paz">
             <speaker>TODOS</speaker>
             <l>Pase la palabra y viva la Paz.</l>
           </sp>
@@ -2739,7 +2751,8 @@
             <speaker>LOS DOS</speaker>
             <l part="I">el campo alborota?</l>
           </sp>
-          <sp who="#musicos #seglar #eclesiastico #acompanamiento #rey-2 #esposa #justicia #rey-1 #coro-1 #coro-2 #paz #discordia #ocio #guerra">
+          <sp
+            who="#musicos #seglar #eclesiastico #acompanamiento #rey-2 #esposa #justicia #rey-1 #coro-1 #coro-2 #paz #discordia #ocio #guerra">
             <speaker>TODOS</speaker>
             <l part="F">Quien</l>
             <stage>Dentro</stage>
@@ -2765,7 +2778,8 @@
             <l n="1305">Ninguno es el que la pide,</l>
             <l>y ambos son los que la dan.</l>
           </sp>
-          <sp who="#musicos #seglar #eclesiastico #acompanamiento #rey-2 #esposa #justicia #rey-1 #coro-1 #coro-2 #paz #ocio #guerra #discordia">
+          <sp
+            who="#musicos #seglar #eclesiastico #acompanamiento #rey-2 #esposa #justicia #rey-1 #coro-1 #coro-2 #paz #ocio #guerra #discordia">
             <speaker>TODOS</speaker>
             <l>Pase la palabra y viva la Paz.</l>
           </sp>
@@ -2801,7 +2815,8 @@
             <l>ambos a la voz atentos</l>
             <l>que repite sin cesar.</l>
           </sp>
-          <sp who="#musicos #seglar #eclesiastico #acompanamiento #rey-2 #esposa #justicia #rey-1 #coro-1 #coro-2 #paz #ocio #guerra #discordia">
+          <sp
+            who="#musicos #seglar #eclesiastico #acompanamiento #rey-2 #esposa #justicia #rey-1 #coro-1 #coro-2 #paz #ocio #guerra #discordia">
             <speaker>TODOS</speaker>
             <l n="1330">Pase la palabra y viva la Paz.</l>
           </sp>
@@ -2954,7 +2969,8 @@
             <speaker>SEGLAR</speaker>
             <l>…y vuelva airoso a escuchar.</l>
           </sp>
-          <sp who="#musicos #acompanamiento #esposa #justicia #coro-1 #coro-2 #paz #ocio #guerra #discordia #rey-1 #rey-2 #eclesiastico #seglar">
+          <sp
+            who="#musicos #acompanamiento #esposa #justicia #coro-1 #coro-2 #paz #ocio #guerra #discordia #rey-1 #rey-2 #eclesiastico #seglar">
             <speaker>TODOS</speaker>
             <l n="1395">Pase la palabra y viva la Paz.</l>
           </sp>
@@ -3467,7 +3483,8 @@
             <l n="1620" part="F">Y en altas voces</l>
             <l part="I">el mío responda.</l>
           </sp>
-          <sp who="#acompanamiento #esposa #justicia #ocio #rey-1 #rey-2 #coro-1 #coro-2 #musicos #paz #eclesiastico #seglar">
+          <sp
+            who="#acompanamiento #esposa #justicia #ocio #rey-1 #rey-2 #coro-1 #coro-2 #musicos #paz #eclesiastico #seglar">
             <speaker>TODOS Y MÚSICA</speaker>
             <l part="F">¡Oh edad</l>
             <l>felice la que a ver llega,</l>
@@ -3873,7 +3890,8 @@
             <speaker>CORO 2.º</speaker>
             <l>Vengáis con bien.</l>
           </sp>
-          <sp who="#acompanamiento #esposa #justicia #rey-1 #rey-2 #paz #eclesiastico #seglar #fama #musicos #ocio #guerra #discordia #coro-1 #coro-2">
+          <sp
+            who="#acompanamiento #esposa #justicia #rey-1 #rey-2 #paz #eclesiastico #seglar #fama #musicos #ocio #guerra #discordia #coro-1 #coro-2">
             <speaker>TODOS</speaker>
             <l n="1810">Y repita el eco una y otra vez,</l>
             <l>que hoy es de la Fama el pregón parabién.</l>
@@ -4033,7 +4051,8 @@
             <l n="1860" part="F">El eco</l>
             <l>repita una y otra vez…</l>
           </sp>
-          <sp who="#acompanamiento #justicia #ocio #paz #coro-1 #coro-2 #ambos #discordia #guerra #fama #eclesiastico #seglar #musicos #gracia #rey-1 #rey-2 #esposa">
+          <sp
+            who="#acompanamiento #justicia #ocio #paz #coro-1 #coro-2 #ambos #discordia #guerra #fama #eclesiastico #seglar #musicos #gracia #rey-1 #rey-2 #esposa">
             <speaker>TODOS</speaker>
             <l>que hoy es de la Fama el pregón parabién.</l>
           </sp>
@@ -4228,7 +4247,8 @@
             <l>a los dos se ve,</l>
             <l part="I">viva la Paz.</l>
           </sp>
-          <sp who="#acompanamiento #justicia #coro-1 #coro-2 #ambos #fama #musicos #seglar #eclesiastico #rey-1 #esposa #gracia #rey-2 #ocio #discordia #guerra #paz">
+          <sp
+            who="#acompanamiento #justicia #coro-1 #coro-2 #ambos #fama #musicos #seglar #eclesiastico #rey-1 #esposa #gracia #rey-2 #ocio #discordia #guerra #paz">
             <speaker>TODOS Y MÚSICA</speaker>
             <l part="F">Viva.</l>
           </sp>
@@ -4238,7 +4258,8 @@
             <l>azucena y lirio</l>
             <l n="1940">corone un laurel.</l>
           </sp>
-          <sp who="#acompanamiento #justicia #coro-1 #coro-2 #ambos #musicos #seglar #eclesiastico #rey-1 #esposa #gracia #rey-2 #ocio #discordia #guerra #paz #fama">
+          <sp
+            who="#acompanamiento #justicia #coro-1 #coro-2 #ambos #musicos #seglar #eclesiastico #rey-1 #esposa #gracia #rey-2 #ocio #discordia #guerra #paz #fama">
             <speaker>TODOS</speaker>
             <l>Viva la Paz, viva.</l>
             <l>Y en eterna fe</l>
@@ -4249,7 +4270,8 @@
             <speaker>OCIO</speaker>
             <l n="1945">Y repitan todos una y otra vez…</l>
           </sp>
-          <sp who="#acompanamiento #justicia #coro-1 #coro-2 #ambos #musicos #seglar #eclesiastico #rey-1 #esposa #gracia #rey-2 #discordia #guerra #paz #fama #ocio">
+          <sp
+            who="#acompanamiento #justicia #coro-1 #coro-2 #ambos #musicos #seglar #eclesiastico #rey-1 #esposa #gracia #rey-2 #discordia #guerra #paz #fama #ocio">
             <speaker>TODOS</speaker>
             <l>perdonando faltas, puestos a esos pies,</l>
             <l>que hoy es de la Fama el pregón parabién.</l>

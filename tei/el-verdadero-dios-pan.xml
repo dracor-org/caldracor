@@ -37,10 +37,14 @@
         <bibl type="digitalSource">
           <name/>
           <idno type="URL"/>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de F. Antonucci, Pamplona–Kassel,
-              Universidad de Navarra– Reichenberger, 2005. ISBN: 3-937734-01-5.</title>
-          </bibl>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la edición de</note>
+          <editor>F. Antonucci</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>,
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>2005</date>.
+          <idno type="ISBN">3-937734-01-5</idno>.
         </bibl>
       </sourceDesc>
     </fileDesc>

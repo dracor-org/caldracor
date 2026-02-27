@@ -37,12 +37,21 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/la-inmunidad-del-sagrado--0/html/</idno>
-          <bibl type="originalSource">
-            <title>Texto crítico preparado por José María Ruano de la Haza, Delia Gavela y Rafael
-              Martín procedente de la edición Calderón de la Barca, Pedro, La inmunidad del sagrado,
-              ed. José María Ruano de la Haza, Delia Gavela y Rafael Martín, Pamplona–Kassel,
-              Universidad de Navarra–Reichenberger, 1997. ISBN: 3-931887-09-x.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Texto crítico preparado por José María Ruano de la Haza, Delia Gavela y Rafael Martín procedente de la edición</note>
+          <author>Calderón de la Barca, Pedro</author>,
+          <title level="a">La inmunidad del sagrado</title>,
+          <editor>José María Ruano de la Haza</editor>,
+          <editor>Delia Gavela</editor> y
+          <editor>Rafael Martín</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>,
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>1997</date>.
+          <idno type="ISBN">3-931887-09-x</idno>.
         </bibl>
       </sourceDesc>
     </fileDesc>

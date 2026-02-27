@@ -39,9 +39,14 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="originalSource">
-          <title>Pedro Calderón de la Barca, Apolo y Climene. En: Comedias, Vol. 4. Dirección de
-            Luis Iglesias Feijoo y Sebastian Neumeister. Madrid : Fundación José Antonio de Castro,
-            2010</title>
+          <author>Pedro Calderón de la Barca</author>,
+          <title level="a">Apolo y Climene</title>. En:
+          <title level="s">Comedias</title>,
+          <biblScope unit="volume">4</biblScope>.
+          Dirección de <editor>Luis Iglesias Feijoo</editor> y <editor>Sebastian Neumeister</editor>.
+          <pubPlace>Madrid</pubPlace>:
+          <publisher>Fundación José Antonio de Castro</publisher>,
+          <date>2010</date>.
           <idno type="ISBN">978-84-96452-89-3</idno>
         </bibl>
       </sourceDesc>

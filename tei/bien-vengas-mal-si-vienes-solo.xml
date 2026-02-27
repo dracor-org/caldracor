@@ -35,13 +35,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="digitalSource">
-          <name/>
-          <idno type="URL"/>
-          <bibl type="originalSource">
-            <title> Edición digital a partir de la edición de Fernando Rodríguez-Gallego, (sin
-              publicar). </title>
-          </bibl>
+        <bibl type="originalSource">
+          Edición digital a partir de la edición de
+          <author>Pedro Calderón de la Barca</author>,
+          <title level="a">Bien vengas mal, si vienes solo</title>,
+          ed. <editor>Fernando Rodríguez-Gallego</editor>.
+          <note>Sin publicar.</note>
         </bibl>
       </sourceDesc>
     </fileDesc>

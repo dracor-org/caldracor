@@ -39,9 +39,14 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="originalSource">
-          <title>Pedro Calderón de la Barca, Los hijos de la fortuna, Teágenes y Cariclea. En:
-            Comedias, Vol. 3. Dirección de Luis Iglesias Feijoo y Don William Cruickshank. Madrid :
-            Fundación José Antonio de Castro, 2007</title>
+          <author>Pedro Calderón de la Barca</author>,
+          <title level="a">Los hijos de la fortuna, Teágenes y Cariclea</title>. En:
+          <title level="s">Comedias</title>,
+          <biblScope unit="volume">3</biblScope>.
+          Dirección de <editor>Luis Iglesias Feijoo</editor> y <editor>Don William Cruickshank</editor>.
+          <pubPlace>Madrid</pubPlace>:
+          <publisher>Fundación José Antonio de Castro</publisher>,
+          <date>2007</date>.
           <idno type="ISBN">978-84-96452-32-9</idno>
         </bibl>
       </sourceDesc>

@@ -37,11 +37,16 @@
         <bibl type="digitalSource">
           <name/>
           <idno type="URL"/>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de Ignacio Arellano, Ángel L. Cilveti,
-              Blanca Oteiza y María Carmen Pinillos, Pamplona–Kassel, Universidad de
-              Navarra–Reichenberger, 1996. ISBN: 3-930700-87-5.</title>
-          </bibl>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la edición de</note>
+          <editor>Ignacio Arellano</editor>,
+          <editor>Ángel L. Cilveti</editor>,
+          <editor>Blanca Oteiza</editor> y <editor>María Carmen Pinillos</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>,
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>1996</date>.
+          <idno type="ISBN">3-930700-87-5</idno>.
         </bibl>
       </sourceDesc>
     </fileDesc>

@@ -37,11 +37,14 @@
         <bibl type="digitalSource">
           <name/>
           <idno type="URL"/>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de L. Galván y R. Arana Caballero,
-              Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2008. ISBN:
-              978-3-937734-48-4.</title>
-          </bibl>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la edición de</note>
+          <editor>L. Galván</editor> y <editor>R. Arana Caballero</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>,
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>2008</date>.
+          <idno type="ISBN">978-3-937734-48-4</idno>.
         </bibl>
       </sourceDesc>
     </fileDesc>

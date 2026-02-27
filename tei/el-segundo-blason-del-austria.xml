@@ -37,11 +37,18 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra/el-segundo-blason-del-austria--0/</idno>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de Ignacio Arellano y Ma Carmen Pinillos,
-              Pamplona–Kassel, Universidad de Navarra–Reichenberger, 1997. ISBN: 3-930700-
-              90-5.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la edición de</note>
+          <editor>Ignacio Arellano</editor> y
+          <editor>Ma Carmen Pinillos</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>,
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>1997</date>.
+          <idno type="ISBN">3-930700-90-5</idno>.
         </bibl>
       </sourceDesc>
     </fileDesc>

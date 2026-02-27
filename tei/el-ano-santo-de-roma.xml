@@ -37,12 +37,19 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/el-ano-santo-de-roma--0/html/</idno>
-          <bibl type="originalSource">
-            <title>Texto crítico preparado por Ignacio Arellano y Ángel L. Cilveti procedente de la
-              edición Calderón de la Barca, Pedro, Lo que va del hombre a Dios, ed. I. Arellano y Á.
-              L. Cilveti, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 1995. ISBN:
-              3-930700-06-9.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Calderón de la Barca, Pedro</author>,
+          <title level="a">Lo que va del hombre a Dios</title>,
+          <editor>I. Arellano</editor> y <editor>Á. L. Cilveti</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>:
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>1995</date>.
+          <idno type="ISBN">3-930700-06-9</idno>
+          <note>Texto crítico preparado por Ignacio Arellano y Ángel L. Cilveti procedente de la edición indicada.</note>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -191,7 +198,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/cal000007" passive="http://www.wikidata.org/entity/Q68898905"/>
+      <relation name="wikidata" active="https://dracor.org/entity/cal000007"
+        passive="http://www.wikidata.org/entity/Q68898905"/>
     </listRelation>
   </standOff>
   <text xml:lang="es">
@@ -1994,7 +2002,8 @@
             <l>de limosna para ir</l>
             <l n="850">desde aquí al romano imperio.</l>
           </sp>
-          <sp who="#amor #temor #culto-divino #hombre #perdón #obediencia #castidad #seguridad #verdad #honor">
+          <sp
+            who="#amor #temor #culto-divino #hombre #perdón #obediencia #castidad #seguridad #verdad #honor">
             <speaker>TODOS</speaker>
             <l part="I">Empieza, pues.</l>
           </sp>
@@ -2007,7 +2016,8 @@
           </sp>
           <stage>Cantan en tono de peregrinos que piden limosna.</stage>
           <stage>Cantan.</stage>
-          <sp who="#amor #temor #culto-divino #hombre #perdón #obediencia #albedrío #castidad #seguridad #verdad #desprecio #honor">
+          <sp
+            who="#amor #temor #culto-divino #hombre #perdón #obediencia #albedrío #castidad #seguridad #verdad #desprecio #honor">
             <speaker>[TODOS]</speaker>
             <l n="855">Al Unigénito,</l>
             <l>al Padre mágximo</l>
@@ -3455,7 +3465,8 @@
             <l>¿Así os vais dando las manos</l>
             <l part="I">unos a otros?</l>
           </sp>
-          <sp who="#lascivia #castidad #obediencia #honor #verdad #desprecio #seguridad #perdón #culto-divino #amor #temor">
+          <sp
+            who="#lascivia #castidad #obediencia #honor #verdad #desprecio #seguridad #perdón #culto-divino #amor #temor">
             <speaker>TODOS</speaker>
             <l part="F">Es preciso</l>
             <l>que o todos contigo queden</l>
@@ -3527,7 +3538,8 @@
             <speaker>HOMBRE</speaker>
             <l part="I">Y en fin ¿os vais todos?</l>
           </sp>
-          <sp who="#lascivia #castidad #obediencia #honor #verdad #desprecio #seguridad #perdón #culto-divino #amor #temor #albedrío">
+          <sp
+            who="#lascivia #castidad #obediencia #honor #verdad #desprecio #seguridad #perdón #culto-divino #amor #temor #albedrío">
             <speaker>TODOS</speaker>
             <l part="F">Sí.</l>
           </sp>
@@ -3535,7 +3547,8 @@
             <speaker>HOMBRE</speaker>
             <l>¿Uno aun no queda conmigo?</l>
           </sp>
-          <sp who="#lascivia #castidad #obediencia #honor #verdad #desprecio #seguridad #perdón #culto-divino #amor #temor #albedrío">
+          <sp
+            who="#lascivia #castidad #obediencia #honor #verdad #desprecio #seguridad #perdón #culto-divino #amor #temor #albedrío">
             <speaker>TODOS</speaker>
             <l n="1485">No, que quien queda en pecado</l>
             <l>de ningún mérito es digno.</l>
@@ -4524,7 +4537,8 @@
             <l>cuando, albedrío de todos,</l>
             <l>con todos a decir vuelva:</l>
           </sp>
-          <sp who="#música #hombre #albedrío #amor #temor #castidad #honor #lascivia #desprecio #obediencia #seguridad #culto-divino #perdón #mundo #demonio #fee #verdad">
+          <sp
+            who="#música #hombre #albedrío #amor #temor #castidad #honor #lascivia #desprecio #obediencia #seguridad #culto-divino #perdón #mundo #demonio #fee #verdad">
             <speaker>MÚSICA y TODOS</speaker>
             <l>Llega, Hombre, llega a ganar</l>
             <l n="1905">el jubileo, y repara</l>

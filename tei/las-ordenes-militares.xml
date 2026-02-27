@@ -36,12 +36,18 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/las-ordenes-militares--0/html/</idno>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la de Pedro Pando y Mier, Autos Sacramentales,
-              alegóricos y historiales..., Madrid, Manuel Ruiz de Murga, 1717 y cotejada con la
-              edición de Nicolás González Ruiz, Piezas maestras del teatro teológico español, 4ª
-              ed., Madrid, Biblioteca de Autores Cristianos, 1997, t. I, pp. 479-516.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la de</note>
+          <author>Pedro Pando y Mier</author>,
+          <title level="m">Autos Sacramentales, alegóricos y historiales...</title>,
+          <pubPlace>Madrid</pubPlace>,
+          <publisher>Manuel Ruiz de Murga</publisher>,
+          <date>1717</date>.
+          <note>y cotejada con la edición de Nicolás González Ruiz, Piezas maestras del teatro teológico español, 4ª ed., Madrid, Biblioteca de Autores Cristianos, 1997, t. I, pp. 479-516.</note>
         </bibl>
       </sourceDesc>
     </fileDesc>

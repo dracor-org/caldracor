@@ -39,10 +39,15 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="originalSource">
-          <title>Pedro Calderón de la Barca, Un castigo en tres venganzas. Edición crítica de
-            Margaret Rich Greer y Francisco Sáez Raposo. Biblioteca Áurea Hispánica. Dirección de
-            Ignacio Arellano. Universidad de Navarra / Iberoamericana / Vervuert 2018 Biblioteca
-            Áurea Hispánica 122, Comedias completas de Calderón 20</title>
+          <author>Pedro Calderón de la Barca</author>,
+          <title level="a">Un castigo en tres venganzas</title>.
+          Edición crítica de <editor>Margaret Rich Greer</editor> y <editor>Francisco Sáez Raposo</editor>.
+          <title level="s">Biblioteca Áurea Hispánica</title>.
+          Dirección de <editor>Ignacio Arellano</editor>.
+          <publisher>Universidad de Navarra</publisher> / <publisher>Iberoamericana</publisher> / <publisher>Vervuert</publisher>,
+          <date>2018</date>.
+          <biblScope unit="volume">122</biblScope>,
+          <note>Comedias completas de Calderón 20</note>
           <idno type="URL">https://doi.org/10.31819/9783954879366</idno>
         </bibl>
       </sourceDesc>

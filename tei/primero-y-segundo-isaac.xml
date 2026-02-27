@@ -37,12 +37,19 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/primero-y-segundo-isaac--1/html/</idno>
-          <bibl type="originalSource">
-            <title>Texto crítico preparado por Á.L. Cilveti y R. Arias procedente de la edición
-              Calderón de la Barca, Pedro, Primero y segundo Isaac , ed. Á.L. Cilveti y R. Arias,
-              Pamplona–Kassel, Universidad de Navarra–Reichenberger, 1997. ISBN:
-              3-930700-68-9.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Texto crítico preparado por Á.L. Cilveti y R. Arias procedente de la edición</note>
+          <author>Calderón de la Barca, Pedro</author>,
+          <title level="a">Primero y segundo Isaac</title>,
+          <editor>Á.L. Cilveti</editor> y <editor>R. Arias</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>,
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>1997</date>.
+          <idno type="ISBN">3-930700-68-9</idno>.
         </bibl>
       </sourceDesc>
     </fileDesc>

@@ -31,14 +31,20 @@
         <idno type="quadramaX">El mayor encanto, amor</idno>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="sourceText">
+        <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/el-mayor-encanto-amor--6/html/</idno>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la Segunda parte de Comedias de Don Pedro Calderón de
-              la Barca, Madrid, Por María de Quiñónez, 1637. Localización: Base de Datos Teatro
-              Español del Siglo de Oro (TESO). Autorizada por Evangelina Rodríguez Cuadros.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la</note>
+          <title level="m">Segunda parte de Comedias de Don Pedro Calderón de la Barca</title>,
+          <pubPlace>Madrid</pubPlace>:
+          <publisher>Por María de Quiñónez</publisher>,
+          <date>1637</date>.
+          <note>Localización: Base de Datos Teatro Español del Siglo de Oro (TESO). Autorizada por Evangelina Rodríguez Cuadros.</note>
         </bibl>
       </sourceDesc>
     </fileDesc>

@@ -37,10 +37,17 @@
         <bibl type="digitalSource">
           <name>DADUN Depositorio académico digital Universidad de Navarra</name>
           <idno type="URL">https://dadun.unav.edu/handle/10171/18218</idno>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de E. Illescas, Pamplona–Kassel,
-              Universidad de Navarra–Reichenberger, 2008. ISBN: 978-3-937734-54-5.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la edición de</note>
+          <editor>E. Illescas</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>,
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>2008</date>.
+          <idno type="ISBN">978-3-937734-54-5</idno>.
         </bibl>
       </sourceDesc>
     </fileDesc>

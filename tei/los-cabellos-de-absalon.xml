@@ -34,10 +34,16 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/los-cabellos-de-absalon--0/html/</idno>
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de Evangelina Rodríguez Cuadros, Madrid,
-              Espasa-Calpe, 1989.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital a partir de la edición de</note>
+          <editor>Evangelina Rodríguez Cuadros</editor>,
+          <pubPlace>Madrid</pubPlace>,
+          <publisher>Espasa-Calpe</publisher>,
+          <date>1989</date>.
         </bibl>
       </sourceDesc>
     </fileDesc>

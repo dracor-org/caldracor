@@ -39,11 +39,16 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="originalSource">
-          <title>Pedro Calderón de la Barca, El astrólogo fingido. Edición crítica de Fernando
-            Rodríguez-Gallego. Biblioteca Áurea Hispánica. Dirección de Ignacio Arellano.
-            Universidad de Navarra / Iberoamericana / Vervuert 2011 Biblioteca Áurea Hispánica 73,
-            Comedias completas de Calderón 6</title>
-          <idno type="URL">https://doi.org/10.31819/9783865279835</idno>
+          <author>Pedro Calderón de la Barca</author>, <title level="a">El astrólogo
+          fingido</title>. Edición crítica de <editor>Fernando Rodríguez-Gallego</editor>. <title
+            level="s">Biblioteca Áurea Hispánica</title>. Dirección de <editor>Ignacio
+            Arellano</editor>. <publisher>Universidad de Navarra / Iberoamericana /
+            Vervuert</publisher>, <date>2011</date>. <title level="s">Biblioteca Áurea
+            Hispánica</title>
+          <biblScope unit="volume">73</biblScope>, <title level="s">Comedias completas de
+            Calderón</title>
+          <biblScope unit="volume">6</biblScope>. <idno type="URL"
+            >https://doi.org/10.31819/9783865279835</idno>
         </bibl>
       </sourceDesc>
     </fileDesc>

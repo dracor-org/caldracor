@@ -39,11 +39,16 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="originalSource">
-          <title>Pedro Calderón de la Barca, El Mayor Monstruo Los Celos. Edición crítica de María
-            J. Caamaño Rojo. Biblioteca Áurea Hispánica. Dirección de Ignacio Arellano. Universidad
-            de Navarra / Iberoamericana / Vervuert 2017 Biblioteca Áurea Hispánica 114, Comedias
-            completas de Calderón 16</title>
-          <idno type="URL">https://doi.org/10.31819/9783954877645</idno>
+          <author>Pedro Calderón de la Barca</author>, <title level="a">El Mayor Monstruo Los
+            Celos</title>. Edición crítica de <editor>María J. Caamaño Rojo</editor>. <title
+            level="s">Biblioteca Áurea Hispánica</title>. Dirección de <editor>Ignacio
+            Arellano</editor>. <publisher>Universidad de Navarra / Iberoamericana /
+            Vervuert</publisher>, <date>2017</date>. <title level="s">Biblioteca Áurea
+            Hispánica</title>
+          <biblScope unit="volume">114</biblScope>, <title level="s">Comedias completas de
+            Calderón</title>
+          <biblScope unit="volume">16</biblScope>. <idno type="URL"
+            >https://doi.org/10.31819/9783954877645</idno>
         </bibl>
       </sourceDesc>
     </fileDesc>

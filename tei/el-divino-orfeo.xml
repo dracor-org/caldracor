@@ -37,11 +37,19 @@
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra-visor/el-divino-orfeo-version-de-1663--0/html/</idno>
-          <bibl type="originalSource">
-            <title>Texto crítico preparado por J. Enrique Duarte procedente de la edición Calderón
-              de la Barca, Pedro, El divino Orfeo, ed. J. Enrique Duarte, Pamplona–Kassel,
-              Universidad de Navarra–Reichenberger, 1999. ISBN: 3-931887-51-0.</title>
-          </bibl>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Calderón de la Barca, Pedro</author>,
+          <title level="a">El divino Orfeo</title>,
+          <editor>J. Enrique Duarte</editor>,
+          <pubPlace>Pamplona</pubPlace>–<pubPlace>Kassel</pubPlace>:
+          <publisher>Universidad de Navarra</publisher>–<publisher>Reichenberger</publisher>,
+          <date>1999</date>.
+          <idno type="ISBN">3-931887-51-0</idno>
+          <note>Texto crítico preparado por J. Enrique Duarte procedente de la edición indicada.</note>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -194,7 +202,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/cal000012" passive="http://www.wikidata.org/entity/Q68902927"/>
+      <relation name="wikidata" active="https://dracor.org/entity/cal000012"
+        passive="http://www.wikidata.org/entity/Q68902927"/>
     </listRelation>
   </standOff>
   <text xml:lang="es">
@@ -1208,7 +1217,8 @@
             <l>es el principio y fin</l>
             <l n="545">de tantas bellas obras.</l>
           </sp>
-          <sp who="#placer #envidia #leteo #orfeo #naturaleza-humana #príncipe-de-las-tinieblas #día-1 #día-2 #día-3 #día-4 #día-5 #día-6 #día-7">
+          <sp
+            who="#placer #envidia #leteo #orfeo #naturaleza-humana #príncipe-de-las-tinieblas #día-1 #día-2 #día-3 #día-4 #día-5 #día-6 #día-7">
             <speaker>TODOS</speaker>
             <l>Confesemos su gloria,</l>
             <l>pues es en eterno su misericordia.</l>
@@ -2934,7 +2944,8 @@
             <l>Diciendo al pedir perdón,</l>
             <l>al compás de sus compases...</l>
           </sp>
-          <sp who="#príncipe-de-las-tinieblas #envidia #coro-1 #coro-2 #leteo #orfeo #placer #música #naturaleza-humana #día-1 #día-2 #día-3 #día-4 #día-5 #día-6 #día-7">
+          <sp
+            who="#príncipe-de-las-tinieblas #envidia #coro-1 #coro-2 #leteo #orfeo #placer #música #naturaleza-humana #día-1 #día-2 #día-3 #día-4 #día-5 #día-6 #día-7">
             <speaker>TODOS y MÚSICA</speaker>
             <l>A la nave de la vida</l>
             <l n="1380">la Naturaleza pase,</l>

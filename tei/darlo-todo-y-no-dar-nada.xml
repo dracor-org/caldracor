@@ -38,11 +38,14 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="sourceText">
-          <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de Ignacio Arellano, Séptima parte de
-              comedias, VII, Madrid, Biblioteca Castro, en prensa.</title>
-          </bibl>
+        <bibl type="originalSource">
+          <note>Edición digital basada en la de</note>
+          <author>Pedro Calderón de la Barca</author>,
+          <title level="a">Darlo todo y no dar nada</title>,
+          <pubPlace>Madrid</pubPlace>:
+          <publisher>Espasa-Calpe</publisher>,
+          <date>1966</date>,
+          <biblScope unit="page" from="187" to="300">187–300</biblScope>.
         </bibl>
       </sourceDesc>
     </fileDesc>
