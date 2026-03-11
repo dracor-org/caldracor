@@ -1,0 +1,66 @@
+# CITATION.cff for CalDraCor (Calderón Drama Corpus)
+
+cff-version: 1.2.0
+title: >-
+  CalDraCor (Calderón Drama Corpus): TEI-encoded corpus of
+  205 plays by Pedro Calderón de la Barca
+message: "If you use this corpus, please cite it as below."
+type: dataset
+
+authors:
+  - given-names: Hanno
+    family-names: Ehrlicher
+    affiliation: University of Tübingen
+    orcid: "https://orcid.org/0000-0002-4185-1310"
+  - given-names: Simon
+    family-names: Kroll
+    affiliation: University of Vienna
+    orcid: "https://orcid.org/0000-0002-0428-8647"
+  - given-names: Jörg
+    family-names: Lehmann
+    affiliation: Staatsbibliothek zu Berlin
+    orcid: "https://orcid.org/0000-0001-8509-3690"
+  - given-names: Frank
+    family-names: Fischer
+    email: fr.fischer@fu-berlin.de
+    affiliation: Freie Universität Berlin
+    orcid: "https://orcid.org/0000-0003-2419-6629"
+  - given-names: Antonio
+    family-names: Rojas Castro
+    affiliation: University of Tübingen
+    orcid: "https://orcid.org/0000-0002-8916-4997"
+  - given-names: Jan
+    family-names: Jokisch
+    affiliation: Max Planck Institute for Empirical Aesthetics
+    orcid: "https://orcid.org/0000-0001-7039-6737"
+
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.15039503"
+  - type: url
+    value: "https://github.com/dracor-org/caldracor"
+
+url: "https://dracor.org/cal"
+
+abstract: >-
+  CalDraCor is a TEI-encoded corpus of 205 plays by Pedro Calderón de la Barca,
+  prepared for computational analysis (e.g., network and linguistic analyses),
+  including scene segmentation and enriched character metadata. The corpus is
+  published as part of the DraCor ecosystem and can be explored via the DraCor
+  frontend.
+
+keywords:
+  - Pedro Calderón de la Barca
+  - Spanish Golden Age drama
+  - Comedias
+  - Autos sacramentales
+  - Text Encoding Initiative
+  - TEI
+  - DraCor
+  - Drama corpora
+  - Network analysis
+  - Digital humanities
+
+license: CC0-1.0
+version: "v2.0.0"
+date-released: "2025-03-17"

@@ -118,9 +118,6 @@
           <person xml:id="inés" sex="FEMALE">
             <persName>Inés</persName>
             <trait source="castlist">
-              <desc>criado</desc>
-            </trait>
-            <trait source="castlist">
               <desc>criada</desc>
             </trait>
             <trait type="role">
